@@ -1,0 +1,744 @@
+{
+    "courseProgress": {
+        "courseGrade": {},
+        "referralInfo": {},
+        "_id": "687655674a23a07432a822cd",
+        "worker": "666551489082b5376455194b",
+        "course": {
+            "_id": "683f3e36d86797c1cbcef8f3",
+            "name": "Empty-Shell-Course-05",
+            "title": "Antechamber Delivery - Attempter Intro",
+            "description": "This course teaches you to train an AI by guiding it through complex conversational tasks. You will learn to craft detailed scenarios, challenge the model by acting as a \"lazy user,\" and provide precise corrections and critiques to improve its reasoning and tool use.",
+            "archived": false,
+            "disabled": false,
+            "projectIds": [],
+            "courseDuration": 31,
+            "courseType": "native",
+            "sections": [
+                {
+                    "id": "eda3fb19-6087-47fc-a304-f3b744e1a2f1",
+                    "estimatedTime": 0,
+                    "recommendedEstimatedTime": 1,
+                    "title": "Introduction",
+                    "description": "",
+                    "courseSectionItems": [
+                        {
+                            "id": "5b8c473b-5b93-47fb-b9d8-074d5bff0124",
+                            "weight": 0,
+                            "type": "rich_text",
+                            "contents": {
+                                "singleSelect": true,
+                                "body": "<p><strong class=\"ql-size-large\" style=\"color: rgb(0, 0, 0);\">Welcome to the Antechamber Delivery!</strong></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Your mission is to train an advanced AI by guiding it through multi-step tasks. Think of yourself as a collaborator, not just a tester. You will teach the model how to behave and respond in various situations.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Your main goals are to ensure the AI:</span></p><p><br></p><ul><li>Adheres to your Complex System Prompt</li><li>Responds to your Lazy User Prompt correctly</li><li><span style=\"color: rgb(0, 0, 0);\">Chooses the correct tools to solve problems.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Uses the tools correctly.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Receives feedback/revisions re: wrong tool call / unpreferred responses.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Responds naturally, like a real assistant</span></li></ul>"
+                            },
+                            "_id": "6866d49b0729b6193aa37a6f"
+                        }
+                    ],
+                    "_id": "6866d49b0729b6193aa37a6e"
+                },
+                {
+                    "id": "e183e55e-ed53-4803-9543-eab750300cff",
+                    "estimatedTime": 0,
+                    "recommendedEstimatedTime": 1,
+                    "title": "Useful Links",
+                    "description": "",
+                    "courseSectionItems": [
+                        {
+                            "id": "0d051d39-5320-4ffe-97b7-5271fd9346d5",
+                            "weight": 0,
+                            "type": "rich_text",
+                            "contents": {
+                                "singleSelect": true,
+                                "body": "<p>Here are some useful resources for this project:</p><p><br></p><ul><li><a href=\"https://app.outlier.ai/en/expert/instruction/683e729ecaf6d16374e6fc5b\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 102, 204);\"><strong>Project Instructions</strong></a><strong style=\"color: rgb(0, 102, 204);\"> </strong>– Read them after going through the course!</li></ul>"
+                            },
+                            "_id": "6866d49b0729b6193aa37a71"
+                        }
+                    ],
+                    "_id": "6866d49b0729b6193aa37a70"
+                },
+                {
+                    "id": "43f90076-a1b4-47c2-b2bb-642a02ec5362",
+                    "estimatedTime": 0,
+                    "recommendedEstimatedTime": 2,
+                    "title": "Crafting the System Prompt",
+                    "description": "",
+                    "courseSectionItems": [
+                        {
+                            "id": "edb58e33-3574-45ba-bcf9-eecf04d63db4",
+                            "weight": 0,
+                            "type": "rich_text",
+                            "contents": {
+                                "singleSelect": true,
+                                "body": "<p><span style=\"color: rgb(0, 0, 0);\">Every task you do begins here. The System Prompt sets the stage and defines the </span><strong style=\"color: rgb(0, 0, 0);\">rules of engagement</strong><span style=\"color: rgb(0, 0, 0);\"> for the specific scenario you are about to create.</span></p><p><br></p><p>Think of it as a custom-made personality and instruction manual for the AI, which only applies to the current task. The AI's performance throughout the entire conversation will be judged on how well it follows these rules.</p><p><br></p><p>To create a <strong style=\"color: rgb(0, 0, 0);\">unique and complex</strong><span style=\"color: rgb(0, 0, 0);\"> System Prompt, blend </span><strong style=\"color: rgb(0, 0, 0);\">at least 4</strong><span style=\"color: rgb(0, 0, 0);\"> of the following elements:</span></p><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">Agent's Environment:</strong><span style=\"color: rgb(0, 0, 0);\"> Its current location, time, or device settings (e.g., WiFi is off). </span><strong style=\"color: rgb(0, 0, 0);\">Make sure the environment settings match the system settings.</strong></li><li><strong style=\"color: rgb(0, 0, 0);\">Rules for Tools:</strong><span style=\"color: rgb(0, 0, 0);\"> Specific instructions on how to use tools (e.g., \"Always confirm before deleting an event\").</span></li><li><strong style=\"color: rgb(0, 0, 0);\">User's Likes &amp; Dislikes:</strong><span style=\"color: rgb(0, 0, 0);\"> The user's preferences, habits, or pet peeves.</span></li><li><strong style=\"color: rgb(0, 0, 0);\">User's Situation:</strong><span style=\"color: rgb(0, 0, 0);\"> Important background information (e.g., \"The user is sleep-deprived and needs simple options\").</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Agent's Personality:</strong><span style=\"color: rgb(0, 0, 0);\"> The desired tone and speaking style (e.g., professional, witty, concise).</span></li></ul><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Goal:</strong><span style=\"color: rgb(0, 0, 0);\"> Write a detailed prompt that establishes a clear, consistent context. This \"master prompt\" will govern the AI's behavior for the entire task that follows.</span></p><p><br></p><p>You will write this in the designated \"System Prompt\" field at the top of the task.</p><p><br></p><h2><span style=\"color: rgb(0, 0, 0);\">Example</span></h2><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">\"You are a professional and friendly assistant, dedicated to being proactive and helpful. Your user is currently planning a last-minute business trip to San Francisco and is feeling quite stressed about it. The user has some clear preferences: they always want a window seat on flights and are a strict vegetarian. Please be aware that the user's device is low on battery. For this reason, if a setting needs to be changed, you must suggest the user do it themselves rather than using a tool. Always confirm final details before making any bookings.\"</span></p><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">Personality:</strong><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(24, 128, 56);\">You are a professional and friendly assistant...</span></li><li><strong style=\"color: rgb(0, 0, 0);\">User's Situation:</strong><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(24, 128, 56);\">...planning a last-minute business trip to San Francisco and is feeling quite stressed...</span></li><li><strong style=\"color: rgb(0, 0, 0);\">User Preferences:</strong><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(24, 128, 56);\">...they always want a window seat on flights and are a strict vegetarian...</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Agent's Environment:</strong><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(24, 128, 56);\">...user's device is low on battery...</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Rules for Tools:</strong><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(24, 128, 56);\">...if a setting needs to be changed, you must suggest the user do it themselves…</span></li></ul><p><br></p><p><br></p><h2>Note:</h2><ol><li><span class=\"ql-size-large\">System prompts will have guardrails to reach a minimum length / required complexity.</span></li><li><span class=\"ql-size-large\">System Prompts should not be repeated - </span><strong class=\"ql-size-large\"><em>re-use of system prompts can result in account deactivation.</em></strong><span class=\"ql-size-large\"> This behavior is strictly forbidden.</span></li></ol><h2><br></h2>"
+                            },
+                            "_id": "6866d49b0729b6193aa37a73"
+                        }
+                    ],
+                    "_id": "6866d49b0729b6193aa37a72"
+                },
+                {
+                    "id": "1af43551-b6db-4e94-bb08-1d5135e996c3",
+                    "estimatedTime": 0,
+                    "recommendedEstimatedTime": 6,
+                    "title": "Writing User Prompts",
+                    "description": "",
+                    "courseSectionItems": [
+                        {
+                            "id": "179afbcf-5d3f-44f5-8de2-45865227e1d8",
+                            "weight": 0,
+                            "type": "rich_text",
+                            "contents": {
+                                "singleSelect": true,
+                                "body": "<p><span style=\"color: rgb(0, 0, 0);\">After setting the stage with the System Prompt, your next step is to initiate the conversation. </span><strong style=\"color: rgb(0, 0, 0);\">You'll input this first prompt into the 'Turn #1 - Prompt' field.</strong><span style=\"color: rgb(0, 0, 0);\"> For this project, you will always adopt a specific persona: the </span><strong style=\"color: rgb(0, 0, 0);\">\"Lazy User.\"</strong></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXfzqKj6Hrr1jImMu8ZThCdb1ptpOD1yKY2E6GQNII8cdkTFx6I0gYn45sL9CgEIvHGMuyHsG79W_T_Tdnko-k5K962mLV4dzvRqqYxWHXCwfeHzwGbjvqXss7K-bedwVKO5i04KNw?key=xjB_DUBBmQHASXmDiRl8Mw\"></span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">The goal of the </span><strong style=\"color: rgb(0, 0, 0);\">\"Lazy User\"</strong><span style=\"color: rgb(0, 0, 0);\"> is to test the AI's ability to ask good clarifying questions and handle ambiguity.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Your prompts must follow these rules:</strong></p><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">Start Vague:</strong><span style=\"color: rgb(0, 0, 0);\"> Your first prompt should be underspecified (e.g., \"I need a reservation\").</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Don't Volunteer Information:</strong><span style=\"color: rgb(0, 0, 0);\"> Only provide details when the AI explicitly asks for them.</span><em style=\"color: rgb(0, 0, 0);\"> (</em><em>one answer at a time.)</em></li><li><strong style=\"color: rgb(0, 0, 0);\">One Piece at a Time:</strong><span style=\"color: rgb(0, 0, 0);\"> If the AI asks multiple questions, only answer one of them in your response.</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Correct Mistakes:</strong><span style=\"color: rgb(0, 0, 0);\"> If the AI makes a wrong assumption, your next prompt should correct it.</span></li></ul><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Keep in mind:</strong></p><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">Be Natural:</strong><span style=\"color: rgb(0, 0, 0);\"> Your prompts should sound like something a real person would say.</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Focus on the Goal, Not the Tool:</strong><span style=\"color: rgb(0, 0, 0);\"> Ask for </span><em style=\"color: rgb(0, 0, 0);\">what</em><span style=\"color: rgb(0, 0, 0);\"> you want (e.g., \"Find cafes near me\"), not </span><em style=\"color: rgb(0, 0, 0);\">how</em><span style=\"color: rgb(0, 0, 0);\"> to do it (e.g., \"Use the search tool for cafes\").</span></li></ul><p><br></p><h2><span style=\"color: rgb(0, 0, 0);\">Example</span></h2><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">You (User):</strong><span style=\"color: rgb(0, 0, 0);\"> \"I need to make a reservation.\"</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">AI (potential response):</strong><span style=\"color: rgb(0, 0, 0);\"> \"I can help with that. What kind of reservation is it, and for what date and time?\"</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">You (User):</strong><span style=\"color: rgb(0, 0, 0);\"> \"For a restaurant.\"</span></p>"
+                            },
+                            "_id": "6866d49b0729b6193aa37a75"
+                        },
+                        {
+                            "id": "8f26c7b3-7b5b-417e-84df-2a0deb7bf96d",
+                            "weight": 0,
+                            "type": "rich_text",
+                            "contents": {
+                                "singleSelect": true,
+                                "body": "<p><span class=\"ql-size-huge\">Understanding Task Categories</span></p><p><br></p><ul><li><strong style=\"background-color: transparent;\">Categories for User prompts: </strong><span style=\"background-color: transparent;\">Understanding </span><strong style=\"background-color: transparent;\">task categories</strong><span style=\"background-color: transparent;\"> helps you determine what type of interaction you need to generate. Some tasks require the model to </span><strong style=\"background-color: transparent;\">use tools</strong><span style=\"background-color: transparent;\">, while others should be answered </span><strong style=\"background-color: transparent;\">without tool use</strong><span style=\"background-color: transparent;\">.</span></li><li class=\"ql-indent-1\"><strong style=\"background-color: transparent;\">[Feasible Tool Use]:</strong><span style=\"background-color: transparent;\"> If the user's request </span><em style=\"background-color: transparent;\">can</em><span style=\"background-color: transparent;\"> be fulfilled by the available tools, your prompts should guide the agent towards successfully completing the task using those tools. The agent should try to achieve tasks by itself when possible, without unnecessarily asking the user for information it can derive (e.g., current location).</span></li><li class=\"ql-indent-2\"><em style=\"background-color: transparent;\">Example:</em><span style=\"background-color: transparent;\"> User: \"Find Italian restaurants near me.\" (Agent should get current location, search for Italian restaurants).&nbsp;</span></li><li class=\"ql-indent-1\"><strong style=\"background-color: transparent;\">[Infeasible Tool Use]:</strong><span style=\"background-color: transparent;\"> If a request </span><em style=\"background-color: transparent;\">cannot</em><span style=\"background-color: transparent;\"> be fulfilled with the provided tools, guide the agent to gracefully fail by clearly explaining the attempts made and the reason for failure. </span></li><li class=\"ql-indent-2\"><em style=\"background-color: transparent;\">Example:</em><span style=\"background-color: transparent;\"> User: \"Does Nola Restaurant accept Apple Pay?\" (Agent may search for Nola, get details, but if payment info isn't available via tools, it should state that and suggest alternatives like calling the restaurant).&nbsp;</span></li><li class=\"ql-indent-1\"><strong style=\"background-color: transparent;\">[General Chat]:</strong><span style=\"background-color: transparent;\"> Include user tasks that are general chat questions, not intended to be solved by tools, but could be mistaken for tool-use tasks by an underperforming agent. The agent should answer these without invoking tools.</span></li><li class=\"ql-indent-2\"><em style=\"background-color: transparent;\">Example:</em><span style=\"background-color: transparent;\"> User: \"What color is the Golden Gate Bridge?\" Agent should directly answer \"International orange...</span></li><li class=\"ql-indent-1\"><strong style=\"background-color: transparent;\">[State Dependency]:</strong><span style=\"background-color: transparent;\"> Design scenarios where tool errors occur due to the state of the initial database (e.g., WiFi is off, low battery mode is on). Your dialogue should then guide the agent to identify and recover from these errors by modifying the state (e.g., turning WiFi on).</span></li><li class=\"ql-indent-2\"><em style=\"background-color: transparent;\">Example:</em><span style=\"background-color: transparent;\"> User asks to search for a place. Initial DB has WiFi off. Agent tries to search, gets a \"WiFi not enabled\" error. Agent then checks settings, sees WiFi is off. Tries to turn WiFi on, but fails if \"low_battery_mode\" is on. Agent then turns off low battery mode, then turns on WiFi, then successfully performs the search.&nbsp;</span></li><li class=\"ql-indent-1\"><strong style=\"background-color: transparent;\">[Error Recovery]:</strong><span style=\"background-color: transparent;\"> Create situations where the agent uses a tool incorrectly (e.g., wrong parameters, too specific query yielding no results). </span><strong style=\"background-color: transparent;\">Crucially, do not correct the agent in its first attempt.</strong><span style=\"background-color: transparent;\"> Instead, your subsequent user prompts should guide the agent to refine its tool call and recover from its own mistake.</span></li><li class=\"ql-indent-2\"><em style=\"background-color: transparent;\">Example:</em><span style=\"background-color: transparent;\"> User: \"What is my next one on one?\" Agent searches calendar but misses </span><span style=\"background-color: transparent; color: rgb(24, 128, 56);\">datetime_range_upperbound</span><span style=\"background-color: transparent;\">, gets an error. In the next turn, </span><em style=\"background-color: transparent;\">you guide it</em><span style=\"background-color: transparent;\"> (e.g., by a user prompt like \"Search for the next year\") so the agent re-tries the tool call correctly. If it still fails (e.g. searches \"one on one\" but event is \"1:1\"), guide it again (e.g., User: \"It might be named differently, and it's with Jill\") for the agent to try a broader search or different parameters.&nbsp;</span></li><li class=\"ql-indent-1\"><strong style=\"background-color: transparent;\">[Lazy User]:</strong><span style=\"background-color: transparent;\"> Model the user as \"lazy.\" The user should:</span></li><li class=\"ql-indent-2\"><span style=\"background-color: transparent;\">Not provide information unless explicitly asked by the assistant.</span></li><li class=\"ql-indent-2\"><span style=\"background-color: transparent;\">Provide only one piece of information at a time, even if asked multiple questions.</span></li><li class=\"ql-indent-2\"><span style=\"background-color: transparent;\">Correct the assistant if it makes wrong assumptions.</span></li><li class=\"ql-indent-2\"><strong style=\"background-color: transparent;\">Start with underspecified requests.</strong></li><li class=\"ql-indent-2\"><em style=\"background-color: transparent;\">Example:</em><span style=\"background-color: transparent;\"> User: \"I need a reservation.\" Assistant: \"What type, location, date, etc.?\" User: \"Restaurant.\"&nbsp;</span></li><li class=\"ql-indent-1\"><strong style=\"background-color: transparent;\">[Task Switching]:</strong><span style=\"background-color: transparent;\"> Create scenarios where the user naturally deviates from the current task to ask something else (a detour), and then switches back to the original task after the detour is complete.</span></li><li class=\"ql-indent-2\"><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">﻿Example:</em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> User: \"Add an event at 5 tomorrow.\" Agent clarifies AM/PM, asks for calendar. User: \"Wait, do I have my WiFi on?\" Agent checks WiFi, responds. User: \"K, add the event to my personal calendar.\"</span></li></ul>"
+                            },
+                            "_id": "6866d49b0729b6193aa37a76"
+                        }
+                    ],
+                    "_id": "6866d49b0729b6193aa37a74"
+                },
+                {
+                    "id": "6f2a2e3c-fe9a-42a9-96a5-6d8ade191de3",
+                    "estimatedTime": 0,
+                    "recommendedEstimatedTime": 2,
+                    "title": "Guiding Model Interaction",
+                    "description": "",
+                    "courseSectionItems": [
+                        {
+                            "id": "c74d5157-9818-456a-b85c-9096bd7833d9",
+                            "weight": 0,
+                            "type": "rich_text",
+                            "contents": {
+                                "singleSelect": true,
+                                "body": "<p><span style=\"color: rgb(0, 0, 0);\">After you submit your prompt, the AI will respond. It might try to use a tool, ask a question, or give a direct answer. Your job is to supervise this action. Bear in mind the tool set for each task.  The model only has access to a specific set of tools within each task. </span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">In the task interface, every AI response will appear with a </span><strong style=\"color: rgb(0, 0, 0);\">\"Refine your response\"</strong><span style=\"color: rgb(0, 0, 0);\"> section. This is where you step in. If the AI’s action isn't perfect, you will use this section to </span><strong style=\"color: rgb(0, 0, 0);\">edit its response</strong><span style=\"color: rgb(0, 0, 0);\"> and show it the ideal action it </span><em style=\"color: rgb(0, 0, 0);\">should</em><span style=\"color: rgb(0, 0, 0);\"> have taken.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">﻿<img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXdvdUdzLkYRg93WrpGApeVx5Qw_2dOJbFNKDn6ONbf9L9MLnFsjI3O-mvYYya6wRXGGNkgq6TAbkTPVOoPWHkM7wMUWylHR--3_fqGxYru8voesEzlCpPgeBYZB6g5ESy00jpwXvw?key=xjB_DUBBmQHASXmDiRl8Mw\"></span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">How you guide the model:</strong></p><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">If the AI uses a tool incorrectly:</strong><span style=\"color: rgb(0, 0, 0);\"> You will see the tool it chose and the parameters it used. You can </span><strong style=\"color: rgb(0, 0, 0);\">change the tool</strong><span style=\"color: rgb(0, 0, 0);\"> from a dropdown list or </span><strong style=\"color: rgb(0, 0, 0);\">edit the parameters</strong><span style=\"color: rgb(0, 0, 0);\"> (like a search query or location) to be correct.</span></li></ul><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">If the AI gives text but should have used a tool:</strong><span style=\"color: rgb(0, 0, 0);\"> You can </span><strong style=\"color: rgb(0, 0, 0);\">change the response type</strong><span style=\"color: rgb(0, 0, 0);\"> from \"text\" to \"tool call\" and then select the correct tool and parameters it missed.</span></li></ul><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">If the AI's text response is flawed:</strong><span style=\"color: rgb(0, 0, 0);\"> You can directly </span><strong style=\"color: rgb(0, 0, 0);\">edit or completely rewrite the text</strong><span style=\"color: rgb(0, 0, 0);\"> in the response box to make it more accurate, helpful, or aligned with its persona.</span></li></ul><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">This editing step </span><strong style=\"color: rgb(0, 0, 0);\">is</strong><span style=\"color: rgb(0, 0, 0);\"> how you \"provide the ideal response.\" The conversation then continues as if the AI had performed your corrected action from the start.</span></p>"
+                            },
+                            "_id": "6866d49b0729b6193aa37a78"
+                        }
+                    ],
+                    "_id": "6866d49b0729b6193aa37a77"
+                },
+                {
+                    "id": "b32c0ea6-66bb-415e-a3b4-f6f7c13c654a",
+                    "estimatedTime": 0,
+                    "recommendedEstimatedTime": 2,
+                    "title": "Error Tagging and Critiques",
+                    "description": "",
+                    "courseSectionItems": [
+                        {
+                            "id": "de552aa2-cc53-4390-bd14-5eab19d6fc46",
+                            "weight": 0,
+                            "type": "rich_text",
+                            "contents": {
+                                "singleSelect": true,
+                                "body": "<p><span style=\"color: rgb(0, 0, 0);\">After you correct the AI's action, you must explain </span><em style=\"color: rgb(0, 0, 0);\">why</em><span style=\"color: rgb(0, 0, 0);\"> its original attempt was wrong. This is the most important step for training the model.</span></p><p><br></p><p>For <strong style=\"color: rgb(0, 0, 0);\">every</strong><span style=\"color: rgb(0, 0, 0);\"> action the AI takes, you will provide feedback using two fields:</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">1. Error Labels:</strong><span style=\"color: rgb(0, 0, 0);\"> Choose one or more predefined tags from a list to categorize the mistake.</span></p><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">Examples:</strong><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(24, 128, 56);\">wrong_tool_selected</span><span style=\"color: rgb(0, 0, 0);\">, </span><span style=\"color: rgb(24, 128, 56);\">required_param_missing</span><span style=\"color: rgb(0, 0, 0);\">, </span><span style=\"color: rgb(24, 128, 56);\">tool_over_triggered</span><span style=\"color: rgb(0, 0, 0);\">.</span></li><li><span style=\"color: rgb(0, 0, 0);\">If the AI's original action was perfect, select </span><span style=\"color: rgb(24, 128, 56);\">no_issues</span><span style=\"color: rgb(0, 0, 0);\">.</span></li></ul><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">2. Critic Comments:</strong><span style=\"color: rgb(0, 0, 0);\"> Write a clear, concise explanation of the error. If there was no error, you can leave this blank.</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Note: Critic Comments MUST follow the following guidelines:</strong></p><p><br></p><ul><li><span style=\"color: rgb(0, 0, 0);\">It should be specific about the issues. e.g. Instead of saying “Wrong tool is chosen”, you should say “Tool </span><span style=\"color: rgb(24, 128, 56);\">photos_open_destination</span><span style=\"color: rgb(0, 0, 0);\"> is not the correct tool to use. The model should use </span><span style=\"color: rgb(24, 128, 56);\">photos_open_album</span><span style=\"color: rgb(0, 0, 0);\"> instead”.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Always reference tool names and parameter names/values whenever possible.</span></li><li><span style=\"color: rgb(0, 0, 0);\">All Tool Names and Parameters must be enclosed in backticks </span><span style=\"color: rgb(24, 128, 56);\">`example`</span></li><li><span style=\"color: rgb(0, 0, 0);\">All values must be enclosed in double quotes </span><span style=\"color: rgb(24, 128, 56);\">“value example”</span></li><li><strong style=\"color: rgb(0, 0, 0);\" class=\"ql-size-large\">YOU MUST refer to specific tools and parameters where applicable and enclose names in ' ' backticks </strong></li></ul><p><br></p><p><span style=\"color: rgb(0, 0, 0);\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd98LzdoXmJrGIzKCBFAp5mLYT85-oL8fcAsH974Awq6DRBorWEMtYMEc2RwLqILLXewfAnBn0Kgn5gPdfGyOnQ4hAS9C-YiPkdfG0T1yKl5x5xArMFVIOONs6i2ZTLFk_EOyQDSw?key=xjB_DUBBmQHASXmDiRl8Mw\"></span></p><p><br></p><p><br></p><h2><span style=\"color: rgb(0, 0, 0);\">Example</span></h2><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Original AI Action:</strong><span style=\"color: rgb(0, 0, 0);\"> The AI used the </span><span style=\"color: rgb(24, 128, 56);\">search_place</span><span style=\"color: rgb(0, 0, 0);\"> tool with the </span><span style=\"color: rgb(24, 128, 56);\">query</span><span style=\"color: rgb(0, 0, 0);\"> parameter set to \"dinner\".</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Your Correction:</strong><span style=\"color: rgb(0, 0, 0);\"> You edited the </span><span style=\"color: rgb(24, 128, 56);\">query</span><span style=\"color: rgb(0, 0, 0);\"> to be \"Italian restaurants near me\".</span></p><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">Your Critique:</strong></p><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">Error Label:</strong><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(24, 128, 56);\">wrong_param_value</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Critic Comment:</strong><span style=\"color: rgb(0, 0, 0);\"> The </span><span style=\"color: rgb(24, 128, 56);\">query</span><span style=\"color: rgb(0, 0, 0);\"> parameter value was too vague. It should have been \"Italian restaurants near me\" to fulfill the user's request.</span></li></ul>"
+                            },
+                            "_id": "6866d49b0729b6193aa37a7a"
+                        }
+                    ],
+                    "_id": "6866d49b0729b6193aa37a79"
+                },
+                {
+                    "id": "1c689eb6-c8f0-4009-9e9b-f677fb370d73",
+                    "estimatedTime": 0,
+                    "recommendedEstimatedTime": 1,
+                    "title": "Building the Conversation",
+                    "description": "",
+                    "courseSectionItems": [
+                        {
+                            "id": "dcf2dfa5-922e-4582-916b-d2afb2110be1",
+                            "weight": 0,
+                            "type": "rich_text",
+                            "contents": {
+                                "singleSelect": true,
+                                "body": "<p><span style=\"color: rgb(0, 0, 0);\">Your ultimate goal is to create a complete, natural-feeling conversation with at least </span><strong style=\"color: rgb(0, 0, 0);\">10 user turns</strong><span style=\"color: rgb(0, 0, 0);\">.</span></p><p><br></p><p>A \"user turn\" is counted each time you, playing the \"Lazy User,\" provide a new prompt. The AI's responses, tool calls, and clarifying questions do not count toward this total.</p><p><br></p><p>To reach 10 turns, you will continue the cycle:</p><p><br></p><ol><li><strong style=\"color: rgb(0, 0, 0);\">Write a User Prompt</strong><span style=\"color: rgb(0, 0, 0);\"> (following the \"Lazy User\" rules).</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Guide the AI</strong><span style=\"color: rgb(0, 0, 0);\"> by editing its response if needed.</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Provide a Critique</strong><span style=\"color: rgb(0, 0, 0);\"> with error labels and comments.</span></li><li>Repeat.</li></ol><p><br></p><p><strong style=\"color: rgb(0, 0, 0);\">How to create a meaningful conversation:</strong></p><p><br></p><ul><li><strong style=\"color: rgb(0, 0, 0);\">Flow Naturally:</strong><span style=\"color: rgb(0, 0, 0);\"> Your follow-up prompts should logically build on the previous turns.</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Mix It Up:</strong><span style=\"color: rgb(0, 0, 0);\"> A good scenario might include clarifying questions, chained tool calls (where one tool's output is used by another), or parallel calls (multiple tools used at once).</span></li><li><strong style=\"color: rgb(0, 0, 0);\">Introduce Complexity:</strong><span style=\"color: rgb(0, 0, 0);\"> You can create more advanced scenarios that involve:</span></li><li class=\"ql-indent-1\"><strong style=\"color: rgb(0, 0, 0);\">Task Switching:</strong><span style=\"color: rgb(0, 0, 0);\"> Briefly ask about something else before returning to the original task.</span></li><li class=\"ql-indent-1\"><strong style=\"color: rgb(0, 0, 0);\">Error Recovery:</strong><span style=\"color: rgb(0, 0, 0);\"> Guide the AI to fix a mistake it made on a previous turn.</span></li><li class=\"ql-indent-1\"><strong style=\"color: rgb(0, 0, 0);\">Infeasible Tasks:</strong><span style=\"color: rgb(0, 0, 0);\"> Ask for something the tools can't do, and teach the AI to explain the limitation gracefully.</span></li></ul>"
+                            },
+                            "_id": "6866d49b0729b6193aa37a7c"
+                        }
+                    ],
+                    "_id": "6866d49b0729b6193aa37a7b"
+                },
+                {
+                    "id": "55512545-7365-4da6-b585-6c384eda8db5",
+                    "estimatedTime": 0,
+                    "recommendedEstimatedTime": 15,
+                    "title": "Knowledge Check",
+                    "description": "",
+                    "courseSectionItems": [
+                        {
+                            "id": "d50aab1b-58c7-4855-8733-6a4965fd3817",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0);\">What is the </span><em style=\"color: rgb(0, 0, 0);\">main</em><span style=\"color: rgb(0, 0, 0);\"> goal of an Antechamber conversation?</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "13c1e27b-d6a5-499b-b047-5978c7ce8df8",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Entertain the user</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "7823b31d-768e-4e76-af78-ba0fbadbec6e",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Teach the model correct tool use &amp; recovery</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "46b9a6fe-893e-4346-afc9-06b335329d06",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Repeat the user verbatim</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "fdfef05b-e1d5-4229-90a5-6710cbd043b4",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Gather user data</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a7e"
+                        },
+                        {
+                            "id": "86fa2a9b-2199-4092-bd65-d6b718a49f0c",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0);\">How many </span><strong style=\"color: rgb(0, 0, 0);\">user</strong><span style=\"color: rgb(0, 0, 0);\"> turns must each conversation contain at minimum?</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "dd30eae9-37e6-4f43-b1f7-eb2ac57f94d4",
+                                        "answer": "<p>5</p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "cc9729d0-ce6e-4645-9a97-2299fbef3a83",
+                                        "answer": "<p>7</p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "74427887-7cd9-4f4e-b60c-ee78c63b9a65",
+                                        "answer": "<p>10</p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "bddf2214-1f8e-4964-afc3-486a3a0fcefb",
+                                        "answer": "<p>12</p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a7f"
+                        },
+                        {
+                            "id": "690e44ea-2b35-4e4a-9c5f-383382d03091",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0);\">In a </span><em style=\"color: rgb(0, 0, 0);\">General Chat</em><span style=\"color: rgb(0, 0, 0);\"> task, the assistant should…</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "2316c392-9561-4c80-8fc1-312d5eec6b5c",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Call </span><span style=\"color: rgb(24, 128, 56);\">search_place</span><span style=\"color: rgb(0, 0, 0);\"> proactively</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "ba076cad-1aa4-4ac3-84e1-c20a7ac9dd35",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Answer with text only unless the user explicitly asks for a tool</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "99bb5161-6524-41ef-8f1d-5e80fb120611",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Add everything to the user’s calendar</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "86e81ce7-55aa-4d9e-bd77-103026506765",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Refuse to answer</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a80"
+                        },
+                        {
+                            "id": "26020408-60ac-4911-b9a0-af83cdd0412d",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0);\">A user asks: “Book lunch near me at 1 pm.” The agent calls </span><span style=\"color: rgb(24, 128, 56);\">search_place</span><span style=\"color: rgb(0, 0, 0);\"> without first getting the user’s location; which error label fits?</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "a788a45d-11fa-4a00-a7d3-dbe000fdd29d",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">no_issues</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "4cad11fa-ebd3-4fa1-bd35-1cb938f37b3b",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">wrong_tool_selected</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "ce96ef68-d685-44c2-97dc-b651d71ff87f",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">required_param_missing</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "93f00256-a72c-485a-92b1-a3b554b9bed0",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">hallucinated_tool</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a81"
+                        },
+                        {
+                            "id": "0f698778-5ec3-4438-9e43-001a23300c8b",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0);\">For a single assistant turn that </span><strong style=\"color: rgb(0, 0, 0);\">both</strong><span style=\"color: rgb(0, 0, 0);\"> omits a required parameter </span><strong style=\"color: rgb(0, 0, 0);\">and</strong><span style=\"color: rgb(0, 0, 0);\"> uses a value outside the allowed enum list, how should the annotator fill </span><span style=\"color: rgb(24, 128, 56);\">error_labels</span><span style=\"color: rgb(0, 0, 0);\"> and </span><span style=\"color: rgb(24, 128, 56);\">critic_comments</span><span style=\"color: rgb(0, 0, 0);\">?</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "f1257374-cb65-48c7-9728-99db7132c472",
+                                        "answer": "<p><span style=\"color: rgb(24, 128, 56);\">error_labels</span><span style=\"color: rgb(0, 0, 0);\">: </span><span style=\"color: rgb(24, 128, 56);\">required_param_missing</span></p><p><span style=\"color: rgb(24, 128, 56);\">critic_comments</span><span style=\"color: rgb(0, 0, 0);\">: \"Wrong enum value.\"</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "f55fa5ba-60cd-4d2c-a01c-33d43ca1f66a",
+                                        "answer": "<p><span style=\"color: rgb(24, 128, 56);\">error_labels</span><span style=\"color: rgb(0, 0, 0);\">: </span><span style=\"color: rgb(24, 128, 56);\">enum_not_respected, required_param_missing</span></p><p><span style=\"color: rgb(24, 128, 56);\">critic_comments</span><span style=\"color: rgb(0, 0, 0);\">: \"Missing parameter.\"</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "7b5051a3-07b1-4c24-a5b5-ae88c8c04e23",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(24, 128, 56);\">error_labels</span><span style=\"color: rgb(0, 0, 0);\">: </span><span style=\"color: rgb(24, 128, 56);\">required_param_missing, enum_not_respected</span></p><p><span style=\"color: rgb(24, 128, 56);\">critic_comments</span><span style=\"color: rgb(0, 0, 0);\">: \"Tool call did not provide the mandatory latitude parameter. The value of travel_mode is not in the allowed enum list.\"</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "ff6195d5-c47e-4930-bce8-57c232f82696",
+                                        "answer": "<p><span style=\"color: rgb(24, 128, 56);\">error_labels</span><span style=\"color: rgb(0, 0, 0);\">: </span><span style=\"color: rgb(24, 128, 56);\">others</span></p><p><span style=\"color: rgb(24, 128, 56);\">critic_comments</span><span style=\"color: rgb(0, 0, 0);\">: \"Multiple problems.\"</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a82"
+                        },
+                        {
+                            "id": "9eaaa944-5c44-456a-a781-8d162f10da31",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0);\">In </span><strong style=\"color: rgb(0, 0, 0);\">Error Recovery</strong><span style=\"color: rgb(0, 0, 0);\"> tasks, what is the supervisor’s first step when the agent’s tool call has a bad enum value?</span></p><p><br></p><p><em style=\"color: rgb(0, 0, 0);\">Hint:</em><span style=\"color: rgb(0, 0, 0);\"> The agent must self‑correct later.</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "5335a8d6-b85e-4892-b2c0-a867b8bd9ca9",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Fix the call yourself</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "5b7fc79a-0e3c-46d1-8916-3acc836945d8",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Tag the error, leave a critic comment, do not correct yet</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "0d2442f7-091b-4c69-8d67-eab7f6a9eba1",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">End the dialogue</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "e3d304ac-4ee3-405e-b8b0-e6b94e7fcde2",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Skip the turn</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a83"
+                        },
+                        {
+                            "id": "00966034-9757-4dd8-a67e-7e780d71b8ed",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0);\">What new category tests device state like Wi‑Fi OFF → toggle ON?</span></p><p><br></p><p>Hint: State causes the first failure.</p>",
+                                "choices": [
+                                    {
+                                        "id": "28ddbfa7-78d9-4ac7-9822-1ac15b5534a8",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Task‑Switching</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "8a3ed87b-892d-4248-a5b0-e52a2e3966d4",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">State‑Dependency</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "f5fcfa89-328b-443f-8ec3-ff75a2291eac",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Feasible Tool&nbsp;</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "57b9eef6-6f6b-4e3f-bb02-5828005dafb9",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Use Calendar DB</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a84"
+                        },
+                        {
+                            "id": "56f98692-81cf-4ff1-935b-20577f6c71f1",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0);\">The assistant calls </span><span style=\"color: rgb(24, 128, 56);\">search_calendar_events</span><span style=\"color: rgb(0, 0, 0);\"> includes a parameter </span><span style=\"color: rgb(24, 128, 56);\">calendar_slug=\"Personal\"</span><span style=\"color: rgb(0, 0, 0);\">, but the tool definition for </span><span style=\"color: rgb(24, 128, 56);\">search_calendar_events</span><span style=\"color: rgb(0, 0, 0);\"> does </span><strong style=\"color: rgb(0, 0, 0);\">not</strong><span style=\"color: rgb(0, 0, 0);\"> include any </span><span style=\"color: rgb(24, 128, 56);\">calendar_slug</span><span style=\"color: rgb(0, 0, 0);\"> argument. Which error label should be applied?</span></p><p><em style=\"color: rgb(0, 0, 0);\">Hint:</em><span style=\"color: rgb(0, 0, 0);\"> The assistant used a parameter that doesn’t exist in the schema.</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "f2e70f4c-91f2-431e-90f5-8dfbdcf9bc57",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">required_param_missing</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "10a7d091-3094-49d2-836b-1e7e79d44b10",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">enum_not_respected</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "54a0ccb2-8e48-474e-8bf2-650fbe1f39c0",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">param_not_defined</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "07cfebc2-0dce-424a-b126-b81100ebe192",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">wrong_param_value</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a85"
+                        },
+                        {
+                            "id": "aba7be2c-d284-4729-95ae-a9108c17f058",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0);\">Why must every task have a </span><em style=\"color: rgb(0, 0, 0);\">unique</em><span style=\"color: rgb(0, 0, 0);\"> system prompt?</span></p><p><em style=\"color: rgb(0, 0, 0);\">Hint:</em><span style=\"color: rgb(0, 0, 0);\"> Variety strengthens training.</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "5891f97f-6d7b-4927-be28-9557c11d0a64",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Easier to copy‑paste</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "5d28db4b-4d02-424d-a46f-c7f20a59f337",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Prevents the model from memorising patterns</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "2b567186-f7d9-40c6-bb5f-e5d057d0eb66",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Saves storage</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "60099c03-1df8-4c2a-995d-f6d6ab24917e",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Required for JSON size</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a86"
+                        },
+                        {
+                            "id": "2149f431-f4e6-42ee-a559-768ed29707c7",
+                            "weight": 6.67,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": true,
+                                "question": "<p>Can my account get deactivated for repeating system prompts (Yes it can)</p>",
+                                "choices": [
+                                    {
+                                        "id": "149817dd-9519-48a4-8583-0769d7380814",
+                                        "answer": "<p>Yes, I understand that if I use the same system prompt twice I can get banned from Outlier</p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "7be7eb62-f167-4432-9a3a-d7f65fb17387",
+                                        "answer": "<p>No, I can reuse system prompts</p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a87"
+                        },
+                        {
+                            "id": "fc3baa9c-befc-4134-990d-3b1453d78e67",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Select the agent response that best fulfils the instructions. The correct option is </span><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">never</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> number 1.</span></p><h3><strong style=\"background-color: transparent;\">Scenario 1 – Feasible Tool Use</strong></h3><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">User:</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> “Find a vegetarian café within walking distance and add it to my calendar at 4 pm tomorrow.”</span></p><p><br></p><p><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">﻿Hint:</em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Proper chain of tools + confirmation.</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "6c460b99-14ca-488b-9ce9-be082c6ef46d",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> </span><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Option 1:</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Explains three cafés, no tool calls.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "868f0cec-2d7e-44a5-ab04-ca2841e591aa",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 2:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Calls </span><span style=\"background-color: transparent; color: rgb(24, 128, 56);\">search_place</span><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> → lists café, then asks user to add manually.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "591ac349-8331-4c23-b53b-9f0886ef2f92",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 3:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Calls </span><span style=\"background-color: transparent; color: rgb(24, 128, 56);\">search_place</span><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">, selects top café, confirms time and calendar, then </span><span style=\"background-color: transparent; color: rgb(24, 128, 56);\">create_calendar_event</span><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> for 4 pm tomorrow.</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "4155ca60-f497-426b-91e6-cdf2a1eeab82",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 4:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Refuses, saying dietary needs are unclear.</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a88"
+                        },
+                        {
+                            "id": "62ec3b01-1af9-4236-be8d-391e8a54327c",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<h3><strong style=\"background-color: transparent;\">Scenario 2 – Infeasible Tool Use</strong></h3><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">User:</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> “Tell me the live score of my village cricket match.”</span></p><p><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">﻿Hint:</em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Graceful fail—no hallucination.</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "5485eda8-501b-44a6-9afe-b691e18431c1",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 1:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Calls </span><span style=\"background-color: transparent; color: rgb(24, 128, 56);\">search_place</span><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> with the village name.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "6e2f2469-868b-4479-935c-0111d38b8622",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 2 :</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Responds text‑only that no such API data exists and suggests local sources.</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "0c970388-9859-441d-b108-78c2358f5cc2",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 3:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Makes up a score.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "570a18bf-3444-42bf-81ca-b12b710cf50d",
+                                        "answer": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Option 4:</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Adds a calendar event called “Cricket.”</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a89"
+                        },
+                        {
+                            "id": "823cd8f2-fea8-4eaf-a764-9ea909e501a7",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<h3><strong style=\"background-color: transparent;\">Scenario 3 – Error Recovery</strong></h3><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">User:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> “When’s my next dentist appointment?” The agent’s first tool call omits </span><span style=\"background-color: transparent; color: rgb(24, 128, 56);\">datetime_range_upperbound</span><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> → API error.</span></p><p><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hint:</em><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Nudge, don’t patch.</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "cf46823f-c470-4a2d-80c3-5ebabe420320",
+                                        "answer": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Option 1:</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Fix the JSON immediately.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "59a50a7f-ac86-41a0-83eb-2242eecbfda7",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 2:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> End the task.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "73bcb806-8bb4-44c9-a0ec-edb452b048ab",
+                                        "answer": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Option 3 :</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Prompt: “Maybe check the next few months?” so the agent retries; tag </span><span style=\"color: rgb(24, 128, 56); background-color: transparent;\">required_param_missing</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "4c7d1dca-1e39-4c1c-b037-1f2ab198054d",
+                                        "answer": "<h2><strong style=\"background-color: transparent;\">Option 4:</strong><span style=\"background-color: transparent;\"> Ignore and continue.</span></h2>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a8a"
+                        },
+                        {
+                            "id": "0db096a7-03cd-43f4-b50a-590964eaedcf",
+                            "weight": 7.14,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<h3><strong style=\"background-color: transparent;\">Scenario 4 – State Dependency</strong></h3><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">System prompt says Wi‑Fi = OFF.</span></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">User:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> “Give me transit directions to the airport.”</span></p><p><br></p><p><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hint:</em><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Fix state before net‑dependent call.</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "257e8a37-437f-46fe-8d47-ff66ae74f179",
+                                        "answer": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Option 1:</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Calls </span><span style=\"color: rgb(24, 128, 56); background-color: transparent;\">get_directions</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> and fails.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "11b7e8a1-a443-4905-ad85-38a101c74d90",
+                                        "answer": "<p><span style=\"color: rgb(0, 0, 0);\"> </span><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Option 2:</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Refuses.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "9783fb37-68a9-48f0-9e1c-e2927313fb54",
+                                        "answer": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Option 3 :</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Turns Wi‑Fi ON via </span><span style=\"color: rgb(24, 128, 56); background-color: transparent;\">set_system_settings</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, then calls </span><span style=\"color: rgb(24, 128, 56); background-color: transparent;\">get_directions</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">.</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "7976041b-0e56-45d6-bee8-76f3ccc78957",
+                                        "answer": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Option 4:</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Asks the user to turn on data.</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a8b"
+                        },
+                        {
+                            "id": "b0476d58-bb19-4238-98e4-ca3896bc78fc",
+                            "weight": 7.18,
+                            "type": "multiple_choice",
+                            "contents": {
+                                "maxAttempts": 1,
+                                "singleSelect": true,
+                                "skipGrading": false,
+                                "question": "<h3><strong style=\"background-color: transparent;\">Scenario 5 – Task Switching</strong></h3><p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">User:</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> “Add a birthday reminder for Mum next Thursday… actually, is my Bluetooth on?”</span></p><p><br></p><p><em style=\"color: rgb(0, 0, 0); background-color: transparent;\">Hint:</em><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Handle detour then finish original ask.</span></p>",
+                                "choices": [
+                                    {
+                                        "id": "5a192013-2d7f-4aee-9994-ca64079f6068",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 1:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Asks to clarify which task first.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "2957d2f1-74f3-41a9-9676-adbce7c885f9",
+                                        "answer": "<p><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">Option 2 :</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> Checks Bluetooth with </span><span style=\"color: rgb(24, 128, 56); background-color: transparent;\">get_system_settings</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">, answers, then resumes and </span><span style=\"color: rgb(24, 128, 56); background-color: transparent;\">create_calendar_event</span><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> for birthday.</span></p>",
+                                        "isCorrect": true
+                                    },
+                                    {
+                                        "id": "4c12ba24-2205-4f66-b1bd-bbdf1f2fa6c3",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 3:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Ignores Bluetooth question, adds event only.</span></p>",
+                                        "isCorrect": false
+                                    },
+                                    {
+                                        "id": "792f64d4-8852-40d0-800d-af653fd90c96",
+                                        "answer": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Option 4:</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Turns on Wi‑Fi.</span></p>",
+                                        "isCorrect": false
+                                    }
+                                ]
+                            },
+                            "_id": "6866d49b0729b6193aa37a8c"
+                        }
+                    ],
+                    "_id": "6866d49b0729b6193aa37a7d"
+                },
+                {
+                    "id": "11a5b853-c44b-4460-9ed4-cdf71eab658f",
+                    "estimatedTime": 0,
+                    "recommendedEstimatedTime": 1,
+                    "title": "Next Steps",
+                    "description": "",
+                    "courseSectionItems": [
+                        {
+                            "id": "3b0035ee-0ea4-47e3-964c-84a7b13e789c",
+                            "weight": 0,
+                            "type": "rich_text",
+                            "contents": {
+                                "singleSelect": true,
+                                "body": "<p><span class=\"ql-size-large\">Congratulations! You've completed the introductory course. Next, please review our </span><a href=\"https://app.outlier.ai/en/expert/instruction/683e729ecaf6d16374e6fc5b\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 102, 204);\" class=\"ql-size-large\"><strong>Project Instructions</strong></a><span class=\"ql-size-large\">—there are important details you'll need before you can begin contributing to the project.</span></p>"
+                            },
+                            "_id": "6866d49b0729b6193aa37a8e"
+                        }
+                    ],
+                    "_id": "6866d49b0729b6193aa37a8d"
+                }
+            ],
+            "translatedSections": {},
+            "minReviewLevel": "-1",
+            "passingGradeThreshold": 0.9,
+            "isTemplate": false,
+            "showFinalGrade": false,
+            "grantedTagsUponCompletion": [
+                "684b12198eced7b7c7600e1d"
+            ],
+            "grantedTagsUponPass": [
+                "684b120d8eced7b7c7600d90"
+            ],
+            "grantedTagsUponFail": [
+                "684b12128ae8b4e5c29432e8"
+            ],
+            "createdBy": "6822dd843d12c96a04eae0b8",
+            "updatedBy": "667a01378fa851c337c91c46",
+            "allowFreeTextGrading": false,
+            "useCustomQuestionWeights": false,
+            "isTimed": false,
+            "enableMLCheatingDetection": false,
+            "cheatingDetectionLlmArtifactsEnabled": true,
+            "cheatingDetectionLlmArtifacts": "✅,🔧,🔴,🟡,🟠,❌,✔,🚀,🔥,🎯,😆,🏆,🚨,🔹,☑️,⚠️,🌹,1️⃣,2️⃣,3️⃣,4️⃣",
+            "useTipTap": false,
+            "version": 25,
+            "createdAt": "2025-06-03T18:25:58.691Z",
+            "updatedAt": "2025-07-03T19:06:03.604Z",
+            "__v": 24
+        },
+        "currentSection": 1,
+        "status": "in_progress",
+        "attemptNumber": 1,
+        "completed": false,
+        "courseAnswer": {},
+        "assigned": false,
+        "passingGrade": 0.9,
+        "fullstorySessions": [
+            "https://app.fullstory.com/ui/25WP4/client-session/c76e699e-22c8-4b68-8f93-0f9ca48763b0%3Aaf8e86fc-6d2e-4763-91fd-b9451b32c762%3A1752585550760"
+        ],
+        "remainingTime": 1860,
+        "projectId": "683e729ecaf6d16374e6fc5b",
+        "violationsDetected": [],
+        "createdAt": "2025-07-15T13:19:35.106Z",
+        "updatedAt": "2025-07-15T13:20:30.127Z",
+        "__v": 1
+    }
+}

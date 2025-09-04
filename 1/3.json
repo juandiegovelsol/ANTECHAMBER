@@ -1,0 +1,967 @@
+{
+  "total": 240,
+  "searched_Location": "2627 Pinecrest PI, Orlando, FL 32803",
+  "searched_Term": "burger place",
+  "limit": "5",
+  "offset": "0",
+  "region": {
+    "center": { "longitude": -81.35942494999999, "latitude": 28.55336695 },
+    "span": {
+      "longitude_delta": 0.017434449999996104,
+      "latitude_delta": 0.02099052999999884
+    }
+  },
+  "business_search_result": [
+    {
+      "id": "bI3ZDsrYSnVDlrneI5mmCQ",
+      "name": "Swine & Sons",
+      "alias": "swine-and-sons-orlando-2",
+      "address1": "201 N Bumby Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Orlando",
+      "zip": "32803",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 28.5453272,
+      "longitude": -81.35150019999999,
+      "review_count": 330,
+      "state": "FL",
+      "avg_rating": 4.5,
+      "unrounded_avg_rating": 4.3,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "201 N Bumby Ave, Orlando, FL 32803",
+          "short_form": "201 N Bumby Ave, Orlando"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "Sandwiches",
+          "category_filter": "sandwiches",
+          "is_restaurant": true
+        },
+        { "name": "Salad", "category_filter": "salad", "is_restaurant": true },
+        {
+          "name": "Burgers",
+          "category_filter": "burgers",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "4076367601",
+      "localized_phone": "+1-407-636-7601",
+      "dialable_phone": "+14076367601",
+      "menu_photos": [
+        {
+          "id": "KQq_MOo1Cyyo6fBH33C78Q",
+          "type": "business",
+          "time_created": 1748645654,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/KQq_MOo1Cyyo6fBH33C78Q/",
+          "url_suffix": ".jpg",
+          "caption": "Happy Hour Menu",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "bI3ZDsrYSnVDlrneI5mmCQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/bI3ZDsrYSnVDlrneI5mmCQ?select=KQq_MOo1Cyyo6fBH33C78Q&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/PTXmWPKH38sqRlKYoP7hUw/ms.jpg",
+      "primary_photo": {
+        "id": "PTXmWPKH38sqRlKYoP7hUw",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/PTXmWPKH38sqRlKYoP7hUw/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "PTXmWPKH38sqRlKYoP7hUw",
+          "type": "business",
+          "time_created": 1692725887,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/PTXmWPKH38sqRlKYoP7hUw/",
+          "url_suffix": ".jpg",
+          "caption": "Onion smash, curly fries, mac and cheese",
+          "feedback_positive_count": 4,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "bI3ZDsrYSnVDlrneI5mmCQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/bI3ZDsrYSnVDlrneI5mmCQ?select=PTXmWPKH38sqRlKYoP7hUw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "pKr5QKzCPlQNfDEZ7a0-pg",
+          "type": "business",
+          "time_created": 1675743563,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/pKr5QKzCPlQNfDEZ7a0-pg/",
+          "url_suffix": ".jpg",
+          "caption": "Inside the Foxtail Hall",
+          "feedback_positive_count": 2,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "bI3ZDsrYSnVDlrneI5mmCQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/bI3ZDsrYSnVDlrneI5mmCQ?select=pKr5QKzCPlQNfDEZ7a0-pg&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "kiIPOZs_UWnMOcpk5pCG7Q",
+          "type": "business",
+          "time_created": 1716586359,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/kiIPOZs_UWnMOcpk5pCG7Q/",
+          "url_suffix": ".jpg",
+          "caption": "Turkey Turkey Club Sandwich",
+          "feedback_positive_count": 1,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "bI3ZDsrYSnVDlrneI5mmCQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/bI3ZDsrYSnVDlrneI5mmCQ?select=kiIPOZs_UWnMOcpk5pCG7Q&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "-SnCN5wXkoujy9RR1vIKfA",
+          "type": "business",
+          "time_created": 1680978717,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/-SnCN5wXkoujy9RR1vIKfA/",
+          "url_suffix": ".jpg",
+          "caption": "Chang Mai Chicken Sandwich",
+          "feedback_positive_count": 6,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "bI3ZDsrYSnVDlrneI5mmCQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/bI3ZDsrYSnVDlrneI5mmCQ?select=-SnCN5wXkoujy9RR1vIKfA&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 682
+    },
+    {
+      "id": "0vhfSxCuAORwlcmIr4JzSA",
+      "name": "Cow & Cheese",
+      "alias": "cow-and-cheese-winter-park",
+      "address1": "7484 University Blvd",
+      "address2": "",
+      "address3": null,
+      "city": "Winter Park",
+      "zip": "32792",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 28.59616449638456,
+      "longitude": -81.28704794110449,
+      "review_count": 43,
+      "state": "FL",
+      "avg_rating": 4.5,
+      "unrounded_avg_rating": 4.3,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "7484 University Blvd, Winter Park, FL 32792",
+          "short_form": "7484 University Blvd, Winter Park"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Burgers",
+          "category_filter": "burgers",
+          "is_restaurant": true
+        },
+        {
+          "name": "Fish & Chips",
+          "category_filter": "fishnchips",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "",
+      "menu_photos": [
+        {
+          "id": "BMEXWbPCTBDvzeuM3CMXFg",
+          "type": "business",
+          "time_created": 1730660818,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/BMEXWbPCTBDvzeuM3CMXFg/",
+          "url_suffix": ".jpg",
+          "caption": "Shares a space with That Wing Spot",
+          "feedback_positive_count": 47,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "0vhfSxCuAORwlcmIr4JzSA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/0vhfSxCuAORwlcmIr4JzSA?select=BMEXWbPCTBDvzeuM3CMXFg&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/67pdU8P7m9FS5-3NMfFvgQ/ms.jpg",
+      "primary_photo": {
+        "id": "67pdU8P7m9FS5-3NMfFvgQ",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/67pdU8P7m9FS5-3NMfFvgQ/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "67pdU8P7m9FS5-3NMfFvgQ",
+          "type": "business",
+          "time_created": 1742361107,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/67pdU8P7m9FS5-3NMfFvgQ/",
+          "url_suffix": ".jpg",
+          "caption": "Burger with jalapeños",
+          "width": 2000,
+          "height": 1500,
+          "business_id": "0vhfSxCuAORwlcmIr4JzSA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/0vhfSxCuAORwlcmIr4JzSA?select=67pdU8P7m9FS5-3NMfFvgQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "OKRp-6s618y6AkDo2aFe7A",
+          "type": "business",
+          "time_created": 1742361116,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/OKRp-6s618y6AkDo2aFe7A/",
+          "url_suffix": ".jpg",
+          "caption": "Inside art",
+          "feedback_positive_count": 1,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "0vhfSxCuAORwlcmIr4JzSA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/0vhfSxCuAORwlcmIr4JzSA?select=OKRp-6s618y6AkDo2aFe7A&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "s1DPES7bpaPFpu8R4os1YA",
+          "type": "business",
+          "time_created": 1742361088,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/s1DPES7bpaPFpu8R4os1YA/",
+          "url_suffix": ".jpg",
+          "width": 1499,
+          "height": 2000,
+          "business_id": "0vhfSxCuAORwlcmIr4JzSA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/0vhfSxCuAORwlcmIr4JzSA?select=s1DPES7bpaPFpu8R4os1YA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "R1rSbLLRC8gw8c-wVQYFzg",
+          "type": "business",
+          "time_created": 1730660834,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/R1rSbLLRC8gw8c-wVQYFzg/",
+          "url_suffix": ".jpg",
+          "caption": "Located behind CVS in the Target Plaza",
+          "feedback_positive_count": 47,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "0vhfSxCuAORwlcmIr4JzSA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/0vhfSxCuAORwlcmIr4JzSA?select=R1rSbLLRC8gw8c-wVQYFzg&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 69
+    },
+    {
+      "id": "oWb8V5o_MpGrQb7OBkNCYA",
+      "name": "Irregular Smash",
+      "alias": "irregular-smash-orlando",
+      "address1": "1300 Alden Rd",
+      "address2": "",
+      "address3": null,
+      "city": "Orlando",
+      "zip": "32803",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 28.563169567660506,
+      "longitude": -81.37226946996412,
+      "review_count": 41,
+      "state": "FL",
+      "avg_rating": 5.0,
+      "unrounded_avg_rating": 5.0,
+      "neighborhoods": ["Ivanhoe", "Park Lake / Lake Highland", "Uptown"],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "1300 Alden Rd, Orlando, FL 32803",
+          "short_form": "1300 Alden Rd, Ivanhoe",
+          "cross_streets": "Ivanhoe"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Burgers",
+          "category_filter": "burgers",
+          "is_restaurant": true
+        },
+        {
+          "name": "Food Trucks",
+          "category_filter": "foodtrucks",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "",
+      "menu_photos": [
+        {
+          "id": "33O7T2aFGlIbB6ujcqb4OQ",
+          "type": "business",
+          "time_created": 1748114557,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/33O7T2aFGlIbB6ujcqb4OQ/",
+          "url_suffix": ".jpg",
+          "caption": "Menu",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "oWb8V5o_MpGrQb7OBkNCYA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/oWb8V5o_MpGrQb7OBkNCYA?select=33O7T2aFGlIbB6ujcqb4OQ&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/c8ReqnKiYFY5vypfSQUwzA/ms.jpg",
+      "primary_photo": {
+        "id": "c8ReqnKiYFY5vypfSQUwzA",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/c8ReqnKiYFY5vypfSQUwzA/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "c8ReqnKiYFY5vypfSQUwzA",
+          "type": "business",
+          "time_created": 1730996100,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/c8ReqnKiYFY5vypfSQUwzA/",
+          "url_suffix": ".jpg",
+          "caption": "Truffle Freak",
+          "feedback_positive_count": 3,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "oWb8V5o_MpGrQb7OBkNCYA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/oWb8V5o_MpGrQb7OBkNCYA?select=c8ReqnKiYFY5vypfSQUwzA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "ZmnvXs8xhzm4yUcRpj_Fvg",
+          "type": "business",
+          "time_created": 1731186765,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ZmnvXs8xhzm4yUcRpj_Fvg/",
+          "url_suffix": ".jpg",
+          "caption": "The location",
+          "width": 2000,
+          "height": 1500,
+          "business_id": "oWb8V5o_MpGrQb7OBkNCYA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/oWb8V5o_MpGrQb7OBkNCYA?select=ZmnvXs8xhzm4yUcRpj_Fvg&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "UhpY4vFyaq2s8WrwrrT8NA",
+          "type": "business",
+          "time_created": 1730503651,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/UhpY4vFyaq2s8WrwrrT8NA/",
+          "url_suffix": ".jpg",
+          "caption": "Truffle fries & sauce",
+          "feedback_positive_count": 2,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "oWb8V5o_MpGrQb7OBkNCYA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/oWb8V5o_MpGrQb7OBkNCYA?select=UhpY4vFyaq2s8WrwrrT8NA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "ytU6h0cIUOycLFrrxadZbA",
+          "type": "business",
+          "time_created": 1730503729,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ytU6h0cIUOycLFrrxadZbA/",
+          "url_suffix": ".jpg",
+          "caption": "The firecracker",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "oWb8V5o_MpGrQb7OBkNCYA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/oWb8V5o_MpGrQb7OBkNCYA?select=ytU6h0cIUOycLFrrxadZbA&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 88
+    },
+    {
+      "id": "lSQQ2jx0zfzCA0SGWLV4jw",
+      "name": "The Classic - Thornton Park",
+      "alias": "the-classic-thornton-park-orlando",
+      "address1": "805 E Washington St",
+      "address2": "",
+      "address3": "",
+      "city": "Orlando",
+      "zip": "32801",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 28.5438258,
+      "longitude": -81.36734969999999,
+      "review_count": 37,
+      "state": "FL",
+      "avg_rating": 4.5,
+      "unrounded_avg_rating": 4.4,
+      "neighborhoods": ["Thornton Park"],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "805 E Washington St, Orlando, FL 32801",
+          "short_form": "805 E Washington St, Thornton Park",
+          "cross_streets": "Thornton Park"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Burgers",
+          "category_filter": "burgers",
+          "is_restaurant": true
+        },
+        {
+          "name": "Sandwiches",
+          "category_filter": "sandwiches",
+          "is_restaurant": true
+        },
+        {
+          "name": "Comfort Food",
+          "category_filter": "comfortfood",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "4077305646",
+      "localized_phone": "+1-407-730-5646",
+      "dialable_phone": "+14077305646",
+      "menu_photos": [
+        {
+          "id": "lM4N6LhtSSCEr06rCgJkng",
+          "type": "business",
+          "time_created": 1738210676,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/lM4N6LhtSSCEr06rCgJkng/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 1,
+          "width": 2000,
+          "height": 1500,
+          "business_id": "lSQQ2jx0zfzCA0SGWLV4jw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/lSQQ2jx0zfzCA0SGWLV4jw?select=lM4N6LhtSSCEr06rCgJkng&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/1hC0gh2UI9ZytTawxST5rQ/ms.jpg",
+      "primary_photo": {
+        "id": "1hC0gh2UI9ZytTawxST5rQ",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/1hC0gh2UI9ZytTawxST5rQ/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "1hC0gh2UI9ZytTawxST5rQ",
+          "type": "business",
+          "time_created": 1705193051,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/1hC0gh2UI9ZytTawxST5rQ/",
+          "url_suffix": ".jpg",
+          "caption": "Cheese Curds and Root Beer Float",
+          "feedback_positive_count": 4,
+          "width": 1440,
+          "height": 1800,
+          "business_id": "lSQQ2jx0zfzCA0SGWLV4jw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/lSQQ2jx0zfzCA0SGWLV4jw?select=1hC0gh2UI9ZytTawxST5rQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "DXw7Wtc9IenAHwUNh_q00g",
+          "type": "business",
+          "time_created": 1738210665,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/DXw7Wtc9IenAHwUNh_q00g/",
+          "url_suffix": ".jpg",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "lSQQ2jx0zfzCA0SGWLV4jw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/lSQQ2jx0zfzCA0SGWLV4jw?select=DXw7Wtc9IenAHwUNh_q00g&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "x9RFI1OH14CkxUuDXKbDJQ",
+          "type": "business",
+          "time_created": 1738210669,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/x9RFI1OH14CkxUuDXKbDJQ/",
+          "url_suffix": ".jpg",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "lSQQ2jx0zfzCA0SGWLV4jw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/lSQQ2jx0zfzCA0SGWLV4jw?select=x9RFI1OH14CkxUuDXKbDJQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "DmS6ZQJFPTIF2CKaDIeBYA",
+          "type": "business",
+          "time_created": 1738210679,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/DmS6ZQJFPTIF2CKaDIeBYA/",
+          "url_suffix": ".jpg",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "lSQQ2jx0zfzCA0SGWLV4jw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/lSQQ2jx0zfzCA0SGWLV4jw?select=DmS6ZQJFPTIF2CKaDIeBYA&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 49
+    },
+    {
+      "id": "uqjXkLJpgw16JCcBouCXkw",
+      "name": "The Pink Salamander",
+      "alias": "the-pink-salamander-orlando",
+      "address1": "1321 N Mills Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Orlando",
+      "zip": "32803",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 28.5629081,
+      "longitude": -81.36421419999999,
+      "review_count": 6,
+      "state": "FL",
+      "avg_rating": 4.5,
+      "unrounded_avg_rating": 4.5,
+      "neighborhoods": ["Mills50", "Colonialtown North"],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "1321 N Mills Ave, Orlando, FL 32803",
+          "short_form": "1321 N Mills Ave, Mills50",
+          "cross_streets": "Mills50"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Pop-Up Restaurants",
+          "category_filter": "popuprestaurants",
+          "is_restaurant": true
+        },
+        {
+          "name": "Burgers",
+          "category_filter": "burgers",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/XLkWvlwRAMlzCqpZpEJX0w/ms.jpg",
+      "primary_photo": {
+        "id": "XLkWvlwRAMlzCqpZpEJX0w",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/XLkWvlwRAMlzCqpZpEJX0w/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "XLkWvlwRAMlzCqpZpEJX0w",
+          "type": "business",
+          "time_created": 1722606870,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/XLkWvlwRAMlzCqpZpEJX0w/",
+          "url_suffix": ".jpg",
+          "caption": "Smash burger and fries",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "uqjXkLJpgw16JCcBouCXkw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/uqjXkLJpgw16JCcBouCXkw?select=XLkWvlwRAMlzCqpZpEJX0w&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "Vqlw3TnLfSZ2PeCHmqq0VQ",
+          "type": "business",
+          "time_created": 1711905435,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Vqlw3TnLfSZ2PeCHmqq0VQ/",
+          "url_suffix": ".jpg",
+          "caption": "Single burger",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "uqjXkLJpgw16JCcBouCXkw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/uqjXkLJpgw16JCcBouCXkw?select=Vqlw3TnLfSZ2PeCHmqq0VQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "AAcao2mKXL3vylefio6Sow",
+          "type": "business",
+          "time_created": 1735657915,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/AAcao2mKXL3vylefio6Sow/",
+          "url_suffix": ".jpg",
+          "width": 590,
+          "height": 1024,
+          "business_id": "uqjXkLJpgw16JCcBouCXkw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/uqjXkLJpgw16JCcBouCXkw?select=AAcao2mKXL3vylefio6Sow&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "feyr8vh-buXvNTQRrGs80w",
+          "type": "business",
+          "time_created": 1735657941,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/feyr8vh-buXvNTQRrGs80w/",
+          "url_suffix": ".jpg",
+          "width": 768,
+          "height": 1024,
+          "business_id": "uqjXkLJpgw16JCcBouCXkw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/uqjXkLJpgw16JCcBouCXkw?select=feyr8vh-buXvNTQRrGs80w&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 8
+    }
+  ],
+  "ad_business_search_result": [
+    {
+      "id": "yUKTMp4kF3RfEeQoq3zxtg",
+      "name": "First Watch",
+      "alias": "first-watch-orlando-12",
+      "address1": "1414 N Mills Ave",
+      "address2": "Ste 180",
+      "address3": "",
+      "city": "Orlando",
+      "zip": "32803",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 28.564499165389105,
+      "longitude": -81.36486045474507,
+      "review_count": 337,
+      "state": "FL",
+      "avg_rating": 4.0,
+      "unrounded_avg_rating": 3.8,
+      "neighborhoods": ["Lake Formosa", "Mills50"],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "1414 N Mills Ave, Ste 180, Orlando, FL 32803",
+          "short_form": "1414 N Mills Ave, Ste 180, Lake Formosa",
+          "cross_streets": "Lake Formosa"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "Pancakes",
+          "category_filter": "pancakes",
+          "is_restaurant": true
+        },
+        {
+          "name": "Sandwiches",
+          "category_filter": "sandwiches",
+          "is_restaurant": true
+        },
+        { "name": "Cafes", "category_filter": "cafes", "is_restaurant": true }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "4079855857",
+      "localized_phone": "+1-407-985-5857",
+      "dialable_phone": "+14079855857",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/cQgwqwPxoKupXV5ZOelQqA/ms.jpg",
+      "primary_photo": {
+        "id": "cQgwqwPxoKupXV5ZOelQqA",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/cQgwqwPxoKupXV5ZOelQqA/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "cQgwqwPxoKupXV5ZOelQqA",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/cQgwqwPxoKupXV5ZOelQqA/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "DXEqBz_0TDesIjYn9Y-DfQ",
+          "type": "business",
+          "time_created": 1748960141,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/DXEqBz_0TDesIjYn9Y-DfQ/",
+          "url_suffix": ".jpg",
+          "width": 1200,
+          "height": 1200,
+          "business_id": "yUKTMp4kF3RfEeQoq3zxtg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/yUKTMp4kF3RfEeQoq3zxtg?select=DXEqBz_0TDesIjYn9Y-DfQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "0heDEGqfC2HkKdufY0TH7w",
+          "type": "business",
+          "time_created": 1748960173,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/0heDEGqfC2HkKdufY0TH7w/",
+          "url_suffix": ".jpg",
+          "width": 1200,
+          "height": 1200,
+          "business_id": "yUKTMp4kF3RfEeQoq3zxtg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/yUKTMp4kF3RfEeQoq3zxtg?select=0heDEGqfC2HkKdufY0TH7w&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "DcmiEYcnXOkzIbJjOmI3Vg",
+          "type": "business",
+          "time_created": 1748960176,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/DcmiEYcnXOkzIbJjOmI3Vg/",
+          "url_suffix": ".jpg",
+          "width": 1200,
+          "height": 1200,
+          "business_id": "yUKTMp4kF3RfEeQoq3zxtg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/yUKTMp4kF3RfEeQoq3zxtg?select=DcmiEYcnXOkzIbJjOmI3Vg&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "e-t-hZEvYRcXX3ufSyuO_g",
+          "type": "business",
+          "time_created": 1748960180,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/e-t-hZEvYRcXX3ufSyuO_g/",
+          "url_suffix": ".jpg",
+          "width": 1200,
+          "height": 1200,
+          "business_id": "yUKTMp4kF3RfEeQoq3zxtg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/yUKTMp4kF3RfEeQoq3zxtg?select=e-t-hZEvYRcXX3ufSyuO_g&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 581
+    },
+    {
+      "id": "ziS25L0xcezPhgxMbuC0wg",
+      "name": "Superica",
+      "alias": "superica-winter-park",
+      "address1": "415 S Orlando Ave",
+      "address2": "Ste 211",
+      "address3": null,
+      "city": "Winter Park",
+      "zip": "32789",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 28.59524638344753,
+      "longitude": -81.36532391553712,
+      "review_count": 239,
+      "state": "FL",
+      "avg_rating": 4.5,
+      "unrounded_avg_rating": 4.5,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "415 S Orlando Ave, Ste 211, Winter Park, FL 32789",
+          "short_form": "415 S Orlando Ave, Ste 211, Winter Park"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "Mexican",
+          "category_filter": "mexican",
+          "is_restaurant": true
+        },
+        { "name": "Bars", "category_filter": "bars", "is_restaurant": false },
+        {
+          "name": "Breakfast & Brunch",
+          "category_filter": "breakfast_brunch",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "6893080262",
+      "localized_phone": "+1-689-308-0262",
+      "dialable_phone": "+16893080262",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/tAWFkW7XNRqW9WSD_tmR8g/ms.jpg",
+      "primary_photo": {
+        "id": "tAWFkW7XNRqW9WSD_tmR8g",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/tAWFkW7XNRqW9WSD_tmR8g/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "tAWFkW7XNRqW9WSD_tmR8g",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/tAWFkW7XNRqW9WSD_tmR8g/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "LZCc3wF3uGeK8aRuXi3IRw",
+          "type": "business",
+          "time_created": 1735587066,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/LZCc3wF3uGeK8aRuXi3IRw/",
+          "url_suffix": ".jpg",
+          "width": 960,
+          "height": 1439,
+          "business_id": "ziS25L0xcezPhgxMbuC0wg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/ziS25L0xcezPhgxMbuC0wg?select=LZCc3wF3uGeK8aRuXi3IRw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "ClV-AAQ5-QgZHeEF2T08tQ",
+          "type": "business",
+          "time_created": 1735587066,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ClV-AAQ5-QgZHeEF2T08tQ/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 1,
+          "width": 960,
+          "height": 1280,
+          "business_id": "ziS25L0xcezPhgxMbuC0wg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/ziS25L0xcezPhgxMbuC0wg?select=ClV-AAQ5-QgZHeEF2T08tQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "QFeLAC1jff6v9QadB0bQ1g",
+          "type": "business",
+          "time_created": 1735587066,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/QFeLAC1jff6v9QadB0bQ1g/",
+          "url_suffix": ".jpg",
+          "width": 960,
+          "height": 1185,
+          "business_id": "ziS25L0xcezPhgxMbuC0wg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/ziS25L0xcezPhgxMbuC0wg?select=QFeLAC1jff6v9QadB0bQ1g&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "GT5QxQ3p7cGpBak7yBtqcg",
+          "type": "business",
+          "time_created": 1735587066,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/GT5QxQ3p7cGpBak7yBtqcg/",
+          "url_suffix": ".jpg",
+          "width": 960,
+          "height": 1439,
+          "business_id": "ziS25L0xcezPhgxMbuC0wg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/ziS25L0xcezPhgxMbuC0wg?select=GT5QxQ3p7cGpBak7yBtqcg&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 543
+    },
+    {
+      "id": "DobMR3w0bnNTZNflExggCg",
+      "name": "H Flavs",
+      "alias": "h-flavs-orlando",
+      "address1": "18 N Dollins Ave",
+      "address2": "Ste K2",
+      "address3": "",
+      "city": "Orlando",
+      "zip": "32805",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 28.5425358,
+      "longitude": -81.40789360000001,
+      "review_count": 1,
+      "state": "FL",
+      "avg_rating": 5.0,
+      "unrounded_avg_rating": 5.0,
+      "neighborhoods": ["Horizons West / West Orlando", "John Young"],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "18 N Dollins Ave, Ste K2, Orlando, FL 32805",
+          "short_form": "18 N Dollins Ave, Ste K2, Horizons West / West Orlando",
+          "cross_streets": "Horizons West / West Orlando"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Caribbean",
+          "category_filter": "caribbean",
+          "is_restaurant": true
+        },
+        {
+          "name": "Comfort Food",
+          "category_filter": "comfortfood",
+          "is_restaurant": true
+        },
+        { "name": "Tacos", "category_filter": "tacos", "is_restaurant": true }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "4073491930",
+      "localized_phone": "+1-407-349-1930",
+      "dialable_phone": "+14073491930",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/9G4K5MXIaqO5FsGYPGNVTQ/ms.jpg",
+      "primary_photo": {
+        "id": "9G4K5MXIaqO5FsGYPGNVTQ",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/9G4K5MXIaqO5FsGYPGNVTQ/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "9G4K5MXIaqO5FsGYPGNVTQ",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/9G4K5MXIaqO5FsGYPGNVTQ/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "qXox8xOJt_HdM-En0d5k7A",
+          "type": "business",
+          "time_created": 1751985273,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/qXox8xOJt_HdM-En0d5k7A/",
+          "url_suffix": ".jpg",
+          "caption": "H FLAVS Shrimp Bao Buns",
+          "width": 1366,
+          "height": 2048,
+          "business_id": "DobMR3w0bnNTZNflExggCg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/DobMR3w0bnNTZNflExggCg?select=qXox8xOJt_HdM-En0d5k7A&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "WG9TGr0G2Yz6v7yIamnxsg",
+          "type": "business",
+          "time_created": 1751828993,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/WG9TGr0G2Yz6v7yIamnxsg/",
+          "url_suffix": ".jpg",
+          "caption": "Passion Fruit Wings are here!",
+          "width": 1600,
+          "height": 1388,
+          "business_id": "DobMR3w0bnNTZNflExggCg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/DobMR3w0bnNTZNflExggCg?select=WG9TGr0G2Yz6v7yIamnxsg&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "YaSVCktucruNedBQvO24JA",
+          "type": "business",
+          "time_created": 1751507774,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/YaSVCktucruNedBQvO24JA/",
+          "url_suffix": ".jpg",
+          "caption": "H FLAVS Creole Bao Buns",
+          "width": 2400,
+          "height": 1600,
+          "business_id": "DobMR3w0bnNTZNflExggCg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/DobMR3w0bnNTZNflExggCg?select=YaSVCktucruNedBQvO24JA&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 18
+    }
+  ]
+}

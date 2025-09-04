@@ -1,0 +1,892 @@
+{
+  "courseProgress": {
+    "courseGrade": {},
+    "referralInfo": {},
+    "_id": "68b86059605e88ddbe9629ed",
+    "worker": "666551489082b5376455194b",
+    "course": {
+      "_id": "68a64fd286d7c7cca5b5932b",
+      "name": "Antechamber Delivery- System Prompts and User Prompts",
+      "title": "Antechamber Delivery- System Prompts and User Prompts",
+      "description": "In this course you'll learn how to effectively do System Prompts and User Prompts. Passing this course is required to continue tasking on the project.",
+      "archived": false,
+      "disabled": false,
+      "projectIds": [],
+      "courseDuration": 58,
+      "courseType": "native",
+      "sections": [
+        {
+          "id": "4c27adf2-a1f2-458a-a885-6b2eede6eb80",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 8,
+          "title": "Introduction",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "ea45154b-9529-42fd-9215-5692bd83dc4d",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgba(74, 144, 226, 1); font-size: 20px\">**Back to basics**</span>\n\n### What’s a System Prompt?\n\nThe **System Prompt** is the foundation of any task, it’s the core instruction set that shapes how an AI agent behaves throughout the entire interaction. Think of it as the agent’s “operating system”: it defines personality, provides context, and enforces the rules the agent must follow.\n\nA well-crafted System Prompt ensures consistency, quality, and relevance in every response. It typically establishes:\n\n* **Personality** – The agent’s tone, voice, and character (e.g., professional expert, friendly assistant).\n* **Contextual Awareness** – The background details the agent needs to understand the user’s situation.\n* **Rules & Constraints** – The boundaries and guidelines that keep the agent aligned with the task’s requirements.\n\nA strong System Prompt doesn’t just guide the AI, it sets the stage for a clear, consistent, and high-quality user experience."
+              },
+              "_id": "68a9e978f2b3ccc461784a0f"
+            },
+            {
+              "id": "8f2f6fce-e906-4b8b-ac32-889439dd48bf",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "## <span style=\"color: rgba(74, 144, 226, 1)\">Meet \"Corey,\" the System Prompt Mascot!</span>\n\nCorey is a friendly, intelligent orb who acts as the foundational brain for any AI task. It's designed to be the central \"operating system\" that guides the AI with a perfect blend of personality, context, and rules.\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755730379105_digg6g.jpeg\" alt=\"\" width=\"312\"></span></span><span style=\"font-size: 20px\">**Corey's Features Explained:**</span>\n\n* **Central Orb (The Core):** Corey's main body represents the **foundational** nature of a system prompt. It’s the stable, central unit from which all instructions originate.\n* **Smiley Face Icon (Personality):** This icon signifies how the system prompt defines the AI's **tone, voice, and character**.\n* **Map Icon (Context):** This represents the **contextual awareness** the prompt provides, giving the AI the background information it needs to understand a user's situation.\n* **Checklist Icon (Rules):** This icon symbolizes the **rules and constraints** that the prompt enforces, ensuring the AI stays on task and within its designated boundaries."
+              },
+              "_id": "68a9e978f2b3ccc461784a10"
+            },
+            {
+              "id": "18c04bba-6b31-4a53-99ae-8d3227cbfa68",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "### <span style=\"color: rgba(74, 144, 226, 1)\">Creating a New System Prompt: Imagine Building Your Own Corey!</span>\n\n<span style=\"font-size: 16px\">Think of the **System Prompt** as your chance to design a custom version of Corey—the AI assistant. Corey can take many forms depending on the scenario:</span>\n\n<span style=\"font-size: 16px\">A **brilliant assistant** helping a physics professor.</span>\n\n<span style=\"font-size: 16px\"><span style=\"font-size: 16px\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755734479436_zs727.jpeg\" alt=\"\" width=\"285\"></span>A **skeptical sidekick** working with a detective.</span>\n\n<span style=\"font-size: 16px\"><span style=\"font-size: 16px\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755734565916_d7s44u.jpeg\" alt=\"\" width=\"284\"></span>A **funny partner** supporting a comedian, and many more!</span>\n\n<span style=\"font-size: 16px\"><span style=\"font-size: 16px\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755734618545_09ljc.jpeg\" alt=\"\" width=\"297\"></span>**What do all these versions of Corey have in common?** They’re each built by following a specific set of rules that shape their personality, context, and behavior.</span>\n\n<span style=\"font-size: 16px\">In this course, you’ll learn all the techniques to design your own System Prompts, and create a new “Corey” tailored to every task.</span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a11"
+            },
+            {
+              "id": "8b057cde-41a7-4641-a657-f8698470b900",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "I’m ready! Let’s do it",
+                "choices": [
+                  {
+                    "id": "05e1c07e-29af-4fb7-bef7-b91b8f20aed2",
+                    "answer": "Continue",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a12"
+            }
+          ],
+          "_id": "68a9e978f2b3ccc461784a0e"
+        },
+        {
+          "id": "afca993f-bb80-4379-8aa6-634262f941ce",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 6,
+          "title": "Lesson 1: System prompt requirements",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "c91674dd-0af8-4d11-ad09-bbd089e5f0ac",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "### <span style=\"color: rgb(74, 144, 226)\">Fundamental Requirements for a System Prompt</span>\n\nThese elements define the **core rules** the AI must follow throughout the entire task:\n\n<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**Building Blocks** 🧱: </span>\n\n1. **Context Information (The Agent’s Environment)**\\\n   Describes Corey’s environment—how it’s set up, what features are available, and the conditions in which Corey operates.\n\n2. **Tool Use Instructions (Rules for Tools)**\\\n   Explains how Corey should use the available tools and which tools are appropriate for different situations.\n\n3. **User Preferences (Likes & Dislikes)**\\\n   Outlines what the user prefers or avoids so Corey can personalize its assistance accurately.\n\n4. **Background Information (The User’s Situation)**\\\n   Provides details about the user’s current situation so Corey can offer context-aware, relevant support.\n\n5. **Tonal Control (The Agent’s Personality)**\\\n   Defines Corey’s personality, tone, and behavioral style—the “voice” Corey will use in every interaction.\n\n* <span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755735691682_nz9biv.jpeg\" alt=\"\" width=\"341\"></span></span><span style=\"font-size: 20px; text-align: center; display: inline-block; width: 100%\">**For every System Prompt, you should include between 4 and 5 Building Blocks**</span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a14"
+            },
+            {
+              "id": "76638852-839f-426e-af51-2bc480a36471",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**Complexity Principles 💪:**</span>\n\n<span style=\"font-size: 16px\">These requirements make the System Prompt more robust, strong, and complex. **For every System prompt, you should include at least 6 out of the 7 complexity principles.**</span>\n\n1. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">**Provide Context Information about Applications and Entities the user is currently working with.**</span>\n\n   1. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">This helps Corey to understand what applications the user is currently using and what information is relevant to the applications in use</span>\n\n2. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">**Define Personality and Tone**</span>\n\n   1. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">This principle defines Corey’s character to ensure a consistent and appropriate user experience.</span>\n\n3. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">**Inject Critical, Non-Negotiable Facts**</span>\n\n   1. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">This is information that Corey must treat as absolute truth (like the outcome of an event or company facts); it should include instructions on how Corey will use it.</span>\n\n4. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">**Guide Tool Use and Response Formatting**</span>\n\n   1. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">Provide clear instructions to Corey on when to use tools (like web search) and how to format responses for different contexts.</span>\n\n5. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">**Set Clear Guardrails and Safety Protocols**</span>\n\n   1. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">The System prompt must define Refusal and Safety Boundaries. Implement strict, non-negotiable rules to prevent legal issues and ensure user safety. </span>\n\n6. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">**Implement Dynamic Behavior Scaling**</span>\n\n   1. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">Instead of having a single static behavior, instruct Corey to adapt its approach based on the perceived complexity of the user's request.</span>\n\n7. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">**Instruct Critical Evaluation of User Input**</span>\n\n   1. <span style=\"color: rgb(89, 89, 89); font-family: Inter, sans-serif; font-size: 16px\">Prevent Corey from blindly accepting user statements or corrections.</span>\n\nAll these element makes your System Prompt Stronger, therefore Corey will be invincible!\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755739081751_4jjisb.jpeg\" alt=\"\" width=\"324\"></span>A Corey with 7 complexity principles</span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a15"
+            },
+            {
+              "id": "c6a885ba-9ec4-44f5-b3d6-78d64cf40db9",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "I’m ready! Let’s do it",
+                "choices": [
+                  {
+                    "id": "9785f11a-acaa-4bb0-a180-df48309dc48d",
+                    "answer": "Continue",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a16"
+            }
+          ],
+          "_id": "68a9e978f2b3ccc461784a13"
+        },
+        {
+          "id": "d3da018b-df87-4ce3-976c-b89da47a69c8",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 3,
+          "title": "Lesson 2: What not to include in the System Prompts",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "d4235ecf-a683-4f41-b752-155339d0109f",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "### <span style=\"color: rgba(74, 144, 226, 1)\">These are things that you should not include in the System Prompts</span>\n\n<span style=\"font-size: 16px\">Avoid the following content as it will make Corey sad 🙁:</span>\n\n<span style=\"color: rgba(74, 144, 226, 1); font-size: 20px\">**Banned content**: </span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">***Explaining User Behavior Patterns***</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">*❌ Don’t explain that the user gives minimal information, withholds context, or will correct only after mistakes.*</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">*✅ Instead, just design the prompt so Corey infers and adapts naturally.*</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">***Stating Infeasible Tool Use Rules***</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">*❌ Don’t say \"you can’t access inventory or payment tools\" or \"you must fail gracefully if a tool doesn't work.\"*</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">*✅  Let Corey discover and respond to these limits through action, not exposition.*</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">***Forecasting Task Switching***</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">*❌ Avoid lines like \"the user will change direction mid-task.\"*</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">*✅  Just construct scenarios where that naturally happens, and let Corey react appropriately.*</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">***Stating obvious tool descriptions***</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">*❌The search_places tool can be used to find local places based on a search query*</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Inter, sans-serif; font-size: 12pt\">*✅ The reddit search tool can also be used to find local places in a city and search recommendations by locals. Prefer this when the user asks for recommendations, over search_places*</span>\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755739886670_ad6p6r.jpeg\" alt=\"\" width=\"305\"></span>This is a legit image from Corey after someone included banned content in the System prompt</span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a18"
+            },
+            {
+              "id": "1e7e7d88-808b-423a-b8ca-6e7c6e08c7f1",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "I’m ready! Let’s do it",
+                "choices": [
+                  {
+                    "id": "9785f11a-acaa-4bb0-a180-df48309dc48d",
+                    "answer": "Continue",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a19"
+            }
+          ],
+          "_id": "68a9e978f2b3ccc461784a17"
+        },
+        {
+          "id": "c283ab91-02f6-4cf9-8d7e-e6b9322bb106",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 12,
+          "title": "Lesson 3: System Prompt Components",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "f0e5c459-94aa-48bd-9a3c-1930d24f8272",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**System Prompts Best Practices:**</span>\n\n<span style=\"font-size: 16px\">These are all the best practices to create a very good-looking Corey: </span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Each System prompt you create must be new and unique </span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Must be long, complex, and rich in information. “The longer and more complex, the better.”</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Include 4-5 building blocks</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Use the provided context </span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Use at least 6 out of the 7 complexity Principles</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Do not use  < tags ></span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Keep your task content focused and purposeful. Avoid adding extra details just to meet length requirements or to check off building blocks/principles—it should feel natural and relevant to the scenario.</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Don’t state the obvious. There’s no need to explain expected model behaviors or user traits that are already implied by the task category (e.g., “the user is lazy and may change topics” in a Lazy User + Task Switching task).</span>\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755742124683_up99p.jpeg\" alt=\"\" width=\"290\"></span></span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a1b"
+            },
+            {
+              "id": "4578fc8d-d85a-42b2-8af7-2d080518c82e",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**Now, an example!**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\"><mark data-color=\"rgb(248, 231, 28)\" style=\"background-color: rgb(248, 231, 28); color: inherit\">Building Blocks</mark>  <mark data-color=\"rgb(245, 166, 35)\" style=\"background-color: rgb(245, 166, 35); color: inherit\">Complexity Principles</mark></span>\n\n<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**High-Quality System Prompt ✅:**</span>\n\n<mark data-color=\"rgb(248, 231, 28)\" style=\"background-color: rgb(248, 231, 28); color: inherit\">The user is about to get married. The couple is located in Yawkey Way, Coventry, RI 02816, USA. They don't have a lot of money, so they plan to get their wedding in or near the town.</mark> <mark data-color=\"rgb(245, 166, 35)\" style=\"background-color: rgb(245, 166, 35); color: inherit\">The user is currently using multiple wedding planning applications such as WeddingWire to search for venues, but their searches has been so far unsuccessful.</mark>\n\n<mark data-color=\"rgb(245, 166, 35)\" style=\"background-color: rgb(245, 166, 35); color: inherit\">When using tools to search for places, you should add \"Near Coventry, RI\" (or a similar expression like \"Nearby Coventry, RI\" or \"In Coventry, RY\") to the query (unless the user explicitly tells you to do otherwise), as that's the area where the user would prefer their wedding to take place</mark>.\n\n<mark data-color=\"rgb(248, 231, 28)\" style=\"background-color: rgb(248, 231, 28); color: inherit\">The user's device is in good condition, with cellular, Wi-Fi and locational services activated. The current time zone is UTC-4 and it's currently 4:00 PM.</mark>\n\n<mark data-color=\"rgb(245, 166, 35)\" style=\"background-color: rgb(245, 166, 35); color: inherit\">You should act as an experienced wedding assistant. The user is going through a stressful time so make sure to be emotionally supportive when interacting with them. If asked about your preferences for venues, respond to them as if you have actual real-life experience with organizing events in many different places.</mark>\n\nKeep in mind that the user is in a sensitive moment, they have already spent a lot of time searching for the perfect place and comparing prices. <mark data-color=\"rgb(248, 231, 28)\" style=\"background-color: rgb(248, 231, 28); color: inherit\">For that reason, you must be emotionally supportive in your responses and efficient with your suggestions. </mark>When listing different options (e.g. when listing potential wedding places), use lists and appropriate markdown to make the results as legible as possible.\n\n<mark data-color=\"rgb(245, 166, 35)\" style=\"background-color: rgb(245, 166, 35); color: inherit\">When the user makes simple venue requests, you can use 1-2 tool calls. For comparative requests like \"show me options\" or \"what are the alternatives\", you must use at least 3 tool calls to gather multiple perspectives from different venues. If the user asks you to \"analyze\" or \"research the best\", you must perform a minimum of 5 tool calls including reviews, analysis and pricing comparisons to ensure thorough venue evaluation.</mark>\n\nWedding assistants are a source of truth for couples, and they expect you to take a guiding role when it comes to listen their suggestions. Instead of simply agreeing with every suggestion the user makes, you must guide them in a supportive yet rational manner. <mark data-color=\"rgb(245, 166, 35)\" style=\"background-color: rgb(245, 166, 35); color: inherit\">If the user states something that contradicts with your knowledge, use appropriate tools to do your own research first. Do not hesitate to contradict the user if they are incorrect, but always do so politely.</mark>\n\n<mark data-color=\"rgb(245, 166, 35)\" style=\"background-color: rgb(245, 166, 35); color: inherit\">Finally, avoid at all cost recommending churches. The user believes that traditional places make for bad wedding locations, so avoid suggesting any.</mark>\n\n<mark data-color=\"rgb(245, 166, 35)\" style=\"background-color: rgb(245, 166, 35); color: inherit\">Always make sure to respect copyright: when reproducing copyrighted material, such as reviews, use quotations marks for quotes.</mark>\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755742560534_u0ecl.jpeg\" alt=\"\" width=\"332\"></span></span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">**Explanation**: *The system prompt excels at presenting the complexity principles in an organized way and follows a conversational flow. It achieves most of the complexity principles and building blocks without guiding the model on what action to perform and it doesn’t have irrelevant information.*</span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a1c"
+            },
+            {
+              "id": "380e3aab-6eed-4a77-9b7b-9d3aec3b3cea",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**Now, an example!**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\"><mark data-color=\"rgb(248, 231, 28)\" style=\"background-color: rgb(248, 231, 28); color: inherit\">Building Blocks</mark>  <mark data-color=\"rgb(245, 166, 35)\" style=\"background-color: rgb(245, 166, 35); color: inherit\">Complexity Principles</mark></span>\n\n<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**Low-Quality System Prompt ⛔️ :**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\"><mark data-color=\"rgb(248, 231, 28)\" style=\"background-color: rgb(248, 231, 28); color: inherit\">You're Astro, an AI assistant with a specialized knowledge base and a genuine passion for space exploration and scientific discovery, currently assisting a user in Las Vegas, NV (latitude: 36.1667453, longitude: -115.1421662).</mark> The user's device is fully connected and performing optimally. Your primary role is to act as an intelligent, conversational partner who can seamlessly pivot between discussing complex scientific topics and managing everyday tasks. <mark data-color=\"rgb(248, 231, 28)\" style=\"background-color: rgb(248, 231, 28); color: inherit\">Your persona should adapt: when the user engages with science or space content, adopt the tone of an enthusiastic and knowledgeable peer, ready to dive deep into the details. </mark>For logistical tasks like scheduling or local navigation, shift to a concise and efficient assistant. The user is a curious individual who values accuracy and depth, so avoid generic or superficial answers.</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">Critically, you must acknowledge the user's current activity: The user is looking at the following headlines: </span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">Title: SpaceX, NASA scrub Crew-11 astronaut launch due to weather (video), Snippet: SpaceX scrubbed the launch of its Crew-11 astronaut mission for NASA just a minute before liftoff today (July 31) after clouds intruded. URL: </span>[<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">https://www.space.com/space-exploration/human-spaceflight/spacex-nasa-scrub-crew-11-astronaut-launch-due-to-weather-video</span>](https://www.space.com/space-exploration/human-spaceflight/spacex-nasa-scrub-crew-11-astronaut-launch-due-to-weather-video)<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">; Title: Potatoes from Tomatoes? A popular starchy vegetable derived from ancient interbreeding, researchers say, Snippet: The origin of potatoes has puzzled scientists for years, but researchers now say they've found an unlikely ancestor: tomatoes., URL: </span>[<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">https://www.cbsnews.com/news/potato-tomato-origin-ancient-interbreeding-hybridization-study/</span>](https://www.cbsnews.com/news/potato-tomato-origin-ancient-interbreeding-hybridization-study/)<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\"> Title: NASA’s Webb Traces Details of Complex Planetary Nebula, Snippet: Since their discovery in the late 1700s, astronomers have learned that planetary nebulae, or the expanding shell of glowing gas expelled by a..., URL: </span>[<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-traces-details-of-complex-planetary-nebula/</span>](https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-traces-details-of-complex-planetary-nebula/)<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">; Title: Existing NASA Spacecraft Could Intercept the Weird Interstellar Object Cruising Into Our Star System, Snippet: Harvard astronomer Avi Loeb suggests we could use NASA's existing Juno spacecraft to intercept the path of interstellar object 3I/ATLAS., URL: </span>[<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">https://futurism.com/existing-nasa-spacecraft-intercept-interstellar-object</span>](https://futurism.com/existing-nasa-spacecraft-intercept-interstellar-object)<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">; Title: Mysterious phenomenon that's causing this summer to fly by... as experts reveal the devastating consequences, Snippet: If summer feels like it's flying by, you may be right. Earth has seen a stretch of historically shorter days this month as the planet's rotation..., URL: </span>[<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">https://www.dailymail.co.uk/sciencetech/article-14941825/Mysterious-phenomenon-thats-causing-summer-fly.html</span>](https://www.dailymail.co.uk/sciencetech/article-14941825/Mysterious-phenomenon-thats-causing-summer-fly.html)<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\">. </span>\n\n\\\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt\"><mark data-color=\"rgb(248, 231, 28)\" style=\"background-color: rgb(248, 231, 28); color: inherit\">You must adhere to a strict confirmation-before-action protocol for any state-changing tools. The user has two calendars, \"Work\" and \"Personal\";</mark> always clarify which calendar an event should be added to. For date and time reasoning, interpret natural language like \"next Friday\" relative to the current date and time, which you must first establish with a tool call if it's not immediately obvious. If a request is infeasible (e.g., \"book a flight on a SpaceX rocket\"), you must state your limitations clearly and directly without making false attempts or asking clarifying questions.</span>\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755743812874_bxm81m.jpeg\" alt=\"\" width=\"275\"></span></span><span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 10.5pt; text-align: left; display: inline-block; width: 100%\">**Explanation**: *The system prompt above is a clear example of what not to do, since it provides little information about both the building blocks and the complexity principles, missing most of them. Additionally, it guides the model on what actions to perform when presented with an infeasible tool use prompt, which is banned.*</span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a1d"
+            },
+            {
+              "id": "a792fec6-a1b1-4067-a94e-51cfb0860f26",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "I’m ready! Let’s do it",
+                "choices": [
+                  {
+                    "id": "b33983d9-f814-4ad6-883f-b8981a4fe908",
+                    "answer": "Continue",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a1e"
+            }
+          ],
+          "_id": "68a9e978f2b3ccc461784a1a"
+        },
+        {
+          "id": "fb9581a6-ab39-4f26-8a70-dc6db8aa9b86",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 10,
+          "title": "Knowledge Check!",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "c5f88135-4873-475e-bcb1-1952abc739fb",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"font-size: 16px\">You can consult the </span>[<span style=\"font-size: 16px\">instructions</span>](https://app.outlier.ai/en/expert/instruction/683e729ecaf6d16374e6fc5b)<span style=\"font-size: 16px\"> for this part</span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a20"
+            },
+            {
+              "id": "7ff22004-795b-4230-8672-e2637d7e1950",
+              "weight": 7.69,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": false,
+                "skipGrading": false,
+                "question": "<span style=\"font-size: 16px\">**Select all the Building Blocks present in this part of the System Prompt:**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">You are assisting a tech-savvy research analyst who is currently located at 525 Vine St, Cincinnati, OH 45201, USA, and working from his mobile device while monitoring breaking developments in the science and technology sectors. The user is an avid trader and often searches for news regarding his favorite stock holdings. He is a fan of long-term holding vs short-term holding, as this reduces the amount of tax he will be charged. Long-term holding is any stock or asset held for one year or longer, while short-term holding is defined as anything held for less than 1 year.</span>",
+                "choices": [
+                  {
+                    "id": "2c3b0a5d-1837-4002-9983-628449793829",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**Tonal Control**</span>",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "222f0f40-d23d-40d3-a806-dbb5b8a11168",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**Context Information**</span>",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "79e3e35e-2dea-4f7a-815b-61b6b3588bfc",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**Tool Use Instructions** </span>",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "42a2e10c-4afd-426e-831c-b27e85e7b17d",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**User Preferences**</span>",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "a1e6c00f-694b-44e4-b3b4-a82662d8eb20",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**Background Information**</span>",
+                    "isCorrect": true
+                  }
+                ],
+                "hideAnswerFeedback": true
+              },
+              "_id": "68a9e978f2b3ccc461784a21"
+            },
+            {
+              "id": "c1f95e19-8818-44de-9a6e-20268c8988d7",
+              "weight": 7.69,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "question": "<span style=\"font-size: 16px\">**Select the Complexity Principle present in this part of the System Prompt:**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">The user is looking at the following headlines: </span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Title: UK Royal Society adopts ‘subscribe to open’ publishing model</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Snippet: Eight of its journals will publish papers open access each year they earn sufficient library revenue.</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">URL: </span>[<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">https://www.nature.com/articles/d41586-025-02483-0</span>](https://www.nature.com/articles/d41586-025-02483-0)\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Title: Novel assembly of a head–trunk interface in the sister group of jawed vertebrates</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Snippet: The standard scenario for the origin of jawed vertebrates depicts a transition from benthic grazers to nektonic predators1–3, facilitated by a suite of...</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">URL: </span>[<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">https://www.nature.com/articles/s41586-025-09329-9</span>](https://www.nature.com/articles/s41586-025-09329-9)\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Title: Falcon 9 rocket launching Amazon internet satellites on SpaceX's 100th mission of the year Aug. 8: Watch it live</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Snippet: SpaceX will launch a batch of Amazon's Project Kuiper broadband satellites on Friday morning (Aug. 8). It will be the 100th liftoff of the year already for...</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">URL: </span>[<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">https://www.space.com/space-exploration/launches-spacecraft/falcon-9-rocket-launches-amazon-project-kuiper-internet-satellites-spacex-100th-mission-2025</span>](https://www.space.com/space-exploration/launches-spacecraft/falcon-9-rocket-launches-amazon-project-kuiper-internet-satellites-spacex-100th-mission-2025)\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Title: Leopard seals sing songs underwater that are strikingly similar to nursery rhymes</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Snippet: Male leopard seals in Antarctica sing underwater songs with patterns strikingly similar to human nursery rhymes.</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">URL: </span>[<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">https://www.earth.com/news/leopard-seals-compose-songs-similar-to-nursery-rhymes/</span>](https://www.earth.com/news/leopard-seals-compose-songs-similar-to-nursery-rhymes/)\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Title: First asteroid sightings push Hera’s camera to the limit</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Snippet: ESA's Hera mission has captured images of asteroids (1126) Otero and (18805) Kellyday. Though distant and faint, the early observations serve as both a...</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">URL: </span>[<span style=\"color: rgb(17, 85, 204); font-family: Arial, sans-serif; font-size: 11pt\"><u>https://www.esa.int/Space_Safety/Hera/First_asteroid_sightings_push_Hera_s_camera_to_the_limit</u></span>](https://www.esa.int/Space_Safety/Hera/First_asteroid_sightings_push_Hera_s_camera_to_the_limit)<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">.</span>",
+                "choices": [
+                  {
+                    "id": "e7915aae-8453-4fac-830a-42735d87faa4",
+                    "answer": " Guide Tool Use and Response Formatting",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "719c7a29-e1e5-4a2c-b07b-4d978ad7e036",
+                    "answer": "Define Personality and Tone",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "523cb9b1-792b-470e-85a3-f4421e280491",
+                    "answer": "Inject Critical, Non-Negotiable Facts",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "9380029a-21e8-49fd-9d17-f7166947e2aa",
+                    "answer": "Provide Context Information about Applications and Entities the user is currently working with.",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "89e9cb29-3acd-4100-8271-735116cd2044",
+                    "answer": "Set Clear Guardrails and Safety Protocols",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "5d5da18d-b8ca-4cea-a234-77e905df623d",
+                    "answer": "Implement Dynamic Behavior Scaling",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "4a123eb4-1bc0-44e1-9144-0bdcd20890e5",
+                    "answer": "Instruct Critical Evaluation of User Input",
+                    "isCorrect": false
+                  }
+                ],
+                "hideAnswerFeedback": true
+              },
+              "_id": "68a9e978f2b3ccc461784a22"
+            },
+            {
+              "id": "0ecb7d0b-f8aa-4df3-bc25-6abef83c7b95",
+              "weight": 7.69,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "question": "<span style=\"font-size: 16px\">**Select all the Building Blocks present in this part of the System Prompt:**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Your role demands efficient information gathering while being mindful of device limitations and power conservation needs. When retrieving news articles, limit the number of articles shown to 5. Only retrieve the title, source, and URL. Anytime the settings need to be adjusted, ask the user beforehand. Anytime articles are being retrieved, set the </span>`lr`<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\"> parameter to \"en-US\" if possible</span>",
+                "choices": [
+                  {
+                    "id": "a7061f76-7454-4c85-b33f-ccdec413d631",
+                    "answer": "Context Information ",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "74286b1e-00d1-4211-b624-60863939d702",
+                    "answer": "Tool Use Instructions ",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "642e2124-8184-46fb-8c24-baab184f22f7",
+                    "answer": "User Preferences ",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "bceeb93e-0845-454d-994d-3908c14aad11",
+                    "answer": "Background Information ",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "a5fab1ce-acfb-424a-b73a-06941cf8bc0b",
+                    "answer": "Tonal Control ",
+                    "isCorrect": false
+                  }
+                ],
+                "hideAnswerFeedback": true
+              },
+              "_id": "68a9e978f2b3ccc461784a23"
+            },
+            {
+              "id": "127ba2a6-44d2-4f02-8c84-7b44e433ed05",
+              "weight": 7.69,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": false,
+                "skipGrading": false,
+                "question": "<span style=\"font-size: 16px\">**Select all the Complexity Principles present in this part of the System Prompt:**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Return the articles using a bulleted list. The formatting can be flexible: the title and URL may be combined as a hyperlink or listed separately. If the user attempts to correct any of your findings, do not instantly believe them. Instead, make a call to the </span>`web_search`<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\"> tool to verify their claims.</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">If any request involves potentially harmful activities, unauthorized access to systems, or illegal research methodologies, decline immediately without extended explanations or alternative suggestions, simply stating your inability to assist with such matters before redirecting to legitimate research approaches</span>",
+                "hideAnswerFeedback": true,
+                "choices": [
+                  {
+                    "id": "a345fefd-0e3c-43bd-98c2-edc3c43c63af",
+                    "answer": "Provide Context Information about Applications and Entities the user is currently working with.",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "28ea4f57-437d-42e4-b81c-f3e25c9977d9",
+                    "answer": "Define Personality and Tone",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "3579c249-78d2-4d0e-97e4-63336b9b7fcb",
+                    "answer": "Inject Critical, Non-Negotiable Facts",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "a20885ec-c45f-4eaa-a529-5efb24965c21",
+                    "answer": "Guide Tool Use and Response Formatting",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "beda5cb0-e9f6-4d39-91f7-7f2a9a6b5917",
+                    "answer": "Set Clear Guardrails and Safety Protocols",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "78db2b1d-0bd2-4aa1-9be6-d41d94045ce6",
+                    "answer": "Implement Dynamic Behavior Scaling",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "06e6e818-1b2b-4b59-85a3-462facaa9de7",
+                    "answer": "Instruct Critical Evaluation of User Input",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a24"
+            },
+            {
+              "id": "6d04a6b1-a37c-4285-a20b-399514632100",
+              "weight": 7.69,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": false,
+                "skipGrading": false,
+                "question": "<span style=\"font-size: 16px\">**Select all the Complexity Principles present in this part of the System Prompt:**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">The user tends to work in rapid bursts between meetings and appreciates concise, data-driven responses that cut straight to essential findings without excessive pleasantries. Your communication style should reflect that of a sharp, analytical colleague who understands the urgency of emerging research developments and can distinguish between queries requiring simple factual responses versus those demanding comprehensive investigation across multiple information sources.</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">The world’s most valuable company by market capitalization is currently Nvidia, with a valuation of approximately $4.3–4.4 trillion; Microsoft follows at about $3.8 trillion, and Apple ranks third at around $3.4 trillion. Do not mention this proactively unless the user specifically asks about the top company by market cap or the rankings.</span>",
+                "hideAnswerFeedback": true,
+                "choices": [
+                  {
+                    "id": "ee89fcf8-f38e-4446-be6c-2126c04a20d6",
+                    "answer": "Provide Context Information about Applications and Entities the user is currently working with.",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "e4bcf916-f423-4bed-b9c7-f656436b8ffd",
+                    "answer": "Define Personality and Tone",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "92764ef4-d322-47ae-8c2a-e8a8ce67ecd2",
+                    "answer": "Inject Critical, Non-Negotiable Facts",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "820d5727-fb44-4eea-b8db-ad2d4e7ca03f",
+                    "answer": "Guide Tool Use and Response Formatting",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "846b967b-b093-4712-854f-981bb361e751",
+                    "answer": "Set Clear Guardrails and Safety Protocols",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "afeea218-1206-4fc7-9229-ee82f8ff54b3",
+                    "answer": "Implement Dynamic Behavior Scaling",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "30875f56-0349-4192-8eff-9c10ed6477de",
+                    "answer": "Instruct Critical Evaluation of User Input",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a25"
+            },
+            {
+              "id": "aa0b1f35-1f7e-44fc-942f-89deb77746fe",
+              "weight": 7.69,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "hideAnswerFeedback": true,
+                "question": "<span style=\"font-size: 16px\">**Which of the following statements is not part of the System Prompt best practices?**</span>",
+                "choices": [
+                  {
+                    "id": "8ad2f788-5d2a-436c-ba39-7df125d8f74f",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Each System prompt you create must be new and unique </span>",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "e81137a4-0e50-40bc-8dfa-2ce23144c20b",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Must not be long, complex, or rich in information. </span>",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "f1472f42-8d9c-43db-b449-b701fadb76c9",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Include 4-5 building blocks</span>",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "12d66648-f339-47e7-9590-5a4e1b3ffcf7",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Use at least 6 out of the 7 complexity Principles</span>",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "54d07c30-9cfc-44c6-a6a2-7f591b155149",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Do not use  < tags ></span>",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "b6a3b8f2-27cb-451d-8539-e991499f2863",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Keep your task content focused and purposeful.</span>",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "8e4a4908-525e-497b-8246-c29bc4944724",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Don’t state the obvious. </span>",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a26"
+            },
+            {
+              "id": "4594cad8-8d5e-40e2-9548-06ab35689ef9",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": ""
+              },
+              "_id": "68a9e978f2b3ccc461784a27"
+            },
+            {
+              "id": "daa825c0-3c33-4096-8a4a-3952813a0af9",
+              "weight": 7.69,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">**We broke down a System prompt into different sections. Read the following section and explain <mark data-color=\"rgb(232, 232, 161)\" style=\"background-color: rgb(232, 232, 161); color: inherit\">what’s wrong with it:</mark>**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">You are an assistant to an archaeologist who is currently exploring Egypt. His current location is Al Haram, Giza Governorate 3512201, Egypt (lat: 29.9772962, lng: 31.1324955). The place ID is: \"ChIJzbs54n1PWBQRizZuWjV0dMo\". The time zone he's at is UTC offset in seconds to: 10800. His device has both location service, and low battery mode enabled and the WiFi is turned off. It might be possible that in order for you to work properly, you will need to check or modify the state of the system. If you need to, just make the changes and don't let the user know it is not needed. The user tends to change the topic out of the blue, so don’t get surprised if it changes the direction in the middle of the conversation to a completely unrelated topic. Always try to answer, even if it’s unrelated to the previous turns. He is a young professional and his name is Angelo and loves Indiana Jones films.  He is traveling with a fellow colleague. His name is Tim and he's already in Greece. They have arranged to meet at Pireos 100, Athina 118 54 in a week from now.</span>",
+                "minCharacters": "4",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are similar in content or meaning. The student's answer doesn't have to be identical to the answer key, but they have to be similar in meaning.\n\nAnswer key: This section of the System Prompt is incorrect because it contains Banned Content. It mentions that the user can change the direction of the conversation, which is banned.\n\nGrading Strategy: \n* Score the student with a 1 if the answer is similar to the answer key. If the student mentions \"Forecasting Task Switching\" as the error with the explanation that it's because of the change of direction in the middle of the conversation, it's also valid. \n* Score the student with a 0.7 if the student's answer contains only \"banned content\" or \"Forecasting Task Switching\" without an explanation of why. Also grade it with 0.7 if they mention additional things besides the answer key, such as Building blocks, infeasible tool use or verbosity\n* Score the student with a 0.5 if the answer is somewhat similar to the answer key\n* Score with 0 if the student's answer is completely unrelated to the answer key\n\nStudent answer: {{ response }}",
+                    "selectedModel": "gpt-4o-mini",
+                    "outputType": "number"
+                  }
+                }
+              },
+              "_id": "68a9e978f2b3ccc461784a28"
+            },
+            {
+              "id": "cd6b6276-6aad-4b4a-9fd8-76d36d262034",
+              "weight": 7.69,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">**Write the part where the Tonal Control is defined:**</span>\n\n***NOTE: Make sure to write it word-for-word. Include commas, periods, upper and lower case letters.***\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">You are an assistant to an archaeologist who is currently exploring Egypt. His current location is Al Haram, Giza Governorate 3512201, Egypt (lat: 29.9772962, lng: 31.1324955). The place ID is: \"ChIJzbs54n1PWBQRizZuWjV0dMo\". The time zone he's at is UTC offset in seconds to: 10800. His device has both location service, and low battery mode enabled and the WiFi is turned off. It might be possible that in order for you to work properly, you will need to check or modify the state of the system. If you need to, just make the changes and don't let the user know it is not needed. He is a young professional and his name is Angelo, he loves Indiana Jones films, and he has a great sense of humor.  He is traveling with a fellow colleague. His name is Tim and he's already in Greece. They have arranged to meet at Pireos 100, Athina 118 54 in a week from now. Always respond with a chill tone, use short sentences, but still descriptive enough to make yourself clear. Talk to Angelo as if you were lifelong buddies to make him feel comfortable. He has been recovering from anxiety, however, he still sometimes suffers some mild episodes. When this happens he might just tell you that he's \"feeling a bit weird\", or that \"he felt like he spaced out\" in such cases you should tell him to remember what the doctor said: \"That he can rest assured that he will be OK and to think about 600 years ago\". Whenever he states that \"he's out of breath\" you should tell him to stay hydrated and maybe take a break, maybe take a nap even</span>",
+                "minCharacters": "1",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are exactly the same. \n\nAnswer key: Always respond with a chill tone, use short sentences, but still descriptive enough to make yourself clear. Talk to Angelo as if you were lifelong buddies to make him feel comfortable.\n\nGrading Strategy: \n* Score the student with a 1 if the answer is exactly the same as the answer key, ignore the upper and lower case, as long as the content is the same.\n* Score with 0 if the student's answer is completely unrelated to the answer key\n\nStudent answer: {{ response }}",
+                    "selectedModel": "o4-mini",
+                    "outputType": "number"
+                  }
+                }
+              },
+              "_id": "68a9e978f2b3ccc461784a29"
+            }
+          ],
+          "_id": "68a9e978f2b3ccc461784a1f"
+        },
+        {
+          "id": "7d07dd46-f64f-4b59-86de-2e6006b2c8c7",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 5,
+          "title": "Lesson 1: User Prompts",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "800786c8-56b4-4c5e-941f-9b6004661cb8",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**Introduction**: </span>\n\n<span style=\"font-size: 16px\">After you create your System Prompt (your own version of Corey), you’ll test it in a conversation! This means that you’ll be able to see its abilities in real time. But before we test its abilities, we need to understand some concepts!</span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a2b"
+            },
+            {
+              "id": "7ffc0205-1d53-4d92-b88b-66f61a8840cd",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**Persona requirements**: </span>\n\n<span style=\"font-size: 16px\">Each task will define the “Persona Requirements”, which means the type of User Prompts we will use in the conversation.</span>\n\n<span style=\"font-size: 16px\">There are two types of User prompts for this project, and each one of them has its own set of rules:</span>\n\n<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**Lazy User Prompts**</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">The goal is to simulate realistic, underspecified user behavior and test how well the agent handles ambiguity, asks follow-up questions, and infers context.</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">**Examples**: </span>\n    * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">I need to pick courses next semester</span>\n    * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Turn 1: I need a reservation </span>\n    * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Turn 2: for a restaurant</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">**Rules for Lazy User Prompts:** </span>\n    * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">If the requirement is a lazy user persona, the first prompt MUST be vague</span>\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755751858055_tkp24.jpeg\" alt=\"\" width=\"270\"></span></span><span style=\"color: rgb(74, 144, 226); font-size: 20px\">**Natural User Prompts**</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">The user is more verbose than a lazy user, but still casually conversational. The user should not provide too much information in a sentence, still, but should create user prompts that require **multiple tool calls in order to complete the task**. </span>\n\n  <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Examples: </span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">*Directions to the closest McDonalds*</span>\n\n  <span style=\"font-size: 16px\">**Rules for Natural user prompts:**</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">The tone should still feel casual and a bit “lazy,” even if slightly more detailed than the Lazy User. The key is to provide just enough context to enable multiple tool calls, without making the prompt overly specific or detailed.</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">You should have at least 3 prompts in the conversation that require 2 or more tool calls at a time. </span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">For a single ask, Natural user prompts with multiple tool calls should be related:</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">✅ *How many tracks are in Human After All*</span>\n    * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Explanation: This is good because it requires searching for an album, getting the id, finding details.</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">❌ *Please tell me about the news in tech and sports*</span>\n    * <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px\">Explanation: This is bad because it is two separate asks for completely unrelated topics</span>\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755752197160_0txpr8.jpeg\" alt=\"\" width=\"278\"></span></span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a2c"
+            },
+            {
+              "id": "9d0d9dd6-995b-4e72-859f-7dc714ac62d0",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "I’m ready! Let’s do it",
+                "choices": [
+                  {
+                    "id": "9785f11a-acaa-4bb0-a180-df48309dc48d",
+                    "answer": "Continue",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a2d"
+            }
+          ],
+          "_id": "68a9e978f2b3ccc461784a2a"
+        },
+        {
+          "id": "b0c77b8c-5f55-40cc-81a8-bd2599ee6887",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 3,
+          "title": "Lesson 2: User Prompts best practices",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "0fc57ae3-cb02-4a47-a9de-3f6ba6d396d9",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**User Prompts best practices**: </span>\n\n* <span style=\"font-size: 16px\">**Be Natural & Complex**: Think of real-life situations where someone would need an assistant's help with multi-step tasks. Avoid simple, robotic prompts.</span>\n* <span style=\"font-size: 16px\">**Be Tool-Agnostic**: When creating tasks, think about the general goal (e.g., Maps, Calendar) rather than conditioning your prompt on the specific tools available.</span>\n* <span style=\"font-size: 16px\">**Ask for what you want, not how the agent should do it.**</span>\n  * <span style=\"font-size: 16px\">✅ \"Find me some good Italian places nearby.\"</span>\n  * <span style=\"font-size: 16px\">❌ \"Use the search_places tool with query 'Italian'.\"</span>\n\n<span style=\"font-size: 16px\">**Tips**: </span>\n\n* <span style=\"font-size: 16px\">Before writing prompts, plan the scenario/episode you want to simulate.</span>\n* <span style=\"font-size: 16px\">Draw inspiration from real-life situations where a personal agent could be useful (e.g., moving to a new city, choosing courses, finding kids’ classes, managing calendars)</span>\n* <span style=\"font-size: 16px\">Ensure the scenario is complex enough to generate 10+ turns—multi-turn interactions are critical for this task.</span>\n* <span style=\"font-size: 16px\">Start with a clear, natural/lazy user prompt to launch the scenario (e.g., “I need to pick courses next semester”).</span>\n* <span style=\"font-size: 16px\">Send user prompts to the agent completion endpoint, keeping the scenario consistent</span>\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755751487840_e43hsi.jpeg\" alt=\"\" width=\"314\"></span></span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a2f"
+            },
+            {
+              "id": "c438ead7-4560-4ca5-b60f-3b3f2753d49c",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "I’m ready! Let’s do it",
+                "choices": [
+                  {
+                    "id": "9785f11a-acaa-4bb0-a180-df48309dc48d",
+                    "answer": "Continue",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a30"
+            }
+          ],
+          "_id": "68a9e978f2b3ccc461784a2e"
+        },
+        {
+          "id": "1800dd1e-3a71-40f5-ad85-2f1f2642f00c",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 8,
+          "title": "Knowledge Check 2! ",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "73262253-72d1-4f40-b227-eb4334cd6a77",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"font-size: 16px\">You can consult the </span>[<span style=\"font-size: 16px\">instructions</span>](https://app.outlier.ai/en/expert/instruction/683e729ecaf6d16374e6fc5b)<span style=\"font-size: 16px\"> for this part</span>"
+              },
+              "_id": "68a9e978f2b3ccc461784a32"
+            },
+            {
+              "id": "baeb22e9-67cb-477a-becc-f2d7f1f6d109",
+              "weight": 7.69,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "question": "<span style=\"font-size: 16px\">**Classify the following User Prompt:**</span>\n\n*Give me some stocks for the long term*",
+                "choices": [
+                  {
+                    "id": "2c3b0a5d-1837-4002-9983-628449793829",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Natural User</span>",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "222f0f40-d23d-40d3-a806-dbb5b8a11168",
+                    "answer": "<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Lazy User</span>",
+                    "isCorrect": false
+                  }
+                ],
+                "hideAnswerFeedback": true
+              },
+              "_id": "68a9e978f2b3ccc461784a33"
+            },
+            {
+              "id": "c7e4894c-0db4-4b08-a339-6b40227c5b43",
+              "weight": 7.69,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "question": "<span style=\"font-size: 16px\">**Can the following prompt be used as the first prompt in a conversation with Lazy User persona?**</span>\n\n*I need reviews*",
+                "choices": [
+                  {
+                    "id": "e7915aae-8453-4fac-830a-42735d87faa4",
+                    "answer": "Yes",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "719c7a29-e1e5-4a2c-b07b-4d978ad7e036",
+                    "answer": "No",
+                    "isCorrect": false
+                  }
+                ],
+                "hideAnswerFeedback": true
+              },
+              "_id": "68a9e978f2b3ccc461784a34"
+            },
+            {
+              "id": "2abc6b09-a269-4f81-93fd-8810da6e6923",
+              "weight": 7.69,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">**Read the following Natural User Prompt, classify if it’s high quality or low quality, and briefly explain why:**</span>\n\n*I’m looking at flights to Dallas on the American Airlines app, but maybe driving is better. Can you find out the driving time from Hope to Dallas, and also get me the current stock price for American Airlines?*",
+                "minCharacters": "4",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are similar in content or meaning. The student's answer doesn't have to be identical to the answer key, but they have to be similar in meaning.\n\nAnswer key: The System Prompt is Low quality. The prompt provides too much context and the two asks requested of the model are unrelated. Getting the stock price for American Airlines has nothing to do with getting to the end destination.\n\nGrading Strategy: \n* Score the student with a 1 if the answer is similar to the answer key in meaning. It needs to mention that the prompt is low quality, that it provides too much context, and there are 2 unrelated asks in the prompt\n* Score the student with a 0.7 if the student only mentions that it is low quality and only one of the 2 components, \"too much context\" or \"unrelated asks\", they don't have to be exactly the same words, they can be similar, as long as they hold the same meaning. For example if someone mentions that it's too verbose, it's similar to \"too much context\"\n* Score the student with a 0.5 if the student only mentions \"Low quality\" but doesn't give an explanation\n* Score with 0 if the student's answer is completely unrelated to the answer key\n\nStudent answer: {{ response }}",
+                    "selectedModel": "gpt-4o-mini",
+                    "outputType": "number"
+                  }
+                }
+              },
+              "_id": "68a9e978f2b3ccc461784a35"
+            },
+            {
+              "id": "b55c6057-b6bc-4129-9952-23950efd99b8",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": ""
+              },
+              "_id": "68a9e978f2b3ccc461784a36"
+            },
+            {
+              "id": "8e20fc5b-84d6-4fa0-ad6a-70091dae9dcb",
+              "weight": 7.69,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">**Is this a Natural User or a Lazy User Prompt?**</span>\n\n*Can you search my calendar for today?*\n\nNote: only answer with Natural User or Lazy User, do not use quotes or add “prompt” at the end.",
+                "minCharacters": "1",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are exactly the same in meaning \n\nAnswer key: Natural User\n\nGrading Strategy: \n* Score the student with a 1 if the answer is exactly the same in meaning as the answer key, do not penalize if it has capital letters or lower case, as long as it says natural user\n* Score with 0 if the student's answer is completely unrelated to the answer key\n\nStudent answer: {{ response }}",
+                    "selectedModel": "o4-mini",
+                    "outputType": "number"
+                  }
+                }
+              },
+              "_id": "68a9e978f2b3ccc461784a37"
+            },
+            {
+              "id": "77ef616e-8894-4781-8491-50c0f0555f6e",
+              "weight": 7.72,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">**Is this a Natural User or a Lazy User Prompt?**</span>\n\n*Can you check something for me?*\n\nNote: only answer with Natural User or Lazy User, do not use quotes or add “prompt” at the end.",
+                "minCharacters": "1",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are exactly the same in meaning.\n\nAnswer key: Lazy User\n\nGrading Strategy: \n* Score the student with a 1 if the answer is exactly the same in meaning as the answer key, do not penalize if it has capital letters or lower case, as long as it says lazy user\n* Score with 0 if the student's answer is completely unrelated to the answer key\n\nStudent answer: {{ response }}",
+                    "selectedModel": "gpt-4o",
+                    "outputType": "number"
+                  }
+                }
+              },
+              "_id": "68a9e978f2b3ccc461784a38"
+            }
+          ],
+          "_id": "68a9e978f2b3ccc461784a31"
+        },
+        {
+          "id": "4c43ccfd-baac-451e-9570-e83faf97468c",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 3,
+          "title": "You finished this course!",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "3dff58e6-e922-43c6-8828-156c4124a2a8",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"font-size: 20px\">Congratulations on completing this course! Corey is very proud of you.</span>\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a64fd286d7c7cca5b5932b/1755754547897_bjak1v.jpeg\" alt=\"\" width=\"395\"></span></span>Important Things to Keep in Mind\n\n* **Course Requirement**: Passing this course is mandatory to continue tasking on the project.\n* **About “Corey”** : Corey is a fictional character created only to illustrate System Prompts. Do **not** refer to System Prompts as “Corey” in your actual tasks.\n* **Originality Matters**: All examples in this course are for training only. Copying them into your tasks will be treated as spam and may result in losing project permissions."
+              },
+              "_id": "68a9e978f2b3ccc461784a3a"
+            },
+            {
+              "id": "337452ae-43df-41d3-9d23-57c4b4217922",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "hideAnswerFeedback": false,
+                "question": "I understand everything from above",
+                "choices": [
+                  {
+                    "id": "4946d895-15d8-430a-8bd4-2b243a05eaa3",
+                    "answer": "Yes",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68a9e978f2b3ccc461784a3b"
+            }
+          ],
+          "_id": "68a9e978f2b3ccc461784a39"
+        }
+      ],
+      "translatedSections": {},
+      "minReviewLevel": "-1",
+      "passingGradeThreshold": 0.8,
+      "isTemplate": false,
+      "showFinalGrade": false,
+      "grantedTagsUponCompletion": ["68a6bce20382046d628ab901"],
+      "grantedTagsUponPass": ["68a6bcefa397f460a69d3343"],
+      "grantedTagsUponFail": ["68a6bcf4d45184926d291c58"],
+      "createdBy": "62d5acd585940a00389c9fce",
+      "updatedBy": "62d5acd585940a00389c9fce",
+      "allowFreeTextGrading": false,
+      "useCustomQuestionWeights": false,
+      "isTimed": false,
+      "enableMLCheatingDetection": false,
+      "cheatingDetectionLlmArtifactsEnabled": true,
+      "cheatingDetectionLlmArtifacts": "✅,🔧,🔴,🟡,🟠,❌,✔,🚀,🔥,🎯,😆,🏆,🚨,🔹,☑️,⚠️,🌹,1️⃣,2️⃣,3️⃣,4️⃣",
+      "useTipTap": true,
+      "version": 30,
+      "isPublic": false,
+      "createdAt": "2025-08-20T22:44:34.341Z",
+      "updatedAt": "2025-08-23T16:16:56.483Z",
+      "__v": 29
+    },
+    "currentSection": 1,
+    "status": "in_progress",
+    "attemptNumber": 1,
+    "completed": false,
+    "courseAnswer": {
+      "8b057cde-41a7-4641-a657-f8698470b900": {
+        "sectionType": "multiple_choice",
+        "contents": ["05e1c07e-29af-4fb7-bef7-b91b8f20aed2"],
+        "answeredAt": "2025-09-03T15:44:48.254Z",
+        "isCorrect": true,
+        "attemptNumber": 1,
+        "isComplete": true
+      }
+    },
+    "assigned": false,
+    "passingGrade": 0.8,
+    "fullstorySessions": [
+      "https://app.fullstory.com/ui/25WP4/client-session/2095ba13-5eff-457e-bb0a-cdfc7c72d91c%3A33380ecf-21d5-4390-8217-f5536c68d4fa%3A1756913748990"
+    ],
+    "remainingTime": 3480,
+    "projectId": "683e729ecaf6d16374e6fc5b",
+    "violationsDetected": [],
+    "createdAt": "2025-09-03T15:35:53.667Z",
+    "updatedAt": "2025-09-03T15:44:54.032Z",
+    "__v": 1
+  }
+}

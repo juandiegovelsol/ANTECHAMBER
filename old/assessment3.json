@@ -1,0 +1,462 @@
+{
+  "total": 1,
+  "searched_Location": "Town Square Farmers Market, Grand Forks, ND",
+  "searched_Term": "pastries or snacks",
+  "limit": "5",
+  "offset": "0",
+  "region": {
+    "center": { "longitude": -97.03026595, "latitude": 47.9245696 },
+    "span": {
+      "longitude_delta": 0.0002759900000057769,
+      "latitude_delta": 0.0015267999999935
+    }
+  },
+  "business_search_result": [
+    {
+      "id": "OqHYqzCiSqR39dylc6L44g",
+      "name": "Urban Stampede",
+      "alias": "urban-stampede-grand-forks",
+      "address1": "324 Kittson Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Grand Forks",
+      "zip": "58201",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 47.9238756,
+      "longitude": -97.0301405,
+      "review_count": 50,
+      "state": "ND",
+      "avg_rating": 4.0,
+      "unrounded_avg_rating": 4.1,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "324 Kittson Ave, Grand Forks, ND 58201",
+          "short_form": "324 Kittson Ave, Grand Forks"
+        }
+      },
+      "price": 1,
+      "localized_price": "$",
+      "categories": [
+        {
+          "name": "Coffee & Tea Shops",
+          "category_filter": "coffee",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "7017469531",
+      "localized_phone": "+1-701-746-9531",
+      "dialable_phone": "+17017469531",
+      "menu_photos": [
+        {
+          "id": "ADrWiVt8iXODfEq6UXrAmg",
+          "type": "business",
+          "time_created": 1533425436,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ADrWiVt8iXODfEq6UXrAmg/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 2,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "OqHYqzCiSqR39dylc6L44g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/OqHYqzCiSqR39dylc6L44g?select=ADrWiVt8iXODfEq6UXrAmg&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/3r-NfyBQPpEURND3jR0yiw/ms.jpg",
+      "primary_photo": {
+        "id": "3r-NfyBQPpEURND3jR0yiw",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/3r-NfyBQPpEURND3jR0yiw/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "3r-NfyBQPpEURND3jR0yiw",
+          "type": "business",
+          "time_created": 1722785850,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/3r-NfyBQPpEURND3jR0yiw/",
+          "url_suffix": ".jpg",
+          "width": 2000,
+          "height": 1500,
+          "business_id": "OqHYqzCiSqR39dylc6L44g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/OqHYqzCiSqR39dylc6L44g?select=3r-NfyBQPpEURND3jR0yiw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "HcvtTtz9oLtQoGxMzdsS3g",
+          "type": "business",
+          "time_created": 1722785857,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/HcvtTtz9oLtQoGxMzdsS3g/",
+          "url_suffix": ".jpg",
+          "width": 2000,
+          "height": 1500,
+          "business_id": "OqHYqzCiSqR39dylc6L44g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/OqHYqzCiSqR39dylc6L44g?select=HcvtTtz9oLtQoGxMzdsS3g&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "a740NpxvahRtLVgC57yDZA",
+          "type": "business",
+          "time_created": 1722785881,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/a740NpxvahRtLVgC57yDZA/",
+          "url_suffix": ".jpg",
+          "width": 2000,
+          "height": 1500,
+          "business_id": "OqHYqzCiSqR39dylc6L44g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/OqHYqzCiSqR39dylc6L44g?select=a740NpxvahRtLVgC57yDZA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "E0ARn5NHsdO3GpHk7qUwuA",
+          "type": "business",
+          "time_created": 1722785863,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/E0ARn5NHsdO3GpHk7qUwuA/",
+          "url_suffix": ".jpg",
+          "width": 2000,
+          "height": 1500,
+          "business_id": "OqHYqzCiSqR39dylc6L44g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/OqHYqzCiSqR39dylc6L44g?select=E0ARn5NHsdO3GpHk7qUwuA&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 52
+    }
+  ],
+  "ad_business_search_result": [
+    {
+      "id": "KEMfzpu2BvmqpmjejXA4Vg",
+      "name": "Crumbl - Grand Forks",
+      "alias": "crumbl-grand-forks-grand-forks",
+      "address1": "3750 32nd Ave S",
+      "address2": "Ste 107",
+      "address3": null,
+      "city": "Grand Forks",
+      "zip": "58201",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 47.8909122,
+      "longitude": -97.0821785,
+      "review_count": 2,
+      "state": "ND",
+      "avg_rating": 3.5,
+      "unrounded_avg_rating": 3.5,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "3750 32nd Ave S, Ste 107, Grand Forks, ND 58201",
+          "short_form": "3750 32nd Ave S, Ste 107, Grand Forks"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Bakeries",
+          "category_filter": "bakeries",
+          "is_restaurant": false
+        },
+        {
+          "name": "Desserts",
+          "category_filter": "desserts",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "7014103435",
+      "localized_phone": "+1-701-410-3435",
+      "dialable_phone": "+17014103435",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/20v0n1raVrLnOZ_zLsILfw/ms.jpg",
+      "primary_photo": {
+        "id": "20v0n1raVrLnOZ_zLsILfw",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/20v0n1raVrLnOZ_zLsILfw/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "20v0n1raVrLnOZ_zLsILfw",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/20v0n1raVrLnOZ_zLsILfw/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "-HhNR6pfo9BlbpXfmLcHUA",
+          "type": "business",
+          "time_created": 1751292607,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/-HhNR6pfo9BlbpXfmLcHUA/",
+          "url_suffix": ".jpg",
+          "caption": "6/30/25 - 7/5/25: S'mores Brownie",
+          "width": 2639,
+          "height": 2639,
+          "business_id": "KEMfzpu2BvmqpmjejXA4Vg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/KEMfzpu2BvmqpmjejXA4Vg?select=-HhNR6pfo9BlbpXfmLcHUA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "4qUxLx6KD859t59OQcthUQ",
+          "type": "business",
+          "time_created": 1751292612,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/4qUxLx6KD859t59OQcthUQ/",
+          "url_suffix": ".jpg",
+          "caption": "6/30/25 - 7/5/25: Patriotic M&M's Cookie",
+          "width": 3341,
+          "height": 3341,
+          "business_id": "KEMfzpu2BvmqpmjejXA4Vg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/KEMfzpu2BvmqpmjejXA4Vg?select=4qUxLx6KD859t59OQcthUQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "LzbgIjboHqaLntrzQeUBjA",
+          "type": "business",
+          "time_created": 1751292616,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/LzbgIjboHqaLntrzQeUBjA/",
+          "url_suffix": ".jpg",
+          "caption": "6/30/25 - 7/5/25: Caramel Apple Cookie",
+          "width": 2036,
+          "height": 2036,
+          "business_id": "KEMfzpu2BvmqpmjejXA4Vg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/KEMfzpu2BvmqpmjejXA4Vg?select=LzbgIjboHqaLntrzQeUBjA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "sQ9cU4Ted9VYrqpZIB3A0A",
+          "type": "business",
+          "time_created": 1751292619,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/sQ9cU4Ted9VYrqpZIB3A0A/",
+          "url_suffix": ".jpg",
+          "caption": "6/30/25 - 7/5/25: Patriotic Birthday Cake Cookie",
+          "width": 1742,
+          "height": 1742,
+          "business_id": "KEMfzpu2BvmqpmjejXA4Vg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/KEMfzpu2BvmqpmjejXA4Vg?select=sQ9cU4Ted9VYrqpZIB3A0A&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 29
+    },
+    {
+      "id": "80ni782HUUCf_dCKhE4cVQ",
+      "name": "Culver's",
+      "alias": "culvers-grand-forks",
+      "address1": "3451 32nd Ave S",
+      "address2": "",
+      "address3": null,
+      "city": "Grand Forks",
+      "zip": "58201",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 47.8887100219727,
+      "longitude": -97.0783157348633,
+      "review_count": 33,
+      "state": "ND",
+      "avg_rating": 3.5,
+      "unrounded_avg_rating": 3.3,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "3451 32nd Ave S, Grand Forks, ND 58201",
+          "short_form": "3451 32nd Ave S, Grand Forks"
+        }
+      },
+      "price": 1,
+      "localized_price": "$",
+      "categories": [
+        {
+          "name": "Burgers",
+          "category_filter": "burgers",
+          "is_restaurant": true
+        },
+        {
+          "name": "Chicken Shop",
+          "category_filter": "chickenshop",
+          "is_restaurant": true
+        },
+        {
+          "name": "Desserts",
+          "category_filter": "desserts",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "7017729199",
+      "localized_phone": "+1-701-772-9199",
+      "dialable_phone": "+17017729199",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/OgQAsEaQWgGhQLZzC2o1cQ/ms.jpg",
+      "primary_photo": {
+        "id": "OgQAsEaQWgGhQLZzC2o1cQ",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/OgQAsEaQWgGhQLZzC2o1cQ/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "OgQAsEaQWgGhQLZzC2o1cQ",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/OgQAsEaQWgGhQLZzC2o1cQ/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "Ue2jB018PYV4-KuzuVQRWQ",
+          "type": "business",
+          "time_created": 1750069503,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Ue2jB018PYV4-KuzuVQRWQ/",
+          "url_suffix": ".jpg",
+          "width": 1200,
+          "height": 1200,
+          "business_id": "80ni782HUUCf_dCKhE4cVQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/80ni782HUUCf_dCKhE4cVQ?select=Ue2jB018PYV4-KuzuVQRWQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "KtpFLBWi_Wbvk3mas9Hgpw",
+          "type": "business",
+          "time_created": 1717176654,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/KtpFLBWi_Wbvk3mas9Hgpw/",
+          "url_suffix": ".jpg",
+          "width": 825,
+          "height": 828,
+          "business_id": "80ni782HUUCf_dCKhE4cVQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/80ni782HUUCf_dCKhE4cVQ?select=KtpFLBWi_Wbvk3mas9Hgpw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "NMMaMt16bhBCVUQKnQc11A",
+          "type": "business",
+          "time_created": 1717176659,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/NMMaMt16bhBCVUQKnQc11A/",
+          "url_suffix": ".jpg",
+          "width": 827,
+          "height": 821,
+          "business_id": "80ni782HUUCf_dCKhE4cVQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/80ni782HUUCf_dCKhE4cVQ?select=NMMaMt16bhBCVUQKnQc11A&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "r3COAy-xzN0Ouzp8xGQVzA",
+          "type": "business",
+          "time_created": 1717176663,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/r3COAy-xzN0Ouzp8xGQVzA/",
+          "url_suffix": ".jpg",
+          "width": 823,
+          "height": 829,
+          "business_id": "80ni782HUUCf_dCKhE4cVQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/80ni782HUUCf_dCKhE4cVQ?select=r3COAy-xzN0Ouzp8xGQVzA&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 42
+    },
+    {
+      "id": "mRW_G1_4nG65to0bDLFzRw",
+      "name": "Dairy Queen Ltd Brazier",
+      "alias": "dairy-queen-ltd-brazier-grand-forks",
+      "address1": "1209 N Fifth St",
+      "address2": "",
+      "address3": null,
+      "city": "Grand Forks",
+      "zip": "58203",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 47.9326211,
+      "longitude": -97.0486809,
+      "review_count": 5,
+      "state": "ND",
+      "avg_rating": 4.5,
+      "unrounded_avg_rating": 4.6,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "1209 N Fifth St, Grand Forks, ND 58203",
+          "short_form": "1209 N Fifth St, Grand Forks"
+        }
+      },
+      "price": 1,
+      "localized_price": "$",
+      "categories": [
+        {
+          "name": "Ice Cream & Frozen Yoghurt",
+          "category_filter": "icecream",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "7017723801",
+      "localized_phone": "+1-701-772-3801",
+      "dialable_phone": "+17017723801",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Uo9qOBphmKh19b63NQj2QQ/ms.jpg",
+      "primary_photo": {
+        "id": "Uo9qOBphmKh19b63NQj2QQ",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Uo9qOBphmKh19b63NQj2QQ/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "Uo9qOBphmKh19b63NQj2QQ",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Uo9qOBphmKh19b63NQj2QQ/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "jG_RheMU7bSrTjeJx6ZKEA",
+          "type": "business",
+          "time_created": 1682955642,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/jG_RheMU7bSrTjeJx6ZKEA/",
+          "url_suffix": ".jpg",
+          "width": 1200,
+          "height": 1200,
+          "business_id": "mRW_G1_4nG65to0bDLFzRw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mRW_G1_4nG65to0bDLFzRw?select=jG_RheMU7bSrTjeJx6ZKEA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "KsOWmrWaVdiswhAOso76Kg",
+          "type": "business",
+          "time_created": 1678121289,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/KsOWmrWaVdiswhAOso76Kg/",
+          "url_suffix": ".jpg",
+          "width": 1200,
+          "height": 1200,
+          "business_id": "mRW_G1_4nG65to0bDLFzRw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mRW_G1_4nG65to0bDLFzRw?select=KsOWmrWaVdiswhAOso76Kg&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "9p7hcTXhyibZO-4NP8QDLQ",
+          "type": "business",
+          "time_created": 1678121293,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/9p7hcTXhyibZO-4NP8QDLQ/",
+          "url_suffix": ".jpg",
+          "width": 1200,
+          "height": 1200,
+          "business_id": "mRW_G1_4nG65to0bDLFzRw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mRW_G1_4nG65to0bDLFzRw?select=9p7hcTXhyibZO-4NP8QDLQ&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 5
+    }
+  ]
+}

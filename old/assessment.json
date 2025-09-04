@@ -1,0 +1,571 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA3LTA0fDMwMzc3OTE2NTMxNTg0NDA3MQ==",
+    "name": "Sertoma 4th of July Celebration",
+    "link": "https://www.grandforkschildrensmuseum.com/event-details/sertoma-4th-of-july-celebration",
+    "description": "We will be at Sertoma's 4th of July Celebration with our Blue Blocks and Brain Games! Come out and learn more about our project!",
+    "language": "en",
+    "date_human_readable": "Fri, Jul 4, 11 AM – 6 PM",
+    "start_time": "2025-07-04 11:00:00",
+    "start_time_utc": "2025-07-04 11:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-07-04 18:00:00",
+    "end_time_utc": "2025-07-04 18:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKRLJJbPwNdWdGgXEbx6gwSWQgFIE96MqtzYTtROZSeg&s=10",
+    "publisher": "Grandforkschildrensmuseum.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.grandforkschildrensmuseum.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.grandforkschildrensmuseum.com",
+    "ticket_links": [
+      {
+        "source": "Grand Forks Children's Museum",
+        "link": "https://www.grandforkschildrensmuseum.com/event-details/sertoma-4th-of-july-celebration",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://grandforkschildrensmuseum.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/org/sertoma-of-greater-grand-forks/8350410",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Grandforkschildrensmuseum.com",
+        "link": "https://www.grandforkschildrensmuseum.com/event-details/sertoma-4th-of-july-celebration"
+      }
+    ],
+    "venue": {
+      "google_id": "0x52c681199839f9bb:0x611c6276810f6858",
+      "name": "Sertoma Park",
+      "phone_number": "+17017462750",
+      "website": "http://www.gfparks.org/parks-facilities/parks/sertoma-japanese-garden",
+      "review_count": 465,
+      "rating": 4.6,
+      "subtype": "Park",
+      "subtypes": ["Park", "Tourist attraction"],
+      "full_address": "Sertoma Park, 3300 11th Ave S, Grand Forks, ND 58201",
+      "latitude": 47.9103473,
+      "longitude": -97.0754872,
+      "district": null,
+      "street_number": "3300",
+      "street": "3300 11th Ave S",
+      "city": "Grand Forks",
+      "zipcode": "58201",
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/12qgknr6v"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA3LTAyfDEzMzkwNDAwNzY0NTgyMDgwOTQ=",
+    "name": "Workforce Wednesday Hiring & Resource Fair",
+    "link": "https://allevents.in/grand-forks/community-connections-workforce-wednesday-hiring-event-and-community-resource-fair/200028311221812",
+    "description": "Join us the 1st Wednesday of each month between 3:00 pm and 4:30 pm at the Grand Forks Workforce Center for Workforce Wednesday Hiring & Resource Fair! Job Seekers - Meet with several businesses...",
+    "language": "en",
+    "date_human_readable": "Wed, Jul 2, 8:00 – 9:30 PM",
+    "start_time": "2025-07-02 20:00:00",
+    "start_time_utc": "2025-07-02 20:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-07-02 21:30:00",
+    "end_time_utc": "2025-07-02 21:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJly7Gm5RAuLDAA7mLEQSsX4CotUls3e2FAkz_y9ByOQ&s=10",
+    "publisher": "AllEvents",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/mobile/amp-event.php?event_id=200028311221812",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/mobile/amp-event.php?event_id=200028311221812"
+      }
+    ],
+    "venue": {
+      "google_id": "0x52c680cddf19663d:0x3ba418e87aa40d3f",
+      "name": "1501 28th Ave S",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "1501 28th Ave S, Grand Forks, ND 58201",
+      "latitude": 47.892586699999995,
+      "longitude": -97.04764949999999,
+      "district": null,
+      "street_number": "1501",
+      "street": "1501 28th Ave S",
+      "city": "Grand Forks",
+      "zipcode": "58201",
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11bw3xm5dk"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA3LTA1fDEwNDEzMzc2MTU2OTIzNjM1NDg2",
+    "name": "Town Square Farmers Market",
+    "link": "https://local.aarp.org/event/town-square-farmers-market-2025-07-05-1-grand-forks-nd.html",
+    "description": "Season: Summer Market Hours: June 14 - September 27, 2025Saturdays, 9AM - 1PM Location: 3rd Street & Demers Avenue",
+    "language": "en",
+    "date_human_readable": "Sat, Jul 5, 9 AM – 1 PM CDT",
+    "start_time": "2025-07-05 09:00:00",
+    "start_time_utc": "2025-07-05 14:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-07-05 13:00:00",
+    "end_time_utc": "2025-07-05 18:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "AARP Local",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://local.aarp.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "local.aarp.org",
+    "ticket_links": [
+      {
+        "source": "AARP Local",
+        "link": "https://local.aarp.org/event/town-square-farmers-market-2025-07-05-grand-forks-nd.html",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://aarp.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [null],
+    "venue": {
+      "google_id": "0x52c686b8f2770385:0x148b02ffde67e525",
+      "name": "Town Square Farmers Market",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Farmers' market",
+      "subtypes": ["Farmers' market"],
+      "full_address": "Town Square Farmers Mkt, 1 S 3rd St, Grand Forks, ND 58201",
+      "latitude": 47.9252636,
+      "longitude": -97.0303914,
+      "district": null,
+      "street_number": "1",
+      "street": "1 S 3rd St",
+      "city": "Grand Forks",
+      "zipcode": "58201",
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11v43r2ppq"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA2LTMwfDE4MzAxODQzODEyOTU1MDE3NjUx",
+    "name": "Summer Art Camp: June 30 – July 3 (4B)",
+    "link": "https://allevents.in/grand-forks/summer-art-camp-june-30-july-3-4a/200028241480711",
+    "description": "🎶 Summer Art Camp: Camp 4A – Music Around the World 🗓️ June 30 – July 3, 2025 🕘 9:00 AM – 12:00 PM 📍 Hughes Fine Arts Center, Room 111 👶 Ages 3–5 (with parents) | 💲 Special Price: $125",
+    "language": "en",
+    "date_human_readable": "Mon, Jun 30, 9 AM – Thu, Jul 3, 12 PM CDT",
+    "start_time": "2025-06-30 09:00:00",
+    "start_time_utc": "2025-06-30 14:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-07-03 12:00:00",
+    "end_time_utc": "2025-07-03 17:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85CEddtKrMg0Sj2-l4ZEksOsNJYnKLR6rIKPoL4rpT9ubrKN7JJQj85ud9w&s=10",
+    "publisher": "AllEvents",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/grand-forks/drawing-painting",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Facebook",
+        "link": "https://www.facebook.com/events/1236372607839450/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://facebook.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/grand-forks/drawing-painting"
+      }
+    ],
+    "venue": {
+      "google_id": "0x52c68113f947b2d1:0x805b83295dce6c04",
+      "name": "Hughes Fine Arts Center",
+      "phone_number": "+17017772264",
+      "website": "https://arts-sciences.und.edu/academics/music/index.html",
+      "review_count": 14,
+      "rating": 4.4,
+      "subtype": "College",
+      "subtypes": ["College", "Tourist attraction"],
+      "full_address": "Hughes Fine Arts Center, 3350 Campus Rd # 7099, Grand Forks, ND 58202",
+      "latitude": 47.919649,
+      "longitude": -97.07658479999999,
+      "district": null,
+      "street_number": "3350",
+      "street": "3350 Campus Rd # 7099",
+      "city": "Grand Forks",
+      "zipcode": "58202",
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/1tgx67rv"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA3LTA0fDExMDAxNzAwODIxMDc0NTkxOTA2",
+    "name": "Firecracker 2-Person Best Ball",
+    "link": "https://allevents.in/grand-forks/firecracker-2-person-best-ball/200028370292504",
+    "description": "Celebrate Independence Day on the course! Join us for this fun annual 4th of July tournament for Men, Women, & Seniors! When: July 4 Format: 2-Person Best Ball Divisions: Gross & Net *Must have...",
+    "language": "en",
+    "date_human_readable": "Fri, Jul 4, 1 PM",
+    "start_time": "2025-07-04 13:00:00",
+    "start_time_utc": "2025-07-04 13:00:00",
+    "start_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTONgBT3-_pUPDkwMdvT8ZN6oEFFfbEjFZT7koFVdK5Jg&s=10",
+    "publisher": "Allevents.in",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/grand-forks/firecracker-2-person-best-ball/200028370292504",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/grand-forks/firecracker-2-person-best-ball/200028370292504"
+      }
+    ],
+    "venue": {
+      "google_id": "0x52c68098e0a1f323:0x55f7b79bb2b9e419",
+      "name": "5301 S Columbia Rd",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "5301 S Columbia Rd, Grand Forks, ND 58201",
+      "latitude": 47.8695429,
+      "longitude": -97.0627772,
+      "district": null,
+      "street_number": "5301",
+      "street": "5301 S Columbia Rd",
+      "city": "Grand Forks",
+      "zipcode": "58201",
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11crrdczv8"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA3LTA0fDE2ODQ5MzEzOTA0NzMwMjgzNTMy",
+    "name": "Firecracker 10K & 5K Run/Walk",
+    "link": "https://trailrunner.com/event/firecracker-10k-5k-run-walk/",
+    "description": "Description: The Altru Family YMCA Firecracker 5K Fun Run/Walk, 10K Run and Free Kiddie Run will be held on Friday, July 4, 2025, on the beautiful Greenway in Downtown Grand Forks, right across...",
+    "language": "en",
+    "date_human_readable": "Fri, Jul 4, 8 AM CDT",
+    "start_time": "2025-07-04 08:00:00",
+    "start_time_utc": "2025-07-04 13:00:00",
+    "start_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYTvpfJnDjaOBOKGtXY9W2m1dDYqQ43Jd4KELR6eCTTw&s=10",
+    "publisher": "American Trail Running Association",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://trailrunner.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "trailrunner.com",
+    "ticket_links": [
+      {
+        "source": "Gfymca.org",
+        "link": "https://www.gfymca.org/healthy-living/sports-recreation/road-races/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gfymca.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "American Trail Running Association",
+        "link": "https://trailrunner.com/event/firecracker-10k-5k-run-walk/",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://trailrunner.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Race Entry",
+        "link": "https://www.raceentry.com/ymca-firecracker-5k-runwalk-10k-run-and-free-kiddie-run/race-information",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://raceentry.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/gilby/fourth-of-july",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Gfymca.org",
+        "link": "https://www.gfymca.org/healthy-living/sports-recreation/road-races/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x52c687004bb37631:0x45d1b2c2ff59594d",
+      "name": "7th Avenue Access, Greenway, Grand Forks",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Park",
+      "subtypes": ["Park"],
+      "full_address": "7th Avenue Access, Greenway, Grand Forks, Grand Forks, ND 58203",
+      "latitude": 47.9302875,
+      "longitude": -97.0389721,
+      "district": null,
+      "street": null,
+      "city": "Grand Forks",
+      "zipcode": null,
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11vxq4v34p"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA3LTAyfDYxMDM2OTY0NTcxOTIwNTA4NzU=",
+    "name": "Baby Storytime",
+    "link": "https://www.gflibrary.com/Calendar.aspx?EID=10869&month=7&year=2025&day=2&calType=0",
+    "description": "Calling all LEGO enthusiasts! Bring your creativity and let's build some brick-tastic creations together. No sign-up needed and all ages are welcome to join the block party.",
+    "language": "en",
+    "date_human_readable": "Wed, Jul 2, 8 PM",
+    "start_time": "2025-07-02 20:00:00",
+    "start_time_utc": "2025-07-02 20:00:00",
+    "start_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Grand Forks Public Library",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gflibrary.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.gflibrary.com",
+    "ticket_links": [
+      {
+        "source": "Grand Forks Public Library",
+        "link": "https://www.gflibrary.com/Calendar.aspx?EID=10869&month=7&year=2025&day=2&calType=0",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://gflibrary.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [null],
+    "venue": {
+      "google_id": "0x52c680d40737eabd:0x6d74b46c9aea6d0b",
+      "name": "2110 Library Cir",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "2110 Library Cir, Grand Forks, ND 58201",
+      "latitude": 47.8990188,
+      "longitude": -97.0489801,
+      "district": null,
+      "street_number": "2110",
+      "street": "2110 Library Cir",
+      "city": "Grand Forks",
+      "zipcode": "58201",
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11b8v7c6pt"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA3LTA0fDExNTU2MTU0NzIyNDIwNTAxMjA=",
+    "name": "All American Weekend",
+    "link": "https://local.aarp.org/event/all-american-weekend-2025-07-04-arvilla-nd.html",
+    "description": "Join us for a weekend of All-American fun and games! All programs are free and you do not have to be camping to attend our programs. Rain outs will be held in the Visitor Center Classroom. Vehicle...",
+    "language": "en",
+    "date_human_readable": "Sat, Jul 5, 10 AM CDT",
+    "start_time": "2025-07-05 10:00:00",
+    "start_time_utc": "2025-07-05 15:00:00",
+    "start_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "AARP Local",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://local.aarp.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "local.aarp.org",
+    "ticket_links": [
+      {
+        "source": "AARP Local",
+        "link": "https://local.aarp.org/event/all-american-weekend-2025-07-04-arvilla-nd.html",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://aarp.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [null],
+    "venue": {
+      "google_id": "0x52c4365cb598bfad:0xa93359057324fbee",
+      "name": "Turtle River State Park",
+      "phone_number": "+17017953180",
+      "website": "http://www.parkrec.nd.gov/parks/trsp/trsp.html",
+      "review_count": 736,
+      "rating": 4.7,
+      "subtype": "State park",
+      "subtypes": ["State park", "Tourist attraction"],
+      "full_address": "Turtle River State Park, 3084 Park Ave NE, Arvilla, ND 58214",
+      "latitude": 47.9396649,
+      "longitude": -97.4922816,
+      "district": null,
+      "street_number": "3084",
+      "street": "3084 Park Ave NE",
+      "city": "Arvilla",
+      "zipcode": "58214",
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/m/0k84bv4"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA4LTA5fDYwMDI2NjE3MjMyMTY5Mjc5Nzk=",
+    "name": "Grand Forks Comic Con",
+    "link": "https://allevents.in/events/grand-forks-comic-con-2025/200027825034004?aff=u1gjbz",
+    "description": "We are still working out the finer details but join us Saturday August 9th from Sunday August 10th 10am-6pm and Sunday 10am-4pm at the Alerus Center ballrooms for the 6th annual Grand Forks Comic...",
+    "language": "en",
+    "date_human_readable": "Sun, Aug 10, 10:00 – 11:30 AM",
+    "start_time": "2025-08-10 10:00:00",
+    "start_time_utc": "2025-08-10 10:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-08-10 11:30:00",
+    "end_time_utc": "2025-08-10 11:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0WqRxqvqRKG24N_aX6HPRKd34e6Oe5oAbqIzlxTYn1g&s=10",
+    "publisher": "AllEvents",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/nz/events/988842/grand-forks-comic-con-sunday-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tix4cause.com",
+        "link": "https://www.tix4cause.com/event/river-cinema-grand-forks-comic-con/7063495",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tix4cause.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Stubhub.com",
+        "link": "https://www.stubhub.com/_C-159887?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-3936%7Cev-157710500%7Ccy-79714&ps_ev=157710500",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stubhub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Viagogo.com",
+        "link": "https://www.viagogo.com/_C-159887?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-3936%7Cev-157710500%7Ccy-79714&ps_ev=157710500",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://viagogo.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/grand-forks-comic-con-tickets-grand-forks-alerus-center-8-10-2025--theater-other-theater/production/5663617",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/nz/events/988842/grand-forks-comic-con-sunday-tickets"
+      }
+    ],
+    "venue": {
+      "google_id": "0x52c68106351ed637:0x2c0ff6d6abb0c177",
+      "name": "Alerus Center",
+      "phone_number": "+17017921200",
+      "website": "http://www.aleruscenter.com",
+      "review_count": 993,
+      "rating": 4.1,
+      "subtype": "Event venue",
+      "subtypes": [
+        "Event venue",
+        "Arena",
+        "Conference center",
+        "Convention center",
+        "Stadium",
+        "Wedding venue"
+      ],
+      "full_address": "Alerus Center, 1200 S 42nd St, Grand Forks, ND 58201",
+      "latitude": 47.910799499999996,
+      "longitude": -97.0912024,
+      "district": null,
+      "street_number": "1200",
+      "street": "1200 S 42nd St",
+      "city": "Grand Forks",
+      "zipcode": "58201",
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/m/05fbh_"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA3LTMxfDE4MTQ3NzAxOTY5MTY4MjI3NDMy",
+    "name": "Summer Block Party featuring Downtown Horns and Food Trucks",
+    "link": "https://allevents.in/grand-forks/summer-block-party-featuring-downtown-horns-and-food-trucks/200028293842932",
+    "description": "Let's celebrate community with a FREE block party! Join us for FOOD TRUCKS and music by \"The Red River Valley's premiere party band\" - Downtown Horns! This event is free for everyone. Come have...",
+    "language": "en",
+    "date_human_readable": "Thu, Jul 31, 10:30 PM – Fri, Aug 1, 12:30 AM",
+    "start_time": "2025-07-31 22:30:00",
+    "start_time_utc": "2025-07-31 22:30:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-08-01 00:30:00",
+    "end_time_utc": "2025-08-01 00:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-C2izRqx4P4Rb1Xm9mIp9mw57_9D8HUHaLWBo-Tci3Zt2a0lo4_B2HotXow&s=10",
+    "publisher": "AllEvents",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/org/sharon-lutheran-church-grand-forks-nd/14341414",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Facebook",
+        "link": "https://m.facebook.com/events/691673577125848/?acontext=%7B%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22unknown%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22unknown%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%2C%7B%5C%22surface%5C%22%3A%5C%22permalink%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22SUGGESTED_EVENTS_HSCROLL%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://facebook.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/org/sharon-lutheran-church-grand-forks-nd/14341414"
+      }
+    ],
+    "venue": {
+      "google_id": "0x52c680d801bc291f:0x411d5117d42b3174",
+      "name": "1720 S 20th St",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "1720 S 20th St, Grand Forks, ND 58201",
+      "latitude": 47.9032085,
+      "longitude": -97.056597,
+      "district": null,
+      "street_number": "1720",
+      "street": "1720 S 20th St",
+      "city": "Grand Forks",
+      "zipcode": "58201",
+      "state": "North Dakota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11bw4q3snc"
+    }
+  }
+]
