@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "1757318897000",
+    "title": "In pictures: Moon turns rusty red as the 'blood Moon' lunar eclipse wows observers across the world",
+    "snippet": "On the evening of 7/8 September, a total lunar eclipse – also known as a 'blood Moon' was seen across much of the globe, giving observers the chance to...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJRMDVmVjAxVmIxcGhiR2t0VFJERUF4aW1CU2dLTWdhWkpZSXBHZ2c=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTJRMDVmVjAxVmIxcGhiR2t0VFJERUF4aW1CU2dLTWdhWkpZSXBHZ2c"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757271654000",
+        "title": "Timelapse shows Blood Moon rising around the world",
+        "snippet": "As the Moon passes through the Earth's shadow, it takes on a deep red hue, creating a striking \"Blood Moon\".",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZXbDlvY1MxRmVHZDJkRTlmVFJDMEFSakFBaWdLTWdaQlVvNFRLUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTZXbDlvY1MxRmVHZDJkRTlmVFJDMEFSakFBaWdLTWdaQlVvNFRLUWM"
+        },
+        "newsUrl": "https://www.bbc.com/news/videos/c93071yz5zzo",
+        "publisher": "BBC"
+      },
+      {
+        "timestamp": "1757350713000",
+        "title": "Miss the ‘blood moon’ total lunar eclipse? Relive it in photos",
+        "snippet": "The second total lunar eclipse of the year saw Earth's shadow obscure this weekend's full moon as our home planet lined up perfectly between the moon and...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVZUbmxoWDJaVWJqQlFiblpRVFJERUF4aW1CU2dLTWdzRk1vaWx2dU04cHNwa2F3=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNVZUbmxoWDJaVWJqQlFiblpRVFJERUF4aW1CU2dLTWdzRk1vaWx2dU04cHNwa2F3"
+        },
+        "newsUrl": "https://www.pbs.org/newshour/science/miss-the-blood-moon-total-lunar-eclipse-relive-it-in-photos",
+        "publisher": "PBS"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.skyatnightmagazine.com/news/september-2025-blood-moon-images",
+    "publisher": "BBC Sky at Night Magazine"
+  },
+  {
+    "timestamp": "1757343600000",
+    "title": "Does the nearby exoplanet TRAPPIST-1e support life? New James Webb Space Telescope data could help us find out",
+    "snippet": "The James Webb Space Telescope has investigated the \"Goldilocks zone\" planet TRAPPIST-1e to search for a potential atmosphere and hints of habitability.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHhSbTFMU25OMVdWWTJNMFJUVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNHhSbTFMU25OMVdWWTJNMFJUVFJDZkF4ampCU2dLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757341957000",
+        "title": "Webb Telescope Studies Hopeful Hint of Earthlike Atmosphere on Trappist-1e Planet",
+        "snippet": "Scientists are steadily ruling out habitable conditions on the seven planets of the star Trappist-1. On one of the worlds, a nitrogen gas-rich veil remains...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDFiV3AwY0d0V1NEVm9UM0J0VFJDUUF4allCQ2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNDFiV3AwY0d0V1NEVm9UM0J0VFJDUUF4allCQ2dLTWdB"
+        },
+        "newsUrl": "https://www.nytimes.com/2025/09/08/science/trappist-1e-star-planet-nitrogen.html",
+        "publisher": "The New York Times"
+      },
+      {
+        "timestamp": "1757340000000",
+        "title": "NASA Webb Looks at Earth-Sized, Habitable-Zone Exoplanet TRAPPIST-1 e",
+        "snippet": "Scientists are in the midst of observing the exoplanet TRAPPIST-1 e with NASA's James Webb Space Telescope. Careful analysis of the results so far presents.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9ObkJrTWxwS1pHeDFYMlozVFJDZkF4ampCU2dLTWdhNWtvd1J0UVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW9ObkJrTWxwS1pHeDFYMlozVFJDZkF4ampCU2dLTWdhNWtvd1J0UVU"
+        },
+        "newsUrl": "https://science.nasa.gov/missions/webb/nasa-webb-looks-at-earth-sized-habitable-zone-exoplanet-trappist-1-e/",
+        "publisher": "NASA Science (.gov)"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.space.com/astronomy/exoplanets/does-the-nearby-exoplanet-trappist-1e-support-life-new-james-webb-space-telescope-data-could-help-us-find-out",
+    "publisher": "Space"
+  },
+  {
+    "timestamp": "1757308320000",
+    "title": "David Baltimore, Nobel Prize-winning scientist and former Caltech president, dies at 87",
+    "snippet": "In 2003, the Nobel Prize winner David Baltimore, then president of Caltech, paused to reflect on his role as one of the world's most decorated scientists.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZWVE5mV2s5TloxaGZibW80VFJEQ0F4aXFCU2dLTWdhMVk0aHdyUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXZWVE5mV2s5TloxaGZibW80VFJEQ0F4aXFCU2dLTWdhMVk0aHdyUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.latimes.com/obituaries/story/2025-09-07/david-baltimore-nobel-prize-caltech-dead",
+    "publisher": "Los Angeles Times"
+  },
+  {
+    "timestamp": "1757257011000",
+    "title": "Human stem cells age more rapidly in space, study finds",
+    "snippet": "Researchers from the University of California San Diego monitored the real-time changes of stem cells sent to the ISS for a month.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxjVkkxTWw5eVZ6TlFiREJWVFJERUF4aW1CU2dLTWdZSmtaU3V0UWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUxjVkkxTWw5eVZ6TlFiREJWVFJERUF4aW1CU2dLTWdZSmtaU3V0UWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.engadget.com/human-stem-cells-age-more-rapidly-in-space-study-finds-145651426.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1757263568000",
+    "title": "Interstellar Object 3I/ATLAS: Four Telescopes unveil strange features and findings — all about the new sci",
+    "snippet": "Astronomers around the globe are closely tracking a rare interstellar visitor: object 3I/ATLAS. First spotted in early July as it raced toward the Sun from...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXRORU5WTFU0MGJsTkpjVmt4VFJEZ0F4aUFCU2dLTWdtbEFZcHVRYVF0cEFJ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXRORU5WTFU0MGJsTkpjVmt4VFJEZ0F4aUFCU2dLTWdtbEFZcHVRYVF0cEFJ"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757244155000",
+        "title": "Interstellar comet 3I/ATLAS shows comet tail in new image",
+        "snippet": "Astronomers captured these images of the famous interstellar object 3I/ATLAS live from the Gemini South telescope control room in Chile during Shadow the...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTVYMFo2Ukc4d2JYbFNkamwzVFJDZkF4ampCU2dLTWdNUmNnNA=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNTVYMFo2Ukc4d2JYbFNkamwzVFJDZkF4ampCU2dLTWdNUmNnNA"
+        },
+        "newsUrl": "https://earthsky.org/todays-image/3i-atlas-interstellar-comet-shows-comet-tail-in-new-image/",
+        "publisher": "EarthSky"
+      },
+      {
+        "timestamp": "1756760411000",
+        "title": "The Blind Date of Mars with 3I/ATLAS in a Month",
+        "snippet": "Blind dates are exciting because they hold the potential for surprises, especially when dealing with an interstellar date partner of unknown origin.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRVa1J6TW5OVVVHdG9hRU5JVFJERUF4aW1CU2dLTWdhNWdaRFVOQVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHRVa1J6TW5OVVVHdG9hRU5JVFJERUF4aW1CU2dLTWdhNWdaRFVOQVk"
+        },
+        "newsUrl": "https://avi-loeb.medium.com/the-blind-date-of-mars-with-3i-atlas-in-a-month-476c7288a576",
+        "publisher": "Avi Loeb – Medium"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://m.economictimes.com/news/international/us/interstellar-object-3i/atlas-four-telescopes-unveil-strange-features-and-findings-all-about-the-new-scientific-puzzle/articleshow/123749632.cms",
+    "publisher": "The Economic Times"
+  },
+  {
+    "timestamp": "1757339685000",
+    "title": "A New, ‘Adorable’ Deep-Sea Fish Swims Into View",
+    "snippet": "For an animal, surviving in the ocean's deepest trenches requires remarkable adaptations: a gelatinous body that can withstand pressure,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDBTR0ZKVDBKcWExTkxjelZCVFJDcUJCaXFCQ2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNDBTR0ZKVDBKcWExTkxjelZCVFJDcUJCaXFCQ2dLTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/2025/09/08/science/fish-ocean-deep-sea.html",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1757183525000",
+    "title": "SpaceX launches 24 Starlink satellites from California (video)",
+    "snippet": "A SpaceX Falcon 9 rocket carrying 24 Starlink internet broadband satellites lifted off from Vandenberg Space Force Base in California on Saturday, Sept.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWpRemwzVGxaT2N6TldNbEJMVFJDZkF4ampCU2dLTWdNQlFBRQ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNWpRemwzVGxaT2N6TldNbEJMVFJDZkF4ampCU2dLTWdNQlFBRQ"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757185650000",
+        "title": "SpaceX passes 2,000 Starlink satellites deployed in 2025 with Saturday launch",
+        "snippet": "Update Sept. 6, 3:10 p.m. EDT: SpaceX confirms deployment of the 24 Starlink satellites. SpaceX deployed its 2,000th Starlink satellite of the year when its...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTFZbEl5V25WemFsQkVWVnA0VFJDeUF4akRCU2dLTWdhaDBvQ3QxUUU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTFZbEl5V25WemFsQkVWVnA0VFJDeUF4akRCU2dLTWdhaDBvQ3QxUUU"
+        },
+        "newsUrl": "https://spaceflightnow.com/2025/09/06/live-coverage-spacex-to-pass-2000-starlink-satellites-deployed-in-2025-with-saturday-launch/",
+        "publisher": "Spaceflight Now"
+      },
+      {
+        "timestamp": "1757197326000",
+        "title": "SpaceX Marks 40th Launch of Year from VSFB as Federal Lawsuit Continues",
+        "snippet": "A Falcon 9 rocket delivered another set of Starlink satellites Saturday morning with a liftoff from Vandenberg Space Force Base as the SpaceX lawsuit.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlURVIzTWtjeE5tSnVNSEZpVFJDeUF4akRCU2dLTWdhaDBvQ3UxUUU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHlURVIzTWtjeE5tSnVNSEZpVFJDeUF4akRCU2dLTWdhaDBvQ3UxUUU"
+        },
+        "newsUrl": "https://www.noozhawk.com/spacex-marks-40th-launch-of-year-from-vsfb-as-federal-lawsuit-continues/",
+        "publisher": "Noozhawk"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-9-b1075-vsfb-ocisly",
+    "publisher": "Space"
+  },
+  {
+    "timestamp": "1757336400000",
+    "title": "1st known interstellar visitor 'Oumuamua is an 'exo-Pluto' — a completely new class of object, scientists say",
+    "snippet": "The first interstellar object to visit the solar system may have been a fragment of an icy exoplanet, research suggests.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5XRXBYYTFBMFVHNHdSek55VFJDZkF4ampCU2dLTWdZRmhJNkdOZ1k=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW5XRXBYYTFBMFVHNHdSek55VFJDZkF4ampCU2dLTWdZRmhJNkdOZ1k"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.space.com/astronomy/dwarf-planets/1st-known-interstellar-visitor-oumuamua-is-an-exo-pluto-a-completely-new-class-of-object-scientists-say",
+    "publisher": "Space"
+  },
+  {
+    "timestamp": "1757256001000",
+    "title": "Mars has a solid core, resolving a longstanding planetary mystery, according to new study",
+    "snippet": "Scientists have discovered that Mars has an interior structure similar to Earth's. Results from NASA's InSight mission suggest that the red planet has a...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVpSbGwwY2sxcmEycEZUVXB1VFJDWEF4anhCU2dLTWdhbEZJNnRKUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVpSbGwwY2sxcmEycEZUVXB1VFJDWEF4anhCU2dLTWdhbEZJNnRKUWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757296809000",
+        "title": "Mars should not have a solid inner core but it does, China-US study finds",
+        "snippet": "Marsquake data gleaned by Chinese and US researchers could change long-held beliefs about red planet.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNXVmh4TW5aZlVsZGpabGxUVFJERUF4aW1CU2dLTWdhaFVwUk5wUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXNXVmh4TW5aZlVsZGpabGxUVFJERUF4aW1CU2dLTWdhaFVwUk5wUWM"
+        },
+        "newsUrl": "https://www.scmp.com/news/china/science/article/3324265/mars-should-not-have-solid-inner-core-it-does-china-us-study-finds",
+        "publisher": "South China Morning Post"
+      },
+      {
+        "timestamp": "1756912028000",
+        "title": "Seismic detection of a 600-km solid inner core in Mars",
+        "snippet": "For rocky planets, the presence of a solid inner core has notable implications on the composition and thermal evolution of the core and on the magnetic...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNTBVUzFIU21WbFZIWlBhSEJWVFJETUJCaUtCQ2dLTWdzSkFvU0dqbW8xeEtxZU5R=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNTBVUzFIU21WbFZIWlBhSEJWVFJETUJCaUtCQ2dLTWdzSkFvU0dqbW8xeEtxZU5R"
+        },
+        "newsUrl": "https://www.nature.com/articles/s41586-025-09361-9",
+        "publisher": "Nature"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://phys.org/news/2025-09-mars-solid-core-longstanding-planetary.html",
+    "publisher": "Phys.org"
+  },
+  {
+    "timestamp": "1757333125000",
+    "title": "World First: Physicists Created a Time Crystal That We Can Actually See",
+    "snippet": "Physicists have just made a new breakthrough in the enigmatic realm of time crystals. For the first time, a time crystal has been built that can be directly...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWFUWE0zY2pnNGMxQkJaWFJVVFJEZ0Foam1CaWdLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWFUWE0zY2pnNGMxQkJaWFJVVFJEZ0Foam1CaWdLTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.sciencealert.com/world-first-physicists-created-a-time-crystal-that-we-can-actually-see",
+    "publisher": "ScienceAlert"
+  }
+]

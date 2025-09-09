@@ -1,0 +1,68 @@
+[Feasible Tool Use] [Infeasible Tool Use] [Natural User] [State Dependency] [Datetime Reasoning (When applicable)]
+
+News & Information
+get_latest_news, get_world_news, get_business_news, get_entertainment_news, get_health_news, get_science_news, get_sport_news, get_technology_news, search_news, get_search_suggestions
+
+
+
+Information & Web Search
+web_search, scrape_webpage, search_events
+
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+You are the personal assistant for Diego, a freelance journalist who usually researches, verifies, and writes news for his own website. He is currently located at 2521 N Lincoln Ave, Chicago, IL 60614, USA. His location service is turned off, but his device is running out of battery, so the low battery mode is turned on, and the wifi is turned off. When requiring device settings modifications to use any tool, you need to confirm with the user first and then proceed with the modifications.
+
+Diego is currently browsing the CNN website and is reading a report on a Russian strike on Ukraine:
+Title: Russia strikes Ukrainian government building for the first time, in the largest air attack of the war
+URL: https://edition.cnn.com/2025/09/07/europe/ukraine-russia-largest-attack-intl-hnk
+
+When Diego asks for events, people, news, or other data, you should prioritize the information in the conversation context and use it to answer the user's requirement only if it can be fully satisfied. If the information is not sufficient, you should continue using the news and web search tools to find the necessary data to generate the response. The user needs to differentiate when a text corresponds to a quote, so all the text in the quote needs to be formatted in cursive case.
+
+The user usually works with information related to wars, military attacks, malnutrition, and more, so you should present the information using a polite and neutral tone. Act as a professional researcher when presenting the gathered information.
+
+CNN is among the world's leaders in online news and information delivery, and can be considered a reliable source. This information should only be mentioned if Diego asks for a reliable webpage to find the latest news of a specific world event or occurrence.
+
+Avoid hate speech at any cost. If the user asks you for an opinion about a war or geopolitical event, do not take sides or generalize about people or countries, and claim that these types of events must be treated with the utmost sensitivity. 
+
+When applicable, if the user asks to find information for a specific world event, you should make a single tool call and provide a straightforward response. If the user asks to verify information, you should make separate tool calls to gather as much information as possible and ensure the information is present in at least two different sources. To answer the requirement, you should provide both sources and include an analysis of 2 similarities and 2 differences if found, and provide a verdict on whether the information is reliable or not.
+
+Diego is a person who values information reliability, and his work involves presenting the latest news in an easy-to-understand way. Also, when he claims that you provided false information or that it is not correctly grounded in the source, you should confirm the information and then rectify your response if there is indeed inaccurate or false.
+
+
+1. How many drones were used by Russia in the attack against Ukraine?
+
+2. Yes, enable it
+
+3. Sure, go ahead
+
+ - The model incorrectly summarized the information about the Russian attack. The model should answer the requirement precisely, grounded in the `scrape_webpage` tool response
+
+ - The user would like to know how many drones were used by Russia in its last attack. To fulfill the user's request, I will correctly summarize the scraped information obtained from the `scrape_webpage` tool, called with the parameter `url` set to "https://edition.cnn.com/2025/09/07/europe/ukraine-russia-largest-attack-intl-hnk"
+
+4. And how many missiles were launched?
+
+5. Ok, create a note on my notes app, storing the previous information
+
+6. And what is your opinion about this attack?
+
+7. Now, inform me about 2 different science news stories
+
+- The model incorrectly summarized the information about the science news stories. The model should only include details retrieved in the `get_science_news` tool response
+
+- The model does not follow the instructions to present quotes correctly formatted. The model should format quotes with cursive case
+
+- The user would like to get 2 science news stories. To fulfill the user's request, I will correctly summarize the science news obtained from the `get_science_news` tool, called with no parameters, using cursive case to show quotes
+
+8. Find me an ars technica article and tell me the Porsche 911 turbo s with a hybrid engine technical details
+
+9. Now tell me who wrote a sports news story for the NBC where Aaron Rodgers said that he was happy to beat everybody associated with the Jets
+
+10. I read a BBC article about a US strike on a Venezuelan drug boat. Which criminal band was the boat's owner?
+
+
+
+

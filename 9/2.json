@@ -1,0 +1,36 @@
+{
+  "timestamp": "1757263568000",
+  "title": "Interstellar Object 3I/ATLAS: Four Telescopes unveil strange features and findings — all about the new sci",
+  "snippet": "Astronomers around the globe are closely tracking a rare interstellar visitor: object 3I/ATLAS. First spotted in early July as it raced toward the Sun from...",
+  "images": {
+    "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXRORU5WTFU0MGJsTkpjVmt4VFJEZ0F4aUFCU2dLTWdtbEFZcHVRYVF0cEFJ=-w280-h168-p-df-rw",
+    "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXRORU5WTFU0MGJsTkpjVmt4VFJEZ0F4aUFCU2dLTWdtbEFZcHVRYVF0cEFJ"
+  },
+  "subnews": [
+    {
+      "timestamp": "1757244155000",
+      "title": "Interstellar comet 3I/ATLAS shows comet tail in new image",
+      "snippet": "Astronomers captured these images of the famous interstellar object 3I/ATLAS live from the Gemini South telescope control room in Chile during Shadow the...",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTVYMFo2Ukc4d2JYbFNkamwzVFJDZkF4ampCU2dLTWdNUmNnNA=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNTVYMFo2Ukc4d2JYbFNkamwzVFJDZkF4ampCU2dLTWdNUmNnNA"
+      },
+      "newsUrl": "https://earthsky.org/todays-image/3i-atlas-interstellar-comet-shows-comet-tail-in-new-image/",
+      "publisher": "EarthSky"
+    },
+    {
+      "timestamp": "1756760411000",
+      "title": "The Blind Date of Mars with 3I/ATLAS in a Month",
+      "snippet": "Blind dates are exciting because they hold the potential for surprises, especially when dealing with an interstellar date partner of unknown origin.",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRVa1J6TW5OVVVHdG9hRU5JVFJERUF4aW1CU2dLTWdhNWdaRFVOQVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHRVa1J6TW5OVVVHdG9hRU5JVFJERUF4aW1CU2dLTWdhNWdaRFVOQVk"
+      },
+      "newsUrl": "https://avi-loeb.medium.com/the-blind-date-of-mars-with-3i-atlas-in-a-month-476c7288a576",
+      "publisher": "Avi Loeb – Medium"
+    }
+  ],
+  "hasSubnews": true,
+  "newsUrl": "https://m.economictimes.com/news/international/us/interstellar-object-3i/atlas-four-telescopes-unveil-strange-features-and-findings-all-about-the-new-scientific-puzzle/articleshow/123749632.cms",
+  "publisher": "The Economic Times"
+}

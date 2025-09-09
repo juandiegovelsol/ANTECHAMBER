@@ -1,0 +1,93 @@
+[Feasible Tool Use] [Natural User] [Datetime Reasoning (When applicable)] [Default Clarification Behavior] [Context Information System Prompt]
+
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, get_product_categories, business_details, business_reviews, search_yelp
+
+
+Information & Web Search
+web_search, weather_forecast, search_events
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds *
+
+
+
+
+
+
+You are an assistant for Monica, a personal shopper who helps her clients find and buy products of almost any type. She is currently located in Manhattan, NY 10036, USA, with a latitude of 40.7579747 and a longitude of -73.9855426. Her device is fully charged and has both cellular and Wi-Fi enabled, so there should be no issues with network connection.
+
+The user is looking at the following business on yelp
+
+Name: Riverbank State Park
+ID: Jcl1VjJ_ijANmNC6xhWblg
+City: New York
+
+When Monica asks for information about businesses or places, you should prioritize the information in the conversation context to answer her, ensuring that it can be used to fulfill her requirements. If not, you should continue performing the required tool calls to find the required information and answer her requirement. Also, use only bullet points to list products, as Monica easily understands the information when formatted this way.
+
+Monica usually handles a large volume of clients' information about several products, and she usually feels stressed or annoyed. You should always use a kind and empathetic tone and act as a professional shopping assistant, providing useful information to solve the prompt requirement.
+
+Amazon prime day, Black friday, and Cyber Monday typically feature the widest selection of products that can be found on sale on the platform, and usually concentrate the highest discounts, but this data should only be mentioned if Monica asks for the deepest discounts for a specific product.
+
+Do not emit any absolute buying verdict. If Monica requires you to decide whether to buy a product in any way implying a certain decision to buy or not buy a product, you should claim that you are not allowed to answer this type of question and include information about the product.
+
+When Monica asks you to find a specific product, you should prioritize a single tool call that adapts better to her requirements, and provide a concise response with no more than 3 options. If the user asks for a top product list, you should chain at least two separate tool calls to gather as much information as possible, and then summarize a product list with the top-rated products.
+
+Monica is a person who values attention to detail; her work involves finding products that satisfy clients' needs and uses to buy only products with at least 4 out of 5 rating stars. When she claims your product recommendation is not aligned with the clients' needs or the rating average is not high enough, you should confirm that information to decide between two options: rectify your response or explain to Monica why the product satisfies the user needs and has enough average rating
+
+
+
+
+1. Could you remind me of the name of the park I was looking for?
+
+R / Of course, Monica! The park you were looking at is **Riverbank State Park** in New York. Let me know if you need more details! 😊
+
+2. Great, now find me a cooking gadget for my client, Diana
+
+R / Could you provide me with more details about what kind of cooking gadget Diana is looking for? For example:
+
+- A specific type of gadget (e.g., blender, air fryer, knife set).
+- Any preferred features, size, or budget?
+- Does it need to have at least 4 out of 5 stars?
+
+Let me know so I can find the best options for her! 😊
+
+3. She is looking for an olive oil sprayer
+
+The model incorrectly summarized the information for the FLAIROSOL spray. The model should only include details retrieved in the `product_search` tool response
+
+The user would like to get olive oil sprayers. To fulfill the user's request, I will correctly summarize the product information obtained from the `product_search` tool, called with the parameters `query` set to "olive oil sprayer", `country` set to "US", `four_stars_and_up` set to "true", and `sort_by` set to "RELEVANCE"
+
+4. Should I buy the trendplain sprayer?
+
+5. Now, help me find jbl earbuds for another client
+
+6. When could the tune flex be found with the deepest discount?
+
+7. What about the tune flex weight?
+
+"product_weight" is an incorrect value for the parameter `fields` of the `product_details` tool. The model should use "product_information" instead
+
+The user would like to know the weight of a product. To fulfill the user's request, I will use the `product_details` tool with the parameters `asin` set to "B0C1QNRGHC", `country` set to "US", and `fields` set to "product_information"
+
+The model incorrectly summarized the information for the JBL tune flex. The model should only include details retrieved in the `product_details` tool response
+
+The user would like to get the weight of the earbuds. To fulfill the user's request, I will correctly summarize the product information obtained from the `product_details` tool, called with the parameters `asin` set to "B0C1QNRGHC", `country` set to "US", and `fields` set to "product_information"
+
+
+8. Diana is asking me if the playstation pulse elite has other available colors. Help me with this
+
+9. Which is the rating distribution for the logitech G yeti orb?
+
+10. Could you list 3 reviews for the mouse redragon m612 pro rgb?
+
+
+
+The model incorrectly summarized the information for the mouse review. The model should include quotes as retrieved in the `product_reviews` tool response
+
+The user would like to get an accurate review for the mouse. To fulfill the user's request, I will use the `product_details` tool with the parameters `asin` set to "B0C1QNRGHC", `country` set to "US", and `fields` set to "product_information"
+
+
+This wasn't a planned purchase, but I needed a mouse to play some PC games with, and I was looking specifically for ones that happened to have a lot of programmable buttons. Enter this mouse. Not only is it very comfortable for someone with large hands like myself, but it looks really nice on top of having great functionality. One of my favorite things about this mouse is the fact that it has a re-chargable battery, meaning that the days of me having to buy batteries for my controller are over. The middle button light will change colors depending on the battery life - green is fully charged, blue is mid-life, and red is dying.\n\nBattery life is incredible, with me really only having to charge this thing once a week on average. That said, I also turn off the mouse when it's not in use, which likely extends the life of the battery quite a bit. Wireless connectivity is great, both through bluetooth or the included dongle, and I appreciate the fact that there's a nice space on the inside of the mouse to store the dongle when not in use.\n\nAll in all, this is an amazing quality mouse for the price, as well as the eight reprogrammable buttons. This is perfect for someone who needs to be able to program hotkeys for specific games and programs, and the assistant program even allows you to create different button profiles that you can load at will.
