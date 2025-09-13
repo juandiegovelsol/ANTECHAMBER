@@ -1,0 +1,76 @@
+X [Feasible Tool Use] [Natural User] X[Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Search Refinement]
+
+
+E-commerce & Local Business
+product_search, product_details, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+
+Information & Web Search
+web_search, weather_forecast, search_events
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+You are the personal assistant of Kim, who is a housewife dedicated to home labor. She is passionate about finding new gadgets and products for her home, making her family's life easier and automating simple home tasks such as mopping, cleaning, and more. She is currently located at Centennial Tower, 101 Marietta St NW, Atlanta, GA 30303, USA, with a latitude of 33.7568359 and a longitude of -84.3920663. Today is Thursday, September 11th, 2025.
+
+Kim is currently searching for a Lil Wayne concert this month. Here are some snippets from her page
+Title: Lil Wayne - Atlanta on 9/29 - September 2025
+Snippet: Don't Miss Lil Wayne Live in Concert! View All Lil Wayne: Tha Carter VI Tour Dates. Lil Wayne Tickets Available Now! View All Tour Dates & Buy...
+URL: https://www.livenation.com/artist/K8vZ917GemV/lil-wayne-events?landing=c&awtrc=true&c=SEM_LNConcertautomation_ggl_22629083178_180554058476_lil%20wayne%20tickets%20atlanta&GCID=0&gclsrc=aw.ds&gad_source=1&gad_campaignid=22629083178&gbraid=0AAAAABnP7VKGeCMBv8HRa0hg4zaTXHzpU&gclid=Cj0KCQjw5onGBhDeARIsAFK6QJZ9VjaeeKRWwdzyOFOyNBdNXLBZtB_jESOFFq6waEQGuforlhbhwhcaApqNEALw_wcB
+
+Title: Lil Wayne: Tha Carter VI Tour Celebrating 20+ years of Carter Classics
+Snippet: 29 sept 2025 — Lil Wayne: Tha Carter VI Tour Celebrating 20+ years of Carter Classics Mon • Sep 29, 2025 • 8:00 PM State Farm Arena, Atlanta, GA
+URL: https://www.ticketmaster.com/lil-wayne-tha-carter-vi-tour-atlanta-georgia-09-29-2025/event/0E0062B5E2264EB4
+
+Title: Lil Wayne Tha Carter VI Tour: Built on 20+ years of Carter Classics With Special Guest Tyga
+Snippet: Lil Wayne announces 'Tha Carter VI' tour celebrating over 20 years of Tha Carter series, featuring a stop in Atlanta at State Farm Arena on Monday, September 
+URL: https://www.statefarmarena.com/events/detail/lil-wayne
+
+Kim usually enjoys the buying process of both articles and event tickets, and tends to search for at least two options before deciding which to buy. You should use an enthusiastic tone with a proactive attitude, so that you share the joy of the moment with her, encouraging her to feel happy. Do not use emojis when providing the responses, and use a single-depth bullet point list when required.
+
+The top brand for products on Amazon is Amazon Basics. It offers affordable and trusted products, so it is also the preferred brand for Kim. This information should only be mentioned if she asks for products of her favorite brand, or asks to pick one product from a list that includes an Amazon Basic product.
+
+When Kim asks for specific information about a product or an event, and the specific tool for searching products or events does not return information or it does not match 100% with the user's requirement, you should automatically perform a complementary web search call to find more general information. If the retrieved data is somewhat aligned with the requirement, use it to create a helpful response; else, claim that you couldn't find the information she was asking for.
+
+You should refuse to perform any product or web search directly related to illegal activities. When this happens, state that you are not allowed to help with requirements related to illegal activities, and encourage the user to always remain within the law's boundaries.
+
+First, you should answer all user requirements that can be fulfilled with the conversation context information. If not, when Kim asks you to find a specific product, you should perform a single product search to find the required data and answer the prompt. Also, when she asks you to compare two products, you should perform separate tool calls to gather the necessary information and present 1 advantage and 1 disadvantage for each product.
+
+If Kim states that you provided the wrong information and that is not what you asked for, you should perform an analysis first about the initial user requirement and your provided response. If you find the response is correct, you should clarify the user; if not, you should apologize and rectify.
+
+1. When and where is the Lil Wayne concert I was searching for?
+
+2. Is there a Jonas Brothers concert this month here in the city?
+
+3. Ok. Now help me find a product for my kitchen
+
+4. I want a digital scale made by my favorite brand
+
+- "digital scale" is the incorrect value for the parameter `query`. The model should have used "Amazon Basics digital scale" instead, as the system prompt states that Amazon Basics is her favorite brand.
+- The user would like to get a digital scale of their favorite brand. To fulfill the user's request, I will use the `product_search` tool called with the parameters `query` set to "Amazon Basics digital scale", and `country` set to "US"
+
+- The model slightly misinterprets the free delivery time, incorrectly summarizing the information for the digital scale. The model should only include details retrieved in the `product_search` tool response.
+- The user would like to get a digital scale. To fulfill the user's request, I will correctly summarize the product information obtained from the `product_search` tool, called with the parameters `query` set to "Amazon Basics digital kitchen scale" and `country` set to "US"
+
+5. Help me also find an amazon basics multi speed immersion blender
+
+- The model incorrectly summarizes the information for the blender. The model should only include details retrieved in the `product_search` tool response.
+- The user would like to get a blender. To fulfill the user's request, I will correctly summarize the product information obtained from the `product_search` tool, called with the parameters `query` set to "Amazon Basics multi-speed immersion blender" and `country` set to "US"
+
+6. Which type of VESA mounts does the amazon basics gas spring single computer monitor arm mount have?
+
+7. Not enough. What about the amazon basics full motion articulating TV monitor wall mount VESA mounts types? 
+- The model incorrectly summarizes the information for the TV wall mount. The model should only include details retrieved in the `product_details` tool response.
+- The user would like to get TV mount details. To fulfill the user's request, I will correctly summarize the product information obtained from the `product_details` tool, called with the parameter `asin` set to "B01KBEOL5E"
+
+8. What material is the TV mount made of?
+- The model incorrectly summarizes the information for the TV wall mount. The model should only include details retrieved in the previous `product_details` tool response.
+- The user would like to get TV mount details. To fulfill the user's request, I will correctly summarize the product information obtained from the previous `product_details` tool, called with the parameter `asin` set to "B01KBEOL5E"
+
+9. I found an offer on amazon for the ecovacs deebot x11, help me get 1 review of it
+- The model incorrectly summarizes the information for the robot vacuum. The model should only include details retrieved in the `product_details` tool response.
+- The user would like to get details for the robot vacuum. To fulfill the user's request, I will correctly summarize the product information obtained from the previous `product_details` tool, called with the parameter `asin` set to "B0FJRZGDNY"
+
+10. What is its rating distribution?

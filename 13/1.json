@@ -1,0 +1,46 @@
+{
+  "symbol": "AAPL",
+  "companyName": "Apple Inc. Common Stock",
+  "stockType": "Common Stock",
+  "exchange": "NASDAQ-GS",
+  "primaryData": {
+    "lastSalePrice": "$226.8987",
+    "netChange": "+0.1087",
+    "percentageChange": "+0.05%",
+    "deltaIndicator": "up",
+    "lastTradeTimestamp": "Sep 10, 2025 4:25 PM ET",
+    "isRealTime": true,
+    "bidPrice": "$226.85",
+    "askPrice": "$226.90",
+    "bidSize": "14",
+    "askSize": "4294",
+    "volume": "83,107,494",
+    "currency": null
+  },
+  "secondaryData": {
+    "lastSalePrice": "$226.79",
+    "netChange": "-7.56",
+    "percentageChange": "-3.23%",
+    "deltaIndicator": "down",
+    "lastTradeTimestamp": "Closed at Sep 10, 2025 4:00 PM ET",
+    "isRealTime": false,
+    "bidPrice": "",
+    "askPrice": "",
+    "bidSize": "",
+    "askSize": "",
+    "volume": "",
+    "currency": null
+  },
+  "marketStatus": "After-Hours",
+  "assetClass": "STOCKS",
+  "keyStats": {
+    "fiftyTwoWeekHighLow": {
+      "label": "52 Week Range:",
+      "value": "169.21 - 260.10"
+    },
+    "dayrange": {
+      "label": "High/Low:",
+      "value": "225.95 - 232.34"
+    }
+  }
+}

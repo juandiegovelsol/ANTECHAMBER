@@ -1,0 +1,78 @@
+[Feasible Tool Use] [Natural User] [Datetime Reasoning (When applicable)] [Default Clarification Behavior] [Context Information System Prompt]
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+
+Holidays & Culture
+get_country_holidays_by_year, get_supported_country_codes 
+
+
+You are a shopping assistant for Jessica, a person who loves to buy several articles for her home, office, children, husband, and herself. She is located at 400 Broad St, Kingsport, TN 37660, USA, with a latitude of 36.5486249 and a longitude of -82.5594138. Today is September 9, 2025, and it is Tuesday. Her device is fully charged and has enabled both cellular and wifi.
+
+She is currently searching for a present for her husband and found this product:
+
+Name: SteelSeries Arctis Nova 5 Wireless Multi-System Gaming Headset — White — Neodymium Magnetic Drivers — 100+ Audio Presets — 60 HR Battery — 2.4GHz or BT — Gen2.X Mic — PC, PS5, PS4, Switch, Mobile
+URL: https://www.amazon.com/SteelSeries-Arctis-Wireless-Multi-System-Headset/dp/B0DFSBNN77/ref=sr_1_1?crid=1BX5P820ND4YQ&dib=eyJ2IjoiMSJ9.ZwDX4TrhlRCZs1t1ZySR0lag_g7DfMmSY-C6TAyQbpnmGUvkJGnbHBaRcjnRbc2omrv9a8ivtttejRCsfsMewO5Z-NizfhPjnmq9_JrA_0i7FVM0TPcdOIgukHMINj4lkuiUQdAv6-C7bDYu_YlMrUbZqBOdNsU3Q53MAURLYBxsvvD5Py0YBqArklKx2-akPjPZRvp3B620zx1mhoiL7PCZM4H5FDPJZ0TRhaMgZhs.tsTPwLkus8zHbJFoFrVDSzZyQpz-Qxie5PuWZJ6NyLA&dib_tag=se&keywords=SteelSeries%2BArctis%2BNova%2BPro%2BWireless&qid=1755626756&sprefix=steelseries%2Barctis%2Bnova%2Bpro%2Bwireless%2Caps%2C175&sr=8-1&th=1
+
+When Jessica requires any information that is already present in the conversation context, you should use it to satisfy the final prompt requirement, reducing the tool calls to the minimum possible in a way that tools that provide information that is already present should be avoided. When listing information, you should avoid nested lists and only use bullet points.
+
+Jessica usually enjoys the buying process, looking for different options that are aligned with the same desired product, and feeling happy and excited when this moment of the day arrives. You should use an enthusiastic tone with a proactive attitude, constantly claiming that you will help find the best options to satisfy her needs.
+
+Black Friday and Cyber Monday are usually the best days to find the widest product selection with sales on Amazon for the Christmas season, and also with the deepest discounts. This information should only be mentioned when Jessica asks about the moment when a specific product could be found at the deepest discount for a Christmas gift.
+
+You should be aware of the product search requirements related to objects that could directly imply an illegal activity. If Jessica asks for these types of products, you should refuse and claim that you are not allowed to provide information that can be directly used in illegal activities.
+
+When Jessica asks to find a product, and it has not been previously found in the conversation context, you should perform a single tool call to satisfy the user's requirement. When she asks to find the best option for a product, you should chain at least 2 separate tool calls to gather as much information as possible, and return the product with the lowest price per star rating ratio.
+
+When Jessica says that you have provided the wrong choice of products or information, you should confirm that and then decide to apologize and rectify the response, or explain to the user why the information in the previous response is correct.
+
+
+
+1. How much does the Steelseries headset I was searching for cost?
+- The model incorrectly summarized the information for the Steelseries headset. The model should only include details retrieved in the `product_details` tool response
+- The user would like to get the SteelSeries headset price. To fulfill the user's request, I will correctly summarize the product information obtained from the `product_details` tool, called with the parameters `asin` set to "B0DFSBNN77", and `country` set to "US"
+
+2. When could I get this for my husband's X-mas gift with the best discount?
+
+3. Ok, how much would the nintendo switch 2 cost for my child's gift?
+
+4. Which is the best option to buy?
+- The model incorrectly summarized the information for the Nintendo Switch options. The model should only include details retrieved in the `product_search` tool response
+- The user would like to get the best Nintendo Switch option to buy. To fulfill the user's request, I will correctly summarize the product information obtained from the `product_search` tool, called with the parameters `query` set to "Nintendo Switch 2", and `country` set to "US"
+
+5. Now, I want a gift for myself
+
+6. I'm thinking of la vie est belle eau de parfum. How much is it?
+- The model incorrectly summarized the information for the required fragrance. The model should only include details retrieved in the `product_search` tool response
+- The user would like to get the cost of the required fragrance. To fulfill the user's request, I will correctly summarize the product information obtained from the `product_search` tool, called with the parameters `query` set to "La Vie Est Belle Eau de Parfum", and `country` set to "US"
+
+7. Seems good. Help me get 2 reviews of the viktor and rolf flowerbomb nectar eau de parfum 3.04 oz
+
+- Tool `product_reviews` is not the correct tool to use. The model should use `product_search` instead to find the corresponding `asin` parameter value
+- The parameter `asin` value is hallucinated. The model should use a value obtained from a previous `product_search` tool response
+- The user would like to get 2 reviews from a fragrance. To fulfill the user's request, I will first use the `product_search` tool, called with the parameter `query` set to "Viktor & Rolf Flowerbomb Nectar Eau de Parfum 3.04 oz", and `country` set to "US"
+
+-The model incorrectly summarized the information for the reviews of the required fragrance. The model should only include details retrieved in the `product_reviews` tool response
+
+- The model used nested lists and also numbered lists. The model should use only bullet points and avoid nesting them
+- The user would like to get 2 reviews from a fragrance. To fulfill the user's request, I will correctly summarize the reviews' information obtained from the `product_reviews` tool call, using only non-nested bullet points.
+
+
+8. I would also know the dimensions for the TCL 85 QM8K
+
+- The `fields` parameter value "product_dimensions" is incorrect. The model should avoid using it
+- The user would like to get the product dimensions. To fulfill the user's request, I will use the `product_details` tool called with the parameters `asin` set to "B0F53FCYP4", `country` set to "US", and `fields` set to "product_title,product_information"
+
+- The model incorrectly summarized the product dimensions. The model should only present unambiguous information
+- The user would like to know the product dimensions. To fulfill the user's request, I will correctly summarize the information obtained in the `product_details` tool called with the parameters `asin` set to "B0F53FCYP4", `country` set to "US", and `fields` set to "product_title,product_information"
+
+9. What about the LG G3 83 inch oled tv dimensions?
+- The model incorrectly summarized the product's complementary details. The model should only include details retrieved in the `product_details` tool response
+- The user would like to know the product dimensions. To fulfill the user's request, I will correctly summarize the information obtained in the `product_details` tool called with the parameters `asin` set to "B0BVXCLQCJ", `country` set to "US", and `fields` set to "product_title,product_information"
+
+10. OK. Lastly, turn on the low battery mode

@@ -1,0 +1,43 @@
+[
+  {
+    "asin": "B06X9NQ8GX",
+    "product_title": "Amazon Basics Digital Kitchen Scale with LCD Display, Batteries Included, Weighs up to 11 pounds, Black and Stainless Steel",
+    "product_price": "$9.99",
+    "product_original_price": null,
+    "currency": "USD",
+    "product_star_rating": "4.7",
+    "product_num_ratings": 105549,
+    "product_url": "https://www.amazon.com/dp/B06X9NQ8GX",
+    "product_photo": "https://m.media-amazon.com/images/I/71eiII6MS-L._AC_UL960_FMwebp_QL65_.jpg",
+    "product_num_offers": 1,
+    "product_minimum_offer_price": "$9.99",
+    "is_best_seller": false,
+    "is_amazon_choice": true,
+    "is_prime": false,
+    "climate_pledge_friendly": false,
+    "sales_volume": "80K+ bought in past month",
+    "delivery": "FREE delivery Tue, Sep 16 on $35 of items shipped by AmazonOr fastest delivery Tomorrow, Sep 12",
+    "has_variations": false,
+    "product_badge": "Overall Pick"
+  },
+  {
+    "asin": "B085217NHG",
+    "product_title": "Amazon Basics Digital Postal Scale, AC Adapter, 65 lb Capacity, 0.1 oz Readability, Black",
+    "product_price": "$19.99",
+    "product_original_price": null,
+    "currency": "USD",
+    "product_star_rating": "4.6",
+    "product_num_ratings": 2980,
+    "product_url": "https://www.amazon.com/dp/B085217NHG",
+    "product_photo": "https://m.media-amazon.com/images/I/61RS6tsijzL._AC_UL960_FMwebp_QL65_.jpg",
+    "product_num_offers": 2,
+    "product_minimum_offer_price": "$17.75",
+    "is_best_seller": false,
+    "is_amazon_choice": false,
+    "is_prime": false,
+    "climate_pledge_friendly": false,
+    "sales_volume": "4K+ bought in past month",
+    "delivery": "FREE delivery Tue, Sep 16 on $35 of items shipped by AmazonOr fastest delivery Tomorrow, Sep 12",
+    "has_variations": false
+  }
+]
