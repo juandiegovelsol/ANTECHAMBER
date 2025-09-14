@@ -1,0 +1,771 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTEzfDY4NDE5NDgwNzM3MTIzNDk1MDU=",
+    "name": "Ricky Martin",
+    "link": "https://open.spotify.com/concert/5HNoJNFK7ErJizdIhfwblf",
+    "description": "Find tickets for Ricky Martin at The Colosseum at Caesars Palace in Las Vegas on 9/13/2025 at 8:00 PM",
+    "language": "en",
+    "date_human_readable": "Sat, Sep 13, 8 – 11 PM PDT",
+    "start_time": "2025-09-13 20:00:00",
+    "start_time_utc": "2025-09-14 03:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-13 23:00:00",
+    "end_time_utc": "2025-09-14 06:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyMh5u0TGqX2PI5wZ8vLg87jGUjfxobaWJVzytZqtcvhuPSGAkmAxNbtjCw&s=10",
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/5HNoJNFK7ErJizdIhfwblf",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/au/events/989599/ricky-martin-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/music-tickets/2025/09/13/ricky-martin-live-in-las-vegas",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Festivaly.eu",
+        "link": "https://festivaly.eu/en/ricky-martin-live-in-las-vegas-the-colosseum-at-caesars-palace-las-vegas-2025-1",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://festivaly.eu&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Bandsintown.com",
+        "link": "https://www.bandsintown.com/e/1035349414?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bandsintown.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/5HNoJNFK7ErJizdIhfwblf"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8c43c9b3519d7:0xad6ad099163f52f6",
+      "name": "The Colosseum Theater at Caesars Palace",
+      "phone_number": "+18662275938",
+      "website": "https://www.caesars.com/caesars-palace/shows/the-colosseum?y_source=1_MTQ2NDg1NzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "review_count": 4008,
+      "rating": 4.7,
+      "subtype": "Performing arts theater",
+      "subtypes": ["Performing arts theater", "Live music venue"],
+      "full_address": "The Colosseum Theater at Caesars Palace, 3570 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "latitude": 36.1161187,
+      "longitude": -115.17645119999999,
+      "district": null,
+      "street_number": "3570",
+      "street": "3570 S Las Vegas Blvd",
+      "city": "Las Vegas",
+      "zipcode": "89109",
+      "state": "Nevada",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/m/043kd_k"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTE0fDE4MjY0NDE1NzQ0NDI0ODM0NTY=",
+    "name": "Marco Antonio Solis",
+    "link": "https://www.visitlasvegas.com/event/marco-antonio-sol%C3%ADs-mas-cerca-de-ti-world-tour/51136/",
+    "description": "Marco Antonio Solís is one of the most important figures in the history of Latin music. His five-decade career as a ballader began in the ’70s when he co-founded the Mexican grupera band Los...",
+    "language": "en",
+    "date_human_readable": "Sun, Sep 14, 8 – 11 PM PDT",
+    "start_time": "2025-09-14 20:00:00",
+    "start_time_utc": "2025-09-15 03:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-14 23:00:00",
+    "end_time_utc": "2025-09-15 06:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqBepRHMvoNR63U5zuIkBPj4JC74zryKxa67Hp9-mlcw&s=10",
+    "publisher": "Visitlasvegas.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.visitlasvegas.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.visitlasvegas.com",
+    "ticket_links": [
+      {
+        "source": "Las-vegas-theater.com",
+        "link": "https://www.las-vegas-theater.com/shows/caesars-palace-colosseum/marco-antonio-solis/tickets/calendar",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://las-vegas-theater.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Bandsintown.com",
+        "link": "https://www.bandsintown.com/e/1035554054?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bandsintown.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Stubhub.com",
+        "link": "https://www.stubhub.com/_C-5197?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-3446%7Cev-158480265%7Ccy-79660&ps_ev=158480265",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stubhub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Viagogo.com",
+        "link": "https://www.viagogo.com/_C-5197?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-3446%7Cev-158480265%7Ccy-79660&ps_ev=158480265",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://viagogo.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Gametime.co",
+        "link": "https://gametime.co/music/marco-antonio-solis-tickets/9-14-2025-las-vegas-nv-the-colosseum/events/68487943fd59eddde6a84a22",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gametime.co&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Visitlasvegas.com",
+        "link": "https://www.visitlasvegas.com/event/marco-antonio-sol%C3%ADs-mas-cerca-de-ti-world-tour/51136/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8c43c44cae095:0x77c9c8f2a2af3ff7",
+      "name": "Caesars Palace",
+      "phone_number": "+18662275938",
+      "website": "https://www.caesars.com/caesars-palace?y_source=1_NDM2Njg2Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "review_count": 133906,
+      "rating": 4.5,
+      "subtype": "Casino hotel",
+      "subtypes": [
+        "Casino hotel",
+        "Casino",
+        "Hotel",
+        "Resort hotel",
+        "Tourist attraction"
+      ],
+      "full_address": "Caesars Palace, 3570 S Las Vegas Blvd, Paradise, NV 89109",
+      "latitude": 36.1172612,
+      "longitude": -115.176141,
+      "district": null,
+      "street_number": "3570",
+      "street": "3570 S Las Vegas Blvd",
+      "city": "Paradise",
+      "zipcode": "89109",
+      "state": "Nevada",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/m/03fz0m"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTE0fDQwMDQ2ODY1ODk0NTQxNTMxMDQ=",
+    "name": "Reik",
+    "link": "https://open.spotify.com/concert/1pApcIpGWDyesF3nugNry8",
+    "description": "Find tickets for Reik at Pearl Concert Theater in Las Vegas on 9/14/2025 at 8:00 PM",
+    "language": "en",
+    "date_human_readable": "Sun, Sep 14, 8:00 – 9:30 PM",
+    "start_time": "2025-09-14 20:00:00",
+    "start_time_utc": "2025-09-14 20:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-14 21:30:00",
+    "end_time_utc": "2025-09-14 21:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjnkjEjtNLA-ILZZTfGDoZPkUMqdTez_1mtefI_Ka1_O0ougzRX6RL9nGXYw&s=10",
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/1pApcIpGWDyesF3nugNry8",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/uk/events/979388/reik-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Festivaly.eu",
+        "link": "https://festivaly.eu/en/reik-pearl-concert-theater-at-palms-casino-resort-las-vegas-2025",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://festivaly.eu&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Bandsintown.com",
+        "link": "https://www.bandsintown.com/e/106771258?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bandsintown.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Stubhub.com",
+        "link": "https://www.stubhub.com/_C-26745?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-3435%7Cev-158021448%7Ccy-3755&ps_ev=158021448",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stubhub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/1pApcIpGWDyesF3nugNry8"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8c69929a4e157:0x77d26ea79793065d",
+      "name": "Pearl Theater",
+      "phone_number": "+18669427777",
+      "website": "https://www.palms.com/entertainment/pearl-theater",
+      "review_count": 1252,
+      "rating": 4.7,
+      "subtype": "Concert hall",
+      "subtypes": [
+        "Concert hall",
+        "Live music venue",
+        "Performing arts theater"
+      ],
+      "full_address": "Pearl Theater, 4321 W Flamingo Rd, Las Vegas, NV 89103",
+      "latitude": 36.114104399999995,
+      "longitude": -115.1954251,
+      "district": null,
+      "street_number": "4321",
+      "street": "Pearl Theater, 4321 W Flamingo Rd",
+      "city": "Las Vegas",
+      "zipcode": "89103",
+      "state": "NV",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/m/05y52gy"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTEzfDE1MjY2Njg0MDY0MzQ1NDA1OTc3",
+    "name": "Midland",
+    "link": "https://open.spotify.com/concert/525SZk6lrlufwPmFuCxOB4",
+    "description": "Find tickets for Midland at The Sandbar at Red Rock Casino Resort & Spa in Las Vegas on 9/13/2025 at 8:00 PM",
+    "language": "en",
+    "date_human_readable": "Sat, Sep 13, 8:00 – 9:30 PM",
+    "start_time": "2025-09-13 20:00:00",
+    "start_time_utc": "2025-09-13 20:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-13 21:30:00",
+    "end_time_utc": "2025-09-13 21:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm0jpOb_CSH2_g4BWuYrC99aCVjW0ixFBb6VkDQuFDRwCky_zx-LuYyrACCA&s=10",
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/525SZk6lrlufwPmFuCxOB4",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/uk/events/966383/midland-21-event-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/music-tickets/2025/09/13/midland",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Festivaly.eu",
+        "link": "https://festivaly.eu/en/midland-the-sandbar-at-red-rock-casino-resort-spa-las-vegas-2025",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://festivaly.eu&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Igovegas.com",
+        "link": "https://igovegas.com/events/Midland2025-09-131AvjZbIGkBJ0vzI",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://igovegas.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/525SZk6lrlufwPmFuCxOB4"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8be4e73e8263f:0xd30fc834918990fc",
+      "name": "Red Rock Casino Resort and Spa",
+      "phone_number": "+17027977777",
+      "website": "https://www.redrockresort.com",
+      "review_count": 32575,
+      "rating": 4.5,
+      "subtype": "Resort hotel",
+      "subtypes": ["Resort hotel"],
+      "full_address": "Red Rock Casino Resort and Spa, 11011 W Charleston Blvd, Las Vegas, NV 89135",
+      "latitude": 36.1570155,
+      "longitude": -115.33356719999999,
+      "district": "Summerlin",
+      "street_number": "11011",
+      "street": "11011 W Charleston Blvd",
+      "city": "Las Vegas",
+      "zipcode": "89135",
+      "state": "Nevada",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/m/05gpl1"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTEzfDE4MTMzNTMzNTExNDUwMzkxMDA1",
+    "name": "Alejandro Fernandez",
+    "link": "https://open.spotify.com/concert/09YlHnSgRJZdDbs8awFc5Q",
+    "description": "Find tickets for Alejandro Fernández at MGM Grand Garden Arena in Las Vegas on 9/13/2025 at 9:00 PM",
+    "language": "en",
+    "date_human_readable": "Sat, Sep 13, 8:00 – 10:30 PM PDT",
+    "start_time": "2025-09-13 20:00:00",
+    "start_time_utc": "2025-09-14 03:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-13 22:30:00",
+    "end_time_utc": "2025-09-14 05:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTFVHF95KiLiRkKxOMgojMPdgbloNOT4XsBYBciH3m1y5hf1hLtefsnFxMw&s=10",
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/09YlHnSgRJZdDbs8awFc5Q",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/uk/events/727169/alejandro-fernandez-de-rey-a-rey-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Bandsintown.com",
+        "link": "https://www.bandsintown.com/e/106069724?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bandsintown.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/alejandro-fernandez-tickets-las-vegas-mgm-grand-garden-arena-9-13-2025--concerts-latin-music/production/5305576",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Las Vegas",
+        "link": "https://www.visitlasvegas.com/event/alejandro-fern%C3%A1ndez%3A-de-rey-a-rey/48561/",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://visitlasvegas.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/09YlHnSgRJZdDbs8awFc5Q"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8c42fb7000001:0xae472256c7c010bd",
+      "name": "Grand Garden Arena",
+      "phone_number": "+17028913151",
+      "website": "https://mgmgrand.mgmresorts.com/en/entertainment/grand-garden-arena.html?icid=NS-AW-EN-GMB_GGA-LV-MG",
+      "review_count": 3994,
+      "rating": 4.5,
+      "subtype": "Stadium",
+      "subtypes": [
+        "Stadium",
+        "Concert hall",
+        "Event venue",
+        "Live music venue",
+        "Performing arts theater"
+      ],
+      "full_address": "Grand Garden Arena, MGM Grand, 3799 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "latitude": 36.1047672,
+      "longitude": -115.1686005,
+      "district": null,
+      "street_number": "3799",
+      "street": "MGM Grand, 3799 S Las Vegas Blvd",
+      "city": "Las Vegas",
+      "zipcode": "89109",
+      "state": "Nevada",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/m/069qh6"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTEzfDExNjYwNzQ0MTQzMzU4Njk4OTcz",
+    "name": "Cuco",
+    "link": "https://open.spotify.com/concert/2o9FaAE168ryIiIzHMQ77Y",
+    "description": "Find tickets for Cuco at Brooklyn Bowl Las Vegas in Las Vegas on 9/13/2025 at 7:00 PM",
+    "language": "en",
+    "date_human_readable": "Sat, Sep 13, 7:00 – 8:30 PM PDT",
+    "start_time": "2025-09-13 19:00:00",
+    "start_time_utc": "2025-09-14 02:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-13 20:30:00",
+    "end_time_utc": "2025-09-14 03:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaAYwdmHTA1mIuQsxZD9VxIYUpT3_BGHw23O3Vj7GvuZiaPql5mstEA2I9A&s=10",
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/2o9FaAE168ryIiIzHMQ77Y",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/au/events/1003120/cuco-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tix4cause.com",
+        "link": "https://www.tix4cause.com/event/cuco/7180845",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tix4cause.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/music-tickets/2025/09/13/cuco-ridin-tour",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Festivaly.eu",
+        "link": "https://festivaly.eu/en/cuco-ridin-tour-brooklyn-bowl-lv-las-vegas-2025",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://festivaly.eu&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/2o9FaAE168ryIiIzHMQ77Y"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8c415f7af7741:0x1b1e5b61a2de896b",
+      "name": "Brooklyn Bowl",
+      "phone_number": "+17028622695",
+      "website": "http://www.brooklynbowl.com/las-vegas",
+      "review_count": 983,
+      "rating": 4.3,
+      "subtype": "Bowling alley",
+      "subtypes": [
+        "Bowling alley",
+        "American restaurant",
+        "Bar",
+        "Concert hall",
+        "Family restaurant",
+        "Live music venue",
+        "Restaurant"
+      ],
+      "full_address": "Brooklyn Bowl, 3545 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "latitude": 36.1175029,
+      "longitude": -115.16963849999999,
+      "district": null,
+      "street_number": "3545",
+      "street": "3545 S Las Vegas Blvd",
+      "city": "Las Vegas",
+      "zipcode": "89109",
+      "state": "Nevada",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/g/1ptx1ypsl"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTEzfDE0MDUzMDc0MDgwNDAzMjI4NTk=",
+    "name": "Motley Crue",
+    "link": "https://open.spotify.com/concert/0jQeGxjbG6pNExv6Q9Uedu",
+    "description": "Find tickets for Mötley Crüe at Dolby Live in Las Vegas on 9/13/2025 at 8:00 PM",
+    "language": "en",
+    "date_human_readable": "Sat, Sep 13, 7:00 – 9:30 PM PDT",
+    "start_time": "2025-09-13 19:00:00",
+    "start_time_utc": "2025-09-14 02:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-13 21:30:00",
+    "end_time_utc": "2025-09-14 04:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI98LRJPfpvRezyqyGhWMwjUjFY9zLSajIWV55MPDF-UU3gjVqjXEF6MDr7Q&s=10",
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/0jQeGxjbG6pNExv6Q9Uedu",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/au/events/898256/motley-crue-parking-rescheduled-from-329-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/music-tickets/2025/09/13/motley-crue-the-las-vegas-reside",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Igovegas.com",
+        "link": "https://igovegas.com/events/M-tley-Cr-e-The-Las-Vegas-Residency2025-09-13G5ezZbKSd1Nai",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://igovegas.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Premiumseatsusa.com",
+        "link": "https://www.premiumseatsusa.com/concerts/pop-rock/motley-crue/6744232",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://premiumseatsusa.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/0jQeGxjbG6pNExv6Q9Uedu"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8c432fb38695b:0x80cfe7b4e453c937",
+      "name": "Dolby Live",
+      "phone_number": "+18446007275",
+      "website": "https://parkmgm.mgmresorts.com/en/entertainment/dolby-live.html",
+      "review_count": 2569,
+      "rating": 4.7,
+      "subtype": "Performing arts theater",
+      "subtypes": ["Performing arts theater"],
+      "full_address": "Dolby Live, 3770 S Las Vegas Blvd Park MGM, Las Vegas, NV 89109",
+      "latitude": 36.103982099999996,
+      "longitude": -115.1750206,
+      "district": null,
+      "street_number": "3770",
+      "street": "3770 S Las Vegas Blvd Park MGM",
+      "city": "Las Vegas",
+      "zipcode": "89109",
+      "state": "NV",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/g/11c2ppd92m"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTE3fDY2ODE5NzkyMTE3MDExMjI3MTc=",
+    "name": "Motley Crue",
+    "link": "https://open.spotify.com/concert/45v26gjKKLUu75ZFh71hFX",
+    "description": "Find tickets for Mötley Crüe at Dolby Live in Las Vegas on 9/17/2025 at 8:00 PM",
+    "language": "en",
+    "date_human_readable": "Wed, Sep 17, 7:00 – 9:30 PM",
+    "start_time": "2025-09-17 19:00:00",
+    "start_time_utc": "2025-09-17 19:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-17 21:30:00",
+    "end_time_utc": "2025-09-17 21:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI98LRJPfpvRezyqyGhWMwjUjFY9zLSajIWV55MPDF-UU3gjVqjXEF6MDr7Q&s=10",
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/45v26gjKKLUu75ZFh71hFX",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/uk/events/898284/motley-crue-parking-rescheduled-from-42-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/music-tickets/2025/09/17/motley-crue-the-las-vegas-reside",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Bandsintown.com",
+        "link": "https://www.bandsintown.com/e/106012146?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bandsintown.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/motley-crue-tickets-las-vegas-dolby-live-at-park-mgm-4-2-2025--concerts-rock/production/5270558",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/45v26gjKKLUu75ZFh71hFX"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8c432fb38695b:0x80cfe7b4e453c937",
+      "name": "Dolby Live",
+      "phone_number": "+18446007275",
+      "website": "https://parkmgm.mgmresorts.com/en/entertainment/dolby-live.html",
+      "review_count": 2569,
+      "rating": 4.7,
+      "subtype": "Performing arts theater",
+      "subtypes": ["Performing arts theater"],
+      "full_address": "Dolby Live, 3770 S Las Vegas Blvd Park MGM, Las Vegas, NV 89109",
+      "latitude": 36.103982099999996,
+      "longitude": -115.1750206,
+      "district": null,
+      "street_number": "3770",
+      "street": "3770 S Las Vegas Blvd Park MGM",
+      "city": "Las Vegas",
+      "zipcode": "89109",
+      "state": "NV",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/g/11c2ppd92m"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTEzfDE4NDQzODUzOTA5MTM2Njc1Mjky",
+    "name": "Eagles",
+    "link": "https://open.spotify.com/concert/1xNr1IE48LGrcmNrkamRdJ",
+    "description": "Find tickets for Eagles at Sphere in Las Vegas on 9/13/2025 at 8:30 PM",
+    "language": "en",
+    "date_human_readable": "Sat, Sep 13, 7 – 10 PM",
+    "start_time": "2025-09-13 19:00:00",
+    "start_time_utc": "2025-09-13 19:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-13 22:00:00",
+    "end_time_utc": "2025-09-13 22:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8msEFDo79WHu1dLQhR6eX32if0TP5gxmR38x2uyS5Yh2B72P2RiGjK0s-A&s=10",
+    "publisher": "Spotify",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/1AwCBH5LTtjksQwZylZge7",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/uk/events/902449/the-eagles-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/sports-tickets/2025/09/13/eagles-live-at-sphere",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Consequence.net",
+        "link": "https://concerts.consequence.net/eagles-at-sphere-on-2025-09-13-20-00",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://consequence.net&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Bandsintown.com",
+        "link": "https://www.bandsintown.com/e/106616976?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bandsintown.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/1AwCBH5LTtjksQwZylZge7"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8c582817d8b43:0x42c18a9883e056ef",
+      "name": "Sphere",
+      "phone_number": "+17252586724",
+      "website": "https://www.thesphere.com/shows/wizard-of-oz-experience",
+      "review_count": 22922,
+      "rating": 4.4,
+      "subtype": "Event venue",
+      "subtypes": [
+        "Event venue",
+        "Amphitheater",
+        "Concert hall",
+        "Tourist attraction"
+      ],
+      "full_address": "Sphere, 255 Sands Ave, Las Vegas, NV 89169",
+      "latitude": 36.121217,
+      "longitude": -115.1620404,
+      "district": null,
+      "street_number": "255",
+      "street": "255 Sands Ave",
+      "city": "Las Vegas",
+      "zipcode": "89169",
+      "state": "Nevada",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/g/11ff53mp5s"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTA5LTEzfDE0MDE4NzE0NTg4MTYzOTY4Nzg5",
+    "name": "ODESZA",
+    "link": "https://open.spotify.com/concert/1Sx1Fy7SEVTf0L9aEE33YG",
+    "description": "Find tickets for Phantoms at Encore Beach Club in Las Vegas on 9/13/2025 at 7:00 PM",
+    "language": "en",
+    "date_human_readable": "Sat, Sep 13, 10:30 AM – 12:00 PM PDT",
+    "start_time": "2025-09-13 10:30:00",
+    "start_time_utc": "2025-09-13 17:30:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-09-13 12:00:00",
+    "end_time_utc": "2025-09-13 19:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKH8NZGNLMFOdYYu_M6gKcGIyCWLQMdklZnleFY2N9Nf-3Ws6jxkF4sR5fA&s=10",
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/1Sx1Fy7SEVTf0L9aEE33YG",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tix4cause.com",
+        "link": "https://www.tix4cause.com/event/odesza/6916878",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tix4cause.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Eventseeker.com",
+        "link": "https://eventseeker.com/tickets/t-3075804",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://eventseeker.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/odesza-tickets-las-vegas-encore-beach-club-9-13-2025--concerts-dance-electronica/production/5472881",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Stubhub.com",
+        "link": "https://www.stubhub.com/_C-33917?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-20500%7Cev-156849383%7Ccy-3755&ps_ev=156849383",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stubhub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/1Sx1Fy7SEVTf0L9aEE33YG"
+      }
+    ],
+    "venue": {
+      "google_id": "0x80c8c2cc6478404b:0x99211dfe55920dc6",
+      "name": "Encore Las Vegas",
+      "phone_number": "+17027707000",
+      "website": "https://www.wynnlasvegas.com/rooms-and-suites/encore-rooms/encore-deluxe-resort",
+      "review_count": 24487,
+      "rating": 4.6,
+      "subtype": "Resort hotel",
+      "subtypes": ["Resort hotel", "Casino", "Hotel", "Tourist attraction"],
+      "full_address": "Encore Las Vegas, 3121 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "latitude": 36.1294396,
+      "longitude": -115.16431399999999,
+      "district": null,
+      "street_number": "3121",
+      "street": "3121 S Las Vegas Blvd",
+      "city": "Las Vegas",
+      "zipcode": "89109",
+      "state": "Nevada",
+      "country": "US",
+      "timezone": "America/Los_Angeles",
+      "google_mid": "/m/047shlf"
+    }
+  }
+]

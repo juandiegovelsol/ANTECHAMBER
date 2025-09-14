@@ -1,0 +1,138 @@
+{
+  "courseProgress": {
+    "courseGrade": {},
+    "referralInfo": {},
+    "_id": "68c5defe6381445c1e50dd6d",
+    "worker": "666551489082b5376455194b",
+    "course": {
+      "_id": "68c48d749a192759a7dcf642",
+      "name": "Common Error Explanation - Sep 12 Antechamber Delivery",
+      "title": "Common Error Explanation - Sep 12 Antechamber Delivery",
+      "description": "Hello! Please watch this 10-min video about common errors found in quality control",
+      "archived": false,
+      "disabled": false,
+      "projectIds": [],
+      "courseDuration": 10,
+      "courseType": "native",
+      "sections": [
+        {
+          "id": "c1fb6db5-d5a0-4545-bb3d-7934c990348a",
+          "estimatedTime": 5,
+          "recommendedEstimatedTime": 1,
+          "title": "QC Error 1",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "cbb778ce-c3a5-4a97-ad8a-505d1481848e",
+              "weight": 0,
+              "type": "video",
+              "contents": {
+                "singleSelect": true,
+                "videoUrl": "https://static.remotasks.com/uploads/62d5acd585940a00389c9fce/Video%20%20-%202025_09_12%2012_03%20PDT%20-%20Recording%204.mp4",
+                "videoCaption": "Watch this 5-minute video about error \"Fail to adhere to the System Prompt\""
+              },
+              "_id": "68c4a9f27ce5a0ed96961e16"
+            }
+          ],
+          "_id": "68c4a9f27ce5a0ed96961e15"
+        },
+        {
+          "id": "a4f39074-dbc3-46db-a418-f213a968d1c7",
+          "estimatedTime": 5,
+          "title": "QC Error 2",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "f98ecad1-1d56-4f8f-b841-69e832774f65",
+              "weight": 0,
+              "type": "video",
+              "contents": {
+                "singleSelect": true,
+                "videoUrl": "https://static.remotasks.com/uploads/62d5acd585940a00389c9fce/how-vqxc-ipg%20(2025-09-12%2014_40%20GMT-7).mp4",
+                "videoCaption": "Watch this 4-minute video about error \"Information not grounded\" and \"System settings violation\""
+              },
+              "_id": "68c4a9f27ce5a0ed96961e18"
+            }
+          ],
+          "_id": "68c4a9f27ce5a0ed96961e17"
+        },
+        {
+          "id": "13626a78-2cde-464f-a207-2a4d92b9b7d0",
+          "estimatedTime": 0,
+          "title": "Course Complete",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "bb40ae49-f83d-4ab8-b66e-e1b42f1222a8",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "**Acknowledgment**\\\nI confirm that I have watched the video and understand why these errors lead to Quality Control failures.",
+                "choices": [
+                  {
+                    "id": "24d45545-987a-48ed-b3cb-d48beaa16ecd",
+                    "answer": "I acknowledge the importance of avoiding these mistakes and will take greater care to prevent them in my future tasks.",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68c4a9f27ce5a0ed96961e1a"
+            },
+            {
+              "id": "e25a5836-4775-4bf3-a30b-2cc44642e3b0",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"font-size: 20px\">**Thank you for completing this course!**</span>"
+              },
+              "_id": "68c4a9f27ce5a0ed96961e1b"
+            }
+          ],
+          "_id": "68c4a9f27ce5a0ed96961e19"
+        }
+      ],
+      "translatedSections": {},
+      "minReviewLevel": "-1",
+      "passingGradeThreshold": 0,
+      "isTemplate": false,
+      "showFinalGrade": false,
+      "grantedTagsUponCompletion": [],
+      "grantedTagsUponPass": [],
+      "grantedTagsUponFail": [],
+      "createdBy": "62d5acd585940a00389c9fce",
+      "updatedBy": "62d5acd585940a00389c9fce",
+      "allowFreeTextGrading": false,
+      "useCustomQuestionWeights": false,
+      "isTimed": false,
+      "enableMLCheatingDetection": false,
+      "cheatingDetectionLlmArtifactsEnabled": true,
+      "cheatingDetectionLlmArtifacts": "✅,🔧,🔴,🟡,🟠,❌,✔,🚀,🔥,🎯,😆,🏆,🚨,🔹,☑️,⚠️,🌹,1️⃣,2️⃣,3️⃣,4️⃣",
+      "useTipTap": true,
+      "version": 3,
+      "isPublic": false,
+      "createdAt": "2025-09-12T21:15:32.679Z",
+      "updatedAt": "2025-09-12T23:17:06.641Z",
+      "__v": 2
+    },
+    "currentSection": 1,
+    "status": "in_progress",
+    "attemptNumber": 1,
+    "completed": false,
+    "courseAnswer": {},
+    "assigned": false,
+    "passingGrade": 0,
+    "fullstorySessions": [
+      "https://app.fullstory.com/ui/25WP4/client-session/802145e9-2d6f-49c3-9c79-28ed10f64d95%3Abbc6ded4-7e95-45ef-9f45-7c227adad686%3A1757798132956"
+    ],
+    "remainingTime": 600,
+    "projectId": "683e729ecaf6d16374e6fc5b",
+    "violationsDetected": [],
+    "createdAt": "2025-09-13T21:15:42.713Z",
+    "updatedAt": "2025-09-13T21:20:54.503Z",
+    "__v": 1
+  }
+}

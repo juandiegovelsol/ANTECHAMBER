@@ -1,0 +1,589 @@
+{
+  "courseProgress": {
+    "courseGrade": {},
+    "referralInfo": {},
+    "_id": "68c5a24dd4c302b70024e8a8",
+    "worker": "666551489082b5376455194b",
+    "course": {
+      "_id": "688d483922873c169a94ead9",
+      "name": "antechamber-reviewer-course",
+      "title": "Antechamber Reviewer Course",
+      "description": "Welcome to being a reviewer on the Antechamber Delivery Project!\nIn this course you'll learn the basics of reviewing on the project and how to review.",
+      "archived": false,
+      "disabled": false,
+      "projectIds": [],
+      "courseDuration": 74,
+      "courseType": "native",
+      "sections": [
+        {
+          "id": "dfa6b55c-29a8-4d6c-a6fa-389e1391de53",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 1,
+          "title": "Introduction",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "85b31494-18ac-42f4-93f4-90027ece97dc",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(197, 165, 222); font-size: 24px\">**Welcome to Reviewing on the Antechamber Delivery Project!**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**🎉 Congratulations! You've been selected to join the Reviewer Team** on this cutting-edge project! If you're reading this, it's because you've consistently delivered high-quality work, and now you have the opportunity to demonstrate your skills as a trusted reviewer. Reviewers play a crucial role in ensuring the highest quality standards. You are the first line of defense, and it is your responsibility to ensure that the tasks you review meet the project's expectations!!</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">The internal team will actively monitor your performance, providing feedback to help you grow and succeed in this role.</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**⚠️ Important:** To maintain your reviewer status, you must keep an average task score of 3.8 or higher. Make sure to always read the </span>[<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">reviewer instructions</span>](https://app.outlier.ai/en/expert/instruction/683e729ecaf6d16374e6fc5b?componentId=688d6258d7df0ff8bf201478&type=attachment) \\\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**✅ Next Steps**: You must read the evaluation tables and follow all instructions carefully. These guidelines are essential for maintaining consistency, quality, and fairness across the review process.</span>"
+              },
+              "_id": "68a0d20b0b223b5af00dd13d"
+            }
+          ],
+          "_id": "68a0d20b0b223b5af00dd13c"
+        },
+        {
+          "id": "c456fe09-e4c6-4268-8c93-d104c6b173e6",
+          "estimatedTime": 3,
+          "recommendedEstimatedTime": 5,
+          "title": "High-Level Workflow",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "5aaa4951-4b27-44ea-b528-03741b70ccbb",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(116, 27, 71); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 32px\">**High-Level Workflow**</span>\n\n<span style=\"color: rgb(116, 27, 71); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 13pt\">**Step 1. Read through the whole task from start to finish.**</span>\n\n1. <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**System Prompt & Task Specifications**\\\n   Did the contributor correctly follow the system prompt and adhere to the task requirements?\\\n   Is the system prompt well written?\\\n   Does the system prompt meets the minimum requirements for a high-quality system prompt?</span>\n\n2. <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**User Prompts**\\\n   Were the user prompts well-crafted to follow the requirements for natural and lazy user prompts?</span>\n\n3. <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**Task Coverage**\\\n   Did the conversation fully address all required task categories?</span>\n\n4. <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**Response Analysis & Reasoning**\\\n   Did the contributor accurately identify and critique all errors in the model's responses?\\\n   Is the reasoning step well-written?</span>\n\n5. <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**Refinement & Edit Quality**\\\n   Were the responses corrected appropriately and effectively improved?</span>\n\n<span style=\"color: rgb(116, 27, 71); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 13pt\">**Step 2. Score the attempt.**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Provide a score for the original attempt score using the rubric (provided later in the course and in the reviewer instructions) to rate the quality of the task holistically as you received it (before any edits).</span>\n\n<span style=\"color: rgb(116, 27, 71); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 12pt\">**Step 3. Select the “Action” that corresponds to the “Score” following the <u>Rubric</u>**</span>.\n\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">✅ **Approve** → the task is a **4 or 5** in overall task quality</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">⚠️ **Fix + approve** → the task is a **3** in overall task quality</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**⛔️ Fix + approve →** the task is a **2 or 1**  in overall task quality, and needs to be completely redone</span>\n\n<span style=\"color: rgb(116, 27, 71); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 13pt\">**Step 4. Fix the task**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">We will be fixing all tasks. **If you don’t feel comfortable with the complexity level of a task, we encourage you to skip it.**</span>"
+              },
+              "_id": "68a0d20b0b223b5af00dd13f"
+            },
+            {
+              "id": "8f260bad-ada1-4cc9-806d-e115ade3f51e",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true
+              },
+              "_id": "68a0d20b0b223b5af00dd140"
+            }
+          ],
+          "_id": "68a0d20b0b223b5af00dd13e"
+        },
+        {
+          "id": "c49c8d9c-5113-492c-ad1b-c72428a2fe3c",
+          "estimatedTime": 3,
+          "recommendedEstimatedTime": 2,
+          "title": "Detailed Workflow",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "bc5431c0-d82b-42cf-810b-e512cbac89ee",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "# <span style=\"color: rgb(116, 27, 71); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 28px\">**Detailed Workflow**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 20px\">**1. Review the System Prompt**</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Review that the system prompt follows the requirements of a high-quality system prompt. Make sure that it contains:</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**Context Information** (The Agent's Environment)</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**Tool Use Instructions** (Rules for Tools)</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**User Preferences** (Likes and Dislikes)</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**Background Information** (The User's Situation)</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**Tonal Control** (The Agent's Personality)</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">**Follows all complexity principles**</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">The system prompt must be clear and avoid vagueness</span>\n* **If the system prompt you are reviewing is not aligned with the best practices, you will have to fix the task and regenerate all following steps**\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 20px\">**2. User Prompts**</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Review that the user prompt follows these guidelines: </span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Each conversation must reflect at least 2 key details from the system prompt</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">User prompts should make clear, meaningful requests—no fluff or greetings</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Do **not** mention tool names (i.e. search_place)</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Write each task from either the **Lazy User** or **Natural User** perspective</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 20px\">**3. Review the error tagging and critique for all the turns**</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Make sure to review: </span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">If all the error types were classified correctly, → If not, fix them **🛠️**</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">If all the turns’ scenario/category were classified correctly, → If not, fix them **🛠️**</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">If all the response types (*text_response / tool_call / tool_response*) were classified correctly, → If not, fix them **🛠️**</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">If all the error critiques were done correctly, → If not, fix them **🛠️**</span>\n    * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Critiques must be: specific, follow the formatting rules, and handle multiple errors</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">If all the reasoning steps provided the correct solution, → If not, fix them **🛠️**</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 20px\">**4. Review the edited response**</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Review that all edited responses are correctly fixed </span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Make sure the response adheres to the system prompt </span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Make sure that the tool calls are correct</span>\n  * <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Make sure to fix all hallucinations</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 20px\">**5. Review the flow of the conversation**</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: &quot;Proxima Nova&quot;, sans-serif; font-size: 11pt\">Make sure that the conversation is complete, natural-feeling, and thoroughly tests the agent's abilities according to your System Prompt</span>"
+              },
+              "_id": "68a0d20b0b223b5af00dd142"
+            }
+          ],
+          "_id": "68a0d20b0b223b5af00dd141"
+        },
+        {
+          "id": "429d18d2-5ca6-434a-879d-2cf35bb86df2",
+          "estimatedTime": 5,
+          "recommendedEstimatedTime": 3,
+          "title": "Reviewer Grading Rubric",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "b2c53472-7ff8-4db3-a3b7-48d57ef8ea07",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(197, 165, 222); font-size: 24px\">**Reviewer Grading Rubric**</span>\n\n<img src=\"https://static.remotasks.com/uploads/688d483922873c169a94ead9/1755317112530_zy8quh.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/688d483922873c169a94ead9/1755317112971_6ojtym.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/688d483922873c169a94ead9/1755317146008_l7uhdn.png\" alt=\"\">"
+              },
+              "_id": "68a0d20b0b223b5af00dd144"
+            },
+            {
+              "id": "df2c0353-c0bd-4366-8961-6344b6dc715a",
+              "weight": 12.5,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": false,
+                "skipGrading": false,
+                "question": "A 1 should be given when the following items apply? (select all that apply)",
+                "choices": [
+                  {
+                    "id": "1641c66b-4867-499b-b897-f2c37de9e372",
+                    "answer": "Clear evidence of AI Usage",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "a20f1273-48ac-4768-b02c-f9f054b8b3dd",
+                    "answer": "Less than 10 user prompts",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "cf6b07e2-e46c-4010-ae93-3e0532f192ba",
+                    "answer": "1 prompt mentions the tools",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "8ec1d5ac-b279-4300-b937-4ee3659e6dc4",
+                    "answer": "User prompts are completely unrelated to the system prompt",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68a0d20b0b223b5af00dd145"
+            }
+          ],
+          "_id": "68a0d20b0b223b5af00dd143"
+        },
+        {
+          "id": "832a1f8f-09ae-49eb-a1b4-cbaaf261ab2c",
+          "estimatedTime": 3,
+          "recommendedEstimatedTime": 2,
+          "title": "Feedback",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "8f2c0550-d637-46c9-8efb-6a5cb6f6557e",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "# <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 20pt\">Feedback</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**Provide helpful feedback!** You are super critical in helping contributors get better at the project. Please provide concise but detailed and helpful comments about what was right and what was wrong with the task. Use the following guidelines:</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">The feedback must be actionable and insightful. </span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">The goal of feedback is to help contributors improve, so make sure you *clearly* identify areas of improvement and explain how their attempt could have been better.  </span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">Similar to good justifications, good feedback is detailed, points to examples, and explains the rationale behind your reviewer score. </span>\n\n\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**Note:** When a task gets scored as \\*less than 3, \\*it’s even more important to provide quality feedback since the contributor clearly has room for improvement. It’s expected that feedback for lower-scored tasks won’t follow the structure described above.</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**Examples of *Bad* Feedback:**</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">“I disagree. It doesn’t make sense.”</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">“Horrible - please improve”</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">“Great - keep it up!”</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">“Your score of 3 should actually be a score of 4…”</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**Examples of *Good* Feedback:**</span>\n\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">“Excellent use of creativity! The model incorrectly changed the sign in step 3, and that caused the final answer to fail. Your final answer was correct, however, you provided a justification instead of only putting the final answer, which is the goal of the project.”</span>\n* <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">“The prompt was very good and caused the model to fail, however, the final answer you provided is incorrect. The answer should be 3.45 m^2, instead of 6.45 m^2”.</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">**NOTE: We have zero tolerance for unprofessional and harmful feedback. If we catch this behavior, you’ll lose your reviewer permissions. Feedback should always be constructive and focused on how to improve the attempter's performance.**</span>"
+              },
+              "_id": "68a0d20b0b223b5af00dd147"
+            }
+          ],
+          "_id": "68a0d20b0b223b5af00dd146"
+        },
+        {
+          "id": "1555c22c-94ec-44d0-80bd-9a6d12d1ccb3",
+          "estimatedTime": 3,
+          "recommendedEstimatedTime": 2,
+          "title": "Common Errors to be aware of",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "ceedb5b4-897b-4580-b4d8-83e167030cfd",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "## <span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 18pt\">Common Errors to be aware of</span>\n\n<span style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 11pt\">When reviewing tasks, please make sure to be aware of these common errors. Overlooking these errors and not fixing them will also impact your reviewer score, so please make sure to double-check.</span>\n\n<table style=\"min-width: 50px\">\n<colgroup><col><col></colgroup><tbody><tr><th colspan=\"1\" rowspan=\"1\"><p id=\"e63a765e-eaca-4edb-be9c-07efe83d9cfc\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 12pt\"><strong token=\"**\">Error</strong></span></p></th><th colspan=\"1\" rowspan=\"1\"><p id=\"a04d9cf0-2f11-44dd-a3ab-5855cb9c8cb0\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 12pt\"><strong token=\"**\">Explanation</strong></span></p></th></tr><tr><td colspan=\"1\" rowspan=\"1\"><p id=\"5f10a79a-3d1d-4823-9eb5-dfc97f93bbbb\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Not Triggering State Dependency&nbsp;</strong></span></p></td><td colspan=\"1\" rowspan=\"1\"><p id=\"31ae8221-5a55-41eb-b319-04642fbe0684\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Tasks labelled state dependency must require a device state change, not just ask about it.</span></p><p id=\"2511d466-934b-4cdd-9ac8-672e77512961\" dir=\"auto\"><br></p><p id=\"083704a0-ee25-4bf2-b107-0613a8538c1e\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">The following flow is valid:</span></p><ol><li><p id=\"e28bd293-afc9-4079-ae1d-a9a74a3f8fde\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">User requests some information</span></p></li><li><p id=\"d978173c-3a15-4a3e-9166-01e9be6a160f\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Model attempts a tool call</span></p></li><li><p id=\"60e0e8e5-a31b-469e-bb5d-27fe02710681\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Tool call fails due to device setting (usually wifi is off)</span></p></li><li><p id=\"6f971e52-45e4-401d-bdc2-1ad58e3b32db\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Model notifies the user asks for permission to fix the issue&nbsp; (if needed).</span></p><ol><li><p id=\"44213c9c-3aa2-4780-8ba3-68c20b68b8e4\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Note the model may ask for permission here</span></p></li></ol></li><li><p id=\"e151ba55-df3f-407a-9dd4-0ad868a62392\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">The model corrects the issue (i.e. turns wifi on)</span></p></li><li><p id=\"9207c718-979e-4272-8b12-cfb81138c135\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">The model continues with its original tool call successfully</span></p></li></ol></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p id=\"75d836cd-cfde-484c-b71d-8237fd6a9ebd\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Editing Responses - Error Recovery</strong></span></p></td><td colspan=\"1\" rowspan=\"1\"><p id=\"7701bdc5-612b-4cda-b1ff-2ebdde3b6bcc\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">The model MUST make a mistake, and then be guided by the user to identify and correct it. The user should NOT edit the mistake as part of error recovery.</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p id=\"b6ea1d4f-0bab-4d67-9f97-5d9cee91d269\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Misunderstanding Device Context</strong></span></p></td><td colspan=\"1\" rowspan=\"1\"><p id=\"b5dc1977-cc83-40ce-81b8-8fcee3b3bd18\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">The model does not know the device settings (unless specified in the prompt) and should call a tool to check them if needed.</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p id=\"7c0f91c9-07cd-49d6-b78a-18ba3f4987b0\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Editing a Response Without Flagging an Error</strong></span></p></td><td colspan=\"1\" rowspan=\"1\"><p id=\"32d8ab3c-1667-422b-8a05-315da56372d6\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">If the model is incorrect or provides a poor summary, this must be flagged in the Type of Error field. <br><br>For any turns where you are editing a text response you MUST flag (most likely unsatisfactory_summary).</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p id=\"6308da52-56d9-43aa-87f4-48522bdff455\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Ignoring System Prompts</strong></span></p></td><td colspan=\"1\" rowspan=\"1\"><p id=\"c8ba2312-3564-4e32-bf4d-2fd1c81e1432\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">The model must always respect the system prompt! If the model disobeys any statement in the system prompt it must be corrected!</span></p><p id=\"1284de7e-e873-4583-a27e-b9c06792dcc1\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Common Examples include:</span></p><ul token=\"*\"><li><p id=\"4651f166-b702-4fee-bb88-e075948e0a38\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Ignoring formatting requirements in system prompt (i.e. bullets)</span></p></li><li><p id=\"2b121393-496c-407a-b068-9e0111eef971\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Ignoring tonality / nicknames</span></p></li></ul></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p id=\"1b6f5e61-4131-4b4a-bf02-955b5a6f808b\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Hallucinated Parameters</strong></span></p></td><td colspan=\"1\" rowspan=\"1\"><p id=\"83562fb5-19e1-4b36-a68e-9a02689c829c\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Any JSON returned by a tool call must exactly match what is output in the following text response!</span></p><p id=\"cbfdc884-1f53-4298-a9ff-9a7d030a49f5\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Example 1:</strong></span></p><p id=\"0facb131-611a-4daa-b64f-606597c53aea\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">JSON contains product A review with score 3.5</span></p><p id=\"235432b5-2356-4a23-afae-022e48034f76\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Model Summary:</span></p><p id=\"7ad7b37e-3e5b-402b-8fa5-d0f377e9d011\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Product A:</span></p><p id=\"ea73bdf6-fa80-40d2-9821-615821b4d05c\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Reviews: 4.5 stars</span></p><p id=\"9497791b-a716-4cbb-9be6-dded3aa836ae\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Example 2:</strong></span></p><p id=\"240586ba-6b86-4be2-8146-75e3913822aa\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">JSON contains product ASIN 1XXXX</span></p><p id=\"c2e6a534-08a8-4aea-b749-9259b3db716b\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">For next tool call on get_reviews, ASIN parameter is set to 2XXXX</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p id=\"477bd6a9-399e-4215-8d14-cd25e5e3b4e2\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Hallucinated Writeup</strong></span></p></td><td colspan=\"1\" rowspan=\"1\"><p id=\"3cc298c7-6c5d-495f-aa6d-9b2cd6a57db3\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Missing hallucinations in the model’s summary of a tool call (shopping results etc.). Common errors include:</span></p><ul token=\"*\"><li><p id=\"2b0c3289-3016-4dd6-8038-a47028f17dcf\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Hallucinated links</span></p></li><li><p id=\"8b6762cd-e157-4e1e-93a2-3722d53dc8e0\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Hallucinated scores/prices</span></p></li><li><p id=\"53150d07-6879-437b-a675-9ce174df9d30\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Hallucinated or absent summaries</span></p></li></ul><p id=\"08084ddd-35c6-4d9f-a186-51a49a875bab\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">All information in the write-up must come from the tool call or system prompt.</span></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p id=\"b668c900-c2b9-41b2-a706-538d68e0a38e\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\"><strong token=\"**\">Tool Overtriggering</strong></span></p></td><td colspan=\"1\" rowspan=\"1\"><p id=\"f46bd22d-d92a-4646-87b7-769d3141c2df\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">The model calls a tool without having all the&nbsp; necessary information.</span></p><p id=\"c5cec129-690b-4aaa-91a6-b992a35eee1e\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">User: I want gaming gear</span></p><p id=\"448a9bc6-adde-426e-b604-6717456ae158\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">Model: Triggers tool call for product_search</span></p><p id=\"1b288904-8303-4445-9b8b-847c042ddee2\" dir=\"auto\"><br></p><p id=\"6c9b986d-675a-4b34-b711-871f5a453998\" dir=\"ltr\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;IBM Plex Sans&quot;, sans-serif; font-size: 11pt\">This is an error! The model should ask clarifying questions about what type of gaming gear the user wants!</span></p></td></tr></tbody>\n</table>"
+              },
+              "_id": "68a0d20b0b223b5af00dd149"
+            }
+          ],
+          "_id": "68a0d20b0b223b5af00dd148"
+        },
+        {
+          "id": "7dc16cf2-a4c6-447f-8600-681628f88299",
+          "estimatedTime": 45,
+          "title": "Reviewer Onboarding Session",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "293bf7e8-2935-4c93-bb90-db52ddbf425b",
+              "weight": 0,
+              "type": "video",
+              "contents": {
+                "singleSelect": true,
+                "videoUrl": "https://static.remotasks.com/uploads/683e729ecaf6d16374e6fc5b/Agent%20Completion%20Reviewer%20Onboarding.mp4",
+                "videoCaption": "Reviewer Onboarding Session",
+                "allowSkimming": true
+              },
+              "_id": "68a0d20b0b223b5af00dd14b"
+            },
+            {
+              "id": "7e66722a-48ce-4d35-94ba-10e6f0c02c25",
+              "weight": 12.5,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "question": "<span style=\"color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; text-align: left; display: inline-block; width: 100%\">**What was the issue with the final task reviewed in the video?**</span>",
+                "choices": [
+                  {
+                    "id": "116683a4-0cec-4435-9a37-da0ddbeaaeb6",
+                    "answer": "The model hallucinated a parameter",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "a292d90b-341a-445c-b949-97d779635ae8",
+                    "answer": "The tool call was overtriggered",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "6a1084c5-9300-4273-be33-bf28768513b7",
+                    "answer": "The model refused to summarize the tool call response",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "d06376a0-c27f-4bdd-8474-2cf5572ca103",
+                    "answer": "The model called the wrong tool",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              "_id": "68a0d20b0b223b5af00dd14c"
+            }
+          ],
+          "_id": "68a0d20b0b223b5af00dd14a"
+        },
+        {
+          "id": "8c9acdbb-9465-476c-ae8a-e03e4cd02459",
+          "estimatedTime": 10,
+          "title": "Knowledge Check",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "c533b1d8-5efd-4892-bc84-9b3ac1feb910",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "# Instructions\n\nThe following tasks have been cut into sections for you to grade! For each part, enter the QMS you believe is correct and give feedback.\n\nYou can assume that all tools used are enabled."
+              },
+              "_id": "68a0d20b0b223b5af00dd14e"
+            },
+            {
+              "id": "fd65794c-9b44-42d0-b7ba-acd5c447a141",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "# System Prompt 1\n\n<img src=\"https://static.remotasks.com/uploads/688d483922873c169a94ead9/1755201068023_x2yrd.png\" alt=\"\">"
+              },
+              "_id": "68a0d20b0b223b5af00dd14f"
+            },
+            {
+              "id": "69b62473-ef23-4b9e-aaf4-c9fe89810d2a",
+              "weight": 12.5,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "choices": [
+                  {
+                    "id": "d4afc657-1351-4f4f-a57a-0fff5fbe4a37",
+                    "answer": "5",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "740aadb1-52d4-4e25-ae15-bbbfe8acd74d",
+                    "answer": "4",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "20da5a6f-6a17-4b8b-b65f-d426783c9fcc",
+                    "answer": "3",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "8cd7e460-56ed-4389-99f5-19921b08587b",
+                    "answer": "2",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "457ae11f-e809-4fe6-86b8-890b0a1fc8bd",
+                    "answer": "1",
+                    "isCorrect": true
+                  }
+                ],
+                "allowMultipleCorrectAnswers": true,
+                "question": "**Quality: System Prompt**\n\nRate the quality of the System Prompt",
+                "explanation": "The system prompt is missing complexity blocks/principles and uses tags, which are not allowed."
+              },
+              "_id": "68a0d20b0b223b5af00dd150"
+            },
+            {
+              "id": "51326cdd-b3c8-4afb-896e-5189db8ba676",
+              "weight": 12.5,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "The question is: {{ question }}.\nThe response is: {{ response }}.\n\nIf the response mentions the below points, return a score of 1.\nOtherwise return a score of 0.\n\nKey Points:\n- The system prompt is not complex enough\n- The system prompt contains tags, which is not allowed",
+                    "selectedModel": "gpt-4o",
+                    "outputType": "number"
+                  }
+                },
+                "question": "**System Prompt Feedback**\n\nWrite a few sentences of feedback to the contributor who last worked on this task. Try and be as actionable and specific as possible, this feedback will be directly surfaced to the relevant contributors!"
+              },
+              "_id": "68a0d20b0b223b5af00dd151"
+            },
+            {
+              "id": "18f1dca1-d6e8-4ee3-9c2c-585082b1306c",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "# System Prompt 2\n\n# <img src=\"https://static.remotasks.com/uploads/688d483922873c169a94ead9/1755200331373_avvaf.png\" alt=\"\">"
+              },
+              "_id": "68a0d20b0b223b5af00dd152"
+            },
+            {
+              "id": "c895ee8a-ca71-4142-937b-34b2f3d32216",
+              "weight": 12.5,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "question": "**Quality: System Prompt**\n\nRate the quality of the System Prompt",
+                "choices": [
+                  {
+                    "id": "2ccaf578-0f20-4d48-ac5c-5508c4462395",
+                    "answer": "5",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "1401fce3-a7b8-43e0-b30b-91ef88c6f2e5",
+                    "answer": "4",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "08a15799-ce59-4043-bb6b-66cc39859cca",
+                    "answer": "3",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "0b3936cc-8502-4133-9825-ca055cfe310b",
+                    "answer": "2",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "de2e23fc-9682-44a7-94b4-6903992da47f",
+                    "answer": "1",
+                    "isCorrect": false
+                  }
+                ],
+                "allowMultipleCorrectAnswers": true,
+                "explanation": "This is a great system prompt!"
+              },
+              "_id": "68a0d20b0b223b5af00dd153"
+            },
+            {
+              "id": "d9e2e562-58bd-425f-8101-75a77739a5db",
+              "weight": 12.5,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "**System Prompt Feedback**\n\nWrite a few sentences of feedback to the contributor who last worked on this task. Try and be as actionable and specific as possible, this feedback will be directly surfaced to the relevant contributors!",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "The question is: {{ question }}.\nThe response is: {{ response }}.\n\nIf the response is positive, return a score of 1.\nOtherwise return a score of 0.",
+                    "selectedModel": "gpt-4o",
+                    "outputType": "number"
+                  }
+                }
+              },
+              "_id": "68a0d20b0b223b5af00dd154"
+            },
+            {
+              "id": "ecf02988-9621-459a-87f5-858a55f3dcd3",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "# User Prompts\n\nRate the following user prompts. You can assume that no information provided is hallucinated and that the user is assigned the following task categories:\n\n* Lazy User\n* Error Recovery\n\n<img src=\"https://static.remotasks.com/uploads/688d483922873c169a94ead9/1755202499008_fb7s9g.png\" alt=\"\">"
+              },
+              "_id": "68a0d20b0b223b5af00dd155"
+            },
+            {
+              "id": "effb5c0d-46f7-4293-a251-b15b6fa27095",
+              "weight": 12.5,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "question": "**Quality: User Prompts**\n\nRate the quality of the User Prompts",
+                "choices": [
+                  {
+                    "id": "84fc0b6f-123b-4387-b987-9f4e893134ec",
+                    "answer": "5",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "609754d5-eaab-41dd-8f0b-a257136792f2",
+                    "answer": "4",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "440c7fca-823a-4efe-82f3-5a131628a3aa",
+                    "answer": "3",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "d71549bf-9e24-4a5a-8068-32e1eff0ae50",
+                    "answer": "2",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "a04200dc-6d2f-469a-9e92-d12a93d9d88f",
+                    "answer": "1",
+                    "isCorrect": true
+                  }
+                ],
+                "allowMultipleCorrectAnswers": true,
+                "explanation": "Turn 8 does not follow Lazy User!"
+              },
+              "_id": "68a0d20b0b223b5af00dd156"
+            },
+            {
+              "id": "26a1808c-fdb7-4b8b-afab-f521a6a24928",
+              "weight": 0,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "**User Prompt Feedback**\n\nWrite a few sentences of feedback to the contributor who last worked on this task. Try and be as actionable and specific as possible, this feedback will be directly surfaced to the relevant contributors!"
+              },
+              "_id": "68a0d20b0b223b5af00dd157"
+            },
+            {
+              "id": "9d5799f0-6d20-4fa4-8394-ca99b7924392",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "# Response Critique/Reasoning\n\nScore the following Model Response Critique and Reasoning. You can assume their Type of Error flag is correct and that the model does not have access to a tool to get the current date.\n\n<img src=\"https://static.remotasks.com/uploads/688d483922873c169a94ead9/1755203073448_0rv3k.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/688d483922873c169a94ead9/1755203161890_p34wr7.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/688d483922873c169a94ead9/1755203126794_wfsh19.png\" alt=\"\">"
+              },
+              "_id": "68a0d20b0b223b5af00dd158"
+            },
+            {
+              "id": "925bb6f1-8a2e-438e-af3f-3ebf37dff81a",
+              "weight": 12.5,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "question": "**Quality: Response Critique/Reasoning**\n\nRate the quality of response critique/reasoning",
+                "choices": [
+                  {
+                    "id": "841a9c75-9aa1-4ada-a5c4-8f7cba400bb9",
+                    "answer": "5",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "b77a9719-d13e-4d37-b31b-dcc99b8c56cb",
+                    "answer": "4",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "9fb0ea96-a8f0-4792-b986-ea9e5455a00c",
+                    "answer": "3",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "382a689c-b865-4f33-bcc1-807091464392",
+                    "answer": "2",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "1f154677-2037-455b-9d18-b6e8d79238ad",
+                    "answer": "1",
+                    "isCorrect": false
+                  }
+                ],
+                "labelOptions": false,
+                "allowMultipleCorrectAnswers": true,
+                "explanation": "These are accurate critiques and follow the assigned formats."
+              },
+              "_id": "68a0d20b0b223b5af00dd159"
+            },
+            {
+              "id": "b6f201d2-cc1b-4cce-9f36-5f8d2ce6c72c",
+              "weight": 0,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "**Response Critique/Reasoning Feedback**\n\nWrite a few sentences of feedback to the contributor who last worked on this task. Try and be as actionable and specific as possible, this feedback will be directly surfaced to the relevant contributors!"
+              },
+              "_id": "68a0d20b0b223b5af00dd15a"
+            }
+          ],
+          "_id": "68a0d20b0b223b5af00dd14d"
+        },
+        {
+          "id": "59e19331-4905-44e9-b5d6-ebadec71b6fb",
+          "estimatedTime": 1,
+          "recommendedEstimatedTime": 1,
+          "title": "Conclusion",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "6e2049c0-6d70-4e28-8a87-6963f8276267",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"font-size: 16px\">You’ve successfully finished the course. All of this information is available in the </span>[<span style=\"font-size: 16px\">reviewer instructions</span>](https://app.outlier.ai/en/expert/instruction/683e729ecaf6d16374e6fc5b?componentId=688d6258d7df0ff8bf201478&type=attachment)<span style=\"font-size: 16px\"> while tasking.</span>"
+              },
+              "_id": "68a0d20b0b223b5af00dd15c"
+            },
+            {
+              "id": "ff155a4d-97c0-4d50-8a36-dfe795500927",
+              "weight": 0,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "# <span style=\"font-size: 24px\">**Do you have any feedback or questions?**</span> \n\nPlease enter them here"
+              },
+              "_id": "68a0d20b0b223b5af00dd15d"
+            }
+          ],
+          "_id": "68a0d20b0b223b5af00dd15b"
+        }
+      ],
+      "translatedSections": {},
+      "minReviewLevel": "0",
+      "passingGradeThreshold": 0.7,
+      "isTemplate": false,
+      "showFinalGrade": true,
+      "grantedTagsUponCompletion": [],
+      "grantedTagsUponPass": [],
+      "grantedTagsUponFail": [],
+      "createdBy": "678581884a85aefbbe206edc",
+      "updatedBy": "67f42ddd016138a964880c9d",
+      "allowFreeTextGrading": false,
+      "useCustomQuestionWeights": false,
+      "isTimed": false,
+      "enableMLCheatingDetection": false,
+      "cheatingDetectionLlmArtifactsEnabled": true,
+      "cheatingDetectionLlmArtifacts": "✅,🔧,🔴,🟡,🟠,❌,✔,🚀,🔥,🎯,😆,🏆,🚨,🔹,☑️,⚠️,🌹,1️⃣,2️⃣,3️⃣,4️⃣",
+      "useTipTap": true,
+      "version": 16,
+      "isPublic": false,
+      "createdAt": "2025-08-01T23:05:29.631Z",
+      "updatedAt": "2025-08-16T18:46:35.149Z",
+      "__v": 15
+    },
+    "currentSection": 1,
+    "status": "in_progress",
+    "attemptNumber": 1,
+    "completed": false,
+    "courseAnswer": {},
+    "assigned": false,
+    "passingGrade": 0.7,
+    "fullstorySessions": [
+      "https://app.fullstory.com/ui/25WP4/client-session/802145e9-2d6f-49c3-9c79-28ed10f64d95%3Ad8af7bea-228c-49aa-9f04-53bd3a3b48d5%3A1757782442351"
+    ],
+    "remainingTime": 4440,
+    "projectId": "683e729ecaf6d16374e6fc5b",
+    "violationsDetected": [],
+    "createdAt": "2025-09-13T16:56:45.071Z",
+    "updatedAt": "2025-09-13T16:58:09.628Z",
+    "__v": 1
+  }
+}
