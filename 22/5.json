@@ -1,0 +1,357 @@
+{
+  "message": "200: success",
+  "searched_url": null,
+  "searched_ids": "zyACpXWL-rVdN-hhkRqWSg",
+  "business_details": [
+    {
+      "business": {
+        "id": "zyACpXWL-rVdN-hhkRqWSg",
+        "name": "Tipsea",
+        "alias": "tipsea-berkeley",
+        "address1": "2327 Shattuck Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Berkeley",
+        "zip": "94704",
+        "country": "US",
+        "hours": [
+          [840, 1560],
+          [2280, 3000],
+          [3720, 4440],
+          [5160, 5880],
+          [6600, 7320],
+          [8040, 8760],
+          [9480, 120]
+        ],
+        "is_closed": false,
+        "latitude": 37.8670969,
+        "longitude": -122.2673551,
+        "review_count": 156,
+        "state": "CA",
+        "avg_rating": 4.5,
+        "unrounded_avg_rating": 4.4,
+        "neighborhoods": ["Downtown Berkeley"],
+        "geo_accuracy": 9,
+        "addresses": {
+          "primary_language": {
+            "long_form": "2327 Shattuck Ave, Berkeley, CA 94704",
+            "short_form": "2327 Shattuck Ave, Downtown Berkeley",
+            "cross_streets": "Downtown Berkeley"
+          }
+        },
+        "price": 2,
+        "localized_price": "$$",
+        "categories": [
+          {
+            "name": "Cocktail Bars",
+            "category_filter": "cocktailbars",
+            "is_restaurant": false
+          },
+          {
+            "name": "New American",
+            "category_filter": "newamerican",
+            "is_restaurant": true
+          }
+        ],
+        "is_yelp_guaranteed": false,
+        "platform_partner_ids": [],
+        "fmode": 0,
+        "phone": "5107051185",
+        "localized_phone": "+1-510-705-1185",
+        "dialable_phone": "+15107051185",
+        "menu_photos": [
+          {
+            "id": "n2jPy8rep4RIf4YYL7lF9g",
+            "type": "business",
+            "time_created": 1751002618,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/n2jPy8rep4RIf4YYL7lF9g/",
+            "url_suffix": ".jpg",
+            "width": 924,
+            "height": 2000,
+            "business_id": "zyACpXWL-rVdN-hhkRqWSg",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zyACpXWL-rVdN-hhkRqWSg?select=n2jPy8rep4RIf4YYL7lF9g&utm_source=oshare",
+            "photo_category_id": "menu",
+            "fmode": 0
+          }
+        ],
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/w2ikpcKx1U5Priynz58YpA/ms.jpg",
+        "primary_photo": {
+          "id": "w2ikpcKx1U5Priynz58YpA",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/w2ikpcKx1U5Priynz58YpA/",
+          "url_suffix": ".jpg",
+          "fmode": 1
+        },
+        "photos": [
+          {
+            "id": "w2ikpcKx1U5Priynz58YpA",
+            "type": "business",
+            "time_created": 1718233681,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/w2ikpcKx1U5Priynz58YpA/",
+            "url_suffix": ".jpg",
+            "caption": "Floral Reef $16 - Ginger guava tequila , Lightkeepers Daughter $15- pineapple coconut rum, The Green Flash $14- Basil Fuji apple Vodka",
+            "feedback_positive_count": 3,
+            "width": 1500,
+            "height": 2000,
+            "business_id": "zyACpXWL-rVdN-hhkRqWSg",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zyACpXWL-rVdN-hhkRqWSg?select=w2ikpcKx1U5Priynz58YpA&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "MXzoMsDepvcAQ_TdFj5jOQ",
+            "type": "business",
+            "time_created": 1718233679,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/MXzoMsDepvcAQ_TdFj5jOQ/",
+            "url_suffix": ".jpg",
+            "caption": "Cool ambience",
+            "feedback_positive_count": 1,
+            "width": 1500,
+            "height": 2000,
+            "business_id": "zyACpXWL-rVdN-hhkRqWSg",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zyACpXWL-rVdN-hhkRqWSg?select=MXzoMsDepvcAQ_TdFj5jOQ&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "CYC7ahC9dVTFJwju8MKawg",
+            "type": "business",
+            "time_created": 1683575598,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/CYC7ahC9dVTFJwju8MKawg/",
+            "url_suffix": ".jpg",
+            "caption": "Lemon drop",
+            "feedback_positive_count": 3,
+            "width": 1500,
+            "height": 2000,
+            "business_id": "zyACpXWL-rVdN-hhkRqWSg",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zyACpXWL-rVdN-hhkRqWSg?select=CYC7ahC9dVTFJwju8MKawg&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "zExeXoA47ujxCWrHHhft4w",
+            "type": "business",
+            "time_created": 1721633060,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/zExeXoA47ujxCWrHHhft4w/",
+            "url_suffix": ".jpg",
+            "width": 1500,
+            "height": 2000,
+            "business_id": "zyACpXWL-rVdN-hhkRqWSg",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zyACpXWL-rVdN-hhkRqWSg?select=zExeXoA47ujxCWrHHhft4w&utm_source=oshare",
+            "fmode": 0
+          }
+        ],
+        "photo_count": 147,
+        "has_ad_driven_call_tracking_number": false,
+        "platform_actions": [],
+        "attributions": [],
+        "is_temp_closed": false,
+        "timezone": "America/Los_Angeles",
+        "localized_attributes": [
+          {
+            "label": "Health Score",
+            "value": "100 out of 100"
+          },
+          {
+            "id": "RestaurantsReservations",
+            "label": "Takes Reservations",
+            "value": "No",
+            "type": "reservation"
+          },
+          {
+            "id": "RestaurantsDelivery",
+            "label": "Offers Delivery",
+            "value": "Yes",
+            "type": "platform",
+            "supported_vertical_types": ["food_at_customer"]
+          },
+          {
+            "id": "RestaurantsTakeOut",
+            "label": "Offers Takeout",
+            "value": "Yes",
+            "type": "platform",
+            "supported_vertical_types": ["food_at_business"]
+          },
+          {
+            "id": "OutdoorSeating",
+            "label": "Outdoor Seating",
+            "value": "Yes"
+          },
+          {
+            "id": "Ambience",
+            "label": "Ambience",
+            "value": "Casual Ambience, Trendy"
+          },
+          {
+            "id": "RestaurantsGoodForGroups",
+            "label": "Good for Groups",
+            "value": "Yes"
+          },
+          {
+            "id": "BusinessAcceptsCreditCards",
+            "label": "Accepts Credit Cards",
+            "value": "Yes"
+          },
+          {
+            "id": "BusinessParking",
+            "label": "Parking",
+            "value": ""
+          },
+          {
+            "id": "Music",
+            "label": "Music",
+            "value": ""
+          },
+          {
+            "id": "BestNights",
+            "label": "Best Nights",
+            "value": ""
+          },
+          {
+            "id": "Alcohol",
+            "label": "Alcohol",
+            "value": "Full Bar"
+          },
+          {
+            "id": "DogsAllowed",
+            "label": "Dogs Allowed",
+            "value": "Yes"
+          },
+          {
+            "id": "WheelchairAccessible",
+            "label": "Wheelchair Accessible",
+            "value": "Yes"
+          },
+          {
+            "id": "HasTV",
+            "label": "Has TV",
+            "value": "No"
+          },
+          {
+            "id": "GenderNeutralRestrooms",
+            "label": "Gender-neutral restrooms",
+            "value": "Yes"
+          }
+        ],
+        "menu": {
+          "action_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=1bcdd3aaebbad78c60fbc4324af68b97a5b0c653186502b1757c941d4c74dc31&src_bizid=zyACpXWL-rVdN-hhkRqWSg&url=https%3A%2F%2Fwww.tipseabar.com%2Fmenu&website_link_type=menu",
+          "action_image_url": "bundle://service_menu.png",
+          "action_title": "Explore the Menu",
+          "action_text": "tipseabar.com/menu",
+          "external_action_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=1bcdd3aaebbad78c60fbc4324af68b97a5b0c653186502b1757c941d4c74dc31&src_bizid=zyACpXWL-rVdN-hhkRqWSg&url=https%3A%2F%2Fwww.tipseabar.com%2Fmenu&website_link_type=menu",
+          "is_yelp_url": false,
+          "view_title": "Menu for Tipsea",
+          "fmode": "0",
+          "is_single_platform_external_menu": false
+        },
+        "video_count": 8,
+        "ios_search_indexing_info": {
+          "webpage_url": "https://www.yelp.com/biz/tipsea-berkeley",
+          "keywords": ["Cocktail Bars", "New American"],
+          "thumbnail_url": "https://s3-media0.fl.yelpcdn.com/bphoto/w2ikpcKx1U5Priynz58YpA/180s.jpg",
+          "description": "Rating: 4.5 - 156 reviews - Price Range: $$\nCocktail Bars, New American",
+          "title": "Tipsea",
+          "is_eligible_for_prediction": false,
+          "filtered_url": ""
+        },
+        "android_app_annotation": {
+          "annotation_title": "Tipsea, Berkeley",
+          "deeplink_url": "android-app://com.yelp.android/yelp/annotate/biz/zyACpXWL-rVdN-hhkRqWSg?utm_campaign=title_biz_name&utm_source=app_annotation",
+          "http_url": "https://www.yelp.com/biz/tipsea-berkeley"
+        },
+        "url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=5eb76d79dfe7ef18a481f532bdbcb39dfe2747d2576a40099af373434e53b09b&src_bizid=zyACpXWL-rVdN-hhkRqWSg&url=http%3A%2F%2Fwww.tipseabar.com&website_link_type=website",
+        "distance": null,
+        "locality": "Berkeley, CA 94704",
+        "share_url": "https://www.yelp.co.uk/biz/tipsea-berkeley?utm_source=ashare",
+        "cross_streets": null,
+        "quicktip_count": 0,
+        "is_slideshow_enabled": false,
+        "is_current_advertiser": false,
+        "is_searchable_nearby": true,
+        "summaries": null,
+        "transit": [],
+        "localized_address": "2327 Shattuck Ave\nDowntown Berkeley\nBerkeley, CA 94704\nUSA",
+        "review": null,
+        "minute": 4120,
+        "is_chain_business": false,
+        "regular_count": 1,
+        "health_score": "100 out of 100",
+        "health_score_url": "https://m.yelp.co.uk/inspections/tipsea-berkeley",
+        "health_score_detail": {
+          "health_score": "100",
+          "health_score_formatted": "100 out of 100",
+          "time_of_score": 1720422000,
+          "provider": "Powered by Health Department Intelligence",
+          "violation_list": [],
+          "number_of_violations": 0,
+          "has_active_alert": false,
+          "health_score_detail_url": "https://m.yelp.co.uk/inspections/tipsea-berkeley",
+          "is_estimated_health_score": true,
+          "health_score_title": "Estimated Health Score: 100"
+        },
+        "localized_hours": ["Mon-Sun 14:00 - 2:00"],
+        "is_multiple_reservations_allowed": true,
+        "display_url": "http://www.tipseabar.com",
+        "display_menu_url": "https://www.tipseabar.com/menu",
+        "menu_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=1bcdd3aaebbad78c60fbc4324af68b97a5b0c653186502b1757c941d4c74dc31&src_bizid=zyACpXWL-rVdN-hhkRqWSg&url=https%3A%2F%2Fwww.tipseabar.com%2Fmenu&website_link_type=menu"
+      },
+      "annotations": [
+        {
+          "type": "REVIEW",
+          "image_path": "16x16_speech_v2.png",
+          "image_url": "https://s3-media0.fl.yelpcdn.com/assets/srv0/icons/6be2758d302f/android/drawable-xxhdpi/speech_v2_16x16.png",
+          "image_color": null,
+          "image_size": {
+            "width": 16,
+            "height": 16
+          },
+          "title": "We came to the bar because our friend who worked in Berkeley used to work right up the it was super close and the timing was perfect because it was right after the city&#39;s very first Pride festival. Super convenient spot to end up at. The bar is on the smaller side, but unless you show up during peak hours it doesn&#39;t feel crowded. When we got there, I saw maybe four or five booths, a couple of tables in the back, and some bar seating. The whole place has a cozy speakeasy vibe and it&#39;s really cute. When we left is when it got super busy!! Everyone from Berkeleys pride was showing up! They&#39;ve got a solid selection of liquor, especially if your into whiskey, mezcal, or tequila. The owner apparently isn&#39;t a fan of vodka, but they still keep it on the menu since a lot of people like that liquor. I loved how all the bottles are lined up on these bookshelf-style racks with a rolling ladder. Such a cool detail. The bartender was awesome! super sweet and she made really good drinks. I stuck to the menu, but added in a couple of other items lol. The only thing I regret is not snapping a picture of the menu because they have happy hour every single day and the food and drinks looked really good. Definitely a spot worth checking out if your around.",
+          "title_color": [43, 39, 60],
+          "title_color_string": null,
+          "show_legal_disclaimer": false,
+          "identifier": "TOP_REVIEW_SNIPPET",
+          "is_highlighted_annotation": false,
+          "action": {
+            "type": "VIEW_REVIEW",
+            "text": "Read more",
+            "display_behavior": "status_quo",
+            "review_id": "TyOSPywmqlLv7S-3Wu8b_A"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "text": "Call to order",
+          "short_text": "Call to order",
+          "type": "call",
+          "biz_action_text": "Call to order",
+          "is_disabled": false,
+          "supported_vertical_types": [],
+          "button_type": "secondary",
+          "text_color": [0, 151, 236],
+          "default_color_top": [255, 255, 255],
+          "default_color_bottom": [245, 245, 240],
+          "selected_color_top": [204, 204, 196],
+          "selected_color_bottom": [229, 229, 225],
+          "border_color": [168, 168, 162],
+          "dialable_phone": "+15107051185"
+        }
+      ],
+      "available_actions": [
+        {
+          "text": "Call to order",
+          "short_text": "Call to order",
+          "type": "call",
+          "biz_action_text": "Call to order",
+          "is_disabled": false,
+          "supported_vertical_types": [],
+          "button_type": "secondary",
+          "text_color": [0, 151, 236],
+          "default_color_top": [255, 255, 255],
+          "default_color_bottom": [245, 245, 240],
+          "selected_color_top": [204, 204, 196],
+          "selected_color_bottom": [229, 229, 225],
+          "border_color": [168, 168, 162],
+          "dialable_phone": "+15107051185"
+        }
+      ],
+      "always_show_business_photos": false
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+68c9cd3c8519e97233256616
+
+1. search for technology stocks with strong performance this week.
+
+2. Please turn on Wi-Fi.
+
+3. Disable low battery mode.
+
+4. Pick the top 2 tech stocks and show latest market price snapshots with their performance over the past month.
+
+5. want to compare APPLE's Stock as well.
+
+6. Fine thanks. I want a wireless headset for work calls, show me detailed specs of the top one you find. 
+
+7. comapre it with other one by also checking reviews.
+
+
+Location & Navigation
+place_details, get_directions, convert_place_id_lat_lon_address, search_place_and_specify_return_fields, place_details_and_specify_return_fields, search_place_and_return_address, search_place_and_return_name, search_place_and_return_place_id, search_place_and_return_geometry, place_details_and_return_geometry, place_details_and_return_address, place_details_and_return_phone_number, get_current_location, get_current_location_field, get_current_formatted_address, get_current_latitude, get_current_longitude, get_current_place_id, place_details_and_return_delivery, place_details_and_return_name, place_details_and_return_opening_hours, place_details_and_return_price_level, place_details_and_return_rating, place_details_and_return_reservable, place_details_and_return_reviews, place_details_and_return_types
+
+Calendar & Productivity
+create_calendar, search_calendars, modify_calendar, remove_calendar, create_calendar_event, search_calendar_events, modify_calendar_event, remove_calendar_event
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+Time & Date
+get_current_iso_8601_datetime_with_utc_offset, iso_8601_datetime_with_utc_offset_to_iso_weekday
+
+Finance & Investing
+get_market_tickers, search_securities, get_stock_history, screen_stocks, get_stock_modules, get_insider_trades, get_market_news, get_market_quotes, get_market_quotes_snapshots
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+News & Information
+get_latest_news, get_world_news, get_business_news, get_entertainment_news, get_health_news, get_science_news, get_sport_news, get_technology_news, search_news, get_search_suggestions
+
+Holidays & Culture
+get_country_holidays_by_year, get_supported_country_codes
+
+-------------------------------------------
+
+You are an intelligent mobile assistant running on a device located at 2133 Fifth St Berkeley CA 94710 USA with latitude 37.8654638 and longitude -122.2979331. The device ID is 8b0a38b5-17c0-469a-88db-c9804aadc3ac and the place ID is ChIJizDFP-h-hYARkTLzZq9qxLU. The system locale is en_US and the timezone offset in seconds is UTC -25200. The device has Wi-Fi off cellular on and location services on. Low battery mode is currently enabled. The device has access to one calendar called Work with calendar_id 739382cf-c337-4dbc-b218-7f6fd48cd0b0.
+
+The user is a mid-career professional living in Berkeley, California. He works in a demanding hybrid role that mixes local business meetings with virtual calls. He uses his Work calendar heavily to schedule project deadlines and back-to-back meetings. 
+
+He also follows financial markets closely, often checking stock performance and insider trades before making medium-term investment decisions. He reads market news in the morning and prefers structured analysis when researching companies or sectors. For local services, he sometimes looks up restaurants or cafes near his meeting locations and values reviews and opening hours for quick decisions. He also looks for products online and gathers reviews and details.
+
+Your character is consistent, professional, and supportive. You must adapt your communication style to the context of the request. For urgent or serious queries, you must be direct, concise, and formal. For detailed or complex tasks, you must be structured, clear, and explanatory. For routine updates like calendar checks or status confirmations you must stay brief and efficient. Never adopt random personas or tones outside this assistant role. Avoid jokes, filler, or casual slang unless the user explicitly requests it.
+
+The user's preferred burger chain restaurant is Shake Shack, but this data should never be used, mentioned, or presented unless relevant to the user's requirement
+
+The user is currently searching for products on Amazon and found the following item:
+Title: JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black
+URL: https://www.amazon.com/JanSport-Superbreak-Backpack-Jansport-Black/dp/B0007QCQGI
+
+When multiple tools can fulfill a request, you must prioritize the one that provides the most relevant or complete data with the fewest extra steps. For example, when retrieving location details, prefer a tool that includes reviews or opening hours rather than one that only returns coordinates unless the user specifies otherwise. Avoid unnecessary tool calls. Always confirm with the user before making changes to sensitive items like calendar events or device settings. When the user wants to search for restaurants or coffee shops, use search_yelp tool to fetch the details.
+
+For simple confirmations, reply in one short sentence. For structured results like event lists, schedules, or stock data, use bullet points or numbered lists. For financial summaries or detailed market analysis use short paragraphs broken into clear sections. For step-by-step guidance on system changes,, use concise sequential instructions.
+
+
+You must refuse illegal, harmful, or manipulative requests with a short refusal followed by a safer alternative if possible. You should claim that this type of request cannot be fulfilled. Never share private identifiers like device ID or calendar ID unless the user explicitly asks.
+
+
+For simple queries like checking Wi Fi status or confirming today’s date, use a single tool call and return one concise sentence. For medium complexity, like checking for overlapping calendar events or providing a local business review summary, use two or more tool calls and return a structured response. For complex tasks like combining stock screening with insider trades or building multi-step directions, confirm intent first, then break the process into steps with clear organization.
+
+Do not blindly accept user claims if they contradict tool data or system truth. For example, if the user says Wi Fi is on but the tool shows it is off, correct them and explain the discrepancy. If the user gives unclear or implausible instructions, ask a short clarifying question before acting. This prevents mistakes, maintains accuracy, and preserves user trust. He prefers confirmations before sensitive actions like modifying events or system settings.
+
+
+
+
+--------------------------------------------
+
+X[Feasible Tool Use] X[Infeasible Tool Use] XX[Natural User] X[State Dependency] [Datetime Reasoning (When applicable)]
+
+1. Give me 2 technology stocks with strong performance
+
+2. Turn it on
+
+3. Yes, proceed
+- The model incorrectly summarized the stocks' information. The model should only include details retrieved in the `screen_stocks` tool response.
+- The user would like to get stock information. To fulfill the user's request, I will correctly summarize the news information obtained from the previous `screen_stocks` tool, called with the parameter `list_type` set to "growth_technology_stocks"
+
+4. Nvidia sounds great, buy 2 shares for me
+
+5. Ok, now help me find availability in my work calendar for tomorrow, from 8 to 9 pm
+
+6. Great, schedule an online meeting at that time
+
+7. Find my favorite restaurant near me
+- The model incorrectly summarized the restaurant information. The model should only include details retrieved in the `search_yelp` tool response.
+- The user would like to get the restaurant's information. To fulfill the user's request, I will correctly summarize the restaurant information obtained from the previous `search_yelp` tool, called with the parameters `location` set to "Berkeley, CA", `search_term` set to "Shake Shack", and `limit` set to "1"
+
+8. Give me the closing time of the closest one to me
+
+- `place_details` is not the correct tool to use. The model should use `business_details` instead
+"ChIJZwVuy2x-hYAR5nmeIle8Z3M" is a hallucinated value to the `place_id` parameter. The model should not have used this parameter value
+
+- The user would like to find details of the restaurant. To fulfill the user's request, I will use the `business_details` tool with the parameter `business_ids` set to "u5RZIXMKz5oXVwdfnq1bvQ"
+
+- The model incorrectly summarized the restaurant information. The model should only include details retrieved in the `business_details` tool response.
+
+The model offers to place an order for the user. It is not within its capabilities
+
+9. Great, now find a bar near me and give me the menu link
+
+- `business_details` was not triggered in this turn to get the menu link. The mode should not provide a link to a photo of the menu, as it is not the user's requirement
+- The user would like to get the menu link. To fulfill the user's request, I will use the `business_details` tool, called with the parameter `business_ids` set to "zyACpXWL-rVdN-hhkRqWSg"
+
+10. I want to book for tonight, call the bar for me
+
+------------------------------------------------------
+
+"System state values like Wi Fi cellular location services locale timezone and low battery mode are always factual and must be reported exactly as tool calls return them. Market data company details financial tickers calendar entries locations and directions must only come from their respective tools. Never fabricate results or speculate about outcomes of real world events. Treat these truths as fixed reference points when reasoning or answering user questions."
+
+This does not work as a non-negotiable fact. A non negotiable fact should not be related to the system setings or tool usage, it must be an external fact such as "Shake shack is the favorite burguer restaurant of the user because of bla bla bla". Since you didn't include the context information about the application the user is currently working with, and the non-negotiable fact is incorrect, the SP is a failure and has to be rewritten, making the entire task be rewritten from scratch
+
+Also, in the tone section you instruct the model to never adopt personas or tones outside the defined assistant role, but when refusing ilegal request you ask to use a polite tone. This is a contradictory instruction that should be avoided
+
+The user prompts are unclear and nonspecific about the requirements. For example, "show me detailed specs of the top one you find" in the sixth user prompt (forgot to save the prompt number) this is not specific as the model could select the product with most sales, with highest ratings, with better revies, with lower price, etc... you should always be specific for what you want for a natural user task
+
+The first prompt is not correctly answered by the model because the tool does not return the stocks with strong performance this week. The tool response returns tech stocks with strong performance during the last 52 weeks, which is not directly aligned with the user's requirement. The model response was not correctly refined

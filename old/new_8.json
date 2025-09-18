@@ -1,0 +1,586 @@
+{
+  "courseProgress": {
+    "courseGrade": {},
+    "referralInfo": {},
+    "_id": "68cab36e02a118cc0058e795",
+    "worker": "666551489082b5376455194b",
+    "course": {
+      "_id": "68a967305ed6e4431ec92d77",
+      "name": "Antechamber Delivery- Reviewer Certification",
+      "title": "Antechamber Delivery- Reviewer Certification",
+      "description": "Hello, trusted reviewer! \nThe goal of this course is to show what are the most common errors that quality control has flagged in the past couple of days. This is not a reflection of your own quality, however, it's crucial for us that these errors might lower your quality score if you overlook them.",
+      "archived": false,
+      "disabled": false,
+      "projectIds": [],
+      "courseDuration": 55,
+      "courseType": "native",
+      "sections": [
+        {
+          "id": "2351afd7-3c1d-47c9-ab60-5eb549717d35",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 3,
+          "title": "Introduction",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "5ca2d93f-9e61-4f12-9d24-e52cc5bb85aa",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"font-size: 16px\">**Hello!**</span>\n\n<span style=\"font-size: 16px\">***If you are seeing this course, it means you are a highly valued reviewer. Your contributions are deeply appreciated, and we are truly glad to have you as part of this project!***</span> \n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755979598172_k96jfv.jpeg\" alt=\"\" width=\"341\"></span>Corey, the System Prompt mascot, is proud of you!</span>\n\n<span style=\"font-size: 16px\">Although all of you have proved that you are capable of submitting very high-quality tasks, we’ve noticed a recurring issue among some reviewers over the past few days: **Overlooking the System Prompt details.**</span>\n\n<span style=\"font-size: 16px\">***System Prompts are the foundation of each task, and it’s essential to consistently adhere to the System Prompt you created throughout the entire workflow***. The quality bar for these tasks is very high. Even minor errors—such as deviating from the System Prompt in a single turn—can compromise the quality of the whole task and, unfortunately, result in a fail.</span>\n\n<span style=\"font-size: 16px\">This is why this course is so important. It will walk you through the most common errors, explain why they matter, and show you how to address them properly.</span>\n\n<span style=\"font-size: 16px\">Please note: this is not a reflection of your personal quality. However, it’s crucial that all reviewers take this course to ensure consistency across the project.</span>\n\n<span style=\"font-size: 16px\">There will be a quiz included in the course, so please pay close attention to the details. The quiz plays an important role in assessing quality.</span>"
+              },
+              "_id": "68ae5188be4ddc81f15de1fc"
+            },
+            {
+              "id": "6d5a0a4e-7bc1-431e-b660-f41c0f697c32",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "I understand the message above ",
+                "choices": [
+                  {
+                    "id": "957d1939-9bcf-4e27-9a4e-c50f8b173fe5",
+                    "answer": "Yes",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68ae5188be4ddc81f15de1fd"
+            }
+          ],
+          "_id": "68ae5188be4ddc81f15de1fb"
+        },
+        {
+          "id": "32c126aa-f255-41ca-a953-fa84b41df117",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 2,
+          "title": "Quick Recap",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "1faddaea-5ae4-4a9e-ba0b-6d8ccf959820",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "As we’ve mentioned before, most quality control failures in recent days have been caused by overlooking **minor details in the System Prompt**. Remember: *details matter*—they often make the difference between a pass and a fail.\n\nTo help you avoid these mistakes, here’s a quick checklist of questions to ask yourself when reviewing a System Prompt:\n\n---\n\n### 🔎 System Prompt Constraints\n\n* What specific requirements are outlined in the System Prompt?\n* What limitations or restrictions must the agent follow?\n* Does the model need to do additional steps before calling a tool?\n\n### 👤 User Needs & Profile\n\n* Where is the user currently located?\n* What does the user like or dislike?\n* What is the user’s profile or background?\n\n### ⚙️ System Settings\n\n* Do I understand the system settings provided?\n* Is the Wi-Fi on?\n* What is the system currently connected to?\n* Is the battery charged?\n\n---\n\nBy running through these questions, you’ll catch important details and ensure your task stays aligned with the System Prompt."
+              },
+              "_id": "68ae5188be4ddc81f15de1ff"
+            },
+            {
+              "id": "069a9835-0817-4c71-93ce-0a8bd97d9cca",
+              "weight": 0,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "I understand ",
+                "choices": [
+                  {
+                    "id": "58294c61-5d62-49ff-9d0b-8c8ad8fc03a8",
+                    "answer": "Continue",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68ae5188be4ddc81f15de200"
+            }
+          ],
+          "_id": "68ae5188be4ddc81f15de1fe"
+        },
+        {
+          "id": "bcdb43e9-f692-4eec-a11e-66b7029ab167",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 13,
+          "title": "Quiz 1",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "22a5a74f-f37c-47b8-ba29-ff93708d650f",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"font-size: 20px\">In this section, we will test your ability to pay attention to details. Please see the following task and determine if this is the correct approach or not, then explain your reasoning.</span>"
+              },
+              "_id": "68ae5188be4ddc81f15de202"
+            },
+            {
+              "id": "c3e18f3b-aab6-46ac-8305-3e0deec13089",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**Task Requirements**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755964618601_tl4hfw.png\" alt=\"\" width=\"846\">\n\n<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**System Prompt**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755936941029_y45l3.png\" alt=\"\">"
+              },
+              "_id": "68ae5188be4ddc81f15de203"
+            },
+            {
+              "id": "c69a0372-8d33-48f8-a0d3-7a5869620653",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**You are evaluating turn #14**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755966402755_rxyb1c.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755966466504_hvzcy.png\" alt=\"\">"
+              },
+              "_id": "68ae5188be4ddc81f15de204"
+            },
+            {
+              "id": "89c59f9f-be57-46e1-aa8a-d5501311e56f",
+              "weight": 8.33,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "<span style=\"font-size: 16px\">**Is this the correct approach?**</span>",
+                "hideAnswerFeedback": true,
+                "choices": [
+                  {
+                    "id": "faa1159c-3eb7-4088-ad00-333a8c79edef",
+                    "answer": "Yes",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "ad7daff2-3e97-44af-9a4e-d58168f30009",
+                    "answer": "No",
+                    "isCorrect": true
+                  }
+                ]
+              },
+              "_id": "68ae5188be4ddc81f15de205"
+            },
+            {
+              "id": "6dd9210b-76fd-4698-8e06-1b366d0dcca6",
+              "weight": 16.67,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">Explain your reasoning. If this is the correct approach, just type N/A.</span>",
+                "minCharacters": "1",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, then you'll compare them and assess if they are similar in content or meaning. The student's answer doesn't have to be identical to the answer key, but they have to be similar in meaning.\n\nAnswer key:  The issue is a tool-use mismatch. The user's request was to change an existing event, but the model only had access to 'create_calendar_event'. The model erred by invoking this tool, as it cannot be used to modify events.\n\nGrading Strategy: \n* Score the student with a 1 if the answer is mostly similar to the answer key.  \n* Score with 0.5 if the student's answer is completely unrelated to the answer key or if they answer N/A\n\nStudent answer: {{ response }}",
+                    "selectedModel": "o4-mini",
+                    "outputType": "number"
+                  }
+                }
+              },
+              "_id": "68ae5188be4ddc81f15de206"
+            },
+            {
+              "id": "cd080315-9b73-4d77-a43c-9a62c60d16dc",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**You are evaluating turn #15**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755937054453_gcoc4.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755937092763_blhud.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755937384779_ny7bmj.png\" alt=\"\" width=\"929\">"
+              },
+              "_id": "68ae5188be4ddc81f15de207"
+            },
+            {
+              "id": "dddcb615-f236-4873-913a-292cee8dabe5",
+              "weight": 8.33,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "<span style=\"font-size: 16px\">**Is this the correct approach?**</span>",
+                "choices": [
+                  {
+                    "id": "95a83396-678d-44f0-b87b-a285ec4dabc0",
+                    "answer": "Yes",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "29e294ff-6cee-4ec5-99e3-3ebff0b50249",
+                    "answer": "No",
+                    "isCorrect": true
+                  }
+                ],
+                "hideAnswerFeedback": true
+              },
+              "_id": "68ae5188be4ddc81f15de208"
+            },
+            {
+              "id": "eaed1272-7ce8-4f3d-b59a-57697bd2608a",
+              "weight": 16.67,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">Explain your reasoning. If this is the correct approach, just type N/A.</span>",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are similar in content or meaning. The student's answer doesn't have to be identical to the answer key, but they have to be similar in meaning.\n\nAnswer key: The tool call invocation is incorrect as it's ignoring the System Prompt guidance. It directly calls `create_calendar_event` in this turn, but the system prompt explicitly instructs that \"When Emma asks to add an event, make 3 tool calls: `search_calendars` to check if the calendar exists; `search_calendar_events` with the event name to check if the event is already added; then `create_calendar_event`.\"\n\nGrading Strategy: \n* Score the student with a 1 if the answer is mostly similar to the answer key.  \n* Score the student with a 0.5 if the student's answer is somewhat unrelated to the answer key.\n* Score the student with a 0 if the student's answer is completely unrelated to the answer key.\n\n\nStudent answer: {{ response }}",
+                    "selectedModel": "o4-mini",
+                    "outputType": "number"
+                  }
+                },
+                "minCharacters": "1"
+              },
+              "_id": "68ae5188be4ddc81f15de209"
+            }
+          ],
+          "_id": "68ae5188be4ddc81f15de201"
+        },
+        {
+          "id": "ea1bd5d8-8f55-4ce2-bd18-5cf764860ff6",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 21,
+          "title": "Quiz 2",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "de589d56-8358-4796-a41c-ea340aa7a2d8",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"font-size: 20px\">In this section, we will test your ability to pay attention to details. Please see the following task and determine if this is the correct approach or not, then explain your reasoning.</span>"
+              },
+              "_id": "68ae5188be4ddc81f15de20b"
+            },
+            {
+              "id": "1c07e622-c25c-403e-aa67-2f3c67633cba",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**Task Requirements**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755964618601_tl4hfw.png\" alt=\"\" width=\"846\">\n\n<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**System Prompt**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755967967531_6ess0p.png\" alt=\"\">"
+              },
+              "_id": "68ae5188be4ddc81f15de20c"
+            },
+            {
+              "id": "41b9b0b4-8c13-40f9-bf3e-8ce8f28af328",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**You are evaluating turn #13**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755973836929_juv9bh.png\" alt=\"\" width=\"1025\">\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755968903959_83ghlp.png\" alt=\"\" width=\"1039\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755968940102_f4g65.png\" alt=\"\" width=\"917\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755970218215_x0k85n.png\" alt=\"\" width=\"931\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755973548648_sll9e.png\" alt=\"\" width=\"908\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755973606478_1lh0nt.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755973630167_l04ge.png\" alt=\"\">"
+              },
+              "_id": "68ae5188be4ddc81f15de20d"
+            },
+            {
+              "id": "3aa9249e-f4ac-4805-8cf4-47ce15079716",
+              "weight": 8.33,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "<span style=\"font-size: 16px\">**Is this the correct approach?**</span>",
+                "hideAnswerFeedback": true,
+                "choices": [
+                  {
+                    "id": "faa1159c-3eb7-4088-ad00-333a8c79edef",
+                    "answer": "Yes",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "ad7daff2-3e97-44af-9a4e-d58168f30009",
+                    "answer": "No",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              "_id": "68ae5188be4ddc81f15de20e"
+            },
+            {
+              "id": "a8a51758-b1c1-4eeb-90a5-e4a5bc9fcb65",
+              "weight": 16.67,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">Explain your reasoning. If this is the correct approach, just type N/A.</span>",
+                "minCharacters": "1",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are similar in content or meaning. The student's answer doesn't have to be identical to the answer key, but they have to be similar in meaning.\n\nAnswer key: N/A\n\nGrading Strategy: \n* Score the student with a 1 if the answer is mostly similar to the answer key.  \n* Score with 0 if the student's answer is completely unrelated to the answer key \n\nStudent answer: {{ response }}",
+                    "selectedModel": "o4-mini",
+                    "outputType": "number"
+                  }
+                }
+              },
+              "_id": "68ae5188be4ddc81f15de20f"
+            },
+            {
+              "id": "3a6df178-d64e-484f-b5df-739bd5c2ae54",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**You are evaluating turn #14**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755973944357_xzf82s.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755973982358_7fqx4o.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755973996187_p87zrq.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755974007943_tuekw.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755974019968_ony8qs.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755974064336_fhep4n.png\" alt=\"\" width=\"606\">"
+              },
+              "_id": "68ae5188be4ddc81f15de210"
+            },
+            {
+              "id": "4b4587f1-5e22-4a07-9b2a-cc1e8a9ec10c",
+              "weight": 8.33,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "<span style=\"font-size: 16px\">**Is this the correct approach?**</span>",
+                "choices": [
+                  {
+                    "id": "95a83396-678d-44f0-b87b-a285ec4dabc0",
+                    "answer": "Yes",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "29e294ff-6cee-4ec5-99e3-3ebff0b50249",
+                    "answer": "No",
+                    "isCorrect": true
+                  }
+                ],
+                "hideAnswerFeedback": true
+              },
+              "_id": "68ae5188be4ddc81f15de211"
+            },
+            {
+              "id": "f5aa88e8-f5b4-4511-b5e0-c60d96bc44a9",
+              "weight": 16.67,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">Explain your reasoning, mention the . If this is the correct approach, just type N/A.</span>",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are similar in content or meaning. The student's answer doesn't have to be identical to the answer key, but they have to be similar in meaning.\n\nAnswer key: There are 2 primary issues in this turn\n1. The system prompt says, \"Since Jenna has a lot of meetings, you should double-check for potential conflicts with other scheduled events when scheduling\". But the model didn't check this before scheduling the event. \n2. In the critique, the claim \"The model should know that the current year is 2025\" is incorrect and misleading. \n-------------------------------\nGrading Strategy: \n* Score the student with a 1 if they identified the 2 primary errors. The answer is mostly similar to the answer key.  \n* Score the student with 0.5 if they identified 1 out of the 2 issues. The answer is somewhat similar to the answer key \n* Score with 0 if the student didn't identify any of the issues. The answer is completely unrelated to the answer key, or they answered N/A\n\nStudent answer: {{ response }}",
+                    "selectedModel": "o4-mini",
+                    "outputType": "number"
+                  }
+                },
+                "minCharacters": "1"
+              },
+              "_id": "68ae5188be4ddc81f15de212"
+            }
+          ],
+          "_id": "68ae5188be4ddc81f15de20a"
+        },
+        {
+          "id": "43c81c70-d3ae-4638-ac58-60400df051ac",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 15,
+          "title": "Quiz 3",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "e0f3e484-151d-4f8a-93fb-4cbeeb270226",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"font-size: 20px\">In this section, we will test your ability to pay attention to details. Please see the following task and determine if this is the correct approach or not, then explain your reasoning.</span>"
+              },
+              "_id": "68ae5188be4ddc81f15de214"
+            },
+            {
+              "id": "a5a395de-23a9-4bb2-aa25-09fc45d54929",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**Task Requirements**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755981551579_2i46pr.png\" alt=\"\">\n\n<span style=\"color: rgb(74, 144, 226); font-size: 20px\">**System Prompt**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755981614193_0xzfm6.png\" alt=\"\">"
+              },
+              "_id": "68ae5188be4ddc81f15de215"
+            },
+            {
+              "id": "3654c451-f214-40a5-944e-07264bdb9d26",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**You are evaluating turn #3**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755981800822_6t2ca.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755982022681_oht3nl.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755982054469_1enktkk.png\" alt=\"\">"
+              },
+              "_id": "68ae5188be4ddc81f15de216"
+            },
+            {
+              "id": "48ff705c-143c-4424-9bfa-9eb79be5d0c8",
+              "weight": 8.33,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "<span style=\"font-size: 16px\">**Is this the correct approach?**</span>",
+                "hideAnswerFeedback": true,
+                "choices": [
+                  {
+                    "id": "faa1159c-3eb7-4088-ad00-333a8c79edef",
+                    "answer": "Yes",
+                    "isCorrect": true
+                  },
+                  {
+                    "id": "ad7daff2-3e97-44af-9a4e-d58168f30009",
+                    "answer": "No",
+                    "isCorrect": false
+                  }
+                ]
+              },
+              "_id": "68ae5188be4ddc81f15de217"
+            },
+            {
+              "id": "ca5c19b9-5cfc-4159-810d-8f72328e6fbf",
+              "weight": 16.67,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">Explain your reasoning. If this is the correct approach, just type N/A.</span>",
+                "minCharacters": "1",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are similar in content or meaning. The student's answer doesn't have to be identical to the answer key, but they have to be similar in meaning.\n\nAnswer key: N/A\n\nGrading Strategy: \n* Score the student with a 1 if the answer is mostly similar to the answer key.  \n* Score with 0 if the student's answer is completely unrelated to the answer key \n\nStudent answer: {{ response }}",
+                    "selectedModel": "o4-mini",
+                    "outputType": "number"
+                  }
+                }
+              },
+              "_id": "68ae5188be4ddc81f15de218"
+            },
+            {
+              "id": "435c95df-055c-4069-a62a-2b6e637860b4",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(74, 144, 226); font-size: 16px\">**You are evaluating turn #4**</span>\n\n<img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755982716427_4f9ud.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755982790623_adjuui.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755982811782_yph84o.png\" alt=\"\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755982844276_camsej.png\" alt=\"\">"
+              },
+              "_id": "68ae5188be4ddc81f15de219"
+            },
+            {
+              "id": "616a3138-f057-49b8-a0aa-a663b81d9909",
+              "weight": 8.33,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": true,
+                "question": "<span style=\"font-size: 16px\">**Is this the correct approach?**</span>",
+                "choices": [
+                  {
+                    "id": "95a83396-678d-44f0-b87b-a285ec4dabc0",
+                    "answer": "Yes",
+                    "isCorrect": false
+                  },
+                  {
+                    "id": "29e294ff-6cee-4ec5-99e3-3ebff0b50249",
+                    "answer": "No",
+                    "isCorrect": true
+                  }
+                ],
+                "hideAnswerFeedback": true
+              },
+              "_id": "68ae5188be4ddc81f15de21a"
+            },
+            {
+              "id": "bb121118-bff9-482e-b17c-ed97eabeb75f",
+              "weight": 16.65,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "<span style=\"font-size: 16px\">Explain your reasoning, mention the . If this is the correct approach, just type N/A.</span>",
+                "enableFreeTextGrader": true,
+                "freeTextGraderConfig": {
+                  "type": "course",
+                  "gradingConfigs": {
+                    "template": "You are a task evaluator. Your job is to ensure that the students answer the questions accurately. You'll be given an answer key and the student's answer, and you'll compare them and assess if they are similar in content or meaning. The student's answer doesn't have to be identical to the answer key, but they have to be similar in meaning.\n\nAnswer key: The System Prompt states \"For connectivity changes, read state first with 'get_system_settings' and enable Wi-Fi via 'set_wifi_status' only after explaining the impact and receiving explicit confirmation.\", the model calls set_wifi_status without read state first with 'get_system_settings' and it was marked as no_issues. The model should call 'get_system_settings' and explain the impact before calling 'set_wifi_status'. This is a System Prompt Explicit Instruction Miss. \n-------------------------------\n\nGrading Strategy: \n* Score the student with a 1 if the answer is mostly similar to the answer key.  \n* Score the student with a 0.5 if the answer is somewhat similar to the answer key.\n* Score with 0 if the student's answer is completely unrelated to the answer key or if they answer N/A\n\nStudent answer: {{ response }}",
+                    "selectedModel": "o4-mini",
+                    "outputType": "number"
+                  }
+                },
+                "minCharacters": "1"
+              },
+              "_id": "68ae5188be4ddc81f15de21b"
+            }
+          ],
+          "_id": "68ae5188be4ddc81f15de213"
+        },
+        {
+          "id": "5090f6f5-0fe9-4570-ac37-2302c274dc88",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 1,
+          "title": "Congratulations! ",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "1325b849-05e9-4847-aa80-f8177854d575",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "You finished this module!\n\nRemember to apply this knowledge in your upcoming tasks. Make sure not to overlook any details in the system prompt and always adhere to its guidelines.\n\n<span style=\"text-align: center; display: inline-block; width: 100%;\"><span style=\"text-align: center; display: inline-block; width: 100%;\"><img src=\"https://static.remotasks.com/uploads/68a967305ed6e4431ec92d77/1755983238481_3x7rek.jpeg\" alt=\"\" width=\"327\"></span></span>"
+              },
+              "_id": "68ae5188be4ddc81f15de21d"
+            }
+          ],
+          "_id": "68ae5188be4ddc81f15de21c"
+        }
+      ],
+      "translatedSections": {},
+      "minReviewLevel": "1",
+      "passingGradeThreshold": 0.1,
+      "isTemplate": false,
+      "showFinalGrade": false,
+      "grantedTagsUponCompletion": [],
+      "grantedTagsUponPass": ["68aa73e9a6e918b6adf7597c"],
+      "grantedTagsUponFail": [],
+      "createdBy": "62d5acd585940a00389c9fce",
+      "updatedBy": "62d5acd585940a00389c9fce",
+      "allowFreeTextGrading": false,
+      "useCustomQuestionWeights": false,
+      "isTimed": false,
+      "enableMLCheatingDetection": false,
+      "cheatingDetectionLlmArtifactsEnabled": true,
+      "cheatingDetectionLlmArtifacts": "✅,🔧,🔴,🟡,🟠,❌,✔,🚀,🔥,🎯,😆,🏆,🚨,🔹,☑️,⚠️,🌹,1️⃣,2️⃣,3️⃣,4️⃣",
+      "useTipTap": true,
+      "version": 22,
+      "isPublic": false,
+      "createdAt": "2025-08-23T07:01:04.714Z",
+      "updatedAt": "2025-08-27T00:30:00.796Z",
+      "__v": 21
+    },
+    "currentSection": 1,
+    "status": "in_progress",
+    "attemptNumber": 1,
+    "completed": false,
+    "courseAnswer": {
+      "6d5a0a4e-7bc1-431e-b660-f41c0f697c32": {
+        "sectionType": "multiple_choice",
+        "contents": ["957d1939-9bcf-4e27-9a4e-c50f8b173fe5"],
+        "answeredAt": "2025-09-17T13:12:30.590Z",
+        "isCorrect": true,
+        "attemptNumber": 1,
+        "isComplete": true
+      }
+    },
+    "assigned": false,
+    "passingGrade": 0.1,
+    "fullstorySessions": [
+      "https://app.fullstory.com/ui/25WP4/client-session/2095ba13-5eff-457e-bb0a-cdfc7c72d91c%3Ad8223348-64c7-478c-bdcf-dcc9c9e540e9%3A1758114639437"
+    ],
+    "remainingTime": 60,
+    "projectId": "683e729ecaf6d16374e6fc5b",
+    "violationsDetected": [],
+    "createdAt": "2025-09-17T13:11:10.555Z",
+    "updatedAt": "2025-09-17T13:12:33.655Z",
+    "__v": 1
+  }
+}

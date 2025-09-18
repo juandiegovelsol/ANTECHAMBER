@@ -1,0 +1,317 @@
+{
+  "total": 240,
+  "searched_Location": "Berkeley, CA",
+  "searched_Term": "Shake Shack",
+  "limit": "1",
+  "offset": "0",
+  "region": {
+    "center": {
+      "longitude": -122.27508544921875,
+      "latitude": 37.86830417232484
+    },
+    "span": {
+      "longitude_delta": 0.204620361328125,
+      "latitude_delta": 0.1626161680389373
+    }
+  },
+  "business_search_result": [
+    {
+      "id": "u5RZIXMKz5oXVwdfnq1bvQ",
+      "name": "Shake Shack Bay Street",
+      "alias": "shake-shack-bay-street-emeryville",
+      "address1": "5614 Bay St",
+      "address2": "Ste 240",
+      "address3": null,
+      "city": "Emeryville",
+      "zip": "94608",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 37.833558303677464,
+      "longitude": -122.29197363328875,
+      "review_count": 95,
+      "state": "CA",
+      "avg_rating": 2.5,
+      "unrounded_avg_rating": 2.7,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "5614 Bay St, Ste 240, Emeryville, CA 94608",
+          "short_form": "5614 Bay St, Ste 240, Emeryville"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "Burgers",
+          "category_filter": "burgers",
+          "is_restaurant": true
+        },
+        {
+          "name": "Takeaway & Fast Food",
+          "category_filter": "hotdogs",
+          "is_restaurant": true
+        },
+        {
+          "name": "Ice Cream & Frozen Yoghurt",
+          "category_filter": "icecream",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "5102010407",
+      "localized_phone": "+1-510-201-0407",
+      "dialable_phone": "+15102010407",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/yihhgAatjnVLIiNqzPn93A/ms.jpg",
+      "primary_photo": {
+        "id": "yihhgAatjnVLIiNqzPn93A",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/yihhgAatjnVLIiNqzPn93A/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "yihhgAatjnVLIiNqzPn93A",
+          "type": "business",
+          "time_created": 1718209426,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/yihhgAatjnVLIiNqzPn93A/",
+          "url_suffix": ".jpg",
+          "width": 1920,
+          "height": 1440,
+          "business_id": "u5RZIXMKz5oXVwdfnq1bvQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/u5RZIXMKz5oXVwdfnq1bvQ?select=yihhgAatjnVLIiNqzPn93A&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "ehuoJRKHfajCnlQ_XZVxJw",
+          "type": "business",
+          "time_created": 1726255424,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ehuoJRKHfajCnlQ_XZVxJw/",
+          "url_suffix": ".jpg",
+          "caption": "Friend told me it's here now",
+          "feedback_positive_count": 1,
+          "width": 2000,
+          "height": 1500,
+          "business_id": "u5RZIXMKz5oXVwdfnq1bvQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/u5RZIXMKz5oXVwdfnq1bvQ?select=ehuoJRKHfajCnlQ_XZVxJw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "phfz8CTY3EYI6B3yb7ciTg",
+          "type": "business",
+          "time_created": 1755787694,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/phfz8CTY3EYI6B3yb7ciTg/",
+          "url_suffix": ".jpg",
+          "caption": "View",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "u5RZIXMKz5oXVwdfnq1bvQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/u5RZIXMKz5oXVwdfnq1bvQ?select=phfz8CTY3EYI6B3yb7ciTg&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "sGkWqYH45qYtu42WjNNNvA",
+          "type": "business",
+          "time_created": 1755787694,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/sGkWqYH45qYtu42WjNNNvA/",
+          "url_suffix": ".jpg",
+          "caption": "Shake Shack",
+          "width": 1753,
+          "height": 2000,
+          "business_id": "u5RZIXMKz5oXVwdfnq1bvQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/u5RZIXMKz5oXVwdfnq1bvQ?select=sGkWqYH45qYtu42WjNNNvA&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 137
+    }
+  ],
+  "ad_business_search_result": [
+    {
+      "id": "1W2kgDyMzTpjCB3JXt3lYw",
+      "name": "Cali's Sport Bar & Kitchen",
+      "alias": "calis-sport-bar-and-kitchen-berkeley",
+      "address1": "2367 Telegraph Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Berkeley",
+      "zip": "94704",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 37.8675344,
+      "longitude": -122.2587764,
+      "review_count": 25,
+      "state": "CA",
+      "avg_rating": 4,
+      "unrounded_avg_rating": 4,
+      "neighborhoods": ["Telegraph Ave"],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "2367 Telegraph Ave, Berkeley, CA 94704",
+          "short_form": "2367 Telegraph Ave, Telegraph Ave",
+          "cross_streets": "Telegraph Ave"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Pizza",
+          "category_filter": "pizza",
+          "is_restaurant": true
+        },
+        {
+          "name": "Burgers",
+          "category_filter": "burgers",
+          "is_restaurant": true
+        },
+        {
+          "name": "Sports Bars",
+          "category_filter": "sportsbars",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "5108339928",
+      "localized_phone": "+1-510-833-9928",
+      "dialable_phone": "+15108339928",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/TVaCJ0xuvVB4UZ9nUmRrjA/ms.jpg",
+      "primary_photo": {
+        "id": "TVaCJ0xuvVB4UZ9nUmRrjA",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/TVaCJ0xuvVB4UZ9nUmRrjA/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "TVaCJ0xuvVB4UZ9nUmRrjA",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/TVaCJ0xuvVB4UZ9nUmRrjA/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "lqljwQ7hBkL0oGLuPfvKbA",
+          "type": "business",
+          "time_created": 1757271572,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/lqljwQ7hBkL0oGLuPfvKbA/",
+          "url_suffix": ".jpg",
+          "caption": "Warrior's playoffs!",
+          "width": 2500,
+          "height": 1154,
+          "business_id": "1W2kgDyMzTpjCB3JXt3lYw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/1W2kgDyMzTpjCB3JXt3lYw?select=lqljwQ7hBkL0oGLuPfvKbA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "M9JW7ijToAyGgJiu9-10vQ",
+          "type": "business",
+          "time_created": 1757271572,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/M9JW7ijToAyGgJiu9-10vQ/",
+          "url_suffix": ".jpg",
+          "caption": "Warrior's Playoffs!",
+          "width": 2500,
+          "height": 1154,
+          "business_id": "1W2kgDyMzTpjCB3JXt3lYw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/1W2kgDyMzTpjCB3JXt3lYw?select=M9JW7ijToAyGgJiu9-10vQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "Z0xixC8fkWfCEhCFhldEmA",
+          "type": "business",
+          "time_created": 1757271287,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Z0xixC8fkWfCEhCFhldEmA/",
+          "url_suffix": ".jpg",
+          "width": 1179,
+          "height": 677,
+          "business_id": "1W2kgDyMzTpjCB3JXt3lYw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/1W2kgDyMzTpjCB3JXt3lYw?select=Z0xixC8fkWfCEhCFhldEmA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "IdWUu89Uhx1-JzAD8eoEig",
+          "type": "business",
+          "time_created": 1727745990,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/IdWUu89Uhx1-JzAD8eoEig/",
+          "url_suffix": ".jpg",
+          "caption": "Have the bar to myself.",
+          "feedback_positive_count": 31,
+          "width": 2000,
+          "height": 1500,
+          "business_id": "1W2kgDyMzTpjCB3JXt3lYw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/1W2kgDyMzTpjCB3JXt3lYw?select=IdWUu89Uhx1-JzAD8eoEig&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 124
+    },
+    {
+      "id": "eRVWd7vjjs7a5_byVsdjMA",
+      "name": "Tacos El Mas Carbon",
+      "alias": "tacos-el-mas-carbon-oakland",
+      "address1": "4999 Coliseum Way",
+      "address2": "",
+      "address3": "",
+      "city": "Oakland",
+      "zip": "94601",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 37.7640404,
+      "longitude": -122.2144928,
+      "review_count": 0,
+      "state": "CA",
+      "avg_rating": 0,
+      "unrounded_avg_rating": 0,
+      "neighborhoods": ["East Oakland"],
+      "geo_accuracy": 8,
+      "addresses": {
+        "primary_language": {
+          "long_form": "4999 Coliseum Way, Oakland, CA 94601",
+          "short_form": "4999 Coliseum Way, East Oakland",
+          "cross_streets": "East Oakland"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Food Trucks",
+          "category_filter": "foodtrucks",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "3413440329",
+      "localized_phone": "+1-341-344-0329",
+      "dialable_phone": "+13413440329",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/DkJh7_lzGHl5NXyFjFFOiw/ms.jpg",
+      "primary_photo": {
+        "id": "DkJh7_lzGHl5NXyFjFFOiw",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/DkJh7_lzGHl5NXyFjFFOiw/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "DkJh7_lzGHl5NXyFjFFOiw",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/DkJh7_lzGHl5NXyFjFFOiw/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 1
+    }
+  ]
+}

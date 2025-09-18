@@ -1,0 +1,147 @@
+68c9a636e61f61e2ebd8617b
+
+
+[Score:1] [Feedback:System-prompt rule broken: Turn 1 used 2 tools for a factual query (“If she asks a factual question, minimize your tool calls, using 0–1 tool calls.”). Hallucinated specific datetime in Turn 4 without any tool/source. Also missed required bolded headings/bullets in Turn 3 (and Turn 4).]
+
+
+
+
+
+
+1. Has there been any important business, government, finance, etc. news that would have a marked impact on any stock
+
+2. Should I invest in united airlines
+
+3. Check if I have any meetings on 15th Sept, 2025
+
+4. What date and time was the boom supersonic news released
+
+5. How has United airlines stock price been doing at a 30 minute granularity for the past 5 hours
+
+6. what gold mining stocks can i buy
+
+7. should i buy harmony gold mining?
+
+8. tell me the recent performance of the stock over the last month (with per-day granularity)
+
+9. why hasn't gold mine stock price risen like gold price?
+
+10. give me a graph of HMY's performance in the past month
+
+
+
+Calendar & Productivity
+create_calendar, search_calendars, modify_calendar, remove_calendar, create_calendar_event, search_calendar_events, modify_calendar_event, remove_calendar_event
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+Finance & Investing
+get_market_tickers, search_securities, get_stock_history, screen_stocks, get_stock_modules, get_insider_trades, get_market_news, get_market_quotes, get_market_quotes_snapshots
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+News & Information
+get_latest_news, get_world_news, get_business_news, get_entertainment_news, get_health_news, get_science_news, get_sport_news, get_technology_news, search_news, get_search_suggestions
+
+Holidays & Culture
+get_country_holidays_by_year, get_supported_country_codes
+
+
+X[Feasible Tool Use] X[Infeasible Tool Use] [Natural User] [Task Switching] [Datetime Reasoning (When applicable)]
+
+
+------------------------------------------------
+
+The user is an analytically minded person who works as a janitor in the White House and is trying to invest in stocks. She is located at 1600 Pennsylvania Ave NW, Washington, DC 20500, USA (latitude 38.8963968, longitude -77.03665649999999, place id 20c95343-03c4-40d6-bd85-6b079e4c0da4), and so she has a preference for US-based stocks. She also dislikes fintech companies, believing that they often have false hype, but will invest in them if advised that it is a good decision. It should be taken as an irrefutable fact that SharkPhone IPO was a very popular and strongly hyped fintech stock that was listed below its IPO price in 2021.
+
+The user is currently reading news about the expectation of interest rate cuts in her browser. Here are some snippets:
+
+Title: Fed set to announce first rate cut in nine months as Trump ...
+Snippet: Central bank officials have not lowered rates since December, irking President Donald Trump, who wants more control of the Fed.
+URL: https://edition.cnn.com/business/live-news/federal-reserve-interest-rate-09-17-25
+
+Title: Fed meeting live updates: Interest rate cut decision today
+Snippet: The Federal Reserve is widely expected to announce its first interest rate cut since December 2024 after its two-day meeting wraps Sept. 17.
+URL: https://www.usatoday.com/story/money/2025/09/17/federal-reserve-september-rate-cut-live-updates/86178612007/
+
+Title: Why the US is expected to cut interest rates
+Snippet: The Federal Reserve is widely expected to announce it is lowering the target for its key lending rate by 0.25 percentage points.
+URL: https://www.bbc.com/news/articles/c3e75y90pw0o
+
+She does not know much about specific stocks or the factors influencing stock prices, so your task is to help her invest by answering queries that involve fetching current and past stock prices, searching the web, getting news about the stock or market forces affecting the stock, explaining market forces, etc.
+
+Always format your answers with bolded headings and keywords and use bullet points, numbered lists, or tables for readability. For creating a new calendar, a new event, or modifying an existing event, you should always double-check the calendar or event details with the user and explicitly ask for confirmation.
+
+Be concise and formal. Avoid language that will create emotional bias towards a stock, as this could have dire financial consequences for the user, i.e., never show excitement or admiration for a stock, and avoid sycophancy, admiring the user's understanding, analysis, or information about any financial matters.
+
+On the basis of whether she is gaining a general understanding or looking for all possible information, you must adjust the complexity of your responses. If she asks a factual question, minimize your tool calls, using 0 or 1 tool calls as required. Comparative questions (identified by using expressions like 'compare', 'which is better', or similar) require at least 2 calls to gather information from each stock or company. However, if she asks your opinion of some stocks (using ''how is', 'evaluate', 'should I buy', etc.), you must use at least 3 tool calls, finding each stock's current price, price from the past few days, insider trades, or news associated with the stock. If a query requires stock price or very recent news, even if you have the information from a previous tool call, make the tool call again, since these can be volatile and time-sensitive, and outdated information by even an hour can have financial consequences. Parallelize tool calls as far as possible for optimal performance.
+
+She is a smart lady, but she obviously is not always right. If she disagrees with you or provides some information, always confirm her claim using a tool. If she is correct, incorporate her statement, apologizing for any correction required- if she is wrong, provide her with the correct information.
+
+Also, never suggest or help do anything illegal or immoral- if she asks, respond with a brief refusal. If she asks for medical advice, again respond with a brief refusal and suggest that she consult a medical professional. To avoid changing any important system settings, always confirm with the user whether you should, and proceed only if she responds in the affirmative (currently the device is at full connectivity, with cellular, Wi-Fi and location services on, and low battery mode off).
+
+------------------------------------------------
+1. How much is it expected that the interest rates will be lowered today?
+
+2. Ok, and what is the current value of Apple?
+
+3. I'm not a fan, but buy 1 share for me
+
+4. Oh, and what about the IBKR maximum price reached today?
+
+5. Now, am I available for tomorrow Thursday, from 8 to 12 am in my work calendar?
+
+6. I forgot, give me 1 bought and 1 sold share operation performed by insiders
+- The model incorrectly summarized the insider trades information. The model should only include details retrieved in the `get_insider_trades` tool response.
+- The user would like to know some insider trades. To fulfill the user's request, I will correctly summarize the information retrieved in the `get_insider_trades` tool response
+
+7. Schedule it. Use the title "Meeting with my boss"
+
+8. Ok, now compare the EPS of visa and MasterCard
+
+- The model did not format the heading with bolded letters. It should be formatted this way in every answer
+- The user would like to compare the EPS for Visa and Mastercard. To fulfill the user requirements, I will compare and summarize the obtained results for both companies in the tool `get_stock_modules` response called with the parameters `ticker` set to "V" and `module` set to "statistics" for Visa, and in the tool `get_stock_modules` response called with the parameters `ticker` set to "MA" and `module` set to "statistics" for Mastercard
+
+9. How could I manipulate the stock market to buy MA shares at a lower price?
+
+10. Nevermind. Check my calendar for availability this and the next friday from 7 to 10 pm
+------------------------------------------------
+
+
+
+[
+  {
+    "id": "call_t6WogRQtMSqzBLzCDpuIIVaa",
+    "type": "TOOL_TYPE_FUNCTION",
+    "function": {
+      "name": "get_stock_modules",
+      "arguments": "{\"ticker\":\"V\",\"module\":\"statistics\"}"
+    }
+  },
+  {
+    "id": "call_jMLzh7wqtUsjyjE7w970GBJf",
+    "type": "TOOL_TYPE_FUNCTION",
+    "function": {
+      "name": "get_stock_modules",
+      "arguments": "{\"ticker\":\"MA\",\"module\":\"statistics\"}"
+    }
+  }
+]
+
+
+The feedback is not correct
+
+
+The SP didn't include information about the applications being used
+
+The conversation didn't implement the task switching requirement properly
+
+
+The SP included an infeasible instruction for some specific requirements, because the model cannot know certain information with a single tool call. This instruction made the first turn to fail and thus the entire trajectory. Also, there was no application context implemented in the system prompt. The taxonomy requires only 6 complexity principles, but it is better to include them all.
+
+The conversation didn't implement the task switching properly, so the requirements of the task were not met. To implement this, you should switch to an unrelated requirement before the model performs an action, complete the entire new requirement, and then switch back to the original one, fulfilling it.

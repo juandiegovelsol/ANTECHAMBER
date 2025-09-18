@@ -1,0 +1,238 @@
+[
+  {
+    "timestamp": "1757995201000",
+    "title": "Mapping the universe, faster and with the same accuracy",
+    "snippet": "If you think a galaxy is big, compare it to the size of the universe: it's just a tiny dot which, together with a huge number of other tiny dots,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWpaVlpOVWpWeFJYQTRORUkyVFJEZ0F4aUFCU2dLTWdrVkFvaHJEZWRyY2dF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWpaVlpOVWpWeFJYQTRORUkyVFJEZ0F4aUFCU2dLTWdrVkFvaHJEZWRyY2dF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://phys.org/news/2025-09-universe-faster-accuracy.html",
+    "publisher": "Phys.org"
+  },
+  {
+    "timestamp": "1757974973000",
+    "title": "Northrop Grumman’s new spacecraft is a real chonker",
+    "snippet": "We're excited that Northrop is ready to deliver this incredibly beneficial increase in capacity.”…",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZWRXRSTWkxSWVHdHNZM1pVVFJDZkF4ampCU2dLTWdZZEVJYk9wUU0=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTZWRXRSTWkxSWVHdHNZM1pVVFJDZkF4ampCU2dLTWdZZEVJYk9wUU0"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757892134000",
+        "title": "SpaceX launches Northrop Grumman cargo ship to International Space Station",
+        "snippet": "One day after the arrival of a Russian cargo ship, a SpaceX Falcon 9 rocket launched an upgraded Northrop Grumman space freighter Sunday, putting the...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNHlObVpxV1daVk1HWjNMWHBmVFJDUkF4ajhCU2dLTWdNQlFBRQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNHlObVpxV1daVk1HWjNMWHBmVFJDUkF4ajhCU2dLTWdNQlFBRQ"
+        },
+        "newsUrl": "https://www.cbsnews.com/news/spacex-launches-northrop-grumman-cargo-ship-to-international-space-station/",
+        "publisher": "CBS News"
+      },
+      {
+        "timestamp": "1757897312000",
+        "title": "Northrop Grumman’s 1st Cygnus XL spacecraft launches on cargo run to the space station",
+        "snippet": "A SpaceX Falcon 9 rocket blasts off from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station on Sept. 14, 2025, to begin the NG-23...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTNlVFV4UzNKNmNVaE9NRmhOVFJERUF4aW1CU2dLTWdNQkFBcw=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNTNlVFV4UzNKNmNVaE9NRmhOVFJERUF4aW1CU2dLTWdNQkFBcw"
+        },
+        "newsUrl": "https://spaceflightnow.com/2025/09/15/northrop-grummans-1st-cygnus-xl-spacecraft-launches-on-cargo-run-to-the-space-station/",
+        "publisher": "Spaceflight Now"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://arstechnica.com/space/2025/09/northrop-grummans-new-spacecraft-is-a-real-chonker/",
+    "publisher": "Ars Technica"
+  },
+  {
+    "timestamp": "1757916000000",
+    "title": "Finding organics on Mars means absolutely nothing for life",
+    "snippet": "The red planet, Mars, may once have been teeming with life, just as Earth is today. Finding \"organics\" on Mars, however, doesn't mean life.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVNORWxKYXkxdVVEWnpiRTVHVFJDZkF4ampCU2dLTWdrQmNJNkV1dVU4U3dJ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNVNORWxKYXkxdVVEWnpiRTVHVFJDZkF4ampCU2dLTWdrQmNJNkV1dVU4U3dJ"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757519658000",
+        "title": "Rock discovery contains ‘clearest sign’ yet of ancient life on Mars, NASA says",
+        "snippet": "Scientists believe intriguing leopard spots on a rock sampled by the Perseverance rover on Mars may have potentially been made by ancient life.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUNNM2w1VDNwV05qaHJVbnBsVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUNNM2w1VDNwV05qaHJVbnBsVFJDZkF4amlCU2dLTWdB"
+        },
+        "newsUrl": "https://www.cnn.com/2025/09/10/science/nasa-mars-sapphire-falls-rock-sample",
+        "publisher": "CNN"
+      },
+      {
+        "timestamp": "1757516409000",
+        "title": "In a Rock on Mars, NASA Sees ‘Clearest Sign of Life’ So Far",
+        "snippet": "The agency's scientists are still not saying they found fossils of Martian microbes, but analysis of the specimen collected by the Perseverance rover raises...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNU1OemhDVm14V09GVlRNSEoxVFJDOUF4allCQ2dLTWdzQkFJcVVKT1Z5ZzNwcXdR=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNU1OemhDVm14V09GVlRNSEoxVFJDOUF4allCQ2dLTWdzQkFJcVVKT1Z5ZzNwcXdR"
+        },
+        "newsUrl": "https://www.nytimes.com/2025/09/10/science/mars-rock-nasa-perserverance.html",
+        "publisher": "The New York Times"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://bigthink.com/starts-with-a-bang/organics-mars-means-for-life/",
+    "publisher": "Big Think"
+  },
+  {
+    "timestamp": "1758028740000",
+    "title": "These Ants Found a Loophole for a Fundamental Rule of Life",
+    "snippet": "Researchers discovered that Mediterranean ants are having babies that belong to a different species.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVTekZQYUc5VmQwSnZORFJzVFJDUUF4allCQ2dLTWdZSmtaTFZPQWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDVTekZQYUc5VmQwSnZORFJzVFJDUUF4allCQ2dLTWdZSmtaTFZPQWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/2025/09/15/science/ants-species-babies.html",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1757956230000",
+    "title": "Scientists measure the 'natal kick' that sent a baby black hole careening through space for the first time",
+    "snippet": "Two black holes merged together 2.4 billion light years away from Earth, and scientists have just figured out how fast the newborn ricocheted,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdXRVE0V1dkYVFubHdWV3Q0VFJDZkF4ampCU2dLTWdhcGRKRE5NUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUdXRVE0V1dkYVFubHdWV3Q0VFJDZkF4ampCU2dLTWdhcGRKRE5NUVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757512850000",
+        "title": "Happy Birthday, LIGO. Now Drop Dead.",
+        "snippet": "Ten years ago, astronomers made an epic discovery with the Laser Interferometer Gravitational-Wave Observatory. Cosmology hasn't been the same since,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhVR2x4T1VsVWFtZG1RVWRJVFJEZ0F4allCQ2dLTWdhZHM0NXNQUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXhVR2x4T1VsVWFtZG1RVWRJVFJEZ0F4allCQ2dLTWdhZHM0NXNQUVk"
+        },
+        "newsUrl": "https://www.nytimes.com/2025/09/10/science/gravitational-waves-ligo-black-holes.html",
+        "publisher": "The New York Times"
+      },
+      {
+        "timestamp": "1757584800000",
+        "title": "After 10 years of black hole science, Stephen Hawking is proven right",
+        "snippet": "Researchers have spent 10 years improving the massive detectors they use to catch shockwaves from colliding black holes, and now the science is precise...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNTRXBJVkVsZlJGRmFTRTFpVFJDZkF4amlCU2dLTWdZcGc0Nk5OUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVNTRXBJVkVsZlJGRmFTRTFpVFJDZkF4amlCU2dLTWdZcGc0Nk5OUVk"
+        },
+        "newsUrl": "https://www.npr.org/2025/09/11/nx-s1-5537131/ligo-10-years-black-holes-hawking-theory-confirmed",
+        "publisher": "NPR"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.livescience.com/space/black-holes/scientists-measure-the-natal-kick-that-sent-a-baby-black-hole-careening-through-space-for-the-first-time",
+    "publisher": "Live Science"
+  },
+  {
+    "timestamp": "1757954418000",
+    "title": "Ancient Asteroid Ripped Apart In Collision Had Flowing Water",
+    "snippet": "The parent world of asteroid Ryugu, the space rock visited by the Japanese mission Hayabusa2, had flowing water for over a billion years.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNURkVTlHYUVsR1NuZExWRkJwVFJEaEFSaVFBeWdLTWdNSlZBdw=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNURkVTlHYUVsR1NuZExWRkJwVFJEaEFSaVFBeWdLTWdNSlZBdw"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758016800000",
+        "title": "'A genuine surprise': Near-Earth asteroid Ryugu once had 'flowing water' that transformed its insides",
+        "snippet": "A new analysis of asteroid Ryugu hints that the \"potentially hazardous\" space rock once had flowing water in its core, possibly leftover from the impact...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJRV05MUTFweU0wRTJkRFpWVFJDZkF4ampCU2dLTWdZZFJZN3JKUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDJRV05MUTFweU0wRTJkRFpWVFJDZkF4ampCU2dLTWdZZFJZN3JKUWM"
+        },
+        "newsUrl": "https://www.livescience.com/space/asteroids/a-genuine-surprise-near-earth-asteroid-ryugu-once-had-flowing-water-that-transformed-its-insides",
+        "publisher": "Live Science"
+      },
+      {
+        "timestamp": "1757517750000",
+        "title": "Late fluid flow in a primitive asteroid revealed by Lu–Hf isotopes in Ryugu",
+        "snippet": "Carbonaceous asteroids are the source of the most primitive meteorites1 and represent leftover planetesimals that formed from ice and dust in the outer...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVTRFJ3TmtvMFpFZzNlV3hPVFJDYkJCaTVCQ2dLTWdhUklvb0t3Z1E=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUVTRFJ3TmtvMFpFZzNlV3hPVFJDYkJCaTVCQ2dLTWdhUklvb0t3Z1E"
+        },
+        "newsUrl": "https://www.nature.com/articles/s41586-025-09483-0",
+        "publisher": "Nature"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.iflscience.com/ancient-asteroid-ripped-apart-in-collision-had-flowing-water-80824",
+    "publisher": "IFLScience"
+  },
+  {
+    "timestamp": "1757980382000",
+    "title": "How should ‘mirror life’ research be restricted? Debate heats up",
+    "snippet": "Some researchers are calling for strict limits, while others speak out against halting basic science prematurely.",
+    "hasSubnews": false,
+    "newsUrl": "https://www.nature.com/articles/d41586-025-02902-2",
+    "publisher": "Nature"
+  },
+  {
+    "timestamp": "1758016800000",
+    "title": "'A game changer': Space shuttle astronaut Pam Melroy joins Venus Aerospace after revolutionary rocket engine breakthrough",
+    "snippet": "Pam Melroy, one of only two women to ever command a NASA space shuttle, is channeling her decades of experience across the U.S. Air Force, DARPA,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNDFhRXd0U0dWQ2JsQnlOMGd4VFJDb0FSaXNBaWdCTWdNeGxSZw=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNDFhRXd0U0dWQ2JsQnlOMGd4VFJDb0FSaXNBaWdCTWdNeGxSZw"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.space.com/technology/a-game-changer-space-shuttle-astronaut-pam-melroy-joins-venus-aerospace-after-revolutionary-rocket-engine-breakthrough",
+    "publisher": "Space"
+  },
+  {
+    "timestamp": "1757937600000",
+    "title": "Interstellar comet 3I ATLAS glows green during lunar eclipse photo of the day for Sept. 15, 2025",
+    "snippet": "During September's total lunar eclipse, astronomers captured rare images of interstellar comet 3I/ATLAS glowing green, suggesting more about its chemistry.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpVazVKWWxoT1dWcDBjM1JmVFJDZkF4ampCU2dLTWdZQko1akdHZ28=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWpVazVKWWxoT1dWcDBjM1JmVFJDZkF4ampCU2dLTWdZQko1akdHZ28"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757950928000",
+        "title": "NASA Responds To Claims That Interstellar Object 3I/ATLAS Is An Advanced Alien Spacecraft",
+        "snippet": "NASA has responded to claims – popularized by Harvard professor Avi Loeb – that the interstellar object 3I/ATLAS is a spacecraft sent to the Solar System by...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTNWVlo1UVdaT1RuZEZkVUpSVFJEaEFSaVFBeWdLTWdPZGNnWQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNTNWVlo1UVdaT1RuZEZkVUpSVFJEaEFSaVFBeWdLTWdPZGNnWQ"
+        },
+        "newsUrl": "https://www.iflscience.com/nasa-responds-to-claims-that-interstellar-object-3iatlas-is-an-advanced-alien-spacecraft-80820",
+        "publisher": "IFLScience"
+      },
+      {
+        "timestamp": "1757613720000",
+        "title": "Interstellar overhype: Nasa debunks claim about alien-made comet | Comets",
+        "snippet": "Nasa dismisses theory by Harvard astronomer who suggested an object from beyond the solar system could be a relic from a distant civilization.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5Wa1I1YkdrM1VGVnFPRTlPVFJEUEFoalJBeWdLTWdhUlVvcXJzUVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW5Wa1I1YkdrM1VGVnFPRTlPVFJEUEFoalJBeWdLTWdhUlVvcXJzUVU"
+        },
+        "newsUrl": "https://www.theguardian.com/science/2025/sep/11/interstellar-comet-nasa-alien-made",
+        "publisher": "The Guardian"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.space.com/stargazing/interstellar-comet-3i-atlas-glows-green-during-lunar-eclipse-space-photo-of-the-day-for-sept-15-2025",
+    "publisher": "Space"
+  },
+  {
+    "timestamp": "1757949545000",
+    "title": "The Climate Change Paradox",
+    "snippet": "Earth's climate is chaotic and volatile. Climate change is simple and predictable. How can both be true?",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdiVE54WXpWV2IwZ3pkek5EVFJDZUF4amtCU2dLTWdhQmQ0aW1OZ2M=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVdiVE54WXpWV2IwZ3pkek5EVFJDZUF4amtCU2dLTWdhQmQ0aW1OZ2M"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.quantamagazine.org/the-climate-change-paradox-20250915/",
+    "publisher": "Quanta Magazine"
+  }
+]

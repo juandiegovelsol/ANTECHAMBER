@@ -1,0 +1,383 @@
+{
+  "message": "200: success",
+  "searched_url": null,
+  "searched_ids": "u5RZIXMKz5oXVwdfnq1bvQ",
+  "business_details": [
+    {
+      "business": {
+        "id": "u5RZIXMKz5oXVwdfnq1bvQ",
+        "name": "Shake Shack Bay Street",
+        "alias": "shake-shack-bay-street-emeryville",
+        "address1": "5614 Bay St",
+        "address2": "Ste 240",
+        "address3": null,
+        "city": "Emeryville",
+        "zip": "94608",
+        "country": "US",
+        "hours": [
+          [600, 1350],
+          [2040, 2790],
+          [3480, 4230],
+          [4920, 5670],
+          [6360, 7110],
+          [7800, 8550],
+          [9240, 9990]
+        ],
+        "is_closed": false,
+        "latitude": 37.833558303677464,
+        "longitude": -122.29197363328875,
+        "review_count": 95,
+        "state": "CA",
+        "avg_rating": 2.5,
+        "unrounded_avg_rating": 2.7,
+        "neighborhoods": [],
+        "geo_accuracy": 9,
+        "addresses": {
+          "primary_language": {
+            "long_form": "5614 Bay St, Ste 240, Emeryville, CA 94608",
+            "short_form": "5614 Bay St, Ste 240, Emeryville"
+          }
+        },
+        "price": 2,
+        "localized_price": "$$",
+        "categories": [
+          {
+            "name": "Burgers",
+            "category_filter": "burgers",
+            "is_restaurant": true
+          },
+          {
+            "name": "Takeaway & Fast Food",
+            "category_filter": "hotdogs",
+            "is_restaurant": true
+          },
+          {
+            "name": "Ice Cream & Frozen Yoghurt",
+            "category_filter": "icecream",
+            "is_restaurant": false
+          }
+        ],
+        "is_yelp_guaranteed": false,
+        "platform_partner_ids": [],
+        "fmode": 0,
+        "phone": "5102010407",
+        "localized_phone": "+1-510-201-0407",
+        "dialable_phone": "+15102010407",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/yihhgAatjnVLIiNqzPn93A/ms.jpg",
+        "primary_photo": {
+          "id": "yihhgAatjnVLIiNqzPn93A",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/yihhgAatjnVLIiNqzPn93A/",
+          "url_suffix": ".jpg",
+          "fmode": 1
+        },
+        "photos": [
+          {
+            "id": "yihhgAatjnVLIiNqzPn93A",
+            "type": "business",
+            "time_created": 1718209426,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/yihhgAatjnVLIiNqzPn93A/",
+            "url_suffix": ".jpg",
+            "width": 1920,
+            "height": 1440,
+            "business_id": "u5RZIXMKz5oXVwdfnq1bvQ",
+            "share_url": "https://www.yelp.co.uk/biz_photos/u5RZIXMKz5oXVwdfnq1bvQ?select=yihhgAatjnVLIiNqzPn93A&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "ehuoJRKHfajCnlQ_XZVxJw",
+            "type": "business",
+            "time_created": 1726255424,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ehuoJRKHfajCnlQ_XZVxJw/",
+            "url_suffix": ".jpg",
+            "caption": "Friend told me it's here now",
+            "feedback_positive_count": 1,
+            "width": 2000,
+            "height": 1500,
+            "business_id": "u5RZIXMKz5oXVwdfnq1bvQ",
+            "share_url": "https://www.yelp.co.uk/biz_photos/u5RZIXMKz5oXVwdfnq1bvQ?select=ehuoJRKHfajCnlQ_XZVxJw&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "phfz8CTY3EYI6B3yb7ciTg",
+            "type": "business",
+            "time_created": 1755787694,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/phfz8CTY3EYI6B3yb7ciTg/",
+            "url_suffix": ".jpg",
+            "caption": "View",
+            "width": 1500,
+            "height": 2000,
+            "business_id": "u5RZIXMKz5oXVwdfnq1bvQ",
+            "share_url": "https://www.yelp.co.uk/biz_photos/u5RZIXMKz5oXVwdfnq1bvQ?select=phfz8CTY3EYI6B3yb7ciTg&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "sGkWqYH45qYtu42WjNNNvA",
+            "type": "business",
+            "time_created": 1755787694,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/sGkWqYH45qYtu42WjNNNvA/",
+            "url_suffix": ".jpg",
+            "caption": "Shake Shack",
+            "width": 1753,
+            "height": 2000,
+            "business_id": "u5RZIXMKz5oXVwdfnq1bvQ",
+            "share_url": "https://www.yelp.co.uk/biz_photos/u5RZIXMKz5oXVwdfnq1bvQ?select=sGkWqYH45qYtu42WjNNNvA&utm_source=oshare",
+            "fmode": 0
+          }
+        ],
+        "photo_count": 137,
+        "has_ad_driven_call_tracking_number": false,
+        "platform_actions": [
+          {
+            "url": "https://m.yelp.com/opportunity/shake-shack-bay-street-emeryville?vertical=food",
+            "title": "Order takeout or delivery",
+            "image_path": "delivery.png",
+            "image_url": "bundle://delivery.png",
+            "supported_vertical_types": [
+              "food_at_business",
+              "food_at_customer"
+            ],
+            "service_type": "delivery",
+            "native_platform_action_parameters": {
+              "vertical": "food",
+              "vertical_options": ["at_business", "at_customer"],
+              "has_support_for_native_menu": true
+            },
+            "section_header": "Takeout & Delivery"
+          }
+        ],
+        "attributions": [],
+        "is_temp_closed": false,
+        "timezone": "America/Los_Angeles",
+        "localized_attributes": [
+          {
+            "label": "Health Score",
+            "value": "PASS"
+          },
+          {
+            "id": "RestaurantsReservations",
+            "label": "Takes Reservations",
+            "value": "No",
+            "type": "reservation"
+          },
+          {
+            "id": "RestaurantsDelivery",
+            "label": "Offers Delivery",
+            "value": "Yes",
+            "action_text": "Order Delivery",
+            "url": "https://m.yelp.com/opportunity/shake-shack-bay-street-emeryville?vertical=food",
+            "type": "platform",
+            "supported_vertical_types": ["food_at_customer"]
+          },
+          {
+            "id": "RestaurantsTakeOut",
+            "label": "Offers Takeout",
+            "value": "Yes",
+            "action_text": "Order Takeout",
+            "url": "https://m.yelp.com/opportunity/shake-shack-bay-street-emeryville?vertical=food",
+            "type": "platform",
+            "params": {
+              "order_type": "pickup",
+              "biz_id": "u5RZIXMKz5oXVwdfnq1bvQ",
+              "vertical": "food",
+              "vertical_option": "at_business"
+            },
+            "supported_vertical_types": ["food_at_business"]
+          },
+          {
+            "id": "RestaurantsGoodForGroups",
+            "label": "Good for Groups",
+            "value": "Yes"
+          },
+          {
+            "id": "BusinessAcceptsCreditCards",
+            "label": "Accepts Credit Cards",
+            "value": "Yes"
+          },
+          {
+            "id": "BusinessParking",
+            "label": "Parking",
+            "value": "Validated Parking, Street Parking"
+          },
+          {
+            "id": "DriveThru",
+            "label": "Drive-Thru",
+            "value": "No"
+          },
+          {
+            "id": "DogsAllowed",
+            "label": "Dogs Allowed",
+            "value": "Yes"
+          }
+        ],
+        "menu": {
+          "action_url": "https://m.yelp.co.uk/menu/u5RZIXMKz5oXVwdfnq1bvQ",
+          "action_image_url": "bundle://service_menu.png",
+          "action_title": "Explore the Menu",
+          "action_text": "Cheeseburger, Chicken Bites",
+          "external_action_url": null,
+          "is_yelp_url": true,
+          "view_title": "Menu for Shake Shack Bay Street",
+          "fmode": "0",
+          "is_single_platform_external_menu": false
+        },
+        "platform_action": {
+          "url": "https://m.yelp.com/opportunity/shake-shack-bay-street-emeryville?vertical=food",
+          "title": "Order takeout or delivery",
+          "image_path": "delivery.png",
+          "image_url": "bundle://delivery.png",
+          "supported_vertical_types": ["food_at_business", "food_at_customer"],
+          "service_type": "delivery",
+          "native_platform_action_parameters": {
+            "vertical": "food",
+            "vertical_options": ["at_business", "at_customer"],
+            "has_support_for_native_menu": true
+          },
+          "section_header": "Takeout & Delivery"
+        },
+        "is_message_to_business_enabled": true,
+        "message_the_business": {
+          "type": "MTB",
+          "display": "Message the business",
+          "icon_url": "bundle://talk_icon.png",
+          "sticky_CTA_enabled": false,
+          "messaging_use_case": "message_business"
+        },
+        "video_count": 1,
+        "ios_search_indexing_info": {
+          "webpage_url": "https://www.yelp.com/biz/shake-shack-bay-street-emeryville",
+          "keywords": [
+            "Burgers",
+            "Takeaway & Fast Food",
+            "Ice Cream & Frozen Yoghurt"
+          ],
+          "thumbnail_url": "https://s3-media0.fl.yelpcdn.com/bphoto/yihhgAatjnVLIiNqzPn93A/180s.jpg",
+          "description": "Rating: 2.5 - 95 reviews - Price Range: $$\nBurgers, Takeaway & Fast Food, Ice Cream & Frozen Yoghurt",
+          "title": "Shake Shack Bay Street",
+          "is_eligible_for_prediction": false,
+          "filtered_url": ""
+        },
+        "android_app_annotation": {
+          "annotation_title": "Shake Shack Bay Street, Emeryville",
+          "deeplink_url": "android-app://com.yelp.android/yelp/annotate/biz/u5RZIXMKz5oXVwdfnq1bvQ?utm_campaign=title_biz_name&utm_source=app_annotation",
+          "http_url": "https://www.yelp.com/biz/shake-shack-bay-street-emeryville"
+        },
+        "url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=7d41976b219ea498a4c2f04cfb591b58f2ee7a23a6d02a97a990218fedc3b19e&src_bizid=u5RZIXMKz5oXVwdfnq1bvQ&url=https%3A%2F%2Fshakeshack.com%2Flocation%2Fbay-street-ca%23%2F&website_link_type=website",
+        "distance": null,
+        "locality": "Emeryville, CA 94608",
+        "share_url": "https://www.yelp.co.uk/biz/shake-shack-bay-street-emeryville?utm_source=ashare",
+        "cross_streets": null,
+        "quicktip_count": 0,
+        "is_slideshow_enabled": false,
+        "is_current_advertiser": false,
+        "is_searchable_nearby": true,
+        "summaries": null,
+        "transit": [],
+        "localized_address": "5614 Bay St\nSte 240\nEmeryville, CA 94608\nUSA",
+        "review": null,
+        "minute": 4082,
+        "is_chain_business": true,
+        "regular_count": 0,
+        "health_score": "PASS",
+        "health_score_url": "https://m.yelp.co.uk/inspections/shake-shack-bay-street-emeryville",
+        "health_score_detail": {
+          "health_score": "PASS",
+          "health_score_formatted": "PASS",
+          "time_of_score": 1733472000,
+          "provider": "Powered by Health Department Intelligence",
+          "violation_list": [
+            "Standard not met: food contact surfaces: clean and sanitized (2 counts)",
+            "Standard not met: food storage food storage containers identified",
+            "Standard not met: premises personal/cleaning items vermin-proofing",
+            "Standard not met: signs posted last inspection report available",
+            "Standard not met: adequate handwashing facilities supplied & accessi",
+            "Standard not met: plumbing proper backflow devices (2 counts)"
+          ],
+          "number_of_violations": 6,
+          "has_active_alert": false,
+          "health_score_detail_url": "https://m.yelp.co.uk/inspections/shake-shack-bay-street-emeryville",
+          "is_estimated_health_score": false,
+          "health_score_title": "Health Score: PASS"
+        },
+        "localized_hours": ["Mon-Sun 10:00 - 22:30"],
+        "is_multiple_reservations_allowed": true,
+        "display_url": "https://www.shakeshack.com",
+        "from_this_business": {
+          "specialties": "Shake Shack serves elevated versions of American classics using only the best ingredients. It's known for its delicious made-to-order Angus beef burgers, crispy chicken, hand-spun milkshakes, house-made lemonades, beer, wine, and more. With its high-quality food at a great value, warm hospitality, and a commitment to crafting uplifting experiences, Shake Shack quickly became a cult-brand with widespread appeal. Shake Shack's purpose is to Stand for Something Good®, from its premium ingredients and employee development, to its inspiring designs and deep community investment. Since the original Shack opened in 2004 in NYC's Madison Square Park, the company has expanded to more than 350 locations in 32 U.S.",
+          "history": "Since the original Shack opened in 2004 in NYC's Madison Square Park, the Company has expanded to over 520 locations system-wide, including over 335 in 33 U.S. States and the District of Columbia, and over 185 international locations across London, Hong Kong, Shanghai, Singapore, Mexico City, Istanbul, Dubai, Tokyo, Seoul and more.",
+          "year_established": 2004
+        },
+        "display_menu_url": "https://shakeshack.com/#/",
+        "menu_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=f90356e10263fefc1e1f7fc561624f5df859f4179b46facfd97548620266bb0f&src_bizid=u5RZIXMKz5oXVwdfnq1bvQ&url=https%3A%2F%2Fshakeshack.com%2F%23%2F&website_link_type=menu"
+      },
+      "annotations": [
+        {
+          "type": "REVIEW",
+          "image_path": "16x16_speech_v2.png",
+          "image_url": "https://s3-media0.fl.yelpcdn.com/assets/srv0/icons/6be2758d302f/android/drawable-xxhdpi/speech_v2_16x16.png",
+          "image_color": null,
+          "image_size": {
+            "width": 16,
+            "height": 16
+          },
+          "title": "The fire outdoor seating hands down 5 stars. Yesterday was a beautiful day in Emeryville. Gentle breeze, large rocking chairs, clean environment was our fabulous outdoor experience. The cashier was friendly &amp; helpful. The hamburger was not very good. It was very greasy, no salt on the tasteless meat. Boo! It was our first time at a shake shack! $28 for 1 double burger, 1 (small) fry &amp; a milk shake. The shake was okay. Nothing either of us would have again. Their crinkle oreviously frozen fries were good, really good to me. You just dont get very many. So I say get some overpriced fries &amp; seat out here and enjoy all this outdoor seating has to offer.",
+          "title_color": [43, 39, 60],
+          "title_color_string": null,
+          "show_legal_disclaimer": false,
+          "identifier": "TOP_REVIEW_SNIPPET",
+          "is_highlighted_annotation": false,
+          "action": {
+            "type": "VIEW_REVIEW",
+            "text": "Read more",
+            "display_behavior": "status_quo",
+            "review_id": "AvKecFZEwQ3koVI04QZKmg"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "text": "Order takeout or delivery",
+          "short_text": "Order takeout or delivery",
+          "type": "platform",
+          "biz_action_text": "Order takeout or delivery",
+          "is_disabled": false,
+          "supported_vertical_types": ["food_at_business", "food_at_customer"],
+          "button_type": "secondary",
+          "text_color": [0, 151, 236],
+          "default_color_top": [255, 255, 255],
+          "default_color_bottom": [245, 245, 240],
+          "selected_color_top": [204, 204, 196],
+          "selected_color_bottom": [229, 229, 225],
+          "border_color": [168, 168, 162],
+          "url": "https://m.yelp.com/opportunity/shake-shack-bay-street-emeryville?vertical=food",
+          "native_platform_action_parameters": {
+            "vertical": "food",
+            "vertical_options": ["at_business", "at_customer"]
+          }
+        }
+      ],
+      "available_actions": [
+        {
+          "text": "Order takeout or delivery",
+          "short_text": "Order takeout or delivery",
+          "type": "platform",
+          "biz_action_text": "Order takeout or delivery",
+          "is_disabled": false,
+          "supported_vertical_types": ["food_at_business", "food_at_customer"],
+          "button_type": "secondary",
+          "text_color": [0, 151, 236],
+          "default_color_top": [255, 255, 255],
+          "default_color_bottom": [245, 245, 240],
+          "selected_color_top": [204, 204, 196],
+          "selected_color_bottom": [229, 229, 225],
+          "border_color": [168, 168, 162],
+          "url": "https://m.yelp.com/opportunity/shake-shack-bay-street-emeryville?vertical=food",
+          "native_platform_action_parameters": {
+            "vertical": "food",
+            "vertical_options": ["at_business", "at_customer"]
+          }
+        }
+      ],
+      "always_show_business_photos": false
+    }
+  ]
+}

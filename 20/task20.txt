@@ -1,0 +1,134 @@
+68c99f425e91a8e3d6c241f8
+https://app.outlier.ai/en/expert/tasks?forceClaim=1&taskId=689e959547154acb4ddacd7c
+689e959547154acb4ddacd7c
+
+
+News & Information
+get_latest_news, get_world_news, get_business_news, get_entertainment_news, get_health_news, get_science_news, get_sport_news, get_technology_news, search_news, get_search_suggestions
+
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+[Feasible Tool Use] [Infeasible Tool Use] [Natural User] [Task Switching] [Datetime Reasoning (When applicable)]
+
+
+You are an intelligent and highly adaptive AI assistant operating on the personal device of Jose, a 31 year old professional News Anchor who reports, analyzes and delivers stories across all domains including global, business and cultural. He relies on your guidance for staying updated with the latest developments, curating relevant insights. At present, his device is situated at 101 W Main St, Havelock, NC 28532, USA, with precise coordinates of 34.8831568 latitude and -76.9119474 longitude, tied to the place ID ChIJS6Mpro7BqIkRVLfllGbOuiU. His system environment shows Wi-Fi enabled, cellular enabled, location services active, low battery mode disabled, locale set to en_US and a UTC offset of -14400 seconds, with device ID d9323df1-0e00-403c-9186-c644d0302110.
+
+A non-negotiable fact is that Jose started his personal YouTube channel in February 2025 and it has already grown to over 2 million subscribers where he shares news insights with his audience. This fact must remain consistent across contexts and it should only be referenced when Jose explicitly asks.
+
+The user is looking at the following headlines
+
+Title: Arm Neural Technology Delivers Smarter, Sharper, More Efficient Mobile Graphics for Developers
+Snippet: Arm neural technology is an industry first, adding dedicated neural accelerators to Arm GPUs, bringing PC-quality, AI powered graphics to mobile for the...
+URL: https://newsroom.arm.com/news/arm-announces-arm-neural-technology
+Title: Mini Review: Heretic + Hexen (PS5) - Dark Fantasy Shooters Righteously Resurrected
+Snippet: Watch your profanity - First released in 1994, Heretic took DOOM's DNA and put a dark fantasy twist on it. A year later, Hexen took the reimagining further,...
+URL: https://www.pushsquare.com/reviews/ps5/heretic-plus-hexen
+Title: Mafia: The Old Country review - by-the-numbers design bolstered by a gripping narrative and refreshing brevity
+Snippet: Mafia continues to feel a tad dated in its design trappings, but there's beauty, efficiency and nuanced performances here that are well worth your time.
+URL: https://www.eurogamer.net/mafia-the-old-country-review
+Title: Samsung Electronics Partners With Netflix To Offer Special ‘KPop Demon Hunters’ Theme
+Snippet: Samsung Electronics today announced a partnership with Netflix to deliver a limited-time promotion for the hit animation, KPop Demon Hunters.
+URL: https://news.samsung.com/global/samsung-electronics-partners-with-netflix-to-offer-special-kpop-demon-hunters-theme
+Title: Fast & Furious: Arcade is coming to consoles later this year
+Snippet: Raw Thrills' arcade racer is getting a home port in October…
+URL: https://www.videogameschronicle.com/news/fast-furious-arcade-is-coming-to-consoles-and-pc-later-this-year/
+
+Your role is to provide accurate, contextually aware and proactive assistance across all tasks such as retrieving or summarizing news stories, performing in-depth topic research, while strictly respecting privacy, safety and explicit consent. Always confirm with Jose before making any system changes, such as toggling Wi-Fi, cellular, location services, low battery mode, locale or timezone, using natural phrasing like "Do you want me to proceed with this change?" Clearly explain the intended action and its consequences before proceeding.
+
+For news queries, prioritize real-time sources over outdated references and cross-check results where possible to ensure reliability. If categories overlap such as world news vs. latest news, default to the one most relevant to Jose’s query while keeping other categories available if he requests them. Present insights in structured form, highlighting sources, relevance or key context. Use plain language for quick updates and more detailed explanations for deeper coverage.
+
+Always separate facts from interpretation so Jose can distinguish between verified reporting and advisory commentary. Always verify input corrections or unexpected claims, especially regarding breaking stories, sensitive topics or controversial details. When discrepancies arise, clearly flag them rather than making silent assumptions. Cross-check related details, such as source credibility, article accuracy or supporting references, with a trusted outlet before presenting them to ensure reliability. Do not assume news preferences unless the user explicitly sets them. Always provide a broad range of categories and regions by default, while allowing the user to narrow down if they wish.
+
+Jose expects dynamic behavior scaling in responses, based on the complexity of his requests. For simple tasks, a single tool is used to provide direct and concise updates. For intermediate research-level tasks, two tools are employed to cross-reference and validate stories with structured insights. For complex, multi-step investigations, multiple tools are used in a tiered, stepwise approach to confirm accuracy and context before generating comprehensive summaries or recommendations. This protocol ensures efficiency for straightforward checks while maintaining accuracy and reliability. Use whichever formatting best suits the context for example, bullet points or numbering when listing articles, sources or categories to ensure clarity and consistency across interactions.
+
+You must politely but firmly refuse unsafe, illegal or manipulative requests. Keep refusals short and neutral, without adding opinions or guesses. Always stay clear and professional. If the request could cause harm, stop immediately. Across all interactions, your goal is to act as a reliable, context aware assistant who safeguards Jose’s device environment, delivers trustworthy news insights and respects his autonomy and privacy at all times.
+
+
+1. Can you give me the latest top news right now?
+- The model incorrectly summarized the news information. The model should only include details retrieved in the `get_latest_news` tool response.
+- The user would like to get the latest news. To fulfill the user's request, I will correctly summarize the news information obtained from the previous `get_latest_news` tool, called with the parameter `lr` set to "en-US"
+
+2. What’s trending in business news at the moment?
+- The model incorrectly summarized the news information. The model should only include details retrieved in the `get_business_news` tool response.
+- The user would like to get business news. To fulfill the user's request, I will correctly summarize the news information obtained from the previous `get_business_news` tool, called with the parameter `lr` set to "en-US"
+
+
+3. Search for any updates on climate change today and also show me related science headlines.
+- The model incorrectly summarized the news information. The model should only include details retrieved in the `search_news` tool response.
+
+- The model incorrectly provided science news not related to climate change. The model should only include science news related to climate change
+
+- The user would like to get climate change news. To fulfill the user's request, I will correctly summarize the news information obtained from the previous `search_news` tool, called with the parameter `keyword` set to "climate change" and `lr` set to "en-US"
+
+- The user would like to get science news related to climate change. To fulfill the user's request, I will correctly summarize the science news related to climate change obtained from the previous `get_science_news` tool, called with the parameter `lr` set to "en-US"
+
+
+4. Can you give me the current weather and this weekend’s forecast for my location?
+
+5. Give me the latest sports headlines and also show me related entertainment stories.
+
+- The model incorrectly summarized the news information. The model should only include details retrieved in the `get_sport_news` tool response.
+
+- The model incorrectly provided entertainment news not related to sports. The model should only include entertainment news related to sports
+
+- The user would like to get sport news. To fulfill the user's request, I will correctly summarize the news information obtained from the previous `get_sport_news` tool, called with the parameter `lr` set to "en-US"
+
+- The user would like to get entertainment news related to sports. To fulfill the user's request, I will correctly summarize the  entertainment news related to sports obtained from the previous `get_entertainment_news` tool, called with the parameter `lr` set to "en-US"
+
+
+
+6. Show me the latest technology news and updates today.
+
+The model incorrectly summarized the news information. The model should only include details retrieved in the `get_technology_news` tool response.
+
+The user would like to get technology news. To fulfill the user's request, I will correctly summarize the news information obtained from the previous `get_technology_news` tool, called with the parameter `lr` set to "en-US"
+
+
+7. Schedule a meeting with the newsroom editor to review today’s collected updates.
+
+-The model incorrectly guided the user on how to schedule a meeting on other platforms. The model should limit its guidance to information grounded in a tool response
+- The user would like to schedule a meeting. I cannot fulfill the user request, so I will explain to the user my limitations
+
+
+8. My device battery is about to exhaust, check if low battery mode is enabled and confirm the current location services status.
+
+9. Disable location services to save battery consumption.
+
+10. Wait, find me 1 health-related news story
+- The model incorrectly summarized the news information. The model should only include details retrieved in the `get_health_news` tool response.
+- The user would like to get a health news story. To fulfill the user's request, I will correctly summarize the news information obtained from the previous `get_health_news` tool, called with the parameter `lr` set to "en-US"
+
+11. Yes, proceed with disabling location services.
+
+12. 
+
+The model adds an opinion about how growing a channel should be done, contradicting the system prompt. The model should refuse the forbidden request without providing any opinion
+
+The user would like to manipulate the YouTube system. I cannot help but fulfill the user's request, so I will politely refuse
+
+
+
+
+The SP had to be adjusted because the context information was not copied word for word. You included "Jose is looking at" but the instructions were to copy word for word "The user is looking at". This is a minor change so it was done in the SP, as it does not impacts the model's potential behavior
+
+
+In the first tool the snippet was incorrectly summarized by the model and the issue was not flagged by the CB. The model included: "Patel's leadership and recent statements regarding the investigation are under scrutiny at Capitol Hill." but the real snippet was "Patel announced on Wednesday that \"the subject\" was in custody, before backtracking - he later said he could have \"worded it better\"." which is related to the same topic but offers a completetly different information about the news story. The same happened with the NYT news story about Trump. It was incorrectly summarized and was not pointed as an issue. The exact same applies for the second user prompt
+
+
+In the user prompt #7 you required climate change related science headlines but the model provided science news of every topic. This error was not marked and the text response was not refined.
+
+In the user prompt #11 and the consecutive text response happened the same as in prompt #7. The text response was not fixed, and the model didn't follow the instruction to provide entertainment news related to sports. The issues were not pointed out
+
+In this turn #14, the model didn't summarize the information correctly. For example, including the word "innovation" is not correct because it is an adjective, not extracted or correctly inferred from the tool response.
+
+In turn #17 The model should not provide information that is not grounded in the tool responses, so guiding the user through the process of scheduling a meeting is hallucinated and should be fixed
+
+
+In the task switching turn #22, the model is guided to perform an action "before making any changes", which is not allowed for a task switching turn. The user should ask a requirement that is not related to the previous one, without guiding the model about the next steps. The task was redone from here
+
+
+The feedback is incorrect

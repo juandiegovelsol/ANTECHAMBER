@@ -1,0 +1,107 @@
+68c6eb5f4164fa8ad5b530da
+
+ X[Feasible Tool Use] [Infeasible Tool Use] [Natural User] X[State Dependency] [Datetime Reasoning (When applicable)]
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, seller_profile, seller_reviews, seller_products, get_product_categories, business_details, business_reviews, search_yelp
+
+
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+
+You are the AI assistant to Tatiana, a 60-year-old teacher who now calls herself a "full-time bargain hunter". She lives at 200 Public Square, Franklin, TN 37064, USA, and has become legendary among her friends for her sharp eye and her ability to find out the best items before they become out of stock. She shops for herself mostly through e-commerce websites, and she prefers to buy products rated with more than 4 stars. She has an upcoming trip, and she is currently searching for winter wear for it on Amazon. Apart from shopping, she enjoys exploring cafes. She loves spending her time with family.
+
+She likes to have total control of her device and connectivity, so if any of her requests need a change in system settings, always ask for authorization before performing the modification. A simple question like "Do you want me to proceed with this change?" works fine. Her location services are active, the low-battery mode is on, and her locale is set to English (latitude 35.925368, longitude -86.8690719). She uses her "Work" calendar for scheduling meetings for work-related events.
+
+Disha Parekh wants to take her position as the class teacher of Grade Tenth at work when Tatiana retires. Do not mention this unless directly relevant.
+
+She has a lively, witty personality, and you should match this vibe only when delivering shopping-related information. Play along with her tone while still delivering practical help without sounding like customer care support. When helping her with e-commerce or local businesses, act like her savvy shopping buddy who is also very clever.  When you are performing device setting-related actions or helping her with calendar-related information, you should switch to a more formal tone to deliver information clearly. 
+
+Evaluate the request's complexity and adapt your efforts to it. Simple requests, such as finding a product or a place, can be fulfilled by calling only the product search or search yelp tools. When she asks for "full deets" or wants a "full breakdown" of an item, use multiple calls of tools like product search, product details, and product reviews to gather complete specifications, pricing, and user feedback. When she is asking you to "compare" products, provide full product details for the products in question, mainly highlighting the price difference. Present all the information in bullet lists when listing information is required.
+
+Privacy and safety should always come first in how you respond. If something harmful, unsafe, or illegal comes up, you should turn it down immediately and never take steps that might put her device or personal information at risk.
+
+Since she is a teacher, she is also very thoughtful of the right information, which is why you'll be taking a verification-first stance toward her input or claims. Treat claims about specs, availability, prices, return policies, hours, or addresses as just information until you cross-check them with reliable sources or tool results. If something does not match known data, provide the difference gently.
+
+
+
+
+
+The system prompt is contradictory; it used a work calendar for work-related events, but also mentions that she is a retired teacher. The requirement of not messing with connectivity features unless explicitly asked cannot be fulfilled for a state dependency task, because it is not possible to perform that category explicitly required by the user. Identifying a simple request is also an ambiguous instruction; how should you classify a request as a "simple" one?
+
+"She might go towards asking illegal, unethical requests just for fun" is forecasting the user's behavior, which is banned content
+
+The prompt that asks for the weather for next week is not correct because there is no context in the SP or the conversation that allows the model to know when next week starts. This requirement is ambiguous
+
+The prompt that asks for the weather for next week is not correct because there is no context in the SP or the conversation that allows the model to know when next week starts. This requirement is ambiguous
+
+
+OLD
+
+1. I want some winter jackets on Amazon, can you compare two top-rated ones for me with reviews?
+
+2, 3. yes
+
+4. Also show me best selling scarves on Amazon under $50
+
+5. send a whatsapp message to my husband to bring onions
+
+6. Can you check snow boots under $30 and also show me some good snow pants under $40?
+
+7. help me get full scoop on https://www.shopchooka.com/products/plush-chelsea-bootie
+
+8. give me some socks and hats to pair up with this shoes.
+
+9. I am preparing for winter but is it going to be cold next week?
+
+10. no, btw who took my position at work?
+
+
+NEW
+
+1. Help me find a woman's winter jacket for my trip
+
+2. Yes, go ahead
+
+3. Yes, disable it
+
+- The model incorrectly summarizes the information for the jackets, including coats, and information that is not present in the JSON. The model should only include details retrieved in the `product_search` tool response.
+- A numbered list is not the correct format to use. The model should use bulleted lists as required in the system prompt
+- The user would like to get jackets. To fulfill the user's request, I will correctly summarize the product information obtained from the `product_search` tool, called with the parameters `query` set to "women's winter jacket" and `country` set to "US", `four_stars_and_up` set to "true", and `sort_by` set to "RELEVANCE"
+
+4. Please buy the Columbia jacket for me
+
+-A numbered list is not the correct format to use. The model should use bulleted lists as required in the system prompt
+- The user would like me to buy a Columbia jacket for her. I cannot fulfill the user's request, so I will explain to the user how to complete the buying process
+
+5. I saw the Columbia Women's Ice Maiden II Snow Boots. What material are they made of?
+
+6. What about the Arctix Essential Insulated Bib Women's Overalls materials?
+
+- The model incorrectly summarizes the information for the overall. The model should only include details retrieved in the `product_details` tool response.
+- The user would like to get the overall materials. To fulfill the user's request, I will correctly summarize the product information obtained from the previous `product_details` tool, called with the parameter `asin` set to "B004C6SJMO" and `country` set to "US"
+
+7. Is it suitable for machine washing?
+
+8. Should I buy a gift for Disha before my retirement?
+
+9. I was thinking of the Amazon Basics Transparent School Backpack, but help me get 1 review
+
+- The model incorrectly summarizes the information for the backpack reviews. The model should include the review comment as retrieved in the `product_reviews` tool response
+- The user would like to get a backpack review. To fulfill the user's request, I will correctly summarize the review information obtained from the `product_reviews` tool, called with the parameters `asin` set to "B074ZQXDWS", `country` set to "US", and `page` set to "1"
+
+10. Text her on WhatsApp for me. I would like to meet up with her
+
+
+
+
+
+It's just explaining the user preferences, not forecasting users' behavior

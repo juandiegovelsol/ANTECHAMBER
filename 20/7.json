@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "1758024012000",
+    "title": "Apple Watch Ultra 3: A closer look at its satellite communications tools",
+    "snippet": "The latest generation of smartwatches is looking to the skies to expand their connectivity capabilities. The Apple Watch Ultra 3...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhORGhXUVdGQllVVTNNWGRMVFJDZkF4amlCU2dLTWdZUmNJanVzQVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHhORGhXUVdGQllVVTNNWGRMVFJDZkF4amlCU2dLTWdZUmNJanVzQVU"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757441723000",
+        "title": "Apple Watch Ultra 3",
+        "snippet": "Apple Watch Ultra 3 is the ultimate sports and adventure watch, with a 49mm titanium case, built-in GPS + Cellular, and new satellite communications.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNiemROUjNaNlYxaHphSEJwVFJEbEF4ajRCQ2dLTWdhaEE2S01FUXM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUNiemROUjNaNlYxaHphSEJwVFJEbEF4ajRCQ2dLTWdhaEE2S01FUXM"
+        },
+        "newsUrl": "https://www.apple.com/apple-watch-ultra-3/",
+        "publisher": "Apple"
+      },
+      {
+        "timestamp": "1758024031000",
+        "title": "Apple’s latest Watches are its most impressive yet with advanced health tracking, satellite connectivity",
+        "snippet": "Apple's latest Apple Watch lineup gets a number of big updates.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZVbEZVUVc1RmVWTjBhbXRmVFJEZ0F4aUFCU2dLTWdhZEk1TE5NUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTZVbEZVUVc1RmVWTjBhbXRmVFJEZ0F4aUFCU2dLTWdhZEk1TE5NUWM"
+        },
+        "newsUrl": "https://finance.yahoo.com/news/apples-latest-watches-are-its-most-impressive-yet-with-advanced-health-tracking-satellite-connectivity-120031268.html",
+        "publisher": "Yahoo Finance"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.engadget.com/wearables/apple-watch-ultra-3-a-closer-look-at-its-satellite-communications-tools-120012387.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1758024000000",
+    "title": "Meta’s new smart glasses are coming this week",
+    "snippet": "Meta's next big Connect conference is nearly here, and this year, we're expecting to see a lot of news about glasses. AI-focused hardware is all the rage,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlYMmRpU0dSSFJucEpUR00wVFJERUF4aW1CU2dLTWdZcGc0Z3hOUVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHlYMmRpU0dSSFJucEpUR00wVFJERUF4aW1CU2dLTWdZcGc0Z3hOUVU"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758020401000",
+        "title": "Meta Connect 2025: AI-powered smart glasses take center stage",
+        "snippet": "Analysts and investors will be watching how the public responds to Meta's big bet on smart glasses during its Connect event.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5NRXRoYkhOTlh6RjBNamxPVFJDZkF4ampCU2dLTWdZeE5acXZIUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU5NRXRoYkhOTlh6RjBNamxPVFJDZkF4ampCU2dLTWdZeE5acXZIUWs"
+        },
+        "newsUrl": "https://www.cnbc.com/2025/09/16/meta-connect-hypernova-ai.html",
+        "publisher": "CNBC"
+      },
+      {
+        "timestamp": "1758033780000",
+        "title": "Meta Stock Rises. This Is Its New AI Product.",
+        "snippet": "Meta Platforms is aiming to build on its momentum with a new model of smart glasses.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXdWWFp2VEV4cVZYUXlXa1F4VFJDcUF4al9CQ2dLTWdZUmRJd01OZ2M=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXdWWFp2VEV4cVZYUXlXa1F4VFJDcUF4al9CQ2dLTWdZUmRJd01OZ2M"
+        },
+        "newsUrl": "https://www.barrons.com/articles/meta-stock-price-ai-glasses-82601b43",
+        "publisher": "Barron's"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1758034080000",
+    "title": "Android 16’s next big update brings auto-themed icons, and apps can’t opt out",
+    "snippet": "Android 16 QPR2 will bring forced themes to apps that don't support Material You, and Google isn't letting any app developer opt out.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdVVGgyWVdack9FMDFkWGgzVFJDUUF4ai1CU2dLTWdZcEJZck5HUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVdVVGgyWVdack9FMDFkWGgzVFJDUUF4ai1CU2dLTWdZcEJZck5HUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://9to5google.com/2025/09/16/android-16-auto-themed-icons-apps-cant-opt-out/",
+    "publisher": "9to5Google"
+  },
+  {
+    "timestamp": "1757958319000",
+    "title": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone",
+    "snippet": "Apple's iOS 26 software update for iPhones is available Monday to people who have an iPhone 11, iPhone SE 2, and later. The marquee feature of iOS 26 is...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXdTR1pTVmxoalVITnViWGhXVFJDWUF4anZCU2dLTWdZUlFveXJvUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXdTR1pTVmxoalVITnViWGhXVFJDWUF4anZCU2dLTWdZUlFveXJvUVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757981405000",
+        "title": "Your iPhone is getting a big update. Here’s what to do with iOS 26 first.",
+        "snippet": "iOS 26 may take some getting used to, but finding these changes first can help ease the transition.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9lWGhhTWtGR2VYRnBkREJ5VFJDcUJCaXFCQ2dLTWdhSkFZVFRGQXM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW9lWGhhTWtGR2VYRnBkREJ5VFJDcUJCaXFCQ2dLTWdhSkFZVFRGQXM"
+        },
+        "newsUrl": "https://www.washingtonpost.com/technology/2025/09/15/ios-26-update-features-iphone/",
+        "publisher": "The Washington Post"
+      },
+      {
+        "timestamp": "1758029460000",
+        "title": "iOS 26 Draining Your Battery? Apple Says It's Normal",
+        "snippet": "Apple released iOS 26 on Monday, a few months after the company announced this year's iPhone software at the Worldwide Developers Conference in June.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFORFIwUlVoRFRXaFFUMTgwVFJDZkF4ampCU2dLTWdZQk1JamxJQVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWFORFIwUlVoRFRXaFFUMTgwVFJDZkF4ampCU2dLTWdZQk1JamxJQVk"
+        },
+        "newsUrl": "https://www.cnet.com/tech/services-and-software/ios-26-draining-your-battery-apple-says-its-normal/",
+        "publisher": "CNET"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/",
+    "publisher": "TechCrunch"
+  },
+  {
+    "timestamp": "1758021900000",
+    "title": "AirPods Pro 3 heart rate monitoring ‘mind-bogglingly good’ – unlike PowerBeats 2 Pro",
+    "snippet": "We yesterday published our own in-depth review of AirPods Pro 3, with our editor-in-chief Chance Miller concluding that the latest iteration feels like a...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtaMmhZU205MWJsbG9iVnByVFJDSEF4aVBCaWdLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUtaMmhZU205MWJsbG9iVnByVFJDSEF4aVBCaWdLTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://9to5mac.com/2025/09/16/airpods-pro-3-heart-rate-monitoring-mind-bogglingly-good-unlike-powerbeats-2-pro/",
+    "publisher": "9to5Mac"
+  },
+  {
+    "timestamp": "1757967900000",
+    "title": "Apple Stock Rises Amid Strong iPhone 17 Preorders",
+    "snippet": "Apple stock climbed Monday after Wall Street analysts noted strong preorders for the company's iPhone 17 series smartphones.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUNaR1ZJV1dONWIyVklRVE5pVFJDTUF4aUhCaWdLTWdNVlFRSQ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNUNaR1ZJV1dONWIyVklRVE5pVFJDTUF4aUhCaWdLTWdNVlFRSQ"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757441723000",
+        "title": "iPhone 17",
+        "snippet": "Meet the new iPhone 17. Designed with contoured edges, thinner borders, and durable materials like Ceramic Shield 2 on the front, it looks — and stays...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDBTMlpZUVZNek4wOVNVV2xUVFJDT0JCakhCQ2dLTWdtUmNvNUlxcWhVY0FF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNDBTMlpZUVZNek4wOVNVV2xUVFJDT0JCakhCQ2dLTWdtUmNvNUlxcWhVY0FF"
+        },
+        "newsUrl": "https://www.apple.com/iphone-17/",
+        "publisher": "Apple"
+      },
+      {
+        "timestamp": "1757860140000",
+        "title": "The Barely There iPhone Air",
+        "snippet": "Plus, an AI voice quiz, Oracle's $300 billion deal with OpenAI and growing pains on Mark Zuckerberg's AI superteam, in this edition of the Technology...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5NWGxTY1RWWE9YYzNjakU0VFJERUF4aW5CU2dLTWdZQllKYU5xUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU5NWGxTY1RWWE9YYzNjakU0VFJERUF4aW5CU2dLTWdZQllKYU5xUWM"
+        },
+        "newsUrl": "https://www.wsj.com/tech/the-barely-there-iphone-air-b14b7280",
+        "publisher": "The Wall Street Journal"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.investors.com/news/technology/apple-stock-aapl-iphone-17-preorders/",
+    "publisher": "Investor's Business Daily"
+  },
+  {
+    "timestamp": "1757946060000",
+    "title": "Woot Takes 70% Off Solo/Braided Loops for Your New Apple Watch Series 11, Plus First Deals on Beats iPhone 17 Cases",
+    "snippet": "Woot this week is back with a massive sale on Solo Loop and Braided Solo Loop bands for Apple Watch, and we're also tracking the first ever...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXdXWFpzTkUxRFFWSnVTRWh0VFJEaEFSaVFBeWdLTWdZdEpwTE5HUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXdXWFpzTkUxRFFWSnVTRWh0VFJEaEFSaVFBeWdLTWdZdEpwTE5HUW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.macrumors.com/2025/09/15/woot-band-sale-beats-iphone-cases/",
+    "publisher": "MacRumors"
+  },
+  {
+    "timestamp": "1757935860000",
+    "title": "How to use Windows 10 ESU to keep getting updates after October 2025",
+    "snippet": "Windows 10 Extended Security Updates (ESU) lets PCs get security patches until October 13, 2026, since main support ends October 14. Here's how to enroll.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNVVVo0V2xsRVJqa3dZbkUxVFJDMkF4aTlCU2dLTWdhWlVZenpwQWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDNVVVo0V2xsRVJqa3dZbkUxVFJDMkF4aTlCU2dLTWdhWlVZenpwQWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757698800000",
+        "title": "Microsoft Offers Windows 10 Extended Security Updates for Free. You Just Need to Do One Thing",
+        "snippet": "If you don't want to upgrade to Windows 11 you still have options. Take advantage of this free option, or you can pay for another year of Windows 10...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNW9WMlJrVDBWdFQxTXhTR0puVFJDcUJCaXFCQ2dLTWdNQlN4UQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNW9WMlJrVDBWdFQxTXhTR0puVFJDcUJCaXFCQ2dLTWdNQlN4UQ"
+        },
+        "newsUrl": "https://www.cnet.com/tech/computing/microsoft-offers-windows-10-extended-security-updates-for-free-you-just-need-to-do-one-thing/",
+        "publisher": "CNET"
+      },
+      {
+        "timestamp": "1757966969000",
+        "title": "Want to Stay on Windows 10? Do This Before Support Ends on Oct. 14",
+        "snippet": "Initially, Microsoft planned to charge consumers $30 to enroll in its Extended Security Updates (ESU) program and keep Windows 10, but it recently announced...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVlPVGw2TmxrME5qSjJaRFV0VFJDZkF4ampCU2dLTWdZbFpKcHRLUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVlPVGw2TmxrME5qSjJaRFV0VFJDZkF4ampCU2dLTWdZbFpKcHRLUWc"
+        },
+        "newsUrl": "https://www.pcmag.com/news/want-to-stay-on-windows-10-do-this-before-support-ends-on-oct-14",
+        "publisher": "PCMag"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.windowscentral.com/microsoft/windows-10/how-to-use-windows-10-esu-to-keep-getting-updates-after-october-2025",
+    "publisher": "Windows Central"
+  },
+  {
+    "timestamp": "1757937864000",
+    "title": "Samsung Begins Official Rollout of One UI 8 to Galaxy Devices",
+    "snippet": "One UI 8 launches for Galaxy S25 followed by rollouts for S24 Z Fold6 and Z Flip6 later this year The update brings advanced multimodal AI optimized UX and...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTVjMjF5UVhsQlVXNXhOMlZrVFJERUF4aW1CU2dLTWdtVlVvNDBvV2VpemdF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNTVjMjF5UVhsQlVXNXhOMlZrVFJERUF4aW1CU2dLTWdtVlVvNDBvV2VpemdF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.samsungmobilepress.com/press-releases/samsung-begins-official-rollout-of-one-ui-8-to-galaxy-devices",
+    "publisher": "Samsung Mobile Press"
+  },
+  {
+    "timestamp": "1758027600000",
+    "title": "The Aurzen D1R Cube is the first Roku TV smart projector",
+    "snippet": "You'll find Google TV on most smart projectors, but the Aurzen D1R Cube runs Roku TV with access to popular streaming apps and over 500 live TV channels.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhhV2hMVm1saFgxOTVYelEzVFJER0F4aWpCU2dLTWdZUmtKQjNPQVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWhhV2hMVm1saFgxOTVYelEzVFJER0F4aWpCU2dLTWdZUmtKQjNPQVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector",
+    "publisher": "The Verge"
+  }
+]
