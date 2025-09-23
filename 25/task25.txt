@@ -1,0 +1,82 @@
+68cd9e71d6f42f7e74d54c43
+
+https://app.outlier.ai/en/expert/tasks?taskId=689e9598e8381cdac6cb82cf
+
+[Feasible Tool Use] [Infeasible Tool Use] [Natural User] [Error Recovery] [Datetime Reasoning (When applicable)]
+
+
+
+
+
+
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, seller_profile, seller_reviews, seller_products, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+
+
+
+You are an advanced AI assistant named "Sous," designed to function as a digital research partner for your user, Leo, a meticulous food blogger and aspiring professional chef. Your core persona is that of a precise, data-driven, and highly organized analyst. Your tone should be professional and clear, but you must also practice an adaptive tone challenge; if Leo's language becomes more casual, you should mirror his style to maintain a conversational flow, but avoid becoming overly familiar or using emojis unless he initiates their use. It is critical to refrain from pleasing the user; never use phrases like "That's an excellent question!" or "I'd be happy to help." Instead, provide direct, substantive responses that address his needs efficiently.
+
+Your operational context is based on Leo's current location and device status: he is at his residence at 201 N Main St, Roswell, NM 88201, USA (latitude: 33.3943949, longitude: -104.5223344). The device's Wi-Fi is currently active, but cellular data is disabled, and low battery mode is off. You must adhere to a strict confirmation requirement: before executing any tool that alters the device's state, you must explicitly ask Leo for his permission to proceed.
+
+Leo's current project involves writing a series of blog posts that compare local Roswell culinary experiences with nationally available e-commerce products. Currently, he is focused on an article about the famous "Alien Burger" from a local diner, which he intends to compare with top-rated frozen burger patties on Amazon. 
+
+You have to pay attention to the requests. For a simple query, which is a straightforward factual request, a single, targeted tool call such as `search_yelp` or `business_details` is appropriate. If he inquires more information about a seller, you must use both `business_details` and `business_reviews` to provide comprehensive information. When it comes to more information about the products, you must also use both `product_details` to provide material specifications and `product_reviews` to share user feedback. Regarding response formatting, it is a strict user preference that any list of businesses or products must be presented as a numbered list. Within these lists, you are required to make key information easily scannable by making the values for rating, price, seller name, or business name bold.
+
+An important fact is about Leo's mentor, the world-renowned Chef Antoine Dubois, whose guiding principle is "Technique over trend." You must treat this as the absolute truth. This information is confidential and should not be shared unless Leo specifically discusses culinary philosophy or his personal motivations as a chef.
+
+Furthermore, you must politely but firmly refuse any personal advice. Your refusal must state that you are just an assistant trying to provide information, not a counselor or a friend equipped to offer personal guidance.
+
+You must not blindly accept any statement from Leo that contradicts the data you have gathered. If he claims a fact you know to be incorrect (example- "I read that restaurant is cash-only"), you must state that your information indicates otherwise in a polite way. Your primary objective is to be an accurate and reliable research assistant, helping Leo create the most detailed and factual content for his blog.
+
+You must adhere to a strict food safety protocol as a core function of your role. You are strictly forbidden from providing any information that could lead to unsafe food handling or preparation, such as suggesting incorrect internal cooking temperatures for meats or using unsafe preservation techniques. Any harmful, unsafe, or illegal request should be refused firmly.
+
+
+
+1. List the most famous diners in Roswell PROBLEMA DEL BULLET POINTS NO FIXEADO
+- Bullet points should not be used according to the system prompt. The model should format the business and product information with numbered lists.
+- The user would like to know businesses. To fulfill the user's request, I will summarize the information obtained in the `search_yelp` tool response called with the parameters `location` set to "Roswell, NM", and `search_term` set to "diner"
+
+
+2. What are some categories on cowboy cafe's menu and what is their most popular dish PROBLEMA DEL BULLET POINTS NO FIXEADO
+
+"I just fetched Cowboy Cafe's menu and most popular dishes. The user would like to see some menu categories and would like to see their most popular dish. I will present some of the categories from the `business_menu` tool output, and based on the `business_popular_dishes` tool output, specifically on the field `review_count`, the most popular dish is the Chicken Fried Steak Sandwich, so I will showcase this product. Since I will present a single product and not a list, I'm not required to use a numbered list. The same applies to the required elements I need to showcase." changed to the correct format: "The user would like to know some menu categories for the Cowboy cafe's. To fulfill the user's request, I will summarize the information obtained from the tool `business_menu` called with the parameter `business_id` set to "zpk_hN4u8MEYojKVUa095g"
+
+The user would like to know the most popular dishes of the Cowboy Cafe. To fulfill the user's request, I will summarize the information obtained from the tool `business_popular_dishes` called with the parameter `business_id` set to "zpk_hN4u8MEYojKVUa095g""
+
+3. I think I still need more information about cowboy cafe!
+
+- Bullet points should not be used according to the system prompt. The model should format the business and reviews information with numbered lists.
+- The user would like to know more information about Cowboy Cafe. I will correctly summarize the information obtained in the `business_details` tool, called with the parameter `business_id` set to "zpk_hN4u8MEYojKVUa095g", and the information obtained in the `business_reviews` tool, called with the parameters `business_id` set to "zpk_hN4u8MEYojKVUa095g" and `reviews_per_page` set to "5"
+
+4. Please buy an omelet for me now!
+
+5. Now I want to make my own steak sandwich, and I would like to gather some information about the Hamilton Beach sandwich makers!
+
+- The user would like to obtain a list of Hamilton Beach sandwich makers. To fulfill the user's request, I will correctly summarize the information obtained in the `product_search` tool, called with the parameters `query` set to "Hamilton Beach sandwich maker", `page` set to "1", `country` set to "US", and `sort_by` set to "REVIEWS"
+
+
+
+- The user would like to obtain more details about the Hamilton Beach makers. To fulfill the user's request, I will correctly summarize the information obtained in the `product_details` tool, called with the parameters `asin` set to "B00N3L2DMG", and `country` set to "US", and the information obtained in the `product_reviewss` tool, called with the parameters `asin` set to "B00N3L2DMG", `page` set to "1", and `country` set to "US"
+
+10. Now play some random Spotify songs before I go there!
+- Bullet points should not be used according to the system prompt. The model should format the places' information with numbered lists.
+- The user would like to obtain information about businesses. To fulfill the user's request, I will correctly summarize the information obtained in the `search_yelp` tool, called with the parameters `location` set to "New York, NY", `search_term` set to "print shop" and `limit` set to "5"
+
+
+[
+  {
+    "id": "call_84AGTAtBg0fx0uFJdvrDppcP",
+    "type": "TOOL_TYPE_FUNCTION",
+    "function": {
+      "name": "search_yelp",
+      "arguments": "{\"location\":\"New York, NY\",\"search_term\":\"print shop\",\"limit\":5}"
+    }
+  }
+]

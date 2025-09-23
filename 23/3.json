@@ -1,0 +1,238 @@
+[
+  {
+    "timestamp": "1758207780000",
+    "title": "Vaccine ‘skeptics’ among new advisers joining CDC committee",
+    "snippet": "Five new advisers will join the vaccines committee for the US Centers for Disease Control and Prevention (CDC) later this week, the agency and the US...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXFiMDlVUzFobE5YWkJNMWhJVFJDMkFoalJBeWdLTWdZQkFZenJnUTA=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXFiMDlVUzFobE5YWkJNMWhJVFJDMkFoalJBeWdLTWdZQkFZenJnUTA"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758211351000",
+        "title": "CDC advisers to scrutinize vaccines given during pregnancy, hepatitis B shots at birth",
+        "snippet": "The CDC is reviewing guidance for newborns to receive the hepatitis B vaccine, potentially the first major shift on routine childhood shots under Robert F.",
+        "newsUrl": "https://www.washingtonpost.com/health/2025/09/18/hepatitis-b-infant-vaccine-recommendation/",
+        "publisher": "The Washington Post"
+      },
+      {
+        "timestamp": "1758209520000",
+        "title": "Future vaccine recommendations uncertain as CDC panel meets in Atlanta",
+        "snippet": "This week, a CDC advisory committee will gather in Atlanta to vote on recommendations that could change access to some shots.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWtaV2t5VUVOT2VVTktTSEJPVFJDUkF4ajhCU2dLTWdZQlFwQXhIUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWtaV2t5VUVOT2VVTktTSEJPVFJDUkF4ajhCU2dLTWdZQlFwQXhIUWc"
+        },
+        "newsUrl": "https://www.cbsnews.com/atlanta/news/cdc-panel-vaccine-recommendations-chickenpox-confusion/",
+        "publisher": "CBS News"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theguardian.com/us-news/2025/sep/18/cdc-vaccine-committee",
+    "publisher": "The Guardian"
+  },
+  {
+    "timestamp": "1758158003000",
+    "title": "West Coast Health Alliance sets vaccine guidance on flu, RSV and COVID",
+    "snippet": "The multistate group formed to issue public health recommendations for Washington, Oregon, California and Hawaii has released additional guidance on...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJkVU4wVFdObGJrOVRaRkZWVFJEM0F4amhCQ2dLTWdZQklvNFJtUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUJkVU4wVFdObGJrOVRaRkZWVFJEM0F4amhCQ2dLTWdZQklvNFJtUWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758146106000",
+        "title": "Western States Issue Their Own Vaccine Recommendations to Counter Kennedy",
+        "snippet": "Four Democratic-controlled Western states on Wednesday issued their own recommendations on who should get three common seasonal vaccines, a sharp rejection...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTVkbXd5TUVoRVpETmpjMUZRVFJDUUF4allCQ2dLTWdZWlVZVE5UQVE=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTVkbXd5TUVoRVpETmpjMUZRVFJDUUF4allCQ2dLTWdZWlVZVE5UQVE"
+        },
+        "newsUrl": "https://www.nytimes.com/2025/09/17/health/vaccine-guidelines-california-oregon-washington-hawaii-rfk.html",
+        "publisher": "The New York Times"
+      },
+      {
+        "timestamp": "1758153600000",
+        "title": "West Coast governors issue COVID-19 vaccine guidance after CDC concerns",
+        "snippet": "The four-state group, which includes Oregon, Washington, California and Hawaii, formed a vaccine policy alliance after concerns about partisanship at the...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUlhR1JRVlhkU1UwNTBVbWwzVFJEUkF4aVRCU2dLTWdtQklwWVRHU25KcGdJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUlhR1JRVlhkU1UwNTBVbWwzVFJEUkF4aVRCU2dLTWdtQklwWVRHU25KcGdJ"
+        },
+        "newsUrl": "https://www.opb.org/article/2025/09/17/west-coast-governors-oregon-california-washington-hawaii-vaccine-covid-flu/",
+        "publisher": "Oregon Public Broadcasting - OPB"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.seattletimes.com/seattle-news/health/west-coast-health-alliance-sets-vaccine-guidance-on-flu-rsv-and-covid/",
+    "publisher": "The Seattle Times"
+  },
+  {
+    "timestamp": "1758129840000",
+    "title": "Who can get a COVID-19 vaccine in Ohio? FDA restricts eligibility",
+    "snippet": "CLEVELAND, Ohio — Last fall, all it took to get a COVID-19 vaccine was rolling up your sleeve. This year, pharmacies in Ohio and elsewhere will first ask if...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNDRNRjlGUkhKM01FNVlUMTlDVFJERUF4aW5CU2dLTWdNZFVnSQ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNDRNRjlGUkhKM01FNVlUMTlDVFJERUF4aW5CU2dLTWdNZFVnSQ"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758210096000",
+        "title": "Analysis | Why seniors who want covid shots should consider getting one this week",
+        "snippet": "The CDC's Advisory Committee on Immunization Practices is weighing changes to coronavirus vaccine recommendations that could make it harder for some seniors...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDRZM0JxTTBSWlIxWnZTSHByVFJERUF4aW1CU2dLTWdrRkFLREZncTB0UUFN=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNDRZM0JxTTBSWlIxWnZTSHByVFJERUF4aW1CU2dLTWdrRkFLREZncTB0UUFN"
+        },
+        "newsUrl": "https://www.washingtonpost.com/health/2025/09/17/seniors-covid-vaccine-cdc-rfk/",
+        "publisher": "The Washington Post"
+      },
+      {
+        "timestamp": "1758189996000",
+        "title": "Do I need a prescription for a COVID shot now? What to know in Florida",
+        "snippet": "Here's what we know about COVID shots in Florida and whether or not you need a prescription or insurance.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWlkMU42VjJwNFZsbG5Na1JDVFJEekFoaVVCU2dLTWdNQk1BWQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNWlkMU42VjJwNFZsbG5Na1JDVFJEekFoaVVCU2dLTWdNQk1BWQ"
+        },
+        "newsUrl": "https://www.floridatoday.com/story/news/2025/09/18/who-can-get-covid-shot-vaccine-florida-eligibility-price-cvs-walgreens/86195945007/",
+        "publisher": "Florida Today"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.cleveland.com/metro/2025/09/who-can-get-a-covid-19-vaccine-in-ohio-fda-restricts-eligibility.html",
+    "publisher": "Cleveland.com"
+  },
+  {
+    "timestamp": "1758129540000",
+    "title": "Missouri's 'kissing bugs' are spreading an incredibly rare parasitic disease that's here to stay, CDC says",
+    "snippet": "A rare Chagas case in Missouri has prompted the CDC to label the disease as endemic to the US, highlighting a shift in public health awareness.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpaMWcyUVRBeFlXbERXazFsVFJDZkF4amlCU2dLTWdZMUU0eFJwUVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWpaMWcyUVRBeFlXbERXazFsVFJDZkF4amlCU2dLTWdZMUU0eFJwUVU"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758016805000",
+        "title": "‘Kissing bug’ disease is here to stay in the US, experts say. Here’s why it’s spreading",
+        "snippet": "Chagas disease, a potentially deadly condition caused by a parasite carried by insects called kissing bugs, should now be considered endemic in the United...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1jREZuZG1ac04zbDNTWFJYVFJDX0F4aXVCU2dLTWdhZFFZYkxyUVE=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW1jREZuZG1ac04zbDNTWFJYVFJDX0F4aXVCU2dLTWdhZFFZYkxyUVE"
+        },
+        "newsUrl": "https://www.cnn.com/2025/09/16/health/kissing-bug-chagas-endemic-us",
+        "publisher": "CNN"
+      },
+      {
+        "timestamp": "1758120103000",
+        "title": "What is 'kissing bug' disease? Bug that spreads Chagas disease found in US, including Ohio",
+        "snippet": "The CDC warns of Chagas, the potentially deadly \"kissing bug\" disease. Here's what it is, and how to avoid getting bitten by a kissing bug in Ohio.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZlRmh4YVc0d1NtNU5TM0JXVFJEekFoaVVCU2dLTWdZcGtZalB1QVE=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXZlRmh4YVc0d1NtNU5TM0JXVFJEekFoaVVCU2dLTWdZcGtZalB1QVE"
+        },
+        "newsUrl": "https://www.dispatch.com/story/lifestyle/health-fitness/2025/09/17/chagas-kissing-bug-disease-ohio-what-to-know/86057871007/",
+        "publisher": "The Columbus Dispatch"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.ksdk.com/article/news/local/missouri-kissing-bugs-chagas-disease-cdc-incredibly-rare/63-4e7577f6-a015-4a49-bfbd-99b64d2bf4d4",
+    "publisher": "KSDK"
+  },
+  {
+    "timestamp": "1758117165000",
+    "title": "Major health insurer group says members will continue to cover vaccines, a step that may ease anxiety over access",
+    "snippet": "Amid growing concern about Americans' access to vaccines, the country's biggest health insurance association said its member plans will continue to cover...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhVRXRsT1VkcVZtZFVjbVUyVFJDcUJCaXFCQ2dLTWdZQlJJSXFWZ00=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXhVRXRsT1VkcVZtZFVjbVUyVFJDcUJCaXFCQ2dLTWdZQlJJSXFWZ00"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.statnews.com/2025/09/17/ahip-vaccine-insurance-acip-coverage/",
+    "publisher": "statnews.com"
+  },
+  {
+    "timestamp": "1758189629000",
+    "title": "RFK Jr.’s Assault on Ultra-Processed Foods Puts Companies on Edge",
+    "snippet": "How the government defines ultra-processed will have a big impact on the $2.6 trillion US food industry. Options seen as healthy, including some yogurts,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNW1lVEZKTUdGNVFVSXpUMlJFVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNW1lVEZKTUdGNVFVSXpUMlJFVFJERUF4aW1CU2dLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758185060000",
+        "title": "Ultra-Processed Foods Aren’t the Villain You Think They Are, Scientists Reveal",
+        "snippet": "Perceptions of foods drive overeating more than labels like “ultra-processed.” Researchers call for personalized approaches that address psychology and...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUhUa016YzB0MlJ6ZGtZbTlqVFJERUF4aW1CU2dLTWdZQlVJNW1OUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUhUa016YzB0MlJ6ZGtZbTlqVFJERUF4aW1CU2dLTWdZQlVJNW1OUWM"
+        },
+        "newsUrl": "https://scitechdaily.com/ultra-processed-foods-arent-the-villain-you-think-they-are-scientists-reveal/",
+        "publisher": "SciTechDaily"
+      },
+      {
+        "timestamp": "1757858400000",
+        "title": "Ditching Ultraprocessed Foods Can Be Hard. Here’s Where to Start.",
+        "snippet": "Watch out for sugary drinks and processed meats; some ultraprocessed foods can be healthier than others.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVhVV1YwUlhnMGQzSkNWa2hOVFJERUF4aW5CU2dLTWdzQkFZcERrV2xVTGxsc2F3=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNVhVV1YwUlhnMGQzSkNWa2hOVFJERUF4aW5CU2dLTWdzQkFZcERrV2xVTGxsc2F3"
+        },
+        "newsUrl": "https://www.wsj.com/health/wellness/ditching-ultraprocessed-foods-can-be-hard-heres-where-to-start-c37728d7",
+        "publisher": "The Wall Street Journal"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.bloomberg.com/news/articles/2025-09-18/rfk-jr-s-fight-against-ultra-processed-threatens-top-yogurt-brands",
+    "publisher": "Bloomberg.com"
+  },
+  {
+    "timestamp": "1758207606000",
+    "title": "6 people have died from rabies in the US over the past 12 months. What to know",
+    "snippet": "While human cases of rabies in the United States are rare, it's still a deadly disease: six people have died from rabies nationwide since September 2024,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdSekkwTUVWSFUxVm1WalV5VFJEZ0F4al9CQ2dLTWdZQkFJb0twZ1k=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHdSekkwTUVWSFUxVm1WalV5VFJEZ0F4al9CQ2dLTWdZQkFJb0twZ1k"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.cnn.com/2025/09/18/health/rabies-animal-vaccine-disease-health-wellness",
+    "publisher": "CNN"
+  },
+  {
+    "timestamp": "1758106818000",
+    "title": "Experts Discuss Why It Is Particularly Important To Get The Flu Shot This Year",
+    "snippet": "Here's what you need to know about the flu shot this year and why it's so important to get it.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1UMlZTZWxkRFlWQkpMWGRRVFJDZkF4ampCU2dLTWdZcFZZNnRvUVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW1UMlZTZWxkRFlWQkpMWGRRVFJDZkF4ampCU2dLTWdZcFZZNnRvUVU"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.huffpost.com/entry/best-time-flu-shot-2025_l_68c96720e4b056d71f628e99",
+    "publisher": "HuffPost"
+  },
+  {
+    "timestamp": "1758125134000",
+    "title": "1st IL West Nile Virus Death Of 2025 Reported In Suburban Cook County: CCDPH",
+    "snippet": "BRIDGEVIEW, IL — Health officials confirmed Wednesday the first human West Nile virus-related death of the year in Illinois occurred in suburban Cook County...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhhV0pvWVZsMFZIVldOVFJSVFJEZ0F4al9CQ2dLTWdZWnRJcU52UVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXhhV0pvWVZsMFZIVldOVFJSVFJEZ0F4al9CQ2dLTWdZWnRJcU52UVU"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://patch.com/illinois/across-il/1st-il-west-nile-virus-death-2025-reported-suburban-cook-county-ccdph",
+    "publisher": "Patch"
+  },
+  {
+    "timestamp": "1758139489000",
+    "title": "Vitamin B3 can help protect against skin cancer. Here's who may benefit",
+    "snippet": "Doctors who perform skin cancer surgeries often recommend nicotinamide — which is a form of Vitamin B3 — to their patients. It's been shown to protect cells...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNZM0pVT0ZndFlsOTRka2gxVFJERUF4aW1CU2dLTWdZWlZJcUxOUVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXNZM0pVT0ZndFlsOTRka2gxVFJERUF4aW1CU2dLTWdZWlZJcUxOUVU"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.npr.org/2025/09/17/nx-s1-5544145/vitamin-b3-can-help-protect-against-skin-cancer-heres-who-may-benefit",
+    "publisher": "NPR"
+  }
+]

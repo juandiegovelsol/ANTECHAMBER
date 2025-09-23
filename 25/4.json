@@ -1,0 +1,382 @@
+{
+  "message": "200: success",
+  "searched_url": null,
+  "searched_ids": "zpk_hN4u8MEYojKVUa095g",
+  "business_details": [
+    {
+      "business": {
+        "id": "zpk_hN4u8MEYojKVUa095g",
+        "name": "Cowboy Cafe",
+        "alias": "cowboy-cafe-roswell",
+        "address1": "1120 E 2nd St",
+        "address2": "",
+        "address3": "",
+        "city": "Roswell",
+        "zip": "88203",
+        "country": "US",
+        "hours": [
+          [420, 840],
+          [1860, 2280],
+          [3300, 3720],
+          [4740, 5160],
+          [6180, 6600],
+          [7620, 8040],
+          [9060, 9480]
+        ],
+        "is_closed": false,
+        "latitude": 33.3939403705175,
+        "longitude": -104.506882948211,
+        "review_count": 460,
+        "state": "NM",
+        "avg_rating": 4.5,
+        "unrounded_avg_rating": 4.3,
+        "neighborhoods": [],
+        "geo_accuracy": 9,
+        "addresses": {
+          "primary_language": {
+            "long_form": "1120 E 2nd St, Roswell, NM 88203",
+            "short_form": "1120 E 2nd St, Roswell"
+          }
+        },
+        "price": 2,
+        "localized_price": "$$",
+        "categories": [
+          {
+            "name": "Breakfast & Brunch",
+            "category_filter": "breakfast_brunch",
+            "is_restaurant": true
+          },
+          {
+            "name": "Cafes",
+            "category_filter": "cafes",
+            "is_restaurant": true
+          },
+          {
+            "name": "Burgers",
+            "category_filter": "burgers",
+            "is_restaurant": true
+          }
+        ],
+        "is_yelp_guaranteed": false,
+        "platform_partner_ids": [],
+        "fmode": 0,
+        "phone": "5756226363",
+        "localized_phone": "+1-575-622-6363",
+        "dialable_phone": "+15756226363",
+        "menu_photos": [
+          {
+            "id": "zQZUZFjIGF9PK4uDAEiIpA",
+            "type": "business",
+            "time_created": 1686522824,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/zQZUZFjIGF9PK4uDAEiIpA/",
+            "url_suffix": ".jpg",
+            "caption": "Save a house and ride into the Cowboy Cafe",
+            "feedback_positive_count": 1,
+            "width": 1500,
+            "height": 2000,
+            "business_id": "zpk_hN4u8MEYojKVUa095g",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zpk_hN4u8MEYojKVUa095g?select=zQZUZFjIGF9PK4uDAEiIpA&utm_source=oshare",
+            "photo_category_id": "menu",
+            "fmode": 0
+          }
+        ],
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fYKXP1CtEO15RJCxiVT5vg/ms.jpg",
+        "primary_photo": {
+          "id": "fYKXP1CtEO15RJCxiVT5vg",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/fYKXP1CtEO15RJCxiVT5vg/",
+          "url_suffix": ".jpg",
+          "fmode": 1
+        },
+        "photos": [
+          {
+            "id": "fYKXP1CtEO15RJCxiVT5vg",
+            "type": "business",
+            "time_created": 1647451068,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/fYKXP1CtEO15RJCxiVT5vg/",
+            "url_suffix": ".jpg",
+            "caption": "Spanish Omelet",
+            "feedback_positive_count": 2,
+            "width": 1500,
+            "height": 2000,
+            "business_id": "zpk_hN4u8MEYojKVUa095g",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zpk_hN4u8MEYojKVUa095g?select=fYKXP1CtEO15RJCxiVT5vg&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "L68eY8M-NG-TlMlNcf_O8A",
+            "type": "business",
+            "time_created": 1695482721,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/L68eY8M-NG-TlMlNcf_O8A/",
+            "url_suffix": ".jpg",
+            "caption": "God Bless America window art",
+            "feedback_positive_count": 1,
+            "width": 1512,
+            "height": 2016,
+            "business_id": "zpk_hN4u8MEYojKVUa095g",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zpk_hN4u8MEYojKVUa095g?select=L68eY8M-NG-TlMlNcf_O8A&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "OJCnGFacW3C6Jy5zfVoZBg",
+            "type": "business",
+            "time_created": 1695482721,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/OJCnGFacW3C6Jy5zfVoZBg/",
+            "url_suffix": ".jpg",
+            "caption": "Epic Wash Tub Burrito with Roswell Sauce!",
+            "width": 1280,
+            "height": 960,
+            "business_id": "zpk_hN4u8MEYojKVUa095g",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zpk_hN4u8MEYojKVUa095g?select=OJCnGFacW3C6Jy5zfVoZBg&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "nD2co4ZwNJR5nWbk9evu4Q",
+            "type": "business",
+            "time_created": 1744469575,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/nD2co4ZwNJR5nWbk9evu4Q/",
+            "url_suffix": ".jpg",
+            "width": 2000,
+            "height": 1500,
+            "business_id": "zpk_hN4u8MEYojKVUa095g",
+            "share_url": "https://www.yelp.co.uk/biz_photos/zpk_hN4u8MEYojKVUa095g?select=nD2co4ZwNJR5nWbk9evu4Q&utm_source=oshare",
+            "fmode": 0
+          }
+        ],
+        "photo_count": 434,
+        "has_ad_driven_call_tracking_number": false,
+        "platform_actions": [],
+        "attributions": [],
+        "is_temp_closed": false,
+        "timezone": "America/Chicago",
+        "localized_attributes": [
+          {
+            "id": "RestaurantsReservations",
+            "label": "Takes Reservations",
+            "value": "Yes",
+            "type": "reservation"
+          },
+          {
+            "id": "RestaurantsDelivery",
+            "label": "Offers Delivery",
+            "value": "No",
+            "type": "platform",
+            "supported_vertical_types": ["food_at_customer"]
+          },
+          {
+            "id": "RestaurantsTakeOut",
+            "label": "Offers Takeout",
+            "value": "Yes",
+            "type": "platform",
+            "supported_vertical_types": ["food_at_business"]
+          },
+          {
+            "id": "OutdoorSeating",
+            "label": "Outdoor Seating",
+            "value": "No"
+          },
+          {
+            "id": "Ambience",
+            "label": "Ambience",
+            "value": "Casual Ambience"
+          },
+          {
+            "id": "NoiseLevel",
+            "label": "Noise Level",
+            "value": "Average"
+          },
+          {
+            "id": "RestaurantsGoodForGroups",
+            "label": "Good for Groups",
+            "value": "No"
+          },
+          {
+            "id": "GoodForKids",
+            "label": "Good for Children",
+            "value": "Yes"
+          },
+          {
+            "id": "GoodForMeal",
+            "label": "Good For",
+            "value": "Breakfast, Brunch, Lunch"
+          },
+          {
+            "id": "BusinessAcceptsCreditCards",
+            "label": "Accepts Credit Cards",
+            "value": "Yes"
+          },
+          {
+            "id": "BusinessAcceptsApplePay",
+            "label": "Accepts Apple Pay",
+            "value": "No"
+          },
+          {
+            "id": "BusinessParking",
+            "label": "Parking",
+            "value": "On-Site Parking"
+          },
+          {
+            "id": "BikeParking",
+            "label": "Bike Parking",
+            "value": "Yes"
+          },
+          {
+            "id": "WiFi",
+            "label": "Wi-Fi",
+            "value": "Free"
+          },
+          {
+            "id": "HappyHour",
+            "label": "Good For Happy Hour",
+            "value": "No"
+          },
+          {
+            "id": "Alcohol",
+            "label": "Alcohol",
+            "value": "No"
+          },
+          {
+            "id": "DriveThru",
+            "label": "Drive-Thru",
+            "value": "No"
+          },
+          {
+            "id": "DogsAllowed",
+            "label": "Dogs Allowed",
+            "value": "No"
+          },
+          {
+            "id": "HasTV",
+            "label": "Has TV",
+            "value": "No"
+          },
+          {
+            "id": "BusinessAcceptsAndroidPay",
+            "label": "Accepts Google Pay",
+            "value": "No"
+          }
+        ],
+        "menu": {
+          "action_url": "https://m.yelp.co.uk/menu/zpk_hN4u8MEYojKVUa095g",
+          "action_image_url": "bundle://service_menu.png",
+          "action_title": "Explore the Menu",
+          "action_text": "Alien Omelet, Breakfast Burrito, Chicken Fried Steak Sandwich",
+          "external_action_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=995c7bffd286bc91a351a0930c6eab54a4362112a95130e96f642b2c71077b14&src_bizid=zpk_hN4u8MEYojKVUa095g&url=http%3A%2F%2Fwww.thecowboy.cafe%2Fmenu&website_link_type=menu",
+          "is_yelp_url": true,
+          "view_title": "Menu for Cowboy Cafe",
+          "fmode": "0",
+          "is_single_platform_external_menu": false
+        },
+        "ios_search_indexing_info": {
+          "webpage_url": "https://www.yelp.com/biz/cowboy-cafe-roswell",
+          "keywords": ["Breakfast & Brunch", "Cafes", "Burgers"],
+          "thumbnail_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fYKXP1CtEO15RJCxiVT5vg/180s.jpg",
+          "description": "Rating: 4.5 - 460 reviews - Price Range: $$\nBreakfast & Brunch, Cafes, Burgers",
+          "title": "Cowboy Cafe",
+          "is_eligible_for_prediction": false,
+          "filtered_url": ""
+        },
+        "android_app_annotation": {
+          "annotation_title": "Cowboy Cafe, Roswell",
+          "deeplink_url": "android-app://com.yelp.android/yelp/annotate/biz/zpk_hN4u8MEYojKVUa095g?utm_campaign=title_biz_name&utm_source=app_annotation",
+          "http_url": "https://www.yelp.com/biz/cowboy-cafe-roswell"
+        },
+        "distance": null,
+        "locality": "Roswell, NM 88203",
+        "share_url": "https://www.yelp.co.uk/biz/cowboy-cafe-roswell?utm_source=ashare",
+        "cross_streets": null,
+        "quicktip_count": 0,
+        "is_slideshow_enabled": false,
+        "is_current_advertiser": false,
+        "is_searchable_nearby": true,
+        "summaries": null,
+        "transit": [],
+        "localized_address": "1120 E 2nd St\nRoswell, NM 88203\nUSA",
+        "review": null,
+        "minute": 6340,
+        "is_chain_business": false,
+        "regular_count": 0,
+        "localized_hours": ["Mon-Sun 7:00 - 14:00"],
+        "is_multiple_reservations_allowed": true,
+        "from_this_business": {
+          "representative": {
+            "name": "Madux H.",
+            "bio": "Madux Hobbs understands the importance of community.  He recently held a fundraiser for the Chaves County 4-H Shooting Sports Clubs.  Raising strong and healthy children, educating them well and preparing them to be the next generation running this community is important.  The Hobbs family have been an active and integral part of Roswell for decades.  Coming from a strong and loving family has given Madux a healthy and clear focus on what it means to build a good community.",
+            "role": "business_owner"
+          },
+          "specialties": "The Cowboy Cafe specializes in homestyle cooking.  Made from scratch and fresh ground daily all beef burgers.  Get breakfast all day, and enjoy homemade pies & cakes for dessert.",
+          "history": "The Cowboy Cafe was recently acquired by a young outgoing entrprenuer.  He has cleaned up and renovated the cafe, but kept the charm the locals and travelers have come to enjoy.",
+          "year_established": 2004
+        },
+        "display_menu_url": "http://www.thecowboy.cafe/menu",
+        "menu_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=995c7bffd286bc91a351a0930c6eab54a4362112a95130e96f642b2c71077b14&src_bizid=zpk_hN4u8MEYojKVUa095g&url=http%3A%2F%2Fwww.thecowboy.cafe%2Fmenu&website_link_type=menu",
+        "special_hours": [
+          {
+            "type": "holidays",
+            "days": [243]
+          }
+        ]
+      },
+      "annotations": [
+        {
+          "type": "REVIEW",
+          "image_path": "16x16_speech_v2.png",
+          "image_url": "https://s3-media0.fl.yelpcdn.com/assets/srv0/icons/6be2758d302f/android/drawable-xxhdpi/speech_v2_16x16.png",
+          "image_color": null,
+          "image_size": {
+            "width": 16,
+            "height": 16
+          },
+          "title": "Sometimes ya just was great food, service and good feelings about what you eat and where you find yourself. DO NOT PASS BY HERE IF YOU ARE LOOKING FOR breakfast or lunch. We were looking for lunch at 1pm and found this place. I had not read the reviews before we went. Sometimes ya just don&#39;t want fancy food, but still want it to be good. The food isn&#39;t just good - we had the best lunch in over 2000 miles and 10 days of traveling and eating out. From Estes Park Colorado to Roswell NM- hands up THIS IS THE PLACE. Big breakfasts and good family Style cooking. We had the Hamburger Steak and Onion. And the Chicken Fried Chicken. Both came with mashed potatoes, vegetable of the day, green chili cornbread and side salad. Good stuff! They close at 2 and we arrived at 1. Every bite we were saying how perfect it was after all the foo-foo food we had been eating. We NEEDED this meal to make it back to Texas and home. The staff was superior and the place is cute as it can be. Love it and will stop here again and again.",
+          "title_color": [43, 39, 60],
+          "title_color_string": null,
+          "show_legal_disclaimer": false,
+          "identifier": "TOP_REVIEW_SNIPPET",
+          "is_highlighted_annotation": false,
+          "action": {
+            "type": "VIEW_REVIEW",
+            "text": "Read more",
+            "display_behavior": "status_quo",
+            "review_id": "3ucMxBvFucRMrHSvcbmntA"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "text": "Call to order",
+          "short_text": "Call to order",
+          "type": "call",
+          "biz_action_text": "Call to order",
+          "is_disabled": false,
+          "supported_vertical_types": [],
+          "button_type": "secondary",
+          "text_color": [0, 151, 236],
+          "default_color_top": [255, 255, 255],
+          "default_color_bottom": [245, 245, 240],
+          "selected_color_top": [204, 204, 196],
+          "selected_color_bottom": [229, 229, 225],
+          "border_color": [168, 168, 162],
+          "dialable_phone": "+15756226363"
+        }
+      ],
+      "available_actions": [
+        {
+          "text": "Call to order",
+          "short_text": "Call to order",
+          "type": "call",
+          "biz_action_text": "Call to order",
+          "is_disabled": false,
+          "supported_vertical_types": [],
+          "button_type": "secondary",
+          "text_color": [0, 151, 236],
+          "default_color_top": [255, 255, 255],
+          "default_color_bottom": [245, 245, 240],
+          "selected_color_top": [204, 204, 196],
+          "selected_color_bottom": [229, 229, 225],
+          "border_color": [168, 168, 162],
+          "dialable_phone": "+15756226363"
+        }
+      ],
+      "always_show_business_photos": false
+    }
+  ]
+}

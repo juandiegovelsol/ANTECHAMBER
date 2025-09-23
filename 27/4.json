@@ -1,0 +1,33 @@
+{
+  "symbol": "SPOT",
+  "companyName": "Spotify Technology S.A. Ordinary Shares",
+  "stockType": "Ordinary Shares",
+  "exchange": "NYSE",
+  "primaryData": {
+    "lastSalePrice": "$734.92",
+    "netChange": "+0.80",
+    "percentageChange": "+0.11%",
+    "deltaIndicator": "up",
+    "lastTradeTimestamp": "Sep 20, 2025",
+    "isRealTime": false,
+    "bidPrice": "N/A",
+    "askPrice": "N/A",
+    "bidSize": "N/A",
+    "askSize": "N/A",
+    "volume": "1,546,037",
+    "currency": null
+  },
+  "secondaryData": null,
+  "marketStatus": "Closed",
+  "assetClass": "STOCKS",
+  "keyStats": {
+    "fiftyTwoWeekHighLow": {
+      "label": "52 Week Range:",
+      "value": "348.96 - 785.00"
+    },
+    "dayrange": {
+      "label": "High/Low:",
+      "value": "NA"
+    }
+  }
+}

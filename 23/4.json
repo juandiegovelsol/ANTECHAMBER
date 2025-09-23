@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "1758205731000",
+    "title": "Democrats, Hollywood condemn suspension of TV host Jimmy Kimmel over Charlie Kirk comments",
+    "snippet": "Democratic lawmakers and Hollywood writers and actors condemned what they called an attack on free speech led by U.S. President Donald Trump after talk-show...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXdZbFJUTFVGSlFTMXpiVTlvVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNXdZbFJUTFVGSlFTMXpiVTlvVFJERUF4aW1CU2dLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758203700000",
+        "title": "ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments After F.C.C. Pressure",
+        "snippet": "Mr. Kimmel faced criticism from the chairman of the Federal Communications Commission for remarks about the politics of the man who is accused of killing...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZWazlGWlhSNU1XVmhaM2hPVFJDcUJCaXFCQ2dLTWdhNU01cFJHUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUZWazlGWlhSNU1XVmhaM2hPVFJDcUJCaXFCQ2dLTWdhNU01cFJHUW8"
+        },
+        "newsUrl": "https://www.nytimes.com/2025/09/17/business/media/abc-jimmy-kimmel.html",
+        "publisher": "The New York Times"
+      },
+      {
+        "timestamp": "1758212558000",
+        "title": "Obama accuses Trump administration of taking 'cancel culture' to 'dangerous level' amid media threats",
+        "snippet": "Former President Obama accuses Trump administration of weaponizing cancel culture through regulatory threats against media companies to silence journalists.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUhabmRKZUdsc2RsVlFVbkJ2VFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUhabmRKZUdsc2RsVlFVbkJ2VFJDb0FSaXNBaWdCTWdB"
+        },
+        "newsUrl": "https://www.foxnews.com/politics/obama-accuses-trump-administration-taking-cancel-culture-dangerous-level-amid-media-threats",
+        "publisher": "Fox News"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.reuters.com/business/media-telecom/hollywood-comes-kimmels-defense-after-abc-pulls-late-night-show-2025-09-18/",
+    "publisher": "Reuters"
+  },
+  {
+    "timestamp": "1758198498000",
+    "title": "Who was Celeste Rivas, the missing teen found dead in singer d4vd’s Tesla?",
+    "snippet": "The LAPD identified the body of a girl in the car of Romantic Homicide singer d4vd. She went missing in 2024, aged 13.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhUVWhmV1ZkT1JUZEdiV3gyVFJEZ0F4aUFCU2dLTWdZdE5Zak9tUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHhUVWhmV1ZkT1JUZEdiV3gyVFJEZ0F4aUFCU2dLTWdZdE5Zak9tUWs"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758170144000",
+        "title": "Body of teen found in D4vd's impounded Tesla is Celeste Rivas, missing girl from Lake Elsinore",
+        "snippet": "LOS ANGELES (KABC) -- Medical examiner's officials on Wednesday released the name of a teenage girl who was found deceased in the trunk of an impounded...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUhhRjlDTTBSVFRXSnJSMEZFVFJDZkF4ampCU2dLTWdrUlFwajBKS2lwYUFJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUhhRjlDTTBSVFRXSnJSMEZFVFJDZkF4ampCU2dLTWdrUlFwajBKS2lwYUFJ"
+        },
+        "newsUrl": "https://abc7.com/post/body-found-d4vds-abandoned-tesla-may-tied-lake-elsinore-missing-persons-case/17835135/",
+        "publisher": "ABC7 Los Angeles"
+      },
+      {
+        "timestamp": "1758212263000",
+        "title": "Teenager Celeste Rivas went missing a year ago. She was found dead in singer D4vd's Tesla",
+        "snippet": "The mystery deepened this week into the case of the girl whose decomposing body was found in an abandoned Telsa registered to R&B singer D4vd.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTBjekpvYzA1NVlUSTBSVkphVFJDNUF4aTNCU2dLTWdrQkFZNEVDV3VaeWdF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNTBjekpvYzA1NVlUSTBSVkphVFJDNUF4aTNCU2dLTWdrQkFZNEVDV3VaeWdF"
+        },
+        "newsUrl": "https://www.latimes.com/california/story/2025-09-18/teenage-girl-missing-found-dead-singers-tesla",
+        "publisher": "Los Angeles Times"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.aljazeera.com/news/2025/9/18/who-was-celeste-rivas-the-missing-teen-found-dead-in-singer-d4vds-tesla",
+    "publisher": "Al Jazeera"
+  }
+]

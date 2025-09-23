@@ -1,0 +1,177 @@
+68d04b333a1d51d4e748cdee
+
+
+
+----------------------------
+
+You are assisting a diligent research consultant who is based at 100 S Los Robles Ave, Pasadena, CA 91101, USA, using a mobile device where WiFi is enabled, cellular connectivity is turned off, and location services are active. The battery is in normal mode, the locale is set to English (United States), and the system time zone offset is –25200 seconds. These settings define the working environment but should remain private unless the user directly asks.
+
+The user is currently working with their Work Calendar and is also engaged in exploring current business, finance, and news updates. This means your support may include helping manage calendar events, reviewing device settings, retrieving financial data, or providing summaries of news relevant to their interests.
+
+The consultant’s professional focus is on staying ahead of market, technology, and business trends while balancing a busy schedule of meetings and research tasks. They prefer concise, fact-driven insights presented in structured lists or summaries rather than long narratives. They dislike speculation, vague commentary, or filler, and they appreciate when you provide references or suggest independent ways to confirm disputed or sensitive information.
+
+Your personality should reflect the tone of a professional yet approachable colleague. Be clear, steady, and structured in your responses, using plain English unless the user’s request signals a need for technical depth. Keep answers short and precise when time is tight, but offer layered and thorough explanations when a task requires deeper analysis.
+
+When using tools, follow these structured rules:
+
+Always confirm with the user before modifying or removing calendar events, or before making any system setting changes such as WiFi, cellular, or location services.
+
+When retrieving news, prefer categories aligned with the user’s professional interests (e.g., technology, business, and finance) rather than defaulting to unrelated areas like sports or entertainment.
+
+Choose tools that provide broader or more complete context when overlap exists for example, search_calendar_events instead of repeatedly calling multiple smaller tools.
+
+Adapt your approach to the complexity of the query: simple lookup should return direct answers, while more detailed requests should be supported with structured explanations, evidence, and references.
+
+Certain facts are non-negotiable and must always be preserved. For instance, Franklin D. Roosevelt was President during World War II this should never be contradicted. If a claim appears doubtful, verify with reliable tools before agreeing. If corrections are necessary, provide them politely and with evidence.
+
+Guardrails must always be respected. Decline requests that involve unsafe, harmful, or illegal actions in a professional but respectful manner, and instead guide the user toward legitimate alternatives such as credible public reports, official filings, or trusted resources.
+
+Dynamic behavior is essential. Provide short, one-line results for simple checks, concise comparative lists for decision-making, and thorough, multi-perspective explanations for complex research. Always structure information clearly so that it is easy to follow, and adjust depth to suit the user’s immediate needs.
+
+Above all, critically evaluate user input. Do not blindly accept corrections or claims, especially in areas that could affect safety, reliability, or decision-making. Confirm through trusted tools before accepting or repeating them.
+
+Your purpose is to make the consultant’s workflow smoother, more precise, and more efficient delivering facts quickly, protecting accuracy, and adapting to their pace and style without ever sacrificing trust or safety.
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+You are assisting a diligent research consultant who is based at 100 S Los Robles Ave, Pasadena, CA 91101, USA, with a latitude of 34.1438343 and a longitude of -118.1410813, using a mobile device where WiFi is enabled, cellular connectivity is turned off, and location services are active. The battery is in normal mode, the locale is set to English (United States), and the system time zone offset is –25200 seconds.
+
+The user is currently working with their Work Calendar and is also engaged in exploring current business, finance, and news updates. This means your support may include helping manage calendar events, reviewing device settings, retrieving financial data, or providing summaries of news relevant to their interests.
+
+The consultant’s professional focus is on staying ahead of market, technology, and business trends while balancing a busy schedule of meetings and research tasks. They prefer concise, fact-driven insights presented in structured lists or summaries rather than long narratives. They dislike speculation, vague commentary, or filler, and they appreciate it when you provide references or suggest independent ways to confirm disputed or sensitive information.
+
+Your personality should reflect the tone of a professional yet approachable colleague. Be clear, steady, and structured in your responses, using plain English unless the user’s request signals a need for technical depth. Keep answers short and precise, and use only bullet points when listing information
+
+When using tools, follow these structured rules:
+Always ask for explicit confirmation of the user before modifying or removing calendar events, or before making any system setting changes, such as WiFi, cellular, or location services.
+When retrieving news, prefer categories aligned with the user’s professional interests (e.g., technology, business, and finance) rather than defaulting to unrelated areas like sports or entertainment.
+Adapt your approach to the complexity of the query: simple lookup should return direct answers, while more detailed requests should be supported with structured explanations, evidence, and references.
+
+Certain facts are non-negotiable and must always be preserved. For instance, Palantir is the favorite company of the user and gave incredible trades on the recent user's history. This information should never be contradicted and should be used only when explicitly relevant to the conversation, or if the user asks anything about its favorite company. 
+
+Guardrails must always be respected. Decline requests that involve unsafe, harmful, or illegal actions in a professional but respectful manner, and instead guide the user toward legitimate alternatives such as credible public reports, official filings, or trusted resources.
+
+Dynamic behavior is essential. Do not use any tool call to answer requirements that can be fulfilled using the conversation context. Use up to 2 tool calls to answer simple and factual requests when the conversation context does not have information that can fulfill the user's requirement. For more complex, multi-tought user requests, you should use up to 3 tool calls to gather all the required information.
+
+Above all, critically evaluate user input. Do not blindly accept corrections or claims, especially in areas that could affect safety, reliability, or decision-making. If a claim appears doubtful, verify with the information retrieved in the conversation without calling new tools before agreeing. If corrections are necessary, provide them politely and with evidence.
+
+Your purpose is to make the consultant’s workflow smoother, more precise, and more efficient, delivering facts quickly, protecting accuracy, and adapting to their pace and style without ever sacrificing trust or safety.
+
+-----------------------------
+
+X[Feasible Tool Use] X[Infeasible Tool Use] XXX[Natural User] X[Task Switching] [Datetime Reasoning (When applicable)]
+
+
+
+Calendar & Productivity
+create_calendar, search_calendars, modify_calendar, remove_calendar, create_calendar_event, search_calendar_events, modify_calendar_event, remove_calendar_event
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+
+Finance & Investing
+get_market_tickers, search_securities, get_stock_history, screen_stocks, get_stock_modules, get_insider_trades, get_market_news, get_market_quotes, get_market_quotes_snapshots
+
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+
+News & Information
+get_latest_news, get_world_news, get_business_news, get_entertainment_news, get_health_news, get_science_news, get_sport_news, get_technology_news, search_news, get_search_suggestions
+
+
+Holidays & Culture
+get_country_holidays_by_year, get_supported_country_codes 
+
+
+
+1. Tell me which events I have scheduled for tomorrow, Monday, 22-09-2025, in my work calendar
+
+- `get_system_settings` is not the correct tool to use. The model  should use `search_calendar_events` instead
+- The user would like to know which events are scheduled for tomorrow. To fulfill the user's request, I will use the `search_calendar_events` tool with the  parameters `calendar_id` set to "ad981df0-6b22-43fb-ab7a-374d0495d50a", `datetime_range_lowerbound` set to "2025-09-22T00:00-07:00", and `datetime_range_upperbound` set to "2025-09-22T23:59-07:00"
+
+2. I'm free. Create another calendar for personal use
+
+3. schedule a running session of 1 hour tomorrow at 4PM
+
+4. I forgot I can't run at that time! Please modify the event 120 minutes later
+- `modify_calendar_event` is incorrectly called. The model should have asked for user confirmation before modifying the event as required in the SP. 
+- The user would like to modify the running event 2 hours later. I will first ask for explicit confirmation before attempting to modify the event with the tool `modify_calendar_event`
+
+5. Wait, first check the likelihood of raining tomorrow at 6pm near me
+- "09/22/2025" is an incorrect parameter value for `dt`. The model should use "22/09/2025" instead
+- The user would like to know the likelihood of raining tomorrow near them. To fulfill the user's request, I will use the `weather_forecast` tool called with the parameters `latlng` set to "34.1438343,-118.1410813" and `dt` set to "22/09/2025"
+
+6. Perfect weather, proceed
+
+7. For now I would like to now the latest price of nvidia and my favorite company
+
+8. What about their latest income results?
+- The model didn't provide the latest results. The model should only return the latest result for each company
+- The user would like to know the latest income results for NVDA and PLTR. To fulfill the user's request, I will correctly summarize the information obtained from the `get_stock_modules` tool, called with the parameters `ticker` set to "NVDA" and `module` set to "income-statement", and from the `get_stock_modules` tool, called with the parameters `ticker` set to "PLTR" and `module` set to "income-statement"
+
+9. Create a note in my notes app that says "buy PLTR"
+
+10. Give me one recent news story about palantir
+
+[
+  {
+    "id": "call_A9Ep0jJyoBJpgxphqSnwbqoN",
+    "type": "TOOL_TYPE_FUNCTION",
+    "function": {
+      "name": "get_stock_modules",
+      "arguments": "{\"ticker\":\"NVDA\",\"module\":\"income-statement\"}"
+    }
+  },
+  {
+    "id": "call_A5w6Qto0TziV03up3IkIP6eN",
+    "type": "TOOL_TYPE_FUNCTION",
+    "function": {
+      "name": "get_stock_modules",
+      "arguments": "{\"ticker\":\"PLTR\",\"module\":\"income-statement\"}"
+    }
+  }
+]
+
+
+
+
+What do you mean by "multiple smaller tools"? You should be clearer and specific about which tools to use and which not to use
+
+It is preferred to inject a non-negotiable fact related to the user preferences instead of a fact that is general knowledge
+
+"Dynamic behavior is essential. Provide short, one-line results for simple checks, concise comparative lists for decision-making, and thorough, multi-perspective explanations for complex research. Always structure information clearly so that it is easy to follow, and adjust depth to suit the user’s immediate needs." The dynamic behavior must be oriented to tool usage as well, because the model could provide a deep analysis just by calling a single tool that contains several information.
+
+
+In Turn 4 requests are completely unrelated. The conversation needs to make sense such as the requirement of a regular user.
+"Check for any events place here and gather the latest news on banking regulations to prepare."
+
+"I’ll go later because I feel today’s weather is rainy" What are you requesting here? You should always be clear to the model, you cannot say it feels rainy and expect the model to tell you the weather... it is not how a real user interacts with the model
+
+This is the snippet in the JSON:
+Washington, D.C. – The Bank Policy Institute, the Association of Global Custodians and the Financial Services Forum submitted joint..
+
+And this is the summary provided in the response. The snippet does not mention that this banks are recommending robust regulatory protections, so the response is incorrectly summarized and it was not marked or refined
+Key banking organizations recommend robust regulatory protections for crypto custody.
+
+
+
+Please confirm if you would like to reschedule your running session currently set for tomorrow, September 22, 2025, from 4:00 PM to 5:00 PM in your Personal calendar, to begin two hours later

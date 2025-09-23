@@ -1,0 +1,33 @@
+{
+  "symbol": "TSM",
+  "companyName": "Taiwan Semiconductor Manufacturing Company Ltd.",
+  "stockType": "American Depositary Shares",
+  "exchange": "NYSE",
+  "primaryData": {
+    "lastSalePrice": "$264.87",
+    "netChange": "-3.77",
+    "percentageChange": "-1.40%",
+    "deltaIndicator": "down",
+    "lastTradeTimestamp": "Sep 20, 2025",
+    "isRealTime": false,
+    "bidPrice": "N/A",
+    "askPrice": "N/A",
+    "bidSize": "N/A",
+    "askSize": "N/A",
+    "volume": "17,640,249",
+    "currency": null
+  },
+  "secondaryData": null,
+  "marketStatus": "Closed",
+  "assetClass": "STOCKS",
+  "keyStats": {
+    "fiftyTwoWeekHighLow": {
+      "label": "52 Week Range:",
+      "value": "134.25 - 270.54"
+    },
+    "dayrange": {
+      "label": "High/Low:",
+      "value": "NA"
+    }
+  }
+}

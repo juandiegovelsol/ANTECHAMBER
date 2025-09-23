@@ -1,0 +1,446 @@
+{
+  "address_components": [
+    {
+      "long_name": "301",
+      "short_name": "301",
+      "types": ["street_number"]
+    },
+    {
+      "long_name": "West 3rd Street",
+      "short_name": "W 3rd St",
+      "types": ["route"]
+    },
+    {
+      "long_name": "Downtown Austin",
+      "short_name": "Downtown Austin",
+      "types": ["neighborhood", "political"]
+    },
+    {
+      "long_name": "Austin",
+      "short_name": "Austin",
+      "types": ["locality", "political"]
+    },
+    {
+      "long_name": "Travis County",
+      "short_name": "Travis County",
+      "types": ["administrative_area_level_2", "political"]
+    },
+    {
+      "long_name": "Texas",
+      "short_name": "TX",
+      "types": ["administrative_area_level_1", "political"]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": ["country", "political"]
+    },
+    {
+      "long_name": "78701",
+      "short_name": "78701",
+      "types": ["postal_code"]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">301 W 3rd St</span>, <span class=\"locality\">Austin</span>, <span class=\"region\">TX</span> <span class=\"postal-code\">78701</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-09-21",
+          "day": 0,
+          "time": "1900",
+          "iso_8061_date_time": "2025-09-21T19:00-05:00"
+        },
+        "open": {
+          "date": "2025-09-21",
+          "day": 0,
+          "time": "0500",
+          "iso_8061_date_time": "2025-09-21T05:00-05:00"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-09-22",
+          "day": 1,
+          "time": "1900",
+          "iso_8061_date_time": "2025-09-22T19:00-05:00"
+        },
+        "open": {
+          "date": "2025-09-22",
+          "day": 1,
+          "time": "0500",
+          "iso_8061_date_time": "2025-09-22T05:00-05:00"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-09-23",
+          "day": 2,
+          "time": "1900",
+          "iso_8061_date_time": "2025-09-23T19:00-05:00"
+        },
+        "open": {
+          "date": "2025-09-23",
+          "day": 2,
+          "time": "0500",
+          "iso_8061_date_time": "2025-09-23T05:00-05:00"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-09-24",
+          "day": 3,
+          "time": "1900",
+          "iso_8061_date_time": "2025-09-24T19:00-05:00"
+        },
+        "open": {
+          "date": "2025-09-24",
+          "day": 3,
+          "time": "0500",
+          "iso_8061_date_time": "2025-09-24T05:00-05:00"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-09-25",
+          "day": 4,
+          "time": "1900",
+          "iso_8061_date_time": "2025-09-25T19:00-05:00"
+        },
+        "open": {
+          "date": "2025-09-25",
+          "day": 4,
+          "time": "0500",
+          "iso_8061_date_time": "2025-09-25T05:00-05:00"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-09-19",
+          "day": 5,
+          "time": "1900",
+          "iso_8061_date_time": "2025-09-19T19:00-05:00"
+        },
+        "open": {
+          "date": "2025-09-19",
+          "day": 5,
+          "time": "0500",
+          "iso_8061_date_time": "2025-09-19T05:00-05:00"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-09-20",
+          "day": 6,
+          "time": "1900",
+          "iso_8061_date_time": "2025-09-20T19:00-05:00"
+        },
+        "open": {
+          "date": "2025-09-20",
+          "day": 6,
+          "time": "0500",
+          "iso_8061_date_time": "2025-09-20T05:00-05:00"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00 AM – 7:00 PM",
+      "Tuesday: 5:00 AM – 7:00 PM",
+      "Wednesday: 5:00 AM – 7:00 PM",
+      "Thursday: 5:00 AM – 7:00 PM",
+      "Friday: 5:00 AM – 7:00 PM",
+      "Saturday: 5:00 AM – 7:00 PM",
+      "Sunday: 5:00 AM – 7:00 PM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability."
+  },
+  "formatted_address": "301 W 3rd St, Austin, TX 78701",
+  "formatted_phone_number": "(512) 391-1895",
+  "geometry": {
+    "location": {
+      "lat": 30.26587,
+      "lng": -97.74643999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 30.2671144802915,
+        "lng": -97.74507936970849
+      },
+      "southwest": {
+        "lat": 30.2644165197085,
+        "lng": -97.7477773302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 512-391-1895",
+  "name": "Starbucks",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "0500"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00 AM – 7:00 PM",
+      "Tuesday: 5:00 AM – 7:00 PM",
+      "Wednesday: 5:00 AM – 7:00 PM",
+      "Thursday: 5:00 AM – 7:00 PM",
+      "Friday: 5:00 AM – 7:00 PM",
+      "Saturday: 5:00 AM – 7:00 PM",
+      "Sunday: 5:00 AM – 7:00 PM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2425,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114778516812379500067\">Arda Kert</a>"
+      ],
+      "photo_reference": "AciIO2eEYJcfsnQv_jN8HluC9jWp772BNXhBHDDDF5sFekLkyMtjzwwHMqHvh6Bd8yM8Xf2MfEB58VVHo5tS-pWGgF0C5_7FBOS09hdo8afkJGze2wLx5T5QvVJ5jqJigPJQCZcvYUexVbkOxJ_hOrZYoOkAIsTFpVBdnEW_eCshZu2AyidlgifbXclFQ9tSKRHAiBR6VqU0Q8G9U6p1xozxYbRlqXsvgo9X2yUoEj82Enrq3JJbcgvfs--5bJXq1dA5-ZXJTL1FhyzhT547kGuK9piEEU7nlCmmOR79NnczsOe9Et70JiyTVHd_NSB_ZxO-Vc2H_zVFeIVFERPr7to27A3wt5YRgz9Sc86XcvBNeNFTIAWV1KlhxRZ5xf5wthjXovp_8EXpDf-P1ryOIN0f9gJZM00nOAeWYnR0lhjgq8E",
+      "width": 3696
+    },
+    {
+      "height": 900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103069259030144817483\">Starbucks</a>"
+      ],
+      "photo_reference": "AciIO2fcAXzdnEGw8m2VBakt6ZXIx4OFsYzpWOXpP4v_JGI0xwMugZ181iIYb4-VLTNlDSnlsJDU6wsSKG2hfICGoH_NCc7FQE62fth_SEojcwA7U8iooJc9cvBXkR4t4rYF7sxulgbVuE27RrXPw6gxXaUZE-pSiBYtv2pT_RjSvDf8kh5DwhH0dhBQN3RV4-4UiHUP1-YhxamK5sLc8bVT5oPtwo9jhJnqkKEE27JTftayEQVa_RMf7Yn3UUl7kN8Ae8jCl3mOlHFQlo-OSHY2eRRzELQ83Z--gkbuuh6a7WleNg",
+      "width": 1600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115606711403874560014\">Alex Lai</a>"
+      ],
+      "photo_reference": "AciIO2f76f5E_hV7fM8T3-qArLMgxFKIRX-4FFWlfHtaGolrj2SV9AUPCzvw2U_TZqH1DK4ngShteOBF55FF5Td5c6pY2Pxowb4iTZGJLkzmBf9OVDGAWTRP7UUm5ef-Hc28Y1zj8Ydi5xQ0mCLBBSQZT2mPyNtFGcdOAMlj0filP3pb6cDNTjz1KLzDe6xIsEDr9et1f4LyAg2t5I2C7pVjGkih-YJlbqK4ilQ3lcpl8kk4s-QJxCGHYG4N5JGCaNmvN6USTb7h4ssjusGEQfPhgBXbxAAlflaPYFefOLctfqkmwyO8LR_b3EcKAN39doZv_S3TcIsiejg_uHiU4boecn82cQXR1D4yYVbumicZ-oCsR8pq7V61Ef9ttJRLU1CbgWhx24JmVfRkd11nsnH5QwYrUaBdw3piRJdNa4hqVfKf261C",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114792437641859394535\">Robyn Jimenez</a>"
+      ],
+      "photo_reference": "AciIO2c8KWAQ6mth7Umn5A2lJht6xT16bJGkCduLvAeH-AcyO4oShx7O0oHDGZwpbRhxIfq6w_pzOYX8-8vQ9wuOf4IGYSfckqUDqVeKAD4kkYUx9wgX-5EjMykO5uxQms41Hq9azf3U5mqbbScNajKdhrVzMtBqsC5tAB4qUzk8BD0FJh1mhT4NMrF4HfF_eTTleUH8Vt5DpmRtojgYhD-QOfXx3SsyEDJfvkLixeKqNiumybhqJ3JOeLDaXELxefSjKke_ipADQl9n55SDD26FN2TC3T95Zta6_UySEeq1NpfflrFEojTU7x0Eu5eRw5OPGqNSsUn4862FYvu04AQoA_J0sj4mtjGx4j5N1rOztRjHMG-74Vz2UGqfdO9aBnYOAvFbJt7Zzpthn0hsMBjXH-iTto2ks62g5VOSYBtReiREI1z6",
+      "width": 4080
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104777979694221969737\">Sai P</a>"
+      ],
+      "photo_reference": "AciIO2eNpiMop3z5Qh0akCxITSJA7mrBOMV4DJ6BdPA-u2094Wl3vLcAiScgZiJpzw-ccCGmubgL37zuC9zO7UB4I3Z43P8FgKnuSXPeWi2ZORBl7TxvJ14bwdn2-pmYBRCjbl2MsRRrNjhId3lKe-v7i2BpclMlVUgcGaEEHXnhaJTAZB35u_gJTRcEJ6Z_6i40cLu6vw0Gi1qo_tkr4vODwE3BJiNiq_45TLqzsTcHwXgp3oQE4PMd2-0ON5UxsPxGsv6xIHM9YfRedktCwKJrgh8LIyT3M5xejub3IIT7D2CBk862o1a01iDa4KZbjh2rz7e_6Hxe8kQIJUzUH6n0eQesDWO9VFrnRqpW6pUDGdlR1MvWewZQlN256gVkD4HYEswOFFtlddk5tVB1x7fCwCJQkIvF5W1tP9Lf239LlEi1jS1zUssxuJCtnVWJ0QXX",
+      "width": 4032
+    },
+    {
+      "height": 2985,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114778516812379500067\">Arda Kert</a>"
+      ],
+      "photo_reference": "AciIO2cI_LtfQJwco8_BTWnB5CPBDMreQgjo4zuAWQnRcGpTyuoNtWg8ntTR9BbsvoNLCy2ODzbWV8KL38F9XcFh1EZebjLIT11YSckPqwOflR5j830bthJqt-n_oAnjbT4J2hrPKFE7_9Az-rM25pNg1m5VjuyYjWnLSZx-wrF5NFPvhcImIP79L5ETAaqSamSKWllxiVuodneuXyh85dgoV07II9aYHMCpFySGDHz5j38UxuQaXVi25Mt_3_iFiem36Jm7hNG4ea-yL0j6azvuRM3DqEon0jZ9pgcLp7IOkwdoZsYt2UWjI-yxXXkptZcKGEiKGqlGgta5TZta8j2afaQsSET-7DTN8YPYNvIRsjscnXS6Nd66_7CajHCeuKqb_SOjAHTS0QDOSvhcUQI42MaJHWKUuu9ziO3Rjmp0OOo",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104932822305855980293\">Sam Robert</a>"
+      ],
+      "photo_reference": "AciIO2d70vXWt9AHurx_R32WYe7i3XveTAnlXf2N2HmD2upiBTabW3ftAg20uviNwtoNmpmW9i4wA7EECohAYkBBXVKhsz0u5YLw0NPrssiyjXaSpe3NPEcPm2vTP89qjZ7AoqKOPMozscjHgLE66pRFQsJH-iKheuUsLwEqOD2ORnvy9916rlBnds6-MPwNlm2uIqkgtofwjJcmdSxo9U0_GCuaiyBjb_rqdzx5UuNHEMn0NCoIZurjcm288p5EB_j8MNdrudR_BnU8F5qSfsvQT2HPnmbig04UHQ4n5pQe_zSjNlThp8FCD1VUBwWkmTeYnGUxgo5KJMn8E2LneaWE8O5RvPD0D7wOXRc8iHv3CHNajRVlESISD4Xu4blfl05qGzMd4K9ZitRM7mC9gcoRTJMHHiJUO1S_uUrYbMr_NFDZAtXhFIPN5F9zw6kAFg",
+      "width": 2268
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104777979694221969737\">Sai P</a>"
+      ],
+      "photo_reference": "AciIO2dC8CF8BUjJtHJmXKPGW_gvu5sVx9c_jxCgk_RRon5wLdtaCXkeSGemn8LXATJZ5DDBeM1PrEDe2fCu8Vd8v7K1PI1eFZnQl0sy6H7200eiiy7lTvw0ux6TD7sig5Grr8RLJQGHBtkoAxdPSLOly-PC6YHjYLaVPcuXMlIJHo4D9Iamh_Y8CmB4lNbt-MIPRLN9gXgibBhnd9FQjFrzZe2V34DpX4lGZEVoy-erG4QN7nC--HBkV6-7GttEui-MreftccRfIvM1Gqat-EmuG9vqguPf0Q-V_IlTeR6vE-M9fLQxbXe7w8wzbn3Ank2HEW_4fenVNaztjbDfXNU-Ijs2y7vOSPMbIFxy8T7MaTZPl6KGvgW7vLOhzOkeDHQfdBjlz97y0AiSJnNZS7Gis3pAaW9dtr2TuvzRItoZokcfINhfzB2RKX83ViZipkZd",
+      "width": 2268
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115606711403874560014\">Alex Lai</a>"
+      ],
+      "photo_reference": "AciIO2emTb1LuBVNKCPkTUouIZMVOpem0YXd80bgLTP9JLur5xX72VBu0KrikO1LN6ChZBW1iOXKTUMONZlti7Vsqq5tFeIEbvZxCCTr6LSfE9J2SFH83ejOLrvPh54D5C8YqlHtSMq1OJLRdBCHjCMda4rJpY1ZtgvHchKP6EChHwTPJaQqTfMvUAoqZgstJOfT95EUrCoaX9o5PMR-dfZ8ZdqSNRLGaGiQUxvL-uZ-oGpobqk5lgsvajDOTGdaSb1mz60SuaTGFPABrDyUaku_1KvwC7HqEvTjn5oLoW5FBsRZ10c7cSQWyWVLMmRJAX2XBZ70fltlIN0VgyHQVwK8mY898-HZ112-dxFkOm2zaeAX7jwZEJZtshGHUAj7CPYxExxF68lLL5-vDcjI1JGXSdMiqHP5yXYFLljUCzYsGgY",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101776607908477591830\">Amigo Kandu</a>"
+      ],
+      "photo_reference": "AciIO2e5CpX3i4S2WfDLv_MxMTg-DamqatCVaG_QeDqKVlLPBr42SO5j5ljUfdGc2AL4nXaQw-1hNRYEoFkjSBiOrviZ5J9in_nONQCS0TcYcuwOka1u8ueVZAJVPro-5aHt1CWffVXio86gi7ohkju8cq9IYTwcWUJRn1bMJLTxklrFqNmonTY0crnV4b27s4QLU9g8ySfe1dv-TssXXC3ylYRA2Ty1jLcNQLEVTIXaJsFGqlEe5CzE6ZTTGFkVS079AWMZAYFGfDaGFrNBtMJxsSBXulvIcH7g5R0PmoAxKPtrTl0tSTezRtdCD_t8VYCNrKd4c6CJdgnFfF3GwxFYHlKAEt-UfMqL2WhaUGaHHwPv2HF5PkzevqB8Dry85OfiCpph8qU6KNeP1JlLC7D6dm_YKd7RfqVidSZ6x5zKYrc",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJaeaZyAi1RIYRyHTG48_FDMc",
+  "plus_code": {
+    "compound_code": "7783+8C Austin, TX",
+    "global_code": "86247783+8C"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJaeaZyAi1RIYRyHTG48_FDMc",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Sam Robert",
+      "author_url": "https://www.google.com/maps/contrib/104932822305855980293/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJJRYTbcvMh_zD24eRW9WOpNkcW0e_u41sesdsU3wrMxzwZog-=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "A wonderful café in every sense!\nThe staff are extremely cooperative and respectful, and they work hard to satisfy customers. The service is excellent and fast, and the cleanliness is evident in every corner, reflecting great attention to detail by the management. A comfortable and pleasant experience — I highly recommend it to anyone looking for a quiet and lovely place with top-notch service.",
+      "time": 1754020229,
+      "translated": false
+    },
+    {
+      "author_name": "Sai P",
+      "author_url": "https://www.google.com/maps/contrib/104777979694221969737/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxZL3yYwBwD29dBFetnWLPXLuAstByrV6hKQWcr4fZeTbR5QSQbw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Great location.. has a nice window side seating . Since it is in the corner has plenty of seating next to the window. Cofee is decent.",
+      "time": 1756001304,
+      "translated": false
+    },
+    {
+      "author_name": "John Ace",
+      "author_url": "https://www.google.com/maps/contrib/100497673315986607086/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2YUJ3FhfGU3dRP2au6-rKO7KB3JF2WbRuQUxfiSvu-x06RvOc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Ordered coffee and nice drinks. grilled cheese and bagel with cream cheese. Service was fast food came out quickly. Seating was nice security open the door for us on entrance and exit which was really kind but it did make me wonder if there’s a reason why they have security. It’s around 10 o’clock on a weekday no complaints at all.",
+      "time": 1738698686,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Lai",
+      "author_url": "https://www.google.com/maps/contrib/115606711403874560014/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaBJFGoGZCXki-Q_MHXvEDmTTGWKvIe1SenMGMbOgjm-5pzR4X=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "I enjoy the service here. Baristas are awesome, kind and friendly. Food is above average and the store is spacious especially it’s located in downtown area. However, many customers visited this store so it’s a bit noisy for people who want to work here.",
+      "time": 1739654359,
+      "translated": false
+    },
+    {
+      "author_name": "Robyn Jimenez",
+      "author_url": "https://www.google.com/maps/contrib/114792437641859394535/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqFa5y3a4rJ-9gq-E0eW6chHrvluOt2smA4sbBbGwXTGYCBw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "12 months ago",
+      "text": "Great service. Interior is really cool, many Austin vibes. No espresso cup ornaments, but they do have the larger Austin Discovery mug series. They have a bathroom for customers. Lots of tables inside. There are a few benches outside, but no tables.",
+      "time": 1726954563,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": false,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=14343056409938523336",
+  "user_ratings_total": 567,
+  "utc_offset": -300,
+  "vicinity": "301 W 3rd St, Austin",
+  "website": "https://www.starbucks.com/store-locator/store/1006594/",
+  "wheelchair_accessible_entrance": true
+}

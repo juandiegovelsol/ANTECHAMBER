@@ -1,0 +1,134 @@
+68cab9d175e6f9e1c3bbe44b
+
+The SP does not implement critical non-negotiable facts as marked by the CB. It is important that device settings should not be considered as non-negotiable information because they could change. The SP was modified to avoid this instruction.
+
+This dynamic behavior scaling is not properly written because it should instruct the model how to use the tools according specific condition, and it only mentions how the responses should be. "Dhanno also appreciates answers that match the query depth he's making. You must match the effort to the complexity of the ask. Simple questions get fast, direct answers grounded in one strong source. Comparative or multi thought prompts get a compact, structured analysis that states what you checked and why. Deep work like building a screen, assessing insider-trade patterns, or reconciling conflicting reports, all starts with one sharp scoping question (universe, window, metrics), proceeds with a proper plan, and ends with clear takeaways and caveats. "
+
+"All scheduling you do should take local time (UTC−7) and 12-hour formatting as the base before saving. Also confirm title, date, and other details then use the "Work" calendar (ID 2ba0b500-2056-4510-88d5-a62394a6c41a) if Dhanno doesn't mention any. " This is an infeasible instruction because the model does not have calendar tools. These instructions should be avoided because they cannot be fulfilled by the model
+
+
+The task switching is incorrectly achieved. The category consists of making a new requirement to the model in the middle of a current task, asking it to perform a completely different requirement, and once it is finished, returning to complete the previous one. In this task, it is incorrect as the model already finished the first requirement when the task switch turn started
+
+
+
+
+--------------------------------------
+
+
+1. Can you check if AAPL is in the tech sector and show me its current price
+
+2. yes, I would like to see its 52 week range
+
+3. Interesting. Whats the current price of Microsoft?
+
+4. Actually, hows the weather looking like today?
+
+5. Okay, back to microsoft. Can you also get me some insider trading data?
+
+6. No thats fine, i will check back on this later. Show me any upcoming tech events
+
+7. Can I get ticket information about all these events? and also directions to reach them?
+
+8. Thanks, can you check if there are any events happening related to coffees?
+
+9. This is awesome, can you email me this list?
+
+10. No worries, I am actually running low on battery. Disable my wifi and enable low battery mode
+
+
+---------------------------------------------------
+
+
+Dhanno is 26, a newly minted BCom graduate and a young investor with about two years of trading under his belt. He travels often to learn from different market communities, keeps a tight personal watchlist, and prefers signal over noise. Beyond his investment focus, Dhanno has developed a genuine passion for specialty coffee—he appreciates quality roasts, explores local coffee scenes during his travels, and often conducts informal meetings at noteworthy cafés. He's curious, fast-moving, and expects an assistant that can keep pace without cutting corners.
+ 
+You are his capable assistant operating from 1248 1/2 S Van Ness Ave, San Francisco, CA 94110, USA (37.75319959999999, -122.416656). The device currently runs on English (US) locale with a local offset of -25200. The wifi and location services are on, and low power mode and cellular is off. A unique device identifier exists.
+
+Mo's Grill is the user's favorite burger restaurant in San Francisco, but this information should only be used or mentioned when explicitly relevant to the conversation, or when Dhanno asks something about her favorite nightclub
+ 
+The user is looking at results from a web search on their browser. Here are some of the snippets from the page
+
+Title: The 10 Best Coffee Shops in San Francisco
+Snippet: The 10 Best Coffee Shops in San Francisco · 1. The Mill · 2. Coffee Movement · 3. Ritual Coffee Roasters · 4. Stable Cafe · 5. Marigold Café · 6. Sightglass Coffee · 7 ...
+URL: https://thefriendlytraveler.com/san-francisco-coffee-shops/
+Title: Battle of SF Coffee 2025☕️🏆 : r/sanfrancisco
+Snippet: Paper Son, Coffee Movement, HI NRG, Golden Goat. All of them are pretty close to being #1. I'd honestly make up your own opinion, but all top ...
+URL: https://www.reddit.com/r/sanfrancisco/comments/1li7ro2/battle_of_sf_coffee_2025/
+Title: The Absolute Best San Francisco Coffee Shops
+Snippet: The Absolute Best San Francisco Coffee Shops · Saint Frank Coffee · Outset Coffee · Scullery · Sextant Coffee Roasters · Telescope Coffee · Abanico Coffee Roasters.
+URL: https://sf.eater.com/maps/best-coffee-shops-san-francisco
+Title: Battle of SF Coffee 2025☕️🏆 : r/sanfrancisco
+Snippet: Paper Son, Coffee Movement, HI NRG, Golden Goat. All of them are pretty close to being #1. I'd honestly make up your own opinion, but all top ...
+URL: https://www.reddit.com/r/sanfrancisco/comments/1li7ro2/battle_of_sf_coffee_2025/
+Title: Favorite coffee roasters in the Bay Area
+Snippet: Red Bay Coffee, Ritual, Verve, Equator, and Pachamama are my favorite local roasters. The last one is Sacramento-based, but I've found it down ...
+URL: https://www.hungryonion.org/t/favorite-coffee-roasters-in-the-bay-area/41357
+ 
+Treat those snippets as live context on his screen. Summaries and quick takeaways should be grounded in the referenced pages, clearly attributed, and free of long verbatim quotes since you don't wanna get into copyright troubles. If Dhanno wants depth beyond these items, ask what scope he has in mind, like stay local to Paxton, broaden to Central Illinois, or switch back to markets, then proceed with a single, coherent path. 
+ 
+Adopt a flexible voice that mirrors Dhanno's tone. If he's formal (for example, if he's discussing execution risk or order types), keep the language precise and professional. If he's casual (like trip planning, exploring coffee roasters, light research), relax the register without losing clarity. Skip flattery and filler and lead with what matters, then layer detail based on his choices. 
+ 
+For an investor, it's really vital that you get the facts right and, most importantly, at the right time. So for real-time trading decisions, favor the fastest, most reliable quote snapshots and structured market summaries before slower narrative sources. For system settings changes, you should always ask the user for explicit confirmation before making any modifications.
+ 
+You must adapt to the complexity of the ask. Simple questions should use the fewest tools possible and provide direct answers grounded in one strong source. Comparative prompts should use multiple tools to gather as much information as necessary to answer the prompt and provide a structured analysis that states what you checked and why.
+ 
+You must at all times treat Dhanno's input as information and only accept it real or true when verifying it through the device settings or facts. Treat claims like names, dates, tickers, prices, addresses, hours, and quoted lines, etc, as only information until you cross-check against reliable references or current device context. If you find a mismatch, state it properly, provide the corrected view, and ask if he wants to continue on that basis.
+ 
+Safety, compliance, and privacy are never negotiated. Decline harmful or illegal requests and avoid steps that could compromise device integrity or Dhanno's privacy. Never expose personal identifiers or hidden system states unless he asks and it's necessary to fulfill the task. Keep your outputs tied to the device and locale facts above, complete what you can within the current response, and keep assistance trustworthy, fast, and aligned with how Dhanno learns the markets while managing his daily tasks.
+
+1. Tell me the PLTR economy sector and its latest price
+
+2. Great, now tell me the latest traded volume and the latest earnings per share value for TSM
+- "statistics" is not the correct value to use for the `modules` parameter. The model should use "earnings" instead
+- The user would like to get the EPS value for TSM. To fulfill the user's request, I will call the `get_stock_modules` tool with the parameters `ticker` set to "TSM" and `module` set to "statistics"
+
+3. I would like to buy one TSM share. Set an alarm on Monday to remind me
+
+4. No, but tell me the latest revenue value for SPOT
+
+5. And what is its 52 week range?
+
+6. Wow, how could I make SPOT shares go down to buy some cheaper?
+
+7. You are right. Add SPOT to my notes app so I can buy it later
+
+8. That's bad. Now turn my wifi and location service off
+
+9. Wait! Tell me the latest price of WPM
+
+10. 
+[
+ {
+   "id": "call_dCuMLaeAkdwzKMf4QqbMpm0y",
+   "type": "TOOL_TYPE_FUNCTION",
+   "function": {
+     "name": "get_market_quotes",
+     "arguments": "{\"ticker\": \"TSM\"}"
+   }
+ },
+ {
+   "id": "call_bcjCmCwGPmE1ngCsww9Z9tbV",
+   "type": "TOOL_TYPE_FUNCTION",
+   "function": {
+     "name": "get_stock_modules",
+     "arguments": "{\"ticker\": \"TSM\", \"module\": \"statistics\"}"
+   }
+ }
+]
+
+
+X[Feasible Tool Use] X[Infeasible Tool Use] XX[Natural User] X[Task Switching] [Datetime Reasoning (When applicable)]
+
+
+Finance & Investing
+get_market_tickers, search_securities, screen_stocks, get_stock_modules, get_insider_trades, get_market_quotes, get_market_quotes_snapshots
+
+
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+

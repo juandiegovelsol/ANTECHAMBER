@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "1758198349000",
+    "title": "Facebook owner Meta unveils new AI-powered smart glasses",
+    "snippet": "Meta has unveiled a new range of smart glasses powered by its artificial intelligence (AI) tech, as it expands its bet that they will be a must-have...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVUVXBIT1hwZlJtOTRWMWcxVFJDZkF4ampCU2dLTWdhaGc0aVB1UVE=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVVUVXBIT1hwZlJtOTRWMWcxVFJDZkF4ampCU2dLTWdhaGc0aVB1UVE"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758157280000",
+        "title": "Meta Unveils Smart Glasses With Apps and an Artificial Intelligence Assistant",
+        "snippet": "At its annual developer conference on Wednesday, Meta showed several new smart glasses, which have been a surprise hit for the company.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNaREpQWkdsNk1XRm1ORXh2VFJDUUF4allCQ2dLTWdZQmNJalVxQWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTNaREpQWkdsNk1XRm1ORXh2VFJDUUF4allCQ2dLTWdZQmNJalVxQWc"
+        },
+        "newsUrl": "https://www.nytimes.com/2025/09/17/technology/personaltech/meta-smart-glasses-ai.html",
+        "publisher": "The New York Times"
+      },
+      {
+        "timestamp": "1758155280000",
+        "title": "Mark Zuckerberg unveils $799 Meta Ray-Ban Display glasses",
+        "snippet": "Mark Zuckerberg on Wednesday unveiled the $799 Meta Ray-Ban Display glasses, the social media company's first consumer-ready smart glasses with a built-in...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNObFY2VWpkdllVSk5XbEJRVFJDZkF4ampCU2dLTWdZdEpJVE9HUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTNObFY2VWpkdllVSk5XbEJRVFJDZkF4ampCU2dLTWdZdEpJVE9HUW8"
+        },
+        "newsUrl": "https://www.cnbc.com/2025/09/17/zuckerberg-799-meta-ray-ban-display-glasses.html",
+        "publisher": "CNBC"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.bbc.com/news/articles/c5y599yz0l3o",
+    "publisher": "BBC"
+  },
+  {
+    "timestamp": "1758152340000",
+    "title": "Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras",
+    "snippet": "In a new video shot entirely on the iPhone 17 Pro and iPhone 17 Pro Max, photographer Tyler Stalman takes an in-depth look at the cameras on the new iPhone...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNU5TRE4yTURkNFJ6UkhMVU5vVFJDZUF4amtCU2dLTWdtWlE0aVBIYWxVTXdF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNU5TRE4yTURkNFJ6UkhMVU5vVFJDZUF4amtCU2dLTWdtWlE0aVBIYWxVTXdF"
+    },
+    "subnews": [
+      {
+        "timestamp": "1757441723000",
+        "title": "iPhone 17 Pro and iPhone 17 Pro Max",
+        "snippet": "iPhone 17 Pro. Exceptional performance. New Center Stage front camera. Ultimate pro camera system. Breakthrough battery life. A19 Pro chip.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhNRnBZTkVoT1JISndSV2RrVFJDcEF4alJCU2dLTWdhWkE1Q0xqUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXhNRnBZTkVoT1JISndSV2RrVFJDcEF4alJCU2dLTWdhWkE1Q0xqUWc"
+        },
+        "newsUrl": "https://www.apple.com/iphone-17-pro/",
+        "publisher": "Apple"
+      },
+      {
+        "timestamp": "1758110408000",
+        "title": "Apple iPhone Air and iPhone 17 review: Apple's strongest lineup in years",
+        "snippet": "Apple's iPhone 17 lineup is its best in years, thanks to its iPhone Air and powerful iPhone 17 Pro.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWpMVmh4VDAxSlZFbElNVFp6VFJDZkF4ampCU2dLTWdPUmNpUQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNWpMVmh4VDAxSlZFbElNVFp6VFJDZkF4ampCU2dLTWdPUmNpUQ"
+        },
+        "newsUrl": "https://finance.yahoo.com/news/apple-iphone-air-and-iphone-17-review-apples-strongest-lineup-in-years-120008899.html",
+        "publisher": "Yahoo Finance"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://9to5mac.com/2025/09/17/photographer-tyler-stalman-reviews-the-iphone-17-iphone-air-and-iphone-17-pro-cameras/",
+    "publisher": "9to5Mac"
+  }
+]

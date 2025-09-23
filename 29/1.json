@@ -1,0 +1,1068 @@
+{
+  "total": 96,
+  "searched_Location": "789 Oak Ave Pkwy, Folsom, CA 95630, USA",
+  "searched_Term": "cafe",
+  "limit": "5",
+  "offset": "0",
+  "region": {
+    "center": {
+      "longitude": -121.15196590573473,
+      "latitude": 38.664697712355164
+    },
+    "span": {
+      "longitude_delta": 0.059150786322589965,
+      "latitude_delta": 0.02885539281864169
+    }
+  },
+  "business_search_result": [
+    {
+      "id": "mIFlVAgjmbx6KG0Fjszc-g",
+      "name": "Chant’el Cafe",
+      "alias": "chant-el-cafe-folsom",
+      "address1": "1750 Prairie City Rd",
+      "address2": "Ste 150",
+      "address3": "",
+      "city": "Folsom",
+      "zip": "95630",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 38.65158162471033,
+      "longitude": -121.16548808465427,
+      "review_count": 245,
+      "state": "CA",
+      "avg_rating": 4.5,
+      "unrounded_avg_rating": 4.6,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "1750 Prairie City Rd, Ste 150, Folsom, CA 95630",
+          "short_form": "1750 Prairie City Rd, Ste 150, Folsom"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "Cafes",
+          "category_filter": "cafes",
+          "is_restaurant": true
+        },
+        {
+          "name": "Desserts",
+          "category_filter": "desserts",
+          "is_restaurant": false
+        },
+        {
+          "name": "Breakfast & Brunch",
+          "category_filter": "breakfast_brunch",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9167908395",
+      "localized_phone": "+1-916-790-8395",
+      "dialable_phone": "+19167908395",
+      "menu_photos": [
+        {
+          "id": "W7qA8C4ss3-n5pJetM_7WA",
+          "type": "business",
+          "time_created": 1740374367,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/W7qA8C4ss3-n5pJetM_7WA/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 2,
+          "width": 1125,
+          "height": 2000,
+          "business_id": "mIFlVAgjmbx6KG0Fjszc-g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mIFlVAgjmbx6KG0Fjszc-g?select=W7qA8C4ss3-n5pJetM_7WA&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/WVJoiJr4e6y_YwTYzDsy9w/ms.jpg",
+      "primary_photo": {
+        "id": "WVJoiJr4e6y_YwTYzDsy9w",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/WVJoiJr4e6y_YwTYzDsy9w/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "WVJoiJr4e6y_YwTYzDsy9w",
+          "type": "business",
+          "time_created": 1651109366,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/WVJoiJr4e6y_YwTYzDsy9w/",
+          "url_suffix": ".jpg",
+          "caption": "Salted caramel tart",
+          "feedback_positive_count": 3,
+          "width": 2000,
+          "height": 1499,
+          "business_id": "mIFlVAgjmbx6KG0Fjszc-g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mIFlVAgjmbx6KG0Fjszc-g?select=WVJoiJr4e6y_YwTYzDsy9w&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "4GDtoS5RSsSaUO9HdqxXsw",
+          "type": "business",
+          "time_created": 1678818360,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/4GDtoS5RSsSaUO9HdqxXsw/",
+          "url_suffix": ".jpg",
+          "caption": "Such fun decor!",
+          "feedback_positive_count": 1,
+          "width": 2000,
+          "height": 1505,
+          "business_id": "mIFlVAgjmbx6KG0Fjszc-g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mIFlVAgjmbx6KG0Fjszc-g?select=4GDtoS5RSsSaUO9HdqxXsw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "llNxCJgMVLZtHF9vQD6PCQ",
+          "type": "business",
+          "time_created": 1721501167,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/llNxCJgMVLZtHF9vQD6PCQ/",
+          "url_suffix": ".jpg",
+          "caption": "Avocado toast",
+          "feedback_positive_count": 1,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "mIFlVAgjmbx6KG0Fjszc-g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mIFlVAgjmbx6KG0Fjszc-g?select=llNxCJgMVLZtHF9vQD6PCQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "6j_PQUQX9QIQxb_ccTKtgQ",
+          "type": "business",
+          "time_created": 1740000433,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/6j_PQUQX9QIQxb_ccTKtgQ/",
+          "url_suffix": ".jpg",
+          "caption": "Pistachio Latte",
+          "feedback_positive_count": 9,
+          "width": 1273,
+          "height": 2000,
+          "business_id": "mIFlVAgjmbx6KG0Fjszc-g",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mIFlVAgjmbx6KG0Fjszc-g?select=6j_PQUQX9QIQxb_ccTKtgQ&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 459
+    },
+    {
+      "id": "mmatFkFL5Cm4WdvTVqi9Jg",
+      "name": "World Traveler Coffee Roasters",
+      "alias": "world-traveler-coffee-roasters-folsom-3",
+      "address1": "603 A E Bidwell St",
+      "address2": "",
+      "address3": "",
+      "city": "Folsom",
+      "zip": "95630",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 38.6723554,
+      "longitude": -121.1635673,
+      "review_count": 246,
+      "state": "CA",
+      "avg_rating": 4.5,
+      "unrounded_avg_rating": 4.4,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "603 A E Bidwell St, Folsom, CA 95630",
+          "short_form": "603 A E Bidwell St, Folsom"
+        }
+      },
+      "price": 1,
+      "localized_price": "$",
+      "categories": [
+        {
+          "name": "Coffee & Tea Shops",
+          "category_filter": "coffee",
+          "is_restaurant": false
+        },
+        {
+          "name": "Coffee Roasteries",
+          "category_filter": "coffeeroasteries",
+          "is_restaurant": false
+        },
+        {
+          "name": "Cafes",
+          "category_filter": "cafes",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9169324563",
+      "localized_phone": "+1-916-932-4563",
+      "dialable_phone": "+19169324563",
+      "menu_photos": [
+        {
+          "id": "WmpsiQM6lMJFmI2PW0lhEg",
+          "type": "business",
+          "time_created": 1739238237,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/WmpsiQM6lMJFmI2PW0lhEg/",
+          "url_suffix": ".jpg",
+          "caption": "Food menu",
+          "feedback_positive_count": 1,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "mmatFkFL5Cm4WdvTVqi9Jg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mmatFkFL5Cm4WdvTVqi9Jg?select=WmpsiQM6lMJFmI2PW0lhEg&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/y5sfFC53CfrI_xezgOelOQ/ms.jpg",
+      "primary_photo": {
+        "id": "y5sfFC53CfrI_xezgOelOQ",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/y5sfFC53CfrI_xezgOelOQ/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "y5sfFC53CfrI_xezgOelOQ",
+          "type": "business",
+          "time_created": 1696392520,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/y5sfFC53CfrI_xezgOelOQ/",
+          "url_suffix": ".jpg",
+          "caption": "Rose Vanilla Latte & Apple Mousse Cake",
+          "feedback_positive_count": 1,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "mmatFkFL5Cm4WdvTVqi9Jg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mmatFkFL5Cm4WdvTVqi9Jg?select=y5sfFC53CfrI_xezgOelOQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "jhXlGR5x53iY2p0SkT5Xpw",
+          "type": "business",
+          "time_created": 1757537230,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/jhXlGR5x53iY2p0SkT5Xpw/",
+          "url_suffix": ".jpg",
+          "caption": "Coffee shop",
+          "width": 2000,
+          "height": 1500,
+          "business_id": "mmatFkFL5Cm4WdvTVqi9Jg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mmatFkFL5Cm4WdvTVqi9Jg?select=jhXlGR5x53iY2p0SkT5Xpw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "6IfgozQxxQsOuxTscrSzGA",
+          "type": "business",
+          "time_created": 1653201620,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/6IfgozQxxQsOuxTscrSzGA/",
+          "url_suffix": ".jpg",
+          "caption": "Freshly baked muffins",
+          "feedback_positive_count": 1,
+          "width": 2000,
+          "height": 1500,
+          "business_id": "mmatFkFL5Cm4WdvTVqi9Jg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mmatFkFL5Cm4WdvTVqi9Jg?select=6IfgozQxxQsOuxTscrSzGA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "5joz4tCQC6oTQD3CXD0BzQ",
+          "type": "business",
+          "time_created": 1721341873,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/5joz4tCQC6oTQD3CXD0BzQ/",
+          "url_suffix": ".jpg",
+          "caption": "Cappuccino",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "mmatFkFL5Cm4WdvTVqi9Jg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/mmatFkFL5Cm4WdvTVqi9Jg?select=5joz4tCQC6oTQD3CXD0BzQ&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 544
+    },
+    {
+      "id": "B7s4S0dk9u33xzAi4iSfzA",
+      "name": "Late Mouse Coffee",
+      "alias": "late-mouse-coffee-folsom-6",
+      "address1": "13000 Folsom Blvd",
+      "address2": "Ste 302A",
+      "address3": "",
+      "city": "Folsom",
+      "zip": "95630",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 38.64460173479979,
+      "longitude": -121.1885173289839,
+      "review_count": 58,
+      "state": "CA",
+      "avg_rating": 5,
+      "unrounded_avg_rating": 4.8,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "13000 Folsom Blvd, Ste 302A, Folsom, CA 95630",
+          "short_form": "13000 Folsom Blvd, Ste 302A, Folsom"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Coffee & Tea Shops",
+          "category_filter": "coffee",
+          "is_restaurant": false
+        },
+        {
+          "name": "Cafes",
+          "category_filter": "cafes",
+          "is_restaurant": true
+        },
+        {
+          "name": "Venues & Event Spaces",
+          "category_filter": "venues",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9163373700",
+      "localized_phone": "+1-916-337-3700",
+      "dialable_phone": "+19163373700",
+      "service_offering": {
+        "title": "Services",
+        "icon": "bundle://service_icon.png",
+        "business_services": [
+          {
+            "id": "hosting_private_parties",
+            "name": "Private Parties"
+          },
+          {
+            "id": "hosting_non_profit_events",
+            "name": "Non-profit Events"
+          },
+          {
+            "id": "hosting_corporate_events",
+            "name": "Corporate Events"
+          },
+          {
+            "id": "catering_services",
+            "name": "Catering Services"
+          },
+          {
+            "id": "hosting_birthday_parties",
+            "name": "Birthday Parties"
+          },
+          {
+            "id": "hosting_holiday_parties",
+            "name": "Holiday Parties"
+          },
+          {
+            "id": "hosting_social_events",
+            "name": "Social Events"
+          },
+          {
+            "id": "hosting_fundraising_events",
+            "name": "Fundraising Events"
+          }
+        ]
+      },
+      "menu_photos": [
+        {
+          "id": "A3v2yHF3nN-6uWtP9-TJBQ",
+          "type": "business",
+          "time_created": 1732502904,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/A3v2yHF3nN-6uWtP9-TJBQ/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 1,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "B7s4S0dk9u33xzAi4iSfzA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/B7s4S0dk9u33xzAi4iSfzA?select=A3v2yHF3nN-6uWtP9-TJBQ&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/3Hg1XZx25_5BQthGsi5vMA/ms.jpg",
+      "primary_photo": {
+        "id": "3Hg1XZx25_5BQthGsi5vMA",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/3Hg1XZx25_5BQthGsi5vMA/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "3Hg1XZx25_5BQthGsi5vMA",
+          "type": "business",
+          "time_created": 1728419626,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/3Hg1XZx25_5BQthGsi5vMA/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 2,
+          "width": 1000,
+          "height": 1000,
+          "business_id": "B7s4S0dk9u33xzAi4iSfzA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/B7s4S0dk9u33xzAi4iSfzA?select=3Hg1XZx25_5BQthGsi5vMA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "8G4xrMSLyQ_0_PwHsHwO2g",
+          "type": "business",
+          "time_created": 1730753843,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/8G4xrMSLyQ_0_PwHsHwO2g/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 2,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "B7s4S0dk9u33xzAi4iSfzA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/B7s4S0dk9u33xzAi4iSfzA?select=8G4xrMSLyQ_0_PwHsHwO2g&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "smGQ9XPYDDoNLFiifvveuA",
+          "type": "business",
+          "time_created": 1686295885,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/smGQ9XPYDDoNLFiifvveuA/",
+          "url_suffix": ".jpg",
+          "caption": "Proudly American owned and operated",
+          "feedback_positive_count": 1,
+          "width": 4000,
+          "height": 6000,
+          "business_id": "B7s4S0dk9u33xzAi4iSfzA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/B7s4S0dk9u33xzAi4iSfzA?select=smGQ9XPYDDoNLFiifvveuA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "oV7jM06RD0Z0jsduTQR2Ag",
+          "type": "business",
+          "time_created": 1732568860,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/oV7jM06RD0Z0jsduTQR2Ag/",
+          "url_suffix": ".jpg",
+          "caption": "Game area",
+          "feedback_positive_count": 4,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "B7s4S0dk9u33xzAi4iSfzA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/B7s4S0dk9u33xzAi4iSfzA?select=oV7jM06RD0Z0jsduTQR2Ag&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 95
+    },
+    {
+      "id": "y5r7RvZF5eQNEMIoE5AE-A",
+      "name": "Qamaria Yemeni Coffee",
+      "alias": "qamaria-yemeni-coffee-folsom",
+      "address1": "13405 Folsom Blvd",
+      "address2": "Ste 950",
+      "address3": "",
+      "city": "Folsom",
+      "zip": "95630",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 38.65836187662972,
+      "longitude": -121.18310883222757,
+      "review_count": 170,
+      "state": "CA",
+      "avg_rating": 4.5,
+      "unrounded_avg_rating": 4.6,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "13405 Folsom Blvd, Ste 950, Folsom, CA 95630",
+          "short_form": "13405 Folsom Blvd, Ste 950, Folsom"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Coffee & Tea Shops",
+          "category_filter": "coffee",
+          "is_restaurant": false
+        },
+        {
+          "name": "Desserts",
+          "category_filter": "desserts",
+          "is_restaurant": false
+        },
+        {
+          "name": "Breakfast & Brunch",
+          "category_filter": "breakfast_brunch",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9166739740",
+      "localized_phone": "+1-916-673-9740",
+      "dialable_phone": "+19166739740",
+      "menu_photos": [
+        {
+          "id": "-qPr1ni4FTQdyFBow1Fjug",
+          "type": "business",
+          "time_created": 1749659224,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/-qPr1ni4FTQdyFBow1Fjug/",
+          "url_suffix": ".jpg",
+          "caption": "Menu",
+          "width": 2000,
+          "height": 1500,
+          "business_id": "y5r7RvZF5eQNEMIoE5AE-A",
+          "share_url": "https://www.yelp.co.uk/biz_photos/y5r7RvZF5eQNEMIoE5AE-A?select=-qPr1ni4FTQdyFBow1Fjug&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/CL-kSvh8J1w409w-PCpfzQ/ms.jpg",
+      "primary_photo": {
+        "id": "CL-kSvh8J1w409w-PCpfzQ",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/CL-kSvh8J1w409w-PCpfzQ/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "CL-kSvh8J1w409w-PCpfzQ",
+          "type": "business",
+          "time_created": 1722124427,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/CL-kSvh8J1w409w-PCpfzQ/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 2,
+          "width": 2000,
+          "height": 1500,
+          "business_id": "y5r7RvZF5eQNEMIoE5AE-A",
+          "share_url": "https://www.yelp.co.uk/biz_photos/y5r7RvZF5eQNEMIoE5AE-A?select=CL-kSvh8J1w409w-PCpfzQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "5Br3K0h6v23giLhJRvwN8w",
+          "type": "business",
+          "time_created": 1734020062,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/5Br3K0h6v23giLhJRvwN8w/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 13,
+          "width": 2000,
+          "height": 1126,
+          "business_id": "y5r7RvZF5eQNEMIoE5AE-A",
+          "share_url": "https://www.yelp.co.uk/biz_photos/y5r7RvZF5eQNEMIoE5AE-A?select=5Br3K0h6v23giLhJRvwN8w&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "jQZnEawtIhE15SYRJvjWNw",
+          "type": "business",
+          "time_created": 1724358219,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/jQZnEawtIhE15SYRJvjWNw/",
+          "url_suffix": ".jpg",
+          "caption": "Honey Comb Pastry and Adeni Tea in a Kettle",
+          "feedback_positive_count": 5,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "y5r7RvZF5eQNEMIoE5AE-A",
+          "share_url": "https://www.yelp.co.uk/biz_photos/y5r7RvZF5eQNEMIoE5AE-A?select=jQZnEawtIhE15SYRJvjWNw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "ImPH9Wdw3ENzK_Op7yIxDg",
+          "type": "business",
+          "time_created": 1734021742,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ImPH9Wdw3ENzK_Op7yIxDg/",
+          "url_suffix": ".jpg",
+          "caption": "Juban medium kettle",
+          "feedback_positive_count": 12,
+          "width": 2000,
+          "height": 1126,
+          "business_id": "y5r7RvZF5eQNEMIoE5AE-A",
+          "share_url": "https://www.yelp.co.uk/biz_photos/y5r7RvZF5eQNEMIoE5AE-A?select=ImPH9Wdw3ENzK_Op7yIxDg&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 376
+    },
+    {
+      "id": "Y0lev239l4ptAMew7P9smw",
+      "name": "Sociology Coffee Bar",
+      "alias": "sociology-coffee-bar-folsom",
+      "address1": "705 Gold Lake Dr",
+      "address2": "Ste 390",
+      "address3": null,
+      "city": "Folsom",
+      "zip": "95630",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 38.6778138,
+      "longitude": -121.17885262679044,
+      "review_count": 209,
+      "state": "CA",
+      "avg_rating": 4,
+      "unrounded_avg_rating": 4.1,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "705 Gold Lake Dr, Ste 390, Folsom, CA 95630",
+          "short_form": "705 Gold Lake Dr, Ste 390, Folsom"
+        }
+      },
+      "price": 1,
+      "localized_price": "$",
+      "categories": [
+        {
+          "name": "Coffee & Tea Shops",
+          "category_filter": "coffee",
+          "is_restaurant": false
+        },
+        {
+          "name": "Breakfast & Brunch",
+          "category_filter": "breakfast_brunch",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "",
+      "menu_photos": [
+        {
+          "id": "-QGXZ4WjczGyRLY_QomkCA",
+          "type": "business",
+          "time_created": 1756074522,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/-QGXZ4WjczGyRLY_QomkCA/",
+          "url_suffix": ".jpg",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "Y0lev239l4ptAMew7P9smw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/Y0lev239l4ptAMew7P9smw?select=-QGXZ4WjczGyRLY_QomkCA&utm_source=oshare",
+          "photo_category_id": "menu",
+          "fmode": 0
+        }
+      ],
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/3_KNWqfutfH9IM9Sr-n78w/ms.jpg",
+      "primary_photo": {
+        "id": "3_KNWqfutfH9IM9Sr-n78w",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/3_KNWqfutfH9IM9Sr-n78w/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "3_KNWqfutfH9IM9Sr-n78w",
+          "type": "business",
+          "time_created": 1696308966,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/3_KNWqfutfH9IM9Sr-n78w/",
+          "url_suffix": ".jpg",
+          "caption": "Avocad-OMG (10/10) bacon added.",
+          "feedback_positive_count": 5,
+          "width": 1810,
+          "height": 2000,
+          "business_id": "Y0lev239l4ptAMew7P9smw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/Y0lev239l4ptAMew7P9smw?select=3_KNWqfutfH9IM9Sr-n78w&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "mOAo0kTpOq5lGzeYqe2GlQ",
+          "type": "business",
+          "time_created": 1714102054,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/mOAo0kTpOq5lGzeYqe2GlQ/",
+          "url_suffix": ".jpg",
+          "caption": "Co-work quiet area",
+          "feedback_positive_count": 2,
+          "width": 2000,
+          "height": 1500,
+          "business_id": "Y0lev239l4ptAMew7P9smw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/Y0lev239l4ptAMew7P9smw?select=mOAo0kTpOq5lGzeYqe2GlQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "rDK_zrM-5ITyC3i_sQtH_A",
+          "type": "business",
+          "time_created": 1658091477,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/rDK_zrM-5ITyC3i_sQtH_A/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 7,
+          "width": 1272,
+          "height": 1590,
+          "business_id": "Y0lev239l4ptAMew7P9smw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/Y0lev239l4ptAMew7P9smw?select=rDK_zrM-5ITyC3i_sQtH_A&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "bBORaDIVDrIH9uB4lvY0Og",
+          "type": "business",
+          "time_created": 1696309052,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/bBORaDIVDrIH9uB4lvY0Og/",
+          "url_suffix": ".jpg",
+          "caption": "Latte & iced latte",
+          "feedback_positive_count": 2,
+          "width": 2000,
+          "height": 1762,
+          "business_id": "Y0lev239l4ptAMew7P9smw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/Y0lev239l4ptAMew7P9smw?select=bBORaDIVDrIH9uB4lvY0Og&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 419
+    }
+  ],
+  "ad_business_search_result": [
+    {
+      "id": "VkJWNlZndgaMKdxmAwjagg",
+      "name": "The Mimosa House",
+      "alias": "the-mimosa-house-folsom",
+      "address1": "25075 Blue Ravine Rd",
+      "address2": "",
+      "address3": null,
+      "city": "Folsom",
+      "zip": "95630",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 38.6894649952654,
+      "longitude": -121.121464160166,
+      "review_count": 374,
+      "state": "CA",
+      "avg_rating": 4,
+      "unrounded_avg_rating": 3.9,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "25075 Blue Ravine Rd, Folsom, CA 95630",
+          "short_form": "25075 Blue Ravine Rd, Folsom"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "Champagne Bars",
+          "category_filter": "champagne_bars",
+          "is_restaurant": false
+        },
+        {
+          "name": "Breakfast & Brunch",
+          "category_filter": "breakfast_brunch",
+          "is_restaurant": true
+        },
+        {
+          "name": "New American",
+          "category_filter": "newamerican",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9162939442",
+      "localized_phone": "+1-916-293-9442",
+      "dialable_phone": "+19162939442",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/U3bWjKkTS529HxoMhCcNog/ms.jpg",
+      "primary_photo": {
+        "id": "U3bWjKkTS529HxoMhCcNog",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/U3bWjKkTS529HxoMhCcNog/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "U3bWjKkTS529HxoMhCcNog",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/U3bWjKkTS529HxoMhCcNog/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "NiaiSuaeXl1SZlkGqVqUyw",
+          "type": "business",
+          "time_created": 1505419408,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/NiaiSuaeXl1SZlkGqVqUyw/",
+          "url_suffix": ".jpg",
+          "caption": "Inside",
+          "feedback_positive_count": 1,
+          "width": 1632,
+          "height": 1224,
+          "business_id": "VkJWNlZndgaMKdxmAwjagg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/VkJWNlZndgaMKdxmAwjagg?select=NiaiSuaeXl1SZlkGqVqUyw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "Ual1jRnFc_Nk2hOiQ3KlCw",
+          "type": "business",
+          "time_created": 1505419409,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Ual1jRnFc_Nk2hOiQ3KlCw/",
+          "url_suffix": ".jpg",
+          "caption": "Large Area",
+          "width": 1632,
+          "height": 1224,
+          "business_id": "VkJWNlZndgaMKdxmAwjagg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/VkJWNlZndgaMKdxmAwjagg?select=Ual1jRnFc_Nk2hOiQ3KlCw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "nvQlC2fAAjPr33m48BJabQ",
+          "type": "business",
+          "time_created": 1505419411,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/nvQlC2fAAjPr33m48BJabQ/",
+          "url_suffix": ".jpg",
+          "caption": "Mimosa House",
+          "feedback_positive_count": 3,
+          "width": 1632,
+          "height": 1224,
+          "business_id": "VkJWNlZndgaMKdxmAwjagg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/VkJWNlZndgaMKdxmAwjagg?select=nvQlC2fAAjPr33m48BJabQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "3cGQgnjjsQMymRUN34jb6Q",
+          "type": "business",
+          "time_created": 1505419411,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/3cGQgnjjsQMymRUN34jb6Q/",
+          "url_suffix": ".jpg",
+          "caption": "booth seating tv nfl program",
+          "width": 1632,
+          "height": 1224,
+          "business_id": "VkJWNlZndgaMKdxmAwjagg",
+          "share_url": "https://www.yelp.co.uk/biz_photos/VkJWNlZndgaMKdxmAwjagg?select=3cGQgnjjsQMymRUN34jb6Q&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 389
+    },
+    {
+      "id": "CteEZukedeqQ4C2XIs9ndA",
+      "name": "Mimosa House",
+      "alias": "mimosa-house-folsom-2",
+      "address1": "1002 Riley St",
+      "address2": "",
+      "address3": "",
+      "city": "Folsom",
+      "zip": "95630",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 38.6709017,
+      "longitude": -121.1699564,
+      "review_count": 68,
+      "state": "CA",
+      "avg_rating": 3.5,
+      "unrounded_avg_rating": 3.4,
+      "neighborhoods": [],
+      "geo_accuracy": 8,
+      "addresses": {
+        "primary_language": {
+          "long_form": "1002 Riley St, Folsom, CA 95630",
+          "short_form": "1002 Riley St, Folsom"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Champagne Bars",
+          "category_filter": "champagne_bars",
+          "is_restaurant": false
+        },
+        {
+          "name": "American",
+          "category_filter": "tradamerican",
+          "is_restaurant": true
+        },
+        {
+          "name": "Breakfast & Brunch",
+          "category_filter": "breakfast_brunch",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9167908176",
+      "localized_phone": "+1-916-790-8176",
+      "dialable_phone": "+19167908176",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/X2rQ31TRIivRFW5nXRms2Q/ms.jpg",
+      "primary_photo": {
+        "id": "X2rQ31TRIivRFW5nXRms2Q",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/X2rQ31TRIivRFW5nXRms2Q/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "X2rQ31TRIivRFW5nXRms2Q",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/X2rQ31TRIivRFW5nXRms2Q/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "ahnH-a_J7sbCF3egVFnj7A",
+          "type": "business",
+          "time_created": 1735169363,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ahnH-a_J7sbCF3egVFnj7A/",
+          "url_suffix": ".jpg",
+          "caption": "Breakfast sandwich made with scrambled egg. Super delicious!",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "CteEZukedeqQ4C2XIs9ndA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/CteEZukedeqQ4C2XIs9ndA?select=ahnH-a_J7sbCF3egVFnj7A&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "XuFdC7wksI2xrVPAsq0wYg",
+          "type": "business",
+          "time_created": 1733851137,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/XuFdC7wksI2xrVPAsq0wYg/",
+          "url_suffix": ".jpg",
+          "caption": "The bar",
+          "feedback_positive_count": 1,
+          "width": 1500,
+          "height": 2000,
+          "business_id": "CteEZukedeqQ4C2XIs9ndA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/CteEZukedeqQ4C2XIs9ndA?select=XuFdC7wksI2xrVPAsq0wYg&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "L7489PFO4ipLYPmNa69g6A",
+          "type": "business",
+          "time_created": 1730207465,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/L7489PFO4ipLYPmNa69g6A/",
+          "url_suffix": ".jpg",
+          "caption": "Our Skillets",
+          "feedback_positive_count": 1,
+          "width": 1024,
+          "height": 1024,
+          "business_id": "CteEZukedeqQ4C2XIs9ndA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/CteEZukedeqQ4C2XIs9ndA?select=L7489PFO4ipLYPmNa69g6A&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "2ZmAac78_Hk0J8qORt7MRw",
+          "type": "business",
+          "time_created": 1730207465,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/2ZmAac78_Hk0J8qORt7MRw/",
+          "url_suffix": ".jpg",
+          "caption": "French Toast",
+          "width": 1024,
+          "height": 1024,
+          "business_id": "CteEZukedeqQ4C2XIs9ndA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/CteEZukedeqQ4C2XIs9ndA?select=2ZmAac78_Hk0J8qORt7MRw&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 82
+    },
+    {
+      "id": "v4aqPCmJ_hYL0qdVOHGMxA",
+      "name": "Friends With Benedicts Mimosa House",
+      "alias": "friends-with-benedicts-mimosa-house-folsom",
+      "address1": "310 Palladio Pkwy",
+      "address2": "Ste 713",
+      "address3": "",
+      "city": "Folsom",
+      "zip": "95630",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 38.6501452,
+      "longitude": -121.1183203,
+      "review_count": 301,
+      "state": "CA",
+      "avg_rating": 3.5,
+      "unrounded_avg_rating": 3.7,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "310 Palladio Pkwy, Ste 713, Folsom, CA 95630",
+          "short_form": "310 Palladio Pkwy, Ste 713, Folsom"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "Breakfast & Brunch",
+          "category_filter": "breakfast_brunch",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9166184331",
+      "localized_phone": "+1-916-618-4331",
+      "dialable_phone": "+19166184331",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/MNagI1rf2BGfcDGHQt1kOg/ms.jpg",
+      "primary_photo": {
+        "id": "MNagI1rf2BGfcDGHQt1kOg",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/MNagI1rf2BGfcDGHQt1kOg/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "MNagI1rf2BGfcDGHQt1kOg",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/MNagI1rf2BGfcDGHQt1kOg/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "B-II02QmZNlBadpOZm31KA",
+          "type": "business",
+          "time_created": 1758133178,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/B-II02QmZNlBadpOZm31KA/",
+          "url_suffix": ".jpg",
+          "width": 1648,
+          "height": 1108,
+          "business_id": "v4aqPCmJ_hYL0qdVOHGMxA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/v4aqPCmJ_hYL0qdVOHGMxA?select=B-II02QmZNlBadpOZm31KA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "0NZ1vI_4BFSoaU3gHQO28Q",
+          "type": "business",
+          "time_created": 1758133179,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/0NZ1vI_4BFSoaU3gHQO28Q/",
+          "url_suffix": ".jpg",
+          "width": 1316,
+          "height": 1642,
+          "business_id": "v4aqPCmJ_hYL0qdVOHGMxA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/v4aqPCmJ_hYL0qdVOHGMxA?select=0NZ1vI_4BFSoaU3gHQO28Q&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "ooUKsRj6IJJ5aou7RHrADw",
+          "type": "business",
+          "time_created": 1758133179,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ooUKsRj6IJJ5aou7RHrADw/",
+          "url_suffix": ".jpg",
+          "width": 1320,
+          "height": 1650,
+          "business_id": "v4aqPCmJ_hYL0qdVOHGMxA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/v4aqPCmJ_hYL0qdVOHGMxA?select=ooUKsRj6IJJ5aou7RHrADw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "7pKWpIaJAwJmOFXXaaFxzg",
+          "type": "business",
+          "time_created": 1758133177,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/7pKWpIaJAwJmOFXXaaFxzg/",
+          "url_suffix": ".jpg",
+          "width": 1490,
+          "height": 1178,
+          "business_id": "v4aqPCmJ_hYL0qdVOHGMxA",
+          "share_url": "https://www.yelp.co.uk/biz_photos/v4aqPCmJ_hYL0qdVOHGMxA?select=7pKWpIaJAwJmOFXXaaFxzg&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 527
+    }
+  ]
+}

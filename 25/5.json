@@ -1,0 +1,258 @@
+{
+  "input_url": null,
+  "tt": 0.3213191032409668,
+  "status": "200: Success, biz_id",
+  "end_cursor": "eyJ2ZXJzaW9uIjoxLCJ0eXBlIjoib2Zmc2V0Iiwib2Zmc2V0Ijo0fQ",
+  "has_next_page": true,
+  "rating": 4.3,
+  "review_count": 460,
+  "rating_filter_selected": "All_ratings",
+  "review_counts_by_rating": {
+    "1 star": 25,
+    "2 star": 23,
+    "3 star": 31,
+    "4 star": 91,
+    "5 star": 290
+  },
+  "review_counts_by_language": [
+    {
+      "language": "en",
+      "count": 460
+    }
+  ],
+  "reviews": [
+    {
+      "encid": "3ucMxBvFucRMrHSvcbmntA",
+      "text": {
+        "full": "Sometimes ya just was great food, service and good feelings about what you eat and where you find yourself.  \nDO NOT PASS BY HERE IF YOU ARE LOOKING FOR breakfast or lunch. \nWe were looking for lunch at 1pm and found this place. I had not read the reviews before we went.  \nSometimes ya just don't want fancy food, but still want it to be good. The food isn't just good - we had the best lunch in over 2000 miles and 10 days of traveling and eating out.  From Estes Park Colorado to Roswell NM- hands up THIS IS THE PLACE. Big breakfasts and good family\nStyle cooking.  We had the Hamburger Steak and Onion. And the Chicken Fried Chicken. Both came with mashed potatoes, vegetable of the day, green chili cornbread and side salad.  Good stuff!  They close at 2 and we arrived at 1. Every bite we were saying how perfect it was after all the foo-foo food we had been eating.  We NEEDED this meal to make it back to Texas and home. The staff was superior and the place is cute as it can be. Love it and will stop here again and again.",
+        "language": "en",
+        "__typename": "ReviewText"
+      },
+      "reviewCreatedAt": "2025-07-01T07:52:41-06:00",
+      "rating": 5,
+      "author": {
+        "encid": "XkA-k1jGOfZGQm-hhHrVmw",
+        "isFollowedByLoggedInUser": null,
+        "profilePhoto": {
+          "encid": "uxDctvpBLqRjQhbSeNSe7A",
+          "photoUrl": {
+            "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/uxDctvpBLqRjQhbSeNSe7A/30s.jpg",
+            "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/uxDctvpBLqRjQhbSeNSe7A/60s.jpg",
+            "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/uxDctvpBLqRjQhbSeNSe7A/90s.jpg",
+            "__typename": "UserPhotoUrl",
+            "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/uxDctvpBLqRjQhbSeNSe7A/60s.jpg",
+            "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/uxDctvpBLqRjQhbSeNSe7A/120s.jpg",
+            "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/uxDctvpBLqRjQhbSeNSe7A/180s.jpg"
+          },
+          "__typename": "UserProfilePhoto"
+        },
+        "displayName": "Patti B.",
+        "displayLocation": "Port Lavaca, TX",
+        "currentTruncatedEliteYear": "25",
+        "__typename": "User",
+        "reviewCount": 217,
+        "friendCount": 3,
+        "businessPhotoCount": 312
+      },
+      "review_photos": [
+        "https://s3-media0.fl.yelpcdn.com/bphoto/uh_9BtKvGk-STTqyTAbkZg/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/lHynWyWg_5u0PShdxqFi4A/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/mqd-CBz_MGaCjYcpQXmlyA/o.jpg"
+      ],
+      "bizUserPublicReply": {
+        "text": "",
+        "displayName": "",
+        "role": "",
+        "profilePhoto": "",
+        "replyCreatedAt": ""
+      }
+    },
+    {
+      "encid": "Jq6wpXE1sCtNg1ufP3nREA",
+      "text": {
+        "full": "I've visited Roswell a few times and everybody told me I had to try Cowboy Café. First two visits, the line was way too long so I didn't wait (about a 60 min wait to be seated). On my most recent trip we finally got to go and give it a try.\n\nI was pleasantly pleased. The food might be a little overrated, but that's what happens when a place is good -- people hype it up and the bar gets set so high it's hard to hit. Nothing negative to say about the food though, and the servers were wonderful.\n\nI had the cheeseburger with fire roasted green chilies and it was really good. Onion rings were definitely homemade and delicious. The restaurant was clean, had a great atmosphere, and a lot of flair to look at while you're there.\n\nAll in all, I can see why people like this place.",
+        "language": "en",
+        "__typename": "ReviewText"
+      },
+      "reviewCreatedAt": "2025-08-10T08:05:59-06:00",
+      "rating": 4,
+      "author": {
+        "encid": "n38J612Z1g6Kzs8XOvEWeg",
+        "isFollowedByLoggedInUser": null,
+        "profilePhoto": {
+          "encid": "Vd-LOF5QluOlhVxHpMfeOA",
+          "photoUrl": {
+            "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/Vd-LOF5QluOlhVxHpMfeOA/30s.jpg",
+            "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/Vd-LOF5QluOlhVxHpMfeOA/60s.jpg",
+            "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/Vd-LOF5QluOlhVxHpMfeOA/90s.jpg",
+            "__typename": "UserPhotoUrl",
+            "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/Vd-LOF5QluOlhVxHpMfeOA/60s.jpg",
+            "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/Vd-LOF5QluOlhVxHpMfeOA/120s.jpg",
+            "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/Vd-LOF5QluOlhVxHpMfeOA/180s.jpg"
+          },
+          "__typename": "UserProfilePhoto"
+        },
+        "displayName": "Kevin H.",
+        "displayLocation": "Selma, CA",
+        "currentTruncatedEliteYear": "25",
+        "__typename": "User",
+        "reviewCount": 185,
+        "friendCount": 158,
+        "businessPhotoCount": 755
+      },
+      "review_photos": [
+        "https://s3-media0.fl.yelpcdn.com/bphoto/6tOuTwf6pd9YjO6wldmDiw/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/AbETsXeTu0XGLt4mpwi1vw/o.jpg"
+      ],
+      "bizUserPublicReply": {
+        "text": "",
+        "displayName": "",
+        "role": "",
+        "profilePhoto": "",
+        "replyCreatedAt": ""
+      }
+    },
+    {
+      "encid": "rfPmABHCNxB0zsBVuZbMjA",
+      "text": {
+        "full": "Last time I passed through Roswell I made sure to eat at the cowboy Cafe. Today, I could not be more disappointed. \n\nWaitress behind the bar had us wait for her to clean off a table, no problem, but the table nor benches were clean. \n\nA different waitress brought us our drinks. Again no issue, but the glasses were dirty and there was obvious debris in the bottom of both cups. I'd suggest cleaning the ice dispenser as thats probably where it came from. It took another ten minutes to be able to get new cups as we were passed by easily a dozen times before our original waitress stopped over. After being told \"thats just the design on the cup\" we got up and left. \n\nWe watched the waitresses take very good care of everyone that looked local so we know they are capable of providing good service, but I guess my wife and I are just tourists",
+        "language": "en",
+        "__typename": "ReviewText"
+      },
+      "reviewCreatedAt": "2025-07-03T10:47:58-06:00",
+      "rating": 1,
+      "author": {
+        "encid": "64HxhN3DELSgzWZIyMSNUw",
+        "isFollowedByLoggedInUser": null,
+        "profilePhoto": {
+          "encid": "4F0h7HfqIltEC75ktSCHBw",
+          "photoUrl": {
+            "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/4F0h7HfqIltEC75ktSCHBw/30s.jpg",
+            "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/4F0h7HfqIltEC75ktSCHBw/60s.jpg",
+            "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/4F0h7HfqIltEC75ktSCHBw/90s.jpg",
+            "__typename": "UserPhotoUrl",
+            "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/4F0h7HfqIltEC75ktSCHBw/60s.jpg",
+            "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/4F0h7HfqIltEC75ktSCHBw/120s.jpg",
+            "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/4F0h7HfqIltEC75ktSCHBw/180s.jpg"
+          },
+          "__typename": "UserProfilePhoto"
+        },
+        "displayName": "Tj M.",
+        "displayLocation": "San Francisco, CA",
+        "currentTruncatedEliteYear": null,
+        "__typename": "User",
+        "reviewCount": 3,
+        "friendCount": 0,
+        "businessPhotoCount": 0
+      },
+      "review_photos": [],
+      "bizUserPublicReply": {
+        "text": "",
+        "displayName": "",
+        "role": "",
+        "profilePhoto": "",
+        "replyCreatedAt": ""
+      }
+    },
+    {
+      "encid": "K8n8ceCBtfbcBjh5Y5pZBw",
+      "text": {
+        "full": "Delicious diner food in a cowboy themed restaurant! The coffee was perfect! The huevos rancheros hit the spot! Green chili sauce had heat and made the dish. The also have homemade pies and mugs and sauce to bring home. Great cafe!",
+        "language": "en",
+        "__typename": "ReviewText"
+      },
+      "reviewCreatedAt": "2025-04-12T08:52:50-06:00",
+      "rating": 5,
+      "author": {
+        "encid": "QX9npgEONZg9mbIlTgCsrw",
+        "isFollowedByLoggedInUser": null,
+        "profilePhoto": {
+          "encid": "Ut2ORF9uPYuy74Cpe9KrpQ",
+          "photoUrl": {
+            "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/Ut2ORF9uPYuy74Cpe9KrpQ/30s.jpg",
+            "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/Ut2ORF9uPYuy74Cpe9KrpQ/60s.jpg",
+            "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/Ut2ORF9uPYuy74Cpe9KrpQ/90s.jpg",
+            "__typename": "UserPhotoUrl",
+            "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/Ut2ORF9uPYuy74Cpe9KrpQ/60s.jpg",
+            "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/Ut2ORF9uPYuy74Cpe9KrpQ/120s.jpg",
+            "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/Ut2ORF9uPYuy74Cpe9KrpQ/180s.jpg"
+          },
+          "__typename": "UserProfilePhoto"
+        },
+        "displayName": "Ami A.",
+        "displayLocation": "Charleston, SC",
+        "currentTruncatedEliteYear": "25",
+        "__typename": "User",
+        "reviewCount": 610,
+        "friendCount": 380,
+        "businessPhotoCount": 1300
+      },
+      "review_photos": [
+        "https://s3-media0.fl.yelpcdn.com/bphoto/nD2co4ZwNJR5nWbk9evu4Q/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/FBMUloFH6G7i4IqlgBQPAA/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/pAU-3YxiiUdGefV48TmvHw/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/8mnogIFquBM9_1K15cNyvg/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/A2zRgy7QjgSMf2Ge3uo_Kg/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/gKI5Qzf6v6_eB-lLuUZ4LQ/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/YVcnFGDaeZv3LO9ysPhTfA/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/PMcaytmjAg7eC4VKyapCNQ/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/UAkxrm6l50QuR6ZWp1dK1A/o.jpg"
+      ],
+      "bizUserPublicReply": {
+        "text": "",
+        "displayName": "",
+        "role": "",
+        "profilePhoto": "",
+        "replyCreatedAt": ""
+      }
+    },
+    {
+      "encid": "XzPOciyPFrxmYwS3EnMvdw",
+      "text": {
+        "full": "The Cowboy Cafe is located a little ways from the main part of Roswell, but still not too far. It is unique in its astetics. The bar stools have seat cushions that look like part of a saddle. There is a mini stagecoach in front as well. The inside tables are booths. There is plenty of gravel parking with a paved handicap space.  The bathroom is gender neutral with unique memorabilia. \n\nThe service was fast. The server stopped several times during our meal to check on our wants... outstanding! \n\nThe menu is decent. The prices are reasonable. I ordered hamburger steak with onions. It came with a small house salad, mashed potatoes, corn, and cornbread. The meal was delicious. They also have cake and pie as well. \n\nSo, if you come to Roswell to see the aliens, be sure to stop by the Comboy Cafe. You just might enjoy yourself.",
+        "language": "en",
+        "__typename": "ReviewText"
+      },
+      "reviewCreatedAt": "2024-09-25T16:18:39-06:00",
+      "rating": 5,
+      "author": {
+        "encid": "CK3KLKNITCsqQD-fTG6hew",
+        "isFollowedByLoggedInUser": null,
+        "profilePhoto": {
+          "encid": "nOuCwcKJtEG48os5fw5t0g",
+          "photoUrl": {
+            "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/nOuCwcKJtEG48os5fw5t0g/30s.jpg",
+            "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/nOuCwcKJtEG48os5fw5t0g/60s.jpg",
+            "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/nOuCwcKJtEG48os5fw5t0g/90s.jpg",
+            "__typename": "UserPhotoUrl",
+            "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/nOuCwcKJtEG48os5fw5t0g/60s.jpg",
+            "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/nOuCwcKJtEG48os5fw5t0g/120s.jpg",
+            "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/nOuCwcKJtEG48os5fw5t0g/180s.jpg"
+          },
+          "__typename": "UserProfilePhoto"
+        },
+        "displayName": "Jeff B.",
+        "displayLocation": "Cedar Park, TX",
+        "currentTruncatedEliteYear": "25",
+        "__typename": "User",
+        "reviewCount": 439,
+        "friendCount": 76,
+        "businessPhotoCount": 977
+      },
+      "review_photos": [
+        "https://s3-media0.fl.yelpcdn.com/bphoto/wE4WqBc9l4TuMyrwxJP-rw/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/4XX4ZybqFYr1mJmStT69uA/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/8HxCq31V0wRZIBo5jSlL_Q/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/qCKPsZpvy6mum-QXBDsz6A/o.jpg",
+        "https://s3-media0.fl.yelpcdn.com/bphoto/wwpUiwbRBLzqEeSvB_RTXw/o.jpg"
+      ],
+      "bizUserPublicReply": {
+        "text": "",
+        "displayName": "",
+        "role": "",
+        "profilePhoto": "",
+        "replyCreatedAt": ""
+      }
+    }
+  ]
+}

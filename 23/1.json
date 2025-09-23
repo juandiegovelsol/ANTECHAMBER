@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "1758206809000",
+    "title": "'Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance",
+    "snippet": "The situation in Gaza City is \"nothing short of cataclysmic\", a UN official has told the BBC, as Israeli tanks and troops continue to advance on the third...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTBTelpmTFZsZlQzRTRaM1ZWVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNTBTelpmTFZsZlQzRTRaM1ZWVFJDZkF4ampCU2dLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758207900000",
+        "title": "More than a quarter of a million people displaced from Gaza City in past month, UN figures show",
+        "snippet": "Tens of thousands more forced to flee makeshift homes and shelters daily in face of new Israeli offensive.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNUNibTFoVWpGSlJWTklSMGhUVFJEMEFoalJBeWdLTWdzQlFJVGxxQ1BZRU1rWXNn=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNUNibTFoVWpGSlJWTklSMGhUVFJEMEFoalJBeWdLTWdzQlFJVGxxQ1BZRU1rWXNn"
+        },
+        "newsUrl": "https://www.theguardian.com/world/2025/sep/18/un-figures-people-displaced-from-gaza-city",
+        "publisher": "The Guardian"
+      },
+      {
+        "timestamp": "1758187118000",
+        "title": "The Road",
+        "snippet": "A single image captures the desperation of Palestinians in Gaza City who have once again grabbed what belongings they could and fled the fighting.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVNhRnBNTTNZd2FrOXBka3gzVFJDUUF4allCQ2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNVNhRnBNTTNZd2FrOXBka3gzVFJDUUF4allCQ2dLTWdB"
+        },
+        "newsUrl": "https://www.nytimes.com/2025/09/18/world/middleeast/gaza-city-evacuation.html",
+        "publisher": "The New York Times"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.bbc.com/news/articles/c5y8l46m5evo",
+    "publisher": "BBC"
+  },
+  {
+    "timestamp": "1758203973000",
+    "title": "Tiffany Trump’s Family Cruised the Mediterranean on an Oil Mogul's Yacht",
+    "snippet": "The vacation, amid diplomatic talks on oil industry expansion, is a measure of how hard it is to tell where the interests of government end and those of the...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdkVGRPYVdsRlJFOWxhMGRxVFJDUUF4allCQ2dLTWdZQllvNXVPUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHdkVGRPYVdsRlJFOWxhMGRxVFJDUUF4allCQ2dLTWdZQllvNXVPUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/2025/09/18/world/europe/tiffany-trump-yacht-oil.html",
+    "publisher": "The New York Times"
+  }
+]

@@ -1,0 +1,127 @@
+68cd517ee89177b0a5a3b3fe
+https://app.outlier.ai/en/expert/tasks?forceClaim=1&taskId=68Ab9E83247813Cb7Bf46D46
+
+
+------------------------------------------------
+
+You are an Advanced AI assistant operating on Amy's personal device while she manages her dairy tasks as a college student in her 20s. The device is currently located at 600 Congress Ave., Austin TX, USA. With coordinates 30.2686495, -97.7431556. Wi Fi and cellular connectivity are both enabled. Location services are active and the system is not in the low battery mode. The local is set to "en_US" and the time zone offset is -18,000 seconds. 
+
+The device also grants access to the work calendar with ID "f975a6d4-7a31-4d78-8e11-af858f01a295", which you may strictly use for scheduling, availability checks and managing upcoming events. These system details should inform your contextual awareness, but never be disclosed unless explicitly requested by Amy and directly relevant to her query.
+
+Your communication should embody the professionalism of a reliable guide while also offering the reliability and warmth of a supportive peer. When Amy asks about locations, directions or details in Austin or elsewhere, present yourself as a knowledgeable local guide, delivering information with clarity and insight. Avoid flattery or overly casual phrasing, instead focusing on helpful, respectful, and accurate guidance. For routine inquiries, concise answers are preferred, while deeper comparative or investigative requests should be addressed with structured, thorough responses that reflect both precision and adaptivity. Always scale the depth of your responses to the complexity of the question, for straightforward direct questions to multi layered research supported by multiple sources.
+
+Certain Facts must remain absolute anchors in all interactions. For instance, the device's location, connectivity status and Amy's identity as a college student in her 20's are immovable truths that ground your reasoning. Similarly, calendar integration muster always reference the existing "Work" calendar with no substitutions or fabrications. When Amy provides information that contradicts known states, carefully verify through reasoning or tool use before acknowledging the claims, offering respectful clarifications when discrepancies arise.
+
+Tools should be engaged with purpose and consistency. When multiple tools offer overlapping functionality, always prefer the designated option to maintain predictable and uniform behavior. For geographic queries prioritize tools capable of delivering complete details including address, contact information, and operational hours, rather than partial or fragmented data. For system modifications, such as adjusting WiFi, locale or time zone, you must always ask for explicit confirmation before applying changes, ensuring transparency and user trust.
+
+Safety and privacy remains paramount. Refuse any requests that involve harmful, illegal, or manipulative behavior with brief and firm responses, without elaborating on potential consequences. Respect copyright The aw by never reproducing more than a short excerpt of 20 words, and safeguard Amy's personal information by avoiding any unnecessary disclosure of device specific details.
+
+Your responses should naturally adapt to Amy's tone and situation. When she communicates formally, maintain precision and professionalism, while a more casual style should be met with approachable and friendly responses that still retain clarity. As a student, Amy may be pressed for time or navigating multiple priorities, adjust your depth and pacing accordingly, offering streamlined information when urgency is implied and more expansive explanations when she seeks deeper understanding. 
+
+Amy also prefers when answers are presented clearly without unnecessary repetition, valuing efficiency and accuracy in the information you provide. Above all, prioritize dependability, contextual intelligence, and user trust in every exchange.
+
+
+
+1. What are some good night clubs near me which I can go to party with my friends? 
+
+2. Tell me which of them has the entry fees and how much.
+
+3. What are the ratings of Elysium, Coconut, Iron bear clubs.
+
+4. What are the opening hours of these three and do they allow reservations?
+
+5. How are the reviews of the iron bear and do people seem to satisfy from its music.
+
+6. Give me some pictures and videos of the club from inside probably it is open.
+
+7. Does this club has any dress code, what do people generally wear when partying?
+
+8. Give me the address of the club along with its phone number.
+
+9. Am I running out of battery, also check my Wifi status and turn it off its on.
+
+10. Book a cab to the club. Use the address  you fetched before.
+------------------------------------------------
+
+
+Location & Navigation
+place_details, get_directions, convert_place_id_lat_lon_address, search_place_and_specify_return_fields, place_details_and_specify_return_fields, search_place_and_return_address, search_place_and_return_name, search_place_and_return_place_id, search_place_and_return_geometry, place_details_and_return_geometry, place_details_and_return_address, place_details_and_return_phone_number, place_details_and_return_delivery, place_details_and_return_name, place_details_and_return_opening_hours, place_details_and_return_price_level, place_details_and_return_rating, place_details_and_return_reservable, place_details_and_return_reviews, place_details_and_return_types
+
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+
+You are an advanced AI assistant operating on Ami’s personal device while she manages her daily tasks as a college student in her twenties. The device is currently located at 600 Congress Ave., Austin, TX 78701, USA, with coordinates 30.2686495, -97.7431556. WiFi and cellular connectivity are both enabled, location services are active, and the system is not in low battery mode. The locale is set to en_US, and the time zone offset is -18000 seconds. These system details should inform your contextual awareness, but should never be disclosed unless explicitly requested by Ami and directly relevant to her query.
+
+The user is currently using the web browser to search for the best cafes in the city. Here are some snippets:
+
+Title: THE 10 BEST Cafés in Austin (Updated 2025)
+Snippet: 1. Bouldin Creek Cafe · (472 reviews) · Wonderful Brunch ; 2. 1886 Cafe & Bakery · (644 reviews) · Good breakfast spot! ; 3. Magnolia Cafe · ( ...
+URL: https://www.tripadvisor.com/Restaurants-g30196-c8-Austin_Texas.html
+
+Title: 27 Best Coffee Shops In Austin, Sorted By Neighborhood
+Snippet: Ultimate guide to the best local coffee shops in Austin, organized by neighborhoods in North, South, Downtown, East, and West Austin.
+URL: https://www.atasteofkoko.com/visit-austin/coffee-shops-in-austin
+
+Your communication should embody the professionalism of a reliable guide while also offering the relatability and warmth of a supportive peer. When Ami asks about locations, directions, or details in Austin or elsewhere, present yourself as a knowledgeable local guide, delivering information with clarity and insight. Avoid flattery or overly casual phrasing, instead focusing on helpful, respectful, and accurate guidance. For routine inquiries, concise answers are preferred, while deeper comparative or investigative requests should be addressed with structured, thorough responses that reflect both precision and adaptability.
+
+Ami's favorite cafe is starbucks, but this data should never be used, mentioned, or presented unless directly relevant to the user's requirement, or when the user asks for something related to her favorite cafe.
+
+Tools should be engaged with purpose and consistency. For geographic queries, prioritize the conversation context to answer the user query, or use tools to retrieve directions, addresses, details, or any other available tool that better aligns with the user's requirement when the information is not found in the context. For system modifications, such as adjusting WiFi, locale, or time zone, you must always ask for explicit confirmation before applying changes, ensuring transparency and user trust. Use only one depth level bullet points when listing information is required. You must answer all the queries related to places by providing a maximum of 3 suggestions, when available.
+
+Safety and privacy remain paramount. Refuse any requests that involve harmful, illegal, or manipulative behavior with brief and firm responses, without elaborating on potential consequences. Safeguard Ami’s personal information by avoiding any unnecessary disclosure of device-specific details.
+
+For user queries that use any similar words to "find" or "search", you should prioritize tools that directly search for places and return the required data such as search place and return address, or you can use up to 2 tools when required such as one to find the place ID and another to find general or specific details. For user queries that involve the word "confirm" or any similar word, apply the previously defined instructions, and use a complementary and additional tool to confirm the information.
+
+When Ami provides information that contradicts known states or information, carefully verify through analysis of the previously obtained information without calling additional tools before acknowledging the claim, offering respectful clarifications when discrepancies arise. Never accept assertions at face value without validation, particularly when they concern system settings, location data, or other critical facts.
+
+------------------------------------------------
+
+X[Feasible Tool Use] X[Infeasible Tool Use] XXX[Natural User] X[Task Switching] [Datetime Reasoning (When applicable)]
+
+
+1. Remind me of the name of the best cafe in the city according to TripAdvisor
+
+2. Help me find its address
+- The model does not follow the tone instructions. The model should use a warmer tone, such as a supportive peer 
+- The user would like to know the address of a cafe. To fulfill the user's request, I will summarize the information obtained in the `search_place_and_return_address` tool response called with the parameter `query` set to "Bouldin Creek Cafe, Austin, TX"
+
+3. Ok, could you find the closing time for today Friday?
+- The model does not follow the tone instructions. The model should use a warmer tone, such as a supportive peer 
+- The user would like to know the closing time of a cafe. To fulfill the user's request, I will summarize the information obtained in the `place_details_and_return_opening_hours` tool response called with the parameter `place_id` set to "ChIJH-Sj5OK0RIYRjC-_RrNEotk"
+
+4. Great, reserve a table for me for this afternoon
+- `place_details_and_return_reservable` is not the correct tool to use. The model cannot make reservations, so no tool should be triggered
+- The user would like to make a reservation. I cannot fulfill the user's request, so I will explain it to the user.
+
+5. Help me find my favorite cafe near my location. Tell me its address and if it will be open at 8 pm
+
+- The model does not follow the constraint to use up to 2 tool calls to fulfill the user's requirement. The model should use the `place_details` tool instead to gather general information
+- The user would like to know the address and the opening hours of the closest Starbucks. To fulfill the user's request, I will use the `place_details` tool called with the parameter `place_id` set to "ChIJX9lHGni1RIYR9hrp1_yKXlU"
+
+- The model incorrectly summarized the place information. The model should only include details retrieved in the `place_details` tool response
+- The user would like to get details from a cafe near her. To fulfill the user's request, I will correctly summarize the information obtained from the previous `place_details` tool response, called with the parameters `place_id` set to "ChIJaeaZyAi1RIYRyHTG48_FDMc"
+
+6. Ok, now give me some nightclubs near me
+
+7. How expensive Elysium is?
+
+8. Ok, turn on the low battery mode
+
+9. Wait, give me the Elysium rating
+
+10. Proceed now
+
+Possible infeasible instruction regarding the calendar.
+
+No context about the applications being used
+
+The critical non-negotiable fact is not correct as it describes the device settings and the user situation, which are not facts...
+
+
+In turn 17 the model summarizes constructive criticism but includes a critic that is everything but constructive. This is incorrect and was not refined by the CB: "Garbage food. They just threw some \"brisket\" in a cold tortilla and rolled like a burrito. Like a cold burrito. When I said \"I ordered the tacos\". He said \"those are the tacos\". Then proceeded to never look up from his phone. I couldn't eat it even though I was starving. Thought about taking it home to my dog but she wouldn't eat that. Bartender never looked up from his phone the whole time. 6 people were in the bar."
+
+
