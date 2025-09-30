@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "1758753311000",
+    "title": "The crew of Artemis II will fly on Integrity during mission to the Moon",
+    "snippet": "The first astronauts set to fly to the moon in more than 50 years will do so in Integrity.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHlUMHgxY2pWUk5sSkZabTVOVFJDZkF4ampCU2dLTWdtQklZeTJST1N3eFFJ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNHlUMHgxY2pWUk5sSkZabTVOVFJDZkF4ampCU2dLTWdtQklZeTJST1N3eFFJ"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758730853000",
+        "title": "Artemis II: astronauts ready to go to Moon \"for all humanity\"",
+        "snippet": "Astronauts of Nasa's first crewed mission to the Moon for more than 50 years hope their journey inspires a new generation.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXJSMVpPVEVWc2JtWllabTlYVFJEZ0FSaVFBeWdLTWdrQkVKS0ZtS3BFS3dJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXJSMVpPVEVWc2JtWllabTlYVFJEZ0FSaVFBeWdLTWdrQkVKS0ZtS3BFS3dJ"
+        },
+        "newsUrl": "https://www.bbc.com/news/articles/cvg0kv8rq0xo",
+        "publisher": "BBC"
+      },
+      {
+        "timestamp": "1758809181000",
+        "title": "Artemis moon mission now has possible launch dates. Here's when, everything to know",
+        "snippet": "NASA's Artemis II astronauts will embark on the first crewed U.S. mission to the moon in half a century. It could launch early in 2026.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXJRVTlaZURkNU1tMUNTWFJaVFJEekFoaVVCU2dLTWdhUlFaTG5JQWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXJRVTlaZURkNU1tMUNTWFJaVFJEekFoaVVCU2dLTWdhUlFaTG5JQWs"
+        },
+        "newsUrl": "https://www.usatoday.com/story/news/nation/2025/09/25/nasa-artemis-moon-mission-date/86341332007/",
+        "publisher": "USA Today"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://arstechnica.com/space/2025/09/introducing-integrity-artemis-ii-astronauts-name-their-orion-ride-to-the-moon/",
+    "publisher": "Ars Technica"
+  },
+  {
+    "timestamp": "1758722791000",
+    "title": "NASA, NOAA Launch Three Spacecraft to Map Sun’s Influence Across Space",
+    "snippet": "NASA and the National Oceanic and Atmospheric Administration (NOAA) launched three new missions Wednesday to investigate the Sun's influence across the...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhjemN6WDJKdmVEWmZRVTQ0VFJDRUF4aVZCaWdLTWdhbEFZR3UxUUU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXhjemN6WDJKdmVEWmZRVTQ0VFJDRUF4aVZCaWdLTWdhbEFZR3UxUUU"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758705305000",
+        "title": "What is the heliosphere? A new mission could unravel the mysteries of this complex cosmic environment",
+        "snippet": "Created by the sun, the protective bubble of the heliosphere shields our solar system from harmful radiation. A new mission has launched to map it like...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBaVE14TFVSVlRGQlhlREZqVFJERUF4aW5CU2dLTWdZWmhJaXNPUVE=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXBaVE14TFVSVlRGQlhlREZqVFJERUF4aW5CU2dLTWdZWmhJaXNPUVE"
+        },
+        "newsUrl": "https://www.cnn.com/2025/09/24/science/heliosphere-spacex-nasa-imap-launch",
+        "publisher": "CNN"
+      },
+      {
+        "timestamp": "1758724303000",
+        "title": "SpaceX launches NASA, NOAA missions exploring the impacts of the Sun",
+        "snippet": "Update: Launch occurred at 7:30 a.m. EDT (1130 UTC). With successful payload deployments complete about 1.5 hours after liftoff. A trio of Sun-studying,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNMWFpFT0dkMlREWllNRzV5VFJEOUFoaW1CU2dLTWdZbFJaQ3RKUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUNMWFpFT0dkMlREWllNRzV5VFJEOUFoaW1CU2dLTWdZbFJaQ3RKUWc"
+        },
+        "newsUrl": "https://spaceflightnow.com/2025/09/24/live-coverage-spacex-to-launch-nasa-noaa-missions-exploring-the-impacts-of-the-sun/",
+        "publisher": "Spaceflight Now"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.nasa.gov/news-release/nasa-noaa-launch-three-spacecraft-to-map-suns-influence-across-space/",
+    "publisher": "NASA (.gov)"
+  },
+  {
+    "timestamp": "1758808740000",
+    "title": "Unprecedented views of largest star-forming region in our galaxy captured by Webb telescope",
+    "snippet": "NASA's powerful James Webb Space telescope has revealed a colorful spread of stars and cosmic dust in the Milky Way's most active star-forming region.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNWhSMDFhVWpkNWNrZHFhbGQwVFJDUkF4ajhCU2dLTWd1QkE2QVBrU3E1d3hyMFV3=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNWhSMDFhVWpkNWNrZHFhbGQwVFJDUkF4ajhCU2dLTWd1QkE2QVBrU3E1d3hyMFV3"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758722400000",
+        "title": "NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way",
+        "snippet": "NASA's James Webb Space Telescope has revealed a colorful array of massive stars and glowing cosmic dust in the Sagittarius B2 molecular cloud, the most.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNTNSVE40U0hWNFptOU9Xamd5VFJEc0FoaktCaWdLTWdzQkJKWWpoU3JJTGtudW1n=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNTNSVE40U0hWNFptOU9Xamd5VFJEc0FoaktCaWdLTWdzQkJKWWpoU3JJTGtudW1n"
+        },
+        "newsUrl": "https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
+        "publisher": "NASA Science (.gov)"
+      },
+      {
+        "timestamp": "1758628803000",
+        "title": "Star-forming cloud Sagittarius B2 explored with JWST",
+        "snippet": "Using the James Webb Space Telescope (JWST), astronomers from the University of Florida and elsewhere have performed infrared observations of a star-forming...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVZURjl2WlRneVpXWnpWVXR1VFJDYUF4anJCU2dLTWdPQmtndw=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNVZURjl2WlRneVpXWnpWVXR1VFJDYUF4anJCU2dLTWdPQmtndw"
+        },
+        "newsUrl": "https://phys.org/news/2025-09-star-cloud-sagittarius-b2-explored.html",
+        "publisher": "Phys.org"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.cbsnews.com/news/james-webb-space-telescope-images-sagittarius-b2-nasa/",
+    "publisher": "CBS News"
+  },
+  {
+    "timestamp": "1758726637000",
+    "title": "Caltech Team Sets Record with 6,100-Qubit Array",
+    "snippet": "The neutral-atom platform shows promise for scaling up quantum computers.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXhlV05ZZVd0cGRFazRYMWRxVFJDS0F4aUtCaWdLTWdNZEFoQQ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNXhlV05ZZVd0cGRFazRYMWRxVFJDS0F4aUtCaWdLTWdNZEFoQQ"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758814661000",
+        "title": "Record 6,100 Qubits Form World’s Largest Quantum Array",
+        "snippet": "Physicists have made an array of 6,100 neutral-atom qubits held in place by lasers, marking a dramatic increase in potential quantum computing size.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNW1lV2szYnpGcGFWVlZSRTFoVFJENkFSajZBU2dLTWdNQkFEdw=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNW1lV2szYnpGcGFWVlZSRTFoVFJENkFSajZBU2dLTWdNQkFEdw"
+        },
+        "newsUrl": "https://www.iflscience.com/record-6100-qubits-form-worlds-largest-quantum-array-80950",
+        "publisher": "IFLScience"
+      },
+      {
+        "timestamp": "1758726038000",
+        "title": "Device with 6100 qubits is a step towards largest quantum computer yet",
+        "snippet": "An array of 6100 ultracold caesium atoms controlled by lasers is the largest collection of qubits ever assembled, and researchers hope they can soon turn it...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTRWelE0YWtSNGJISnJTbkY0VFJERUF4aW1CU2dLTWdNQkFEdw=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNTRWelE0YWtSNGJISnJTbkY0VFJERUF4aW1CU2dLTWdNQkFEdw"
+        },
+        "newsUrl": "https://www.newscientist.com/article/2497439-device-with-6100-qubits-is-a-step-towards-largest-quantum-computer-yet/",
+        "publisher": "New Scientist"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.caltech.edu/about/news/caltech-team-sets-record-with-6100-qubit-array",
+    "publisher": "Caltech"
+  },
+  {
+    "timestamp": "1758803102000",
+    "title": "\"Major Anomaly\" As Interstellar Object 3I/Atlas Measured To Be Over 33 Billion Tons",
+    "snippet": "A new study has attempted to pin down the properties of interstellar comet 3I/Atlas, finding it is \"anomalously massive\" at around 33 billion tons.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXFRMHBTY2xSRlYwcHBla3gwVFJEaEFSaVFBeWdLTWdNNXh4NA=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNXFRMHBTY2xSRlYwcHBla3gwVFJEaEFSaVFBeWdLTWdNNXh4NA"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758657773000",
+        "title": "Where do 3I/ATLAS and other interstellar visitors come from?",
+        "snippet": "Interstellar interlopers like 'Oumuamua and 3I/ATLAS could be our best bet at exploring other stars.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVTbDlQTmxSUmFHRTRVMk5yVFJDUkF4ajhCU2dLTWdZWmdvd3l3UVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUVTbDlQTmxSUmFHRTRVMk5yVFJDUkF4ajhCU2dLTWdZWmdvd3l3UVU"
+        },
+        "newsUrl": "https://www.planetary.org/articles/where-do-3i-atlas-and-other-interstellar-visitors-come-from",
+        "publisher": "The Planetary Society"
+      },
+      {
+        "timestamp": "1758456000000",
+        "title": "An interstellar object is passing through our solar system. This UC program says to stay calm and carry on",
+        "snippet": "Congress has cut federal funding for public media — a $3.4 million loss for LAist. We count on readers like you to protect our nonprofit newsroom.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUViQzAxTVdGNVlYUXhiWFJUVFJESUJCaU5CQ2dLTWdZdGs0NlF0UVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUViQzAxTVdGNVlYUXhiWFJUVFJESUJCaU5CQ2dLTWdZdGs0NlF0UVk"
+        },
+        "newsUrl": "https://laist.com/news/climate-environment/an-interstellar-object-is-passing-through-our-solar-system-this-uc-program-says-to-stay-calm-and-carry-on",
+        "publisher": "LAist"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.iflscience.com/major-anomaly-as-interstellar-object-3iatlas-measured-to-be-over-33-billion-tons-80941",
+    "publisher": "IFLScience"
+  },
+  {
+    "timestamp": "1758759000000",
+    "title": "Who is NASA astronaut Anna Menon? Know all about her India connection",
+    "snippet": "Anil, 45, is of Indian-origin, born to Ukrainian and Indian parents. He was the flight surgeon of SpaceX company's first human space mission.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpOVjlVZVRaZk5VNW1ZVmhYVFJDZkF4ampCU2dLTWdZdFZaS3VwUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHpOVjlVZVRaZk5VNW1ZVmhYVFJDZkF4ampCU2dLTWdZdFZaS3VwUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://indianexpress.com/article/world/who-is-anna-menon-elon-musk-spacex-nasa-india-connection-10269097/",
+    "publisher": "The Indian Express"
+  },
+  {
+    "timestamp": "1758727936000",
+    "title": "NASA Sent And Received A Laser-Beamed Message 350 Million Kilometers Away Across The Solar System",
+    "snippet": "Stations on planet Earth have sent and received messages beamed via laser from NASA's Psyche spacecraft over 350 million kilometers (218 million miles) away...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWlNRlpqUWtGWFlWVm1OVzFLVFJEaEFSaVFBeWdLTWdrSk1Zck10S1NpekFF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWlNRlpqUWtGWFlWVm1OVzFLVFJEaEFSaVFBeWdLTWdrSk1Zck10S1NpekFF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.iflscience.com/nasa-sent-and-received-a-laser-beamed-message-350-million-kilometers-away-across-the-solar-system-80932",
+    "publisher": "IFLScience"
+  },
+  {
+    "timestamp": "1758705807000",
+    "title": "A turquoise jay? Oh yes... ultra rare and weird bird spotted in Texas – and scientists blame climate change for its existence",
+    "snippet": "A rare hybrid jay spotted in Texas may be the result of climate change, as shifting bird ranges bring species together.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHdjR05LU0hOcE0yZDZlVkpCVFJDNkFSaVBBaWdCTWdrcEpJcFFGZXA3REFJ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNHdjR05LU0hOcE0yZDZlVkpCVFJDNkFSaVBBaWdCTWdrcEpJcFFGZXA3REFJ"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.discoverwildlife.com/animal-facts/birds/ultra-rare-blue-and-green-jay-spotted",
+    "publisher": "BBC Wildlife Magazine"
+  },
+  {
+    "timestamp": "1758728025000",
+    "title": "Volcanic crisis reveals coupled magma system at Santorini and Kolumbo",
+    "snippet": "Volcanic crises, driven by renewed magma inflow and migration, result in surface deformation and seismicity that can provide unique insights into the...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWxhbFEzZFcxMlJqRmZORGgwVFJDUEJCakdCQ2dLTWdrQklZUUhJaUpzNlFF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWxhbFEzZFcxMlJqRmZORGgwVFJDUEJCakdCQ2dLTWdrQklZUUhJaUpzNlFF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nature.com/articles/s41586-025-09525-7",
+    "publisher": "Nature"
+  },
+  {
+    "timestamp": "1758752198000",
+    "title": "For decades, scientists puzzled over a genetic anomaly. They just solved it.",
+    "snippet": "By examining “junk DNA,” scientists are finding clues to understanding human biology.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9XbkF5V1dkVU1qQkxWVzF4VFJERUF4aW1CU2dLTWdhUmNvNW5MZ2M=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW9XbkF5V1dkVU1qQkxWVzF4VFJERUF4aW1CU2dLTWdhUmNvNW5MZ2M"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.washingtonpost.com/science/2025/09/24/genetic-anomaly-infertility-robertsonian-translocation-chromosome/",
+    "publisher": "The Washington Post"
+  }
+]

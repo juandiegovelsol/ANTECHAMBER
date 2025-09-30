@@ -1,0 +1,234 @@
+[
+  {
+    "timestamp": "1758789935000",
+    "title": "Qualcomm says its new Snapdragon chips are 'the fastest and most efficient' for Windows PCs",
+    "snippet": "Qualcomm has unveiled its new Snapdragon X Series chips for laptops, in addition to its new system-on-a-chip for flagship phones. The Snapdragon X2 Elite...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVpORmhPY2pWTVIxVkZRblJ5VFJDZkF4amlCU2dLTWdZSmhZek51UVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVpORmhPY2pWTVIxVkZRblJ5VFJDZkF4amlCU2dLTWdZSmhZek51UVU"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758681721000",
+        "title": "Qualcomm New Chip Promises AI Agents in Your PC",
+        "snippet": "Snapdragon X2 boosts AI with 80 TOPS and 128GB RAM, enhancing PC performance for AI tasks. Qualcomm aims to lead in AI computing with this powerful chip.",
+        "newsUrl": "https://spectrum.ieee.org/qualcomm-snapdragon-x2",
+        "publisher": "IEEE Spectrum"
+      },
+      {
+        "timestamp": "1758758640000",
+        "title": "Qualcomm showcases new PC chip with features aimed at business market",
+        "snippet": "Qualcomm on Wednesday announced a suite of new chips for PCs and phones, including a PC chip with a new security feature for businesses that analysts say is...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVBkakYzTXpaMk5TMUVNRmsxVFJERUF4aW1CU2dLTWdZSmhKYUhyUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVBkakYzTXpaMk5TMUVNRmsxVFJERUF4aW1CU2dLTWdZSmhKYUhyUWM"
+        },
+        "newsUrl": "https://www.reuters.com/business/qualcomm-showcases-new-pc-chip-with-features-aimed-business-market-2025-09-25/",
+        "publisher": "Reuters"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.engadget.com/computing/qualcomm-says-its-new-snapdragon-chips-are-the-fastest-and-most-efficient-for-windows-pcs-084535090.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1758758400000",
+    "title": "I tested the iPhone 17 Pro Max, and here's one big reason for a year-over-year upgrade",
+    "snippet": "Review: While I don't usually advise upgrading to the flagship iPhone if you have last year's model, there's one particularly hot factor to consider in...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJZVFJxVFRsWmNrWmhSVWxHVFJDZkF4amlCU2dLTWdZTk5ZN05IUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDJZVFJxVFRsWmNrWmhSVWxHVFJDZkF4amlCU2dLTWdZTk5ZN05IUW8"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758816646000",
+        "title": "Review: Apple’s injects just the right amount of “Pro” into the regular iPhone 17",
+        "snippet": "The least exciting iPhone this year is also the best value for the money.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVBRbTB4U0haNmNGZHphM0ZLVFJDZkF4ampCU2dLTWdZVlFvek9xUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVBRbTB4U0haNmNGZHphM0ZLVFJDZkF4ampCU2dLTWdZVlFvek9xUVk"
+        },
+        "newsUrl": "https://arstechnica.com/gadgets/2025/09/review-apples-injects-just-the-right-amount-of-pro-into-the-regular-iphone-17/",
+        "publisher": "Ars Technica"
+      },
+      {
+        "timestamp": "1758456027000",
+        "title": "Apple’s iPhone 17 Shows Device’s Staying Power — At Least for Now",
+        "snippet": "After years of modest upgrades, Apple finally has a standout new iPhone on its hands. Here are my first impressions. Also: Meta launches game-changing...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxZMFZKV25wM2QwWlpVVXBGVFJERUF4aW1CU2dLTWdZQk1JeG1yZ1E=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUxZMFZKV25wM2QwWlpVVXBGVFJERUF4aW1CU2dLTWdZQk1JeG1yZ1E"
+        },
+        "newsUrl": "https://www.bloomberg.com/news/newsletters/2025-09-21/mark-gurman-s-iphone-17-first-impressions-touchscreen-macbook-pro-meta-glasses",
+        "publisher": "Bloomberg.com"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.zdnet.com/article/i-tested-the-iphone-17-pro-max-and-heres-one-big-reason-for-a-year-over-year-upgrade/",
+    "publisher": "ZDNET"
+  },
+  {
+    "timestamp": "1758805200000",
+    "title": "The OnePlus 15 gets early reveal, with new image engine and Snapdragon 8 Elite Gen 5",
+    "snippet": "The OnePlus 15 is shaping up to be a big change for OnePlus, with a rumored new design and the confirmation of a custom image engine.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXVjMGQ0ZHpGV1kydHFibkJhVFJDSEF4aVBCaWdLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNXVjMGQ0ZHpGV1kydHFibkJhVFJDSEF4aVBCaWdLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758799214000",
+        "title": "OnePlus 13 plus one equals the OnePlus 15",
+        "snippet": "OnePlus has announced that its next flagship, the OnePlus 15, will come with a Snapdragon 8 Elite Gen 5 chipset.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUdNMWN4TW5ZMGNWZG5WVWhuVFJER0F4aWpCU2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUdNMWN4TW5ZMGNWZG5WVWhuVFJER0F4aWpCU2dLTWdB"
+        },
+        "newsUrl": "https://www.theverge.com/tech/785386/oneplus-13-plus-one-equals-the-oneplus-15",
+        "publisher": "The Verge"
+      },
+      {
+        "timestamp": "1758814140000",
+        "title": "The OnePlus 15 With Brand New Snapdragon Chip Makes Its First Appearance",
+        "snippet": "Forget the OnePlus 14. The next OnePlus phone is the OnePlus 15, which will be powered by the newly announced Snapdragon 8 Elite Gen 5.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDJVMHg2YmxCaFdXb3ROV2w1VFJDZkF4ampCU2dLTWdtQmdZN1Z4Q1N4REFJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNDJVMHg2YmxCaFdXb3ROV2w1VFJDZkF4ampCU2dLTWdtQmdZN1Z4Q1N4REFJ"
+        },
+        "newsUrl": "https://www.cnet.com/tech/mobile/the-oneplus-15-with-brand-new-snapdragon-chip-makes-its-first-appearance/",
+        "publisher": "cnet.com"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://9to5google.com/2025/09/25/oneplus-15-early-reveal/",
+    "publisher": "9to5Google"
+  },
+  {
+    "timestamp": "1758803400000",
+    "title": "Bizarre app that pays you to share your audio calls hits #2 in App Store social apps",
+    "snippet": "A bizarre app that invites you to record and share your audio calls so that it can sell the data to AI companies has become the second most downloaded...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXBZbFU0YmxKTk5rMVFUMWcwVFJDSEF4aVBCaWdLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNXBZbFU0YmxKTk5rMVFUMWcwVFJDSEF4aVBCaWdLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758815940000",
+        "title": "This Free App Pays You to Record Your Calls for AI Training, and It's a Hit",
+        "snippet": "A new app that promises to pay people for their mobile phone call records, which is then used to train AI models, is getting so popular it's entered Apple's...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVNVXAxV1dKaVprZDVhekY0VFJDZkF4ampCU2dLTWdZaFZJeHdxUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDVNVXAxV1dKaVprZDVhekY0VFJDZkF4ampCU2dLTWdZaFZJeHdxUVk"
+        },
+        "newsUrl": "https://www.cnet.com/tech/services-and-software/this-free-app-pays-you-to-record-your-calls-for-ai-training-and-its-a-hit/",
+        "publisher": "cnet.com"
+      },
+      {
+        "timestamp": "1758807595000",
+        "title": "This App Sells Call Recordings to AI Firms, Now Trending on US App Store",
+        "snippet": "It seems users don't mind sharing their data—as long as they are getting paid for it.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZVMGMwWnpkVFZrRmxUM1F4VFJDZkF4amlCU2dLTWdZQkk1QUt0Z1k=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXZVMGMwWnpkVFZrRmxUM1F4VFJDZkF4amlCU2dLTWdZQkk1QUt0Z1k"
+        },
+        "newsUrl": "https://www.pcmag.com/news/this-app-sells-call-recordings-to-ai-firms-now-trending-on-us-app-store",
+        "publisher": "PCMag"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://9to5mac.com/2025/09/25/bizarre-app-that-pays-you-to-share-your-audio-calls-hits-2-in-app-store-social-apps/",
+    "publisher": "9to5Mac"
+  },
+  {
+    "timestamp": "1758811898000",
+    "title": "Xiaomi 17 series arrives with secondary screens and enormous batteries",
+    "snippet": "The Xiaomi 17, 17 Pro, and 17 Pro Max may have Apple-y names, but you'd never see an iPhone quite like this.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWFNWEl5TkMxTWJVeHNiR05DVFJER0F4aWpCU2dLTWdtWk00eEpJcWhVcUFJ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWFNWEl5TkMxTWJVeHNiR05DVFJER0F4aWpCU2dLTWdtWk00eEpJcWhVcUFJ"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758808221000",
+        "title": "Billionaire Xiaomi Founder Debuts a $630 Answer to iPhone 17",
+        "snippet": "(Bloomberg) -- Xiaomi Corp.'s billionaire co-founder unveiled a $630 smartphone designed to take on the just-released iPhone 17, underscoring the Chinese...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUtRVU5QY1hObVZsZEJRVEJtVFJDZkF4ampCU2dLTWdhaE00eHNuUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUtRVU5QY1hObVZsZEJRVEJtVFJDZkF4ampCU2dLTWdhaE00eHNuUWs"
+        },
+        "newsUrl": "https://finance.yahoo.com/news/billionaire-xiaomi-founder-debuts-630-135021602.html",
+        "publisher": "Yahoo Finance"
+      },
+      {
+        "timestamp": "1758813966000",
+        "title": "Xiaomi’s retro handheld phone case is the best, and worst, way to game",
+        "snippet": "Ideal for any game that doesn't require you to actually see the whole screen.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUhRbmhxZVVkRFJuZExSR0U0VFJEQ0F4aXFCU2dLTWdZNU00cFNtUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUhRbmhxZVVkRFJuZExSR0U0VFJEQ0F4aXFCU2dLTWdZNU00cFNtUWc"
+        },
+        "newsUrl": "https://www.theverge.com/news/785720/xiaomi-retro-handheld-phone-case-17-pro-gaming",
+        "publisher": "The Verge"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theverge.com/news/785693/xiaomi-17-pro-max-china-launch-specs-price-second-screen",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1758806519000",
+    "title": "I put the iPhone Air vs Galaxy S25 Edge through a 7-round face-off — here's the winner",
+    "snippet": "I compare the iPhone Air and Galaxy S25 Edge side by side in terms of design, cameras, performance, battery life and overall value.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVFUVFpPVjBOUk1VTXRlV1pVVFJDZkF4ampCU2dLTWdhZEpJTE1tUVE=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVFUVFpPVjBOUk1VTXRlV1pVVFJDZkF4ampCU2dLTWdhZEpJTE1tUVE"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.tomsguide.com/phones/i-put-the-iphone-air-vs-samsung-galaxy-s25-edge-through-a-7-round-face-off-heres-the-winner",
+    "publisher": "Tom's Guide"
+  },
+  {
+    "timestamp": "1758816156000",
+    "title": "‘Ghost of Yotei’ sharpens the samurai revenge formula with raw feeling",
+    "snippet": "The open-world PlayStation epic excels thanks to a revenge story written with precision and heart, backed by a compelling lead performance.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWlSa3hsVkd4TVRrcHdOMGhVVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWlSa3hsVkd4TVRrcHdOMGhVVFJDZkF4ampCU2dLTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.washingtonpost.com/entertainment/video-games/2025/09/25/ghost-of-yotei-review/",
+    "publisher": "The Washington Post"
+  },
+  {
+    "timestamp": "1758725100000",
+    "title": "YouTube widely pushes AI age verification and restrictions",
+    "snippet": "Over a month after it was announced, YouTube is now widely enforcing its AI age verification and restrictions on viewers.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpVWGR6VEVwalZVOVRkbmxJVFJDSEF4aVBCaWdLTWdZbE5ZcXRHUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWpVWGR6VEVwalZVOVRkbmxJVFJDSEF4aVBCaWdLTWdZbE5ZcXRHUW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://9to5google.com/2025/09/24/youtube-widely-pushes-ai-age-verification-and-restrictions/",
+    "publisher": "9to5Google"
+  },
+  {
+    "timestamp": "1758715875000",
+    "title": "Apple AirPods Pro 3 review: Close to perfect",
+    "snippet": "Apple looks to improve upon the AirPods Pro 2, but those are big shoes to fill. Read our Apple AirPods Pro 3 reviewt o see if it succeeded.",
+    "hasSubnews": false,
+    "newsUrl": "https://www.soundguys.com/apple-airpods-pro-3-review-close-to-perfect-144636/",
+    "publisher": "SoundGuys"
+  },
+  {
+    "timestamp": "1758733500000",
+    "title": "iOS 26.1 public beta now available, here’s everything new",
+    "snippet": "Apple has just released the public beta for iOS 26.1, here's everything new in the latest iPhone software version.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXdWMFV6ZUcxbk0zRjBSbEpSVFJDSEF4aVBCaWdLTWdZWk00aHJvUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXdWMFV6ZUcxbk0zRjBSbEpSVFJDSEF4aVBCaWdLTWdZWk00aHJvUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://9to5mac.com/2025/09/24/ios-26-1-public-beta-now-available-heres-everything-new/",
+    "publisher": "9to5Mac"
+  }
+]
