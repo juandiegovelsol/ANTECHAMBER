@@ -1,0 +1,238 @@
+[
+  {
+    "timestamp": "1759316406000",
+    "title": "This Leech Had an Appetite for Something Other Than Blood",
+    "snippet": "A 437-million-year-old fossil from a deposit in Wisconsin could be the oldest species of leech ever found.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUtObTgwVmxGRk5FZG1XVWROVFJDbEJSakZBeWdLTWdZdE5JcXdvUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUtObTgwVmxGRk5FZG1XVWROVFJDbEJSakZBeWdLTWdZdE5JcXdvUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/2025/10/01/science/leeches-fossils-waukesha-wisconsin.html",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1759314930000",
+    "title": "New Data on the Extreme Nickel Production of 3I/ATLAS",
+    "snippet": "A new report (accessible here) from the UVES spectrograph of the European Very Large Telescope in Chile provides data on the anomalous abundance of nickel...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUtiVmx0YmtGSFFrRm1WVUpxVFJEY0F4aUVCU2dLTWdZUmdvUnd3UVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUtiVmx0YmtGSFFrRm1WVUpxVFJEY0F4aUVCU2dLTWdZUmdvUnd3UVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1758888315000",
+        "title": "ESA’s Mars and Jupiter missions observe comet 3I/ATLAS",
+        "snippet": "Comet 3I/ATLAS was first spotted on 1 July 2025 by an Asteroid Terrestrial-impact Last Alert System (ATLAS) telescope in Río Hurtado, Chile.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTRSRGxUZG1KbE1GSk5kR3RmVFJDZkF4ampCU2dLTWdZaE1aUzFIQWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTRSRGxUZG1KbE1GSk5kR3RmVFJDZkF4ampCU2dLTWdZaE1aUzFIQWc"
+        },
+        "newsUrl": "https://www.esa.int/ESA_Multimedia/Images/2025/09/ESA_s_Mars_and_Jupiter_missions_observe_comet_3I_ATLAS",
+        "publisher": "European Space Agency"
+      },
+      {
+        "timestamp": "1758753766000",
+        "title": "News on 3I/ATLAS: Lack of Non-Gravitational Acceleration Implies an Anomalously Massive Object",
+        "snippet": "News on 3I/ATLAS: Lack of Non-Gravitational Acceleration Implies an Anomalously Massive Object BREAKING NEWS: the interstellar object 3I/ATLAS is...",
+        "newsUrl": "https://avi-loeb.medium.com/news-on-3i-atlas-lack-of-non-gravitational-acceleration-implies-an-anomalously-massive-object-7ad320e69cef",
+        "publisher": "Avi Loeb – Medium"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://avi-loeb.medium.com/new-data-on-the-extreme-nickel-production-of-3i-atlas-c889b20342c1",
+    "publisher": "Avi Loeb – Medium"
+  },
+  {
+    "timestamp": "1759320000000",
+    "title": "Could China return the Perseverance rover's possible biosignature sample from Mars?",
+    "snippet": "NASA has reported possible biosignatures in a Mars rock, but delays and funding woes cloud its sample return mission. Could China's Tianwen-3 step in and...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUhhMjVDZEVRMlpuWXpNV0pJVFJDZkF4ampCU2dLTWdrQlFJeEhzcVlsekFF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUhhMjVDZEVRMlpuWXpNV0pJVFJDZkF4ampCU2dLTWdrQlFJeEhzcVlsekFF"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759312800000",
+        "title": "How excited should we be about the latest Mars potential biosignature discovery? 'It's arguably the best evidence we have so far'",
+        "snippet": "What about those previously studied plumes of methane and meteorites potentially stuffed with the fossils of Martian microbes?",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUtaelZOYUhWd2NXOXBaMnA1VFJDZkF4ampCU2dLTWdrWmc0cktOYVZjTWdF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUtaelZOYUhWd2NXOXBaMnA1VFJDZkF4ampCU2dLTWdrWmc0cktOYVZjTWdF"
+        },
+        "newsUrl": "https://www.yahoo.com/news/articles/excited-latest-mars-potential-biosignature-100000115.html",
+        "publisher": "Yahoo"
+      },
+      {
+        "timestamp": "1759326652000",
+        "title": "NASA validates a Martian “message” — A living DNA animation and the shocking takeaway",
+        "snippet": "NASA has been trying to crack a message that came from Mars. While NASA scientists couldn't find an answer for what they were seeing, an independent team...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNiblZDY3pGVU1sOVpOWFp6VFJDZkF4amlCU2dLTWdhcFZKVE5KUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVNiblZDY3pGVU1sOVpOWFp6VFJDZkF4amlCU2dLTWdhcFZKVE5KUWM"
+        },
+        "newsUrl": "https://www.ecoportal.net/en/nasa-validates-martian-message-dna/13353/",
+        "publisher": "ecoportal.net"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.space.com/astronomy/mars/could-china-return-the-perseverance-rovers-possible-biosignature-sample-from-mars",
+    "publisher": "Space"
+  },
+  {
+    "timestamp": "1759350717000",
+    "title": "NASA Continuity of Appropriations Plan",
+    "snippet": "Keith's note: NASA posted NASA Continuity of Appropriations Plan (PDF) effective 29 September 2025 saying “Pursuant to the Office of Management and Budget...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJaM2RuV0RCTFlVeGFlV3RXVFJDYkF4anBCU2dLTWdZUk00NnVKUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDJaM2RuV0RCTFlVeGFlV3RXVFJDYkF4anBCU2dLTWdZUk00NnVKUW8"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759349103000",
+        "title": "NASA employees on Artemis missions with SpaceX, Blue Origin to work through shutdown",
+        "snippet": "NASA employees were informed that those working on Artemis missions with SpaceX and Blue Origin would need to continue working through the shutdown.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNjbUZhZEZsUlpFVmZVR2czVFJDZkF4ampCU2dLTWdhbE1wb01IUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDNjbUZhZEZsUlpFVmZVR2czVFJDZkF4ampCU2dLTWdhbE1wb01IUW8"
+        },
+        "newsUrl": "https://www.cnbc.com/2025/10/01/nasa-employees-on-spacex-artemis-missions-to-work-through-shutdown.html",
+        "publisher": "CNBC"
+      },
+      {
+        "timestamp": "1759324019000",
+        "title": "NASA closes doors to 15,000 employees as US government shutdown begins",
+        "snippet": "Over 80% of NASA's workforce is being told to stay home.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdURWRPV210NlJUUXlVak5rVFJDZkF4ampCU2dLTWdhQlFvNFRyUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVdURWRPV210NlJUUXlVak5rVFJDZkF4ampCU2dLTWdhQlFvNFRyUWM"
+        },
+        "newsUrl": "https://www.space.com/space-exploration/nasa-closes-doors-to-15-000-employees-as-us-government-shutdown-begins",
+        "publisher": "Space"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://nasawatch.com/shutdown/nasa-continuity-of-appropriations-plan/",
+    "publisher": "NASA Watch"
+  },
+  {
+    "timestamp": "1759353615000",
+    "title": "Why do women outlive men? A study of 1,176 species points to an answer.",
+    "snippet": "Women tend to live longer than men. There are traditional explanations: Men smoke more. They drink more. They tend to engage in riskier behavior.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNW1kVWw0ZERKbE1raFpUVEJaVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNW1kVWw0ZERKbE1raFpUVEJaVFJERUF4aW1CU2dLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759341628000",
+        "title": "Evolution may explain why women live longer than men",
+        "snippet": "In most mammals, females live longer than males, but in birds the trend goes the other way – a study of over 1000 species points to possible reasons for...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUliVFUzZGtrM2VuTnBUbGxCVFJERUF4aW1CU2dLTWdhSndJN0lRQVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUliVFUzZGtrM2VuTnBUbGxCVFJERUF4aW1CU2dLTWdhSndJN0lRQVU"
+        },
+        "newsUrl": "https://www.newscientist.com/article/2498396-evolution-may-explain-why-women-live-longer-than-men/",
+        "publisher": "New Scientist"
+      },
+      {
+        "timestamp": "1759341830000",
+        "title": "Why women live longer than men",
+        "snippet": "Mammals vs birds: Among the 1,176 species studied, female mammals live on average 13 percent longer than males, while among birds, males live about five...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUNXRkZvZFhSMFdFdzFVRkpEVFJDM0FSaVRBaWdCTWdtWlVaQkpvdWcxcndF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUNXRkZvZFhSMFdFdzFVRkpEVFJDM0FSaVRBaWdCTWdtWlVaQkpvdWcxcndF"
+        },
+        "newsUrl": "https://www.eurekalert.org/news-releases/1099930?",
+        "publisher": "EurekAlert!"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.washingtonpost.com/science/2025/10/01/why-do-women-live-longer-than-men/",
+    "publisher": "The Washington Post"
+  },
+  {
+    "timestamp": "1759219392000",
+    "title": "An Environmental Triumph 400 Million Years in the Making",
+    "snippet": "This story is part of Fungi Week, a deep dive into the myriad ways mushrooms and fungi make the planet a healthier place for all its inhabitants.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUNTRlJrVEVKQk5VRkZja2xMVFJEZkF4aUFCU2dLTWdNUk1CNA=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNUNTRlJrVEVKQk5VRkZja2xMVFJEZkF4aUFCU2dLTWdNUk1CNA"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759312283000",
+        "title": "Fungi Paved the Way for Terrestrial Life Far Earlier Than Previously Believed",
+        "snippet": "Recent research has unveiled significant insights into the evolution of fungi, suggesting a timeline much earlier than previously believed.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVlUVlpSUzI5cllYYzJkRWhZVFJDQUJCaUFCQ2dLTWdtUkVveE9GZW1La1FF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNVlUVlpSUzI5cllYYzJkRWhZVFJDQUJCaUFCQ2dLTWdtUkVveE9GZW1La1FF"
+        },
+        "newsUrl": "https://bioengineer.org/fungi-paved-the-way-for-terrestrial-life-far-earlier-than-previously-believed/",
+        "publisher": "BIOENGINEER.ORG"
+      },
+      {
+        "timestamp": "1759315129000",
+        "title": "A timetree of Fungi dated with fossils and horizontal gene transfers",
+        "snippet": "Dating the tree of Fungi has been challenging due to a paucity of fossil calibrations and high taxonomic diversity of the group. Here we reconstructed and...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNURla0ZwTVRKQ2RrbDNVbkpxVFJDX0FSaXRCU2dLTWdtQkVZS2tsZU04cFFJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNURla0ZwTVRKQ2RrbDNVbkpxVFJDX0FSaXRCU2dLTWdtQkVZS2tsZU04cFFJ"
+        },
+        "newsUrl": "https://www.nature.com/articles/s41559-025-02851-z",
+        "publisher": "Nature"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://reasonstobecheerful.world/environmental-triumph-fungi-forest-soil-restoration-climate-change/",
+    "publisher": "Reasons to be Cheerful"
+  },
+  {
+    "timestamp": "1759312800000",
+    "title": "Full Moon October 2025: When To See The ‘Harvest Supermoon’ Rise",
+    "snippet": "Everything you need to know about October's full harvest “supermoon,” including exactly when, where, and how to see it at its best from where you are.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVpTR2w0VDJGU05DMHlVMUJZVFJDZkF4ampCU2dLTWdhcFJKeXRvUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVpTR2w0VDJGU05DMHlVMUJZVFJDZkF4ampCU2dLTWdhcFJKeXRvUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.forbes.com/sites/jamiecartereurope/2025/10/01/full-moon-october-2025-when-to-see-the-harvest-moon-rise-where-you-are/",
+    "publisher": "Forbes"
+  },
+  {
+    "timestamp": "1759317975000",
+    "title": "Detection of organic compounds in freshly ejected ice grains from Enceladus’s ocean",
+    "snippet": "Saturn's moon Enceladus ejects a plume of ice grains and gases originating from a subsurface ocean via fractures near its south pole.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUpjekpsTlhOT2IzUlZha3hEVFJDekFSaWFBaWdCTWdZQkVJcUttQW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUpjekpsTlhOT2IzUlZha3hEVFJDekFSaWFBaWdCTWdZQkVJcUttQW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nature.com/articles/s41550-025-02655-y",
+    "publisher": "Nature"
+  },
+  {
+    "timestamp": "1759237200000",
+    "title": "Don't miss International Observe the Moon Night 2025: How to join the celebration on Oct. 4",
+    "snippet": "Get ready stargazers! International Observe the Moon Night 2025 takes place on Oct. 4. Here's how you can join the NASA-led celebration of Earth's natural...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTVZUzFEWDFkNE9GUlVPWEpGVFJDZkF4ampCU2dLTWdZWlE0RE9JUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTVZUzFEWDFkNE9GUlVPWEpGVFJDZkF4ampCU2dLTWdZWlE0RE9JUW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.space.com/stargazing/international-observe-the-moon-night-2025-how-to-get-involved-oct-4",
+    "publisher": "Space"
+  },
+  {
+    "timestamp": "1759330800000",
+    "title": "Mysterious 160 million-year-old creature unearthed on Isle of Skye is part lizard, part snake",
+    "snippet": "Researchers have discovered a mysterious ancient lizard with snake-like teeth in Scotland. Breugnathair elgolensis is one of the oldest relatively complete...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXBTR1EyZEVsbmExUmhRVEpTVFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNXBTR1EyZEVsbmExUmhRVEpTVFJDb0FSaXNBaWdCTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.livescience.com/animals/extinct-species/mysterious-160-million-year-old-creature-unearthed-on-isle-of-skye-is-part-lizard-part-snake",
+    "publisher": "Live Science"
+  }
+]

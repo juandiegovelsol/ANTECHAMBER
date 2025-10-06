@@ -1,0 +1,82 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTAxfDE1NzUyMjYzMDQzNjc3NDAyMjIz",
+    "name": "Lorde with The Japanese House and Chanel Beads",
+    "link": "https://open.spotify.com/concert/1JA36qQaLW89wn8zOUEb4h",
+    "description": "Find tickets for Lorde with The Japanese House and Chanel Beads at Madison Square Garden in New York on 10/1/2025 at 7:00 PM",
+    "language": "en",
+    "date_human_readable": "Wed, Oct 1, 7 – 9 PM",
+    "start_time": "2025-10-01 19:00:00",
+    "start_time_utc": "2025-10-01 19:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-01 21:00:00",
+    "end_time_utc": "2025-10-01 21:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/1JA36qQaLW89wn8zOUEb4h",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Ticketmaster.com",
+        "link": "https://ticketmaster.evyy.net/c/253185/264167/4272?SharedId=DoStuff&u=https%3A%2F%2Fwww.ticketmaster.com%2Florde-ultrasound-new-york-new-york-10-01-2025%2Fevent%2F3B0062A1E72C2297",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://evyy.net&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/music-tickets/2025/10/01/lorde-ultrasound",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Festivaly.eu",
+        "link": "https://festivaly.eu/en/lorde-ultrasound-madison-square-garden-new-york-2025",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://festivaly.eu&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Seatgeek.com",
+        "link": "https://seatgeek.com/lorde-tickets/new-york-new-york-madison-square-garden-2025-10-01-7-pm/concert/17514913?gclsrc=%7BGOOGLE-ADS-CLICK-SOURCE%7D&refob=mta&ref_price=112.10",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seatgeek.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/1JA36qQaLW89wn8zOUEb4h"
+      }
+    ],
+    "venue": {
+      "google_id": "0x89c25a21fb011c85:0x33df10e49762f8e4",
+      "name": "Madison Square Garden",
+      "phone_number": "+12124656000",
+      "website": "https://www.msg.com/madison-square-garden",
+      "review_count": 31639,
+      "rating": 4.7,
+      "subtype": "Arena",
+      "subtypes": [
+        "Arena",
+        "Basketball club",
+        "Event venue",
+        "Sports complex",
+        "Stadium",
+        "Tourist attraction"
+      ],
+      "full_address": "Madison Square Garden, New York, NY 10001",
+      "latitude": 40.7505045,
+      "longitude": -73.9934387,
+      "district": "Manhattan",
+      "street": null,
+      "city": "New York",
+      "zipcode": "10001",
+      "state": "New York",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/m/0j_66"
+    }
+  }
+]

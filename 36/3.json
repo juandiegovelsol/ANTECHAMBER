@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "1759345747000",
+    "title": "Microsoft hikes price of Xbox Game Pass by 50% \"to offer more flexibility, choice, and value to all players\"",
+    "snippet": "Microsoft is raising the price of its subscription service Xbox Game Pass, with its most expensive tier, Xbox Game Pass Ultimate, increasing from...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTZTRlJGT1ZGMVprMTFTWGRmVFJEV0FSajhBaWdLTWdtQk1JN0VuYVV0YndF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNTZTRlJGT1ZGMVprMTFTWGRmVFJEV0FSajhBaWdLTWdtQk1JN0VuYVV0YndF"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759327425000",
+        "title": "Updates to Xbox Game Pass: Introducing Essential, Premium, and Ultimate Plans",
+        "snippet": "Our goal with Game Pass has been clear: deliver unmatched value, benefits, and a deep library of games for our players. Since launching in 2017,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUZNMDlPT1dFMWFIUXRhVWRFVFJDZkF4ampCU2dLTWdrRlFvNFNJU25KYUFJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUZNMDlPT1dFMWFIUXRhVWRFVFJDZkF4ampCU2dLTWdrRlFvNFNJU25KYUFJ"
+        },
+        "newsUrl": "https://news.xbox.com/en-us/2025/10/01/xbox-game-pass-ultimate-premium-essential-plans/",
+        "publisher": "Xbox Wire"
+      },
+      {
+        "timestamp": "1759352160000",
+        "title": "Microsoft made changes to their Xbox Game Pass tiers, including a price hike",
+        "snippet": "Microsoft raised the Xbox Game Pass Ultimate tier to $29.99 monthly, a 50% increase from before.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1iRTEyWjE5RlZGSjFSRzVKVFJDZkF4ampCU2dLTWdZUlFKVFNJQWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW1iRTEyWjE5RlZGSjFSRzVKVFJDZkF4ampCU2dLTWdZUlFKVFNJQWc"
+        },
+        "newsUrl": "https://www.10tv.com/article/news/nation-world/microsoft-xbox-game-pass-price-increase/507-3c48a400-6364-4181-a59c-7cf41c6f44a4",
+        "publisher": "10tv.com"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.gamesindustry.biz/microsoft-hikes-price-of-xbox-game-pass-by-50-to-offer-more-flexibility-choice-and-value-to-all-players",
+    "publisher": "GamesIndustry.biz"
+  },
+  {
+    "timestamp": "1759323600000",
+    "title": "Gemini Arrives in Google Home With New Nest Cameras and a Smart Speaker",
+    "snippet": "Gemini replaces Assistant in your smart home, as Google redesigns the Home app and launches a new generation of Nest devices.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXFkVzFxTlhwbFVFdGxhM2xoVFJERUF4aW1CU2dLTWdhQllZek51UVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXFkVzFxTlhwbFVFdGxhM2xoVFJERUF4aW1CU2dLTWdhQllZek51UVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759324264000",
+        "title": "We’re introducing the new Google Home Premium subscription plus new benefits for AI Pro and Ultra subscribers.",
+        "snippet": "Introducing Google Home Premium, our new whole-home subscription that replaces Nest Aware and brings Gemini for Home capabilities to your compatible devices...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWpNa3MzUjFOaVoySm5SMEp0VFJDZkF4ampCU2dLTWdNWkFBUQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNWpNa3MzUjFOaVoySm5SMEp0VFJDZkF4ampCU2dLTWdNWkFBUQ"
+        },
+        "newsUrl": "https://blog.google/products/google-nest/googe-home-premium-google-ai-pro-subscription/",
+        "publisher": "The Keyword"
+      },
+      {
+        "timestamp": "1759348800000",
+        "title": "Your old Google smart home gadgets are about to get chattier. Here’s why.",
+        "snippet": "After nearly a decade, Google's vision of the smart home is getting an AI overhaul.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUZhbGRpYzJSeFoyMXlaa2xyVFJDcUJCaXFCQ2dLTWdrQlpZWUVwMmlaOVFB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUZhbGRpYzJSeFoyMXlaa2xyVFJDcUJCaXFCQ2dLTWdrQlpZWUVwMmlaOVFB"
+        },
+        "newsUrl": "https://www.washingtonpost.com/technology/2025/10/01/google-home-nest-ai-gemini-upgrade/",
+        "publisher": "The Washington Post"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/",
+    "publisher": "WIRED"
+  },
+  {
+    "timestamp": "1759335063000",
+    "title": "Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event",
+    "snippet": "Ahead of Prime Big Deal Days next week, we got a firsthand look at fresh products across Amazon's 2025 hardware lineup.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTRNMkkwVDJzek9XTlZRVU00VFJDZkF4ampCU2dLTWdZbElJWnJ4UU0=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTRNMkkwVDJzek9XTlZRVU00VFJDZkF4ampCU2dLTWdZbElJWnJ4UU0"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759245108000",
+        "title": "Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+",
+        "snippet": "Amazon doubles down on AI for the home with new Echo devices.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVWR1JLVWpOR1dsWkxjVmxuVFJDZkF4ampCU2dLTWdZQmtJYk1NUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDVWR1JLVWpOR1dsWkxjVmxuVFJDZkF4ampCU2dLTWdZQmtJYk1NUWM"
+        },
+        "newsUrl": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
+        "publisher": "about Amazon"
+      },
+      {
+        "timestamp": "1759250160000",
+        "title": "Everything Amazon Announced Today at Its Fall Hardware Event (2025)",
+        "snippet": "Amazon's next-gen Alexa+ chatbot is now available in four new Echo devices and a bevy of Ring cameras. The company also debuted three new Kindle Scribe...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFUbTU0WlVOTU9FUjRMVFZSVFJETUF4aWJCU2dLTWdZWkZZaXRHUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWFUbTU0WlVOTU9FUjRMVFZSVFJETUF4aWJCU2dLTWdZWkZZaXRHUWc"
+        },
+        "newsUrl": "https://www.wired.com/story/everything-amazon-announced-today-at-its-fall-hardware-event/",
+        "publisher": "WIRED"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.pcmag.com/news/everything-amazon-announced-2025-fall-devices-event-scribe-ring-echo-fire",
+    "publisher": "PCMag"
+  },
+  {
+    "timestamp": "1759323600000",
+    "title": "Philips’ new Roku TVs come with their own immersive backlights",
+    "snippet": "Philips has announced a new lineup of LCD TVs featuring both built-in immersive backlighting and the Roku TV operating system.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDRRMWhQVG5GMU5USlNjRTV6VFJEQ0F4aXFCU2dLTWdrVmNvNFJMYWVLY0FF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNDRRMWhQVG5GMU5USlNjRTV6VFJEQ0F4aXFCU2dLTWdrVmNvNFJMYWVLY0FF"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759323600000",
+        "title": "Philips Roku TV Featuring Ambilight Now Available in the U.S.",
+        "snippet": "SAN JOSE, Calif., October 01, 2025--Today, Roku, the #1 TV streaming platform in the U.S., Canada, and Mexico*, announced the launch of the Philips Roku TV™...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVJURVp4VjBFelNuTklVMWRXVFJDT0FoamdBeWdLTWdZVlU1SnJLUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVJURVp4VjBFelNuTklVMWRXVFJDT0FoamdBeWdLTWdZVlU1SnJLUWM"
+        },
+        "newsUrl": "https://finance.yahoo.com/news/philips-roku-tv-featuring-ambilight-130000049.html",
+        "publisher": "Yahoo Finance"
+      },
+      {
+        "timestamp": "1759344680000",
+        "title": "Roku’s First TV Comes To Market, With Philips’ Help",
+        "snippet": "Roku is known as a key TV streaming platform. That said, it has set its sights on the television set marketplace in an environment where built-in free ad...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWlWbHBxVXpKYVVtNVRkakJhVFJDQkJCaldCQ2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWlWbHBxVXpKYVVtNVRkakJhVFJDQkJCaldCQ2dLTWdB"
+        },
+        "newsUrl": "https://rbr.com/rokus-first-tv-comes-to-market-with-philips-help/",
+        "publisher": "Radio & Television Business Report"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theverge.com/news/788962/philips-roku-ambilight-lcd-tv-backlights-bias-lighting",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1759330860000",
+    "title": "Microsoft’s Latest Windows 11 25H2 Update Finally Rolls Out to Users, But Launch Day is Plagued with Troubles",
+    "snippet": "Microsoft's Windows 11 25H2 update is now available to users, but it has debuted with four issues, which may not be a significant concern.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVWRGR4YmxRMVNEbHhhSFZVVFJDcUF4alFCU2dLTWdhaGRKS3NLUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVVWRGR4YmxRMVNEbHhhSFZVVFJDcUF4alFCU2dLTWdhaGRKS3NLUWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759253175000",
+        "title": "How to get the Windows 11 2025 Update",
+        "snippet": "Windows is essential for more than a billion people to connect, learn, play and work, and today we are announcing the availability of the Windows 11 2025...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVBXRGcxWm1WaGRqSTRRVGhpVFJERUF4aW1CU2dLTWdZWlJKSnhvUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVBXRGcxWm1WaGRqSTRRVGhpVFJERUF4aW1CU2dLTWdZWlJKSnhvUWM"
+        },
+        "newsUrl": "https://blogs.windows.com/windowsexperience/2025/09/30/how-to-get-the-windows-11-2025-update/",
+        "publisher": "Windows Blog"
+      },
+      {
+        "timestamp": "1759299817000",
+        "title": "Microsoft Releases Windows 11 25H2... With Zero New Features?",
+        "snippet": "Microsoft has officially released Windows 11 version 25H2 after months of testing and previews. Delivered as a lightweight enablement package (eKB),...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWplbUUxWlcxTmQwcDBaVTl4VFJESEF4aWhCU2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWplbUUxWlcxTmQwcDBaVTl4VFJESEF4aWhCU2dLTWdB"
+        },
+        "newsUrl": "https://www.techpowerup.com/341519/microsoft-releases-windows-11-25h2-with-zero-new-features",
+        "publisher": "TechPowerUp"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://wccftech.com/microsoft-windows-11-25h2-version-has-rolled-out-to-users/",
+    "publisher": "Wccftech"
+  },
+  {
+    "timestamp": "1759329667000",
+    "title": "Apple’s next-gen Vision Pro revealed in new regulatory filing",
+    "snippet": "We've been hearing rumors about Apple's plan to launch a new version of its Vision Pro headset for months, and now a new filing with the Federal...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVNRzlqZDFCUVdYUk1UM1EwVFJER0F4aWtCU2dLTWdZVk1wcFFvUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDVNRzlqZDFCUVdYUk1UM1EwVFJER0F4aWtCU2dLTWdZVk1wcFFvUW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1759333042000",
+    "title": "Sony brings audio sharing to its flagship noise-canceling headphones",
+    "snippet": "Sony released a firmware update for its WF-1000XM5 and WH-1000XM6 wireless headphones adding audio sharing and access to Google's Gemini Live.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHRNV3AxVTBKdFRrVkNTV1JxVFJERUF4aW1CU2dLTWdrQkE0ckNFdXBMTUFF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNHRNV3AxVTBKdFRrVkNTV1JxVFJERUF4aW1CU2dLTWdrQkE0ckNFdXBMTUFF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1759327303000",
+    "title": "Every Galaxy device that will receive the One UI 8.5 update",
+    "snippet": "Wondering if your Samsung Galaxy phone or tablet will receive the upcoming One UI 8.5 update. Here is the full list of eligible devices. - SamMobile.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlVMHBqU2sxRE5HMUtTR05NVFJDZkF4ampCU2dLTWdZaGNKRE1OUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHlVMHBqU2sxRE5HMUtTR05NVFJDZkF4ampCU2dLTWdZaGNKRE1OUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.sammobile.com/news/every-galaxy-device-that-will-receive-one-ui-8-5-update/",
+    "publisher": "SamMobile"
+  },
+  {
+    "timestamp": "1759309200000",
+    "title": "Epic Games says Apple’s new install process cuts user drop-offs by 60%",
+    "snippet": "Fortnite maker Epic Games said that Apple's new installation workflow, implemented in iOS 18.6, has had a positive impact on its user growth,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVObWRzT1VvdFZFdDBTMlZJVFJERUF4aW1CU2dLTWdZRlk1aFByUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUVObWRzT1VvdFZFdDBTMlZJVFJERUF4aW1CU2dLTWdZRlk1aFByUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://techcrunch.com/2025/10/01/epic-games-says-apples-new-install-process-cuts-user-drop-offs-by-60/",
+    "publisher": "TechCrunch"
+  },
+  {
+    "timestamp": "1759324200000",
+    "title": "Google Home expanding Nest, Gemini features to third-party brands starting with $23 Walmart camera",
+    "snippet": "With its major Gemini revamp to Google Home and Nest Cam, Google is opening the door to third-party cameras accessing the same level of integration and...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNXR1ZLYUdkblJVbDBRbEJLVFJDSEF4aVBCaWdLTWdhZEU1WktwZ2c=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDNXR1ZLYUdkblJVbDBRbEJLVFJDSEF4aVBCaWdLTWdhZEU1WktwZ2c"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://9to5google.com/2025/10/01/google-home-nest-gemini-features-third-party-walmart-cameras/",
+    "publisher": "9to5Google"
+  }
+]

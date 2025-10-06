@@ -1,0 +1,162 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTExLTI1fDIzNjQxNTU3ODY1MjQyNzgwNTA=",
+    "name": "PAUL McCARTNEY: GOT BACK",
+    "link": "https://local.aarp.org/event/paul-mccartney-got-back-2025-11-25-tm-chicago-il.html",
+    "description": "Attend the PAUL McCARTNEY: GOT BACK event in Chicago, IL at the United Center, in Chicago located at 1901 West Madison. The event starts at 8:00 P.M. on Tuesday, Nov 25, 2025. We want to hear from...",
+    "language": "en",
+    "date_human_readable": "Tue, Nov 25, 6:00 – 9:30 PM CST",
+    "start_time": "2025-11-25 18:00:00",
+    "start_time_utc": "2025-11-26 00:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-11-25 21:30:00",
+    "end_time_utc": "2025-11-26 03:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "AARP Local",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://local.aarp.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "local.aarp.org",
+    "ticket_links": [
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/music-tickets/2025/11/25/paul-mccartney-got-back",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Koobit.com",
+        "link": "https://www.koobit.com/visit?sem=491819&su=/paul-mccartney-e86316",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://koobit.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Seatgeek.com",
+        "link": "https://seatgeek.com/paul-mccartney-tickets/chicago-illinois-united-center-2025-11-25-8-pm/concert/17616651?gclsrc=%7BGOOGLE-ADS-CLICK-SOURCE%7D&refob=mta&ref_price=316.90",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seatgeek.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/paul-mccartney-tickets-chicago-united-center-11-25-2025--concerts-adult-contemporary/production/5871787",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Stubhub.com",
+        "link": "https://www.stubhub.com/_C-10204?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-2734%7Cev-158886945%7Ccy-1463&ps_ev=158886945",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stubhub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Livenation.com",
+        "link": "https://www.livenation.com/event/vvG18ZbmOZFxyd/paul-mccartney-got-back"
+      }
+    ],
+    "venue": {
+      "google_id": "0x880e2d3ecaa9b54f:0x9b93f0068cf00344",
+      "name": "United Center",
+      "phone_number": "+13124554500",
+      "website": "http://www.unitedcenter.com",
+      "review_count": 22745,
+      "rating": 4.7,
+      "subtype": "Arena",
+      "subtypes": [
+        "Arena",
+        "Attraction",
+        "Ice hockey rink",
+        "Live music venue",
+        "Stadium"
+      ],
+      "full_address": "United Center, 1901 W Madison St, Chicago, IL 60612",
+      "latitude": 41.880690799999996,
+      "longitude": -87.6741759,
+      "district": "Near West Side",
+      "street_number": "1901",
+      "street": "1901 W Madison St",
+      "city": "Chicago",
+      "zipcode": "60612",
+      "state": "Illinois",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/m/02nshs"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTExLTIzfDM5OTMwNTE2MzEwMDQ4OTIwNjQ=",
+    "name": "PAUL McCARTNEY: GOT BACK",
+    "link": "https://www.chicago-theater.com/shows/united-center/paul-mccartney",
+    "description": "English rocker and all-round music legend Sir Paul McCartney embarks on his latest US tour! Famous as a solo artist, former Beatles member, and philanthropist, McCartney is a multi-talented...",
+    "language": "en",
+    "date_human_readable": "Mon, Nov 24, 6:00 – 9:30 PM",
+    "start_time": "2025-11-24 18:00:00",
+    "start_time_utc": "2025-11-24 18:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-11-24 21:30:00",
+    "end_time_utc": "2025-11-24 21:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Chicago-theater.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.chicago-theater.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.chicago-theater.com",
+    "ticket_links": [
+      {
+        "source": "Chicago-theater.com",
+        "link": "https://www.chicago-theater.com/shows/united-center/paul-mccartney/tickets/calendar",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://chicago-theater.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Seatgeek.com",
+        "link": "https://seatgeek.com/paul-mccartney-tickets/chicago-illinois-united-center-2025-11-24-8-pm/concert/17616649?gclsrc=%7BGOOGLE-ADS-CLICK-SOURCE%7D&refob=mta&ref_price=267.65",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seatgeek.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/paul-mccartney-tickets-chicago-united-center-11-24-2025--concerts-adult-contemporary/production/5871786",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Stubhub.com",
+        "link": "https://www.stubhub.com/_C-10204?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-2734%7Cev-158886946%7Ccy-1463&ps_ev=158886946",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stubhub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Viagogo.com",
+        "link": "https://www.viagogo.com/_C-10204?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-2734%7Cev-158886946%7Ccy-1463&ps_ev=158886946",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://viagogo.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Chicago-theater.com",
+        "link": "https://www.chicago-theater.com/shows/united-center/paul-mccartney"
+      }
+    ],
+    "venue": {
+      "google_id": "0x880e2d3ecaa9b54f:0x9b93f0068cf00344",
+      "name": "United Center",
+      "phone_number": "+13124554500",
+      "website": "http://www.unitedcenter.com",
+      "review_count": 22745,
+      "rating": 4.7,
+      "subtype": "Arena",
+      "subtypes": [
+        "Arena",
+        "Attraction",
+        "Ice hockey rink",
+        "Live music venue",
+        "Stadium"
+      ],
+      "full_address": "United Center, 1901 W Madison St, Chicago, IL 60612",
+      "latitude": 41.880690799999996,
+      "longitude": -87.6741759,
+      "district": "Near West Side",
+      "street_number": "1901",
+      "street": "1901 W Madison St",
+      "city": "Chicago",
+      "zipcode": "60612",
+      "state": "Illinois",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/m/02nshs"
+    }
+  }
+]

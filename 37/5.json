@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "1759413973000",
+    "title": "Apple shelves Vision Pro overhaul to focus on AI glasses",
+    "snippet": "Bloomberg reports that the tech giant is developing at least two types of smart glasses.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdaVFJOYWt4T1ZuQjZZa2xCVFJERUF4aW1CU2dLTWdhSmhwSm5NZ2M=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHdaVFJOYWt4T1ZuQjZZa2xCVFJERUF4aW1CU2dLTWdhSmhwSm5NZ2M"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759354049000",
+        "title": "Apple Shelves Vision Headset Revamp to Prioritize Meta-Like AI Glasses",
+        "snippet": "Apple Inc. has hit pause on a planned overhaul to its Vision Pro headset to redirect resources toward a more urgent effort: developing smart glasses that...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURWMDl2TVZwR1JVdzVhMlZMVFJERUF4aW1CU2dLTWdZQkFKeVBuUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNURWMDl2TVZwR1JVdzVhMlZMVFJERUF4aW1CU2dLTWdZQkFKeVBuUWs"
+        },
+        "newsUrl": "https://www.bloomberg.com/news/articles/2025-10-01/apple-shelves-vision-headset-revamp-to-prioritize-meta-like-ai-smart-glasses",
+        "publisher": "Bloomberg.com"
+      },
+      {
+        "timestamp": "1759357976000",
+        "title": "Apple halts Vision Pro overhaul to focus on AI glasses, Bloomberg News reports",
+        "snippet": "Apple has halted a planned overhaul of its Vision Pro mixed-reality headset to shift resources to smart glasses that would rival products from Meta...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNMVWRRVFVKblZHdzFMVmRZVFJERUF4aW1CU2dLTWdhQmhaRHRzUVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXNMVWRRVFVKblZHdzFMVmRZVFJERUF4aW1CU2dLTWdhQmhaRHRzUVU"
+        },
+        "newsUrl": "https://www.reuters.com/technology/apple-halts-vision-pro-overhaul-focus-ai-glasses-bloomberg-news-reports-2025-10-01/",
+        "publisher": "Reuters"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
+    "publisher": "TechCrunch"
+  },
+  {
+    "timestamp": "1759428000000",
+    "title": "Google’s Jules enters developers’ toolchains as AI coding agent competition heats up",
+    "snippet": "Google is bringing its AI coding agent Jules deeper into developer workflows with a new command-line interface and public API, allowing it to plug into...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNNMVZxYzFKQlgxbFROMFV4VFJERUF4aW5CU2dLTWdZVmM1Sk1OUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXNNMVZxYzFKQlgxbFROMFV4VFJERUF4aW5CU2dLTWdZVmM1Sk1OUWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759428090000",
+        "title": "Meet Jules Tools: A Command Line Companion for Google’s Async Coding Agent",
+        "snippet": "You can now work with Jules directly in your command line. Jules is our asynchronous coding agent th...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXJXRTlLVkVWblYza3dNbUZhVFJDcEFSaXJBaWdCTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNXJXRTlLVkVWblYza3dNbUZhVFJDcEFSaXJBaWdCTWdB"
+        },
+        "newsUrl": "https://developers.googleblog.com/en/meet-jules-tools-a-command-line-companion-for-googles-async-coding-agent/",
+        "publisher": "Google for Developers Blog"
+      },
+      {
+        "timestamp": "1759439032000",
+        "title": "It’s even easier for Google’s AI agent to code for you.",
+        "snippet": "Previously, Google's AI coding agent Jules was accessible on GitHub or its website. Now, developers can access it directly in their terminal using a new...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURaemt4WDNWdVNqWk5TbDh0VFJDb0F4alNCU2dLTWdhSk1vcElJZ2c=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNURaemt4WDNWdVNqWk5TbDh0VFJDb0F4alNCU2dLTWdhSk1vcElJZ2c"
+        },
+        "newsUrl": "https://www.theverge.com/news/790948/its-even-easier-for-googles-ai-agent-to-code-for-you",
+        "publisher": "The Verge"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
+    "publisher": "TechCrunch"
+  },
+  {
+    "timestamp": "1759418100000",
+    "title": "Samsung's One UI 8.5 update keeps leaking, adding '3D' icons and more Liquid Glass vibes [Gallery]",
+    "snippet": "Samsung's next big Galaxy update, One UI 8.5, continues to leak with a number of visual changes, with one of the latest finds being a “3D” effect for icons.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpVRE5wU2t4UWEwOVVkbHBDVFJDSEF4aVBCaWdLTWdhWllJNU5NUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXpVRE5wU2t4UWEwOVVkbHBDVFJDSEF4aVBCaWdLTWdhWllJNU5NUVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759398120000",
+        "title": "AI notification summaries coming to Galaxy devices with One UI 8.5, here's a peek",
+        "snippet": "Samsung is working on making lengthy notifications easier to digest with the help of AI. - SamMobile.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlVMHBqU2sxRE5HMUtTR05NVFJDZkF4ampCU2dLTWdZaGNKRE1OUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHlVMHBqU2sxRE5HMUtTR05NVFJDZkF4ampCU2dLTWdZaGNKRE1OUWM"
+        },
+        "newsUrl": "https://www.sammobile.com/news/one-ui-8-5-ai-notification-summaries-galaxy-devices/",
+        "publisher": "SamMobile"
+      },
+      {
+        "timestamp": "1759431000000",
+        "title": "Samsung Galaxy phones prepare AI notification summaries after it worked out so well for Apple",
+        "snippet": "After it worked out really well for Apple, Samsung is preparing an AI notification summary feature for Galaxy devices.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdWMGxSUlRsa1lWQnlkblJyVFJDSEF4aVBCaWdLTWdZcEpZYk9uUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUdWMGxSUlRsa1lWQnlkblJyVFJDSEF4aVBCaWdLTWdZcEpZYk9uUVk"
+        },
+        "newsUrl": "https://9to5google.com/2025/10/02/samsung-galaxy-update-ai-notification-summaries-coming/",
+        "publisher": "9to5Google"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://9to5google.com/2025/10/02/samsung-one-ui-8-5-3d-icons-liquid-glass/",
+    "publisher": "9to5Google"
+  },
+  {
+    "timestamp": "1759404888000",
+    "title": "T-Mobile’s satellite service now supports Google Maps, WhatsApp, X, and more",
+    "snippet": "T-Mobile has expanded its satellite-to-cell service to several popular apps in the US, allowing users to stay connected without cellular coverage.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpkRmhNTjNodWJIazFaa2RUVFJERUF4aW1CU2dLTWdhbFpJN09MUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHpkRmhNTjNodWJIazFaa2RUVFJERUF4aW1CU2dLTWdhbFpJN09MUWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759323812000",
+        "title": "T-Mobile expands satellite-based network to support WhatsApp, X in mobile dead zones",
+        "snippet": "T-Mobile said on Wednesday its satellite-to-cell network now supports widely used apps, including WhatsApp, Google Maps and X, broadening the service that...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBjMmRsVldKUFJUSnZXRUZ0VFJESUF4aWdCU2dLTWdZWkY0UXFuZ1U=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTBjMmRsVldKUFJUSnZXRUZ0VFJESUF4aWdCU2dLTWdZWkY0UXFuZ1U"
+        },
+        "newsUrl": "https://www.reuters.com/business/media-telecom/t-mobile-expands-satellite-based-network-support-whatsapp-x-mobile-dead-zones-2025-10-01/",
+        "publisher": "Reuters"
+      },
+      {
+        "timestamp": "1759323654000",
+        "title": "T-Mobile's Cellular Starlink Expands Mobile App Support to 17 More Phones",
+        "snippet": "T-Mobile VP Jeff Giard also talks about what's in store for T-Satellite as the carrier rolls out mobile app data support to more Android phone models and...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJjME50WVVVNU1VUm1NRkJKVFJDWUF4anZCU2dLTWdhbHBJYXNQUVE=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDJjME50WVVVNU1VUm1NRkJKVFJDWUF4anZCU2dLTWdhbHBJYXNQUVE"
+        },
+        "newsUrl": "https://www.pcmag.com/news/t-mobiles-cellular-starlink-expands-mobile-app-support-to-17-more-phones",
+        "publisher": "PCMag"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theverge.com/news/790412/t-mobile-satellite-service-apps-x-whatsapp-google-maps",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1759411800000",
+    "title": "Shark's latest skincare gadget will suck gunk from your pores and rinse them",
+    "snippet": "Shark's latest beauty gadget is a refreshing but pricey treat for your face.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNiazlPVmxOcVQwVkJlREkxVFJDZkF4amlCU2dLTWdZTklaWUtIUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTNiazlPVmxOcVQwVkJlREkxVFJDZkF4amlCU2dLTWdZTklaWUtIUWs"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759148560000",
+        "title": "“My skin never felt so clean and looked so radiant” – Shark's New FacialPro Glow review tested with pictures",
+        "snippet": "The Shark FacialPro Glow + Depuffi has just been announced. Here, our beauty director has tested it to see how it improves her skin look and feel.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXFZMGQyUjFkalpGZExVV05aVFJDcUJCaXFCQ2dLTWdZQlpJN0x0UVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXFZMGQyUjFkalpGZExVV05aVFJDcUJCaXFCQ2dLTWdZQlpJN0x0UVU"
+        },
+        "newsUrl": "https://www.cosmopolitan.com/uk/beauty-hair/skincare/a68110752/shark-facialpro-glow-review/",
+        "publisher": "Cosmopolitan"
+      },
+      {
+        "timestamp": "1759136400000",
+        "title": "Can Beauty Devices Bring the Medspa Home?",
+        "snippet": "US-based appliance giant SharkNinja's latest launch, the Facialpro Glow, mimics in-office aesthetic treatments. Like competitors Omnilux or Medicube,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZOMUpGZFVSaFUzZGZjMVJhVFJDbUJSakVBeWdLTWdZVk01d0lHZ28=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXZOMUpGZFVSaFUzZGZjMVJhVFJDbUJSakVBeWdLTWdZVk01d0lHZ28"
+        },
+        "newsUrl": "https://www.businessoffashion.com/articles/beauty/shark-beauty-facial-glow-pro-launch-medspa/",
+        "publisher": "The Business of Fashion"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.engadget.com/home/sharks-latest-skincare-gadget-will-suck-gunk-from-your-pores-and-rinse-them-133000385.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1759399200000",
+    "title": "HP’s new 49-inch curved ultrawide monitor has a pop-up webcam",
+    "snippet": "HP is announcing a new jumbo-sized ultrawide monitor designed for productivity and office use. The HP Series 5 Pro 49-inch Conferencing Monitor uses a 32:9...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpjSFZETkhaRWREZFpSSE5HVFJERUF4aW1CU2dLTWdZRkVZS3QyUUk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWpjSFZETkhaRWREZFpSSE5HVFJERUF4aW1CU2dLTWdZRkVZS3QyUUk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theverge.com/news/789795/hps-new-49-inch-curved-ultrawide-monitor-has-a-pop-up-webcam",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1759410092000",
+    "title": "Lenovo Legion Go 2 Review",
+    "snippet": "It's become almost cliche to complain about rising prices in 2025, but the Lenovo Legion Go 2 takes things to an entirely different level.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZiRmgwWVhocU1VbzRWWFJFVFJDZkF4ampCU2dLTWdZQlZKYnFKUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWZiRmgwWVhocU1VbzRWWFJFVFJDZkF4ampCU2dLTWdZQlZKYnFKUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.ign.com/articles/lenovo-legion-go-2-review",
+    "publisher": "IGN"
+  },
+  {
+    "timestamp": "1759344571000",
+    "title": "Heaviest Users of Snapchat Will Face a Small Charge for Storage",
+    "snippet": "Snapchat, the social media platform, will ask its most prolific users to pay a small monthly sum to ensure that their “Memories” live on.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVZTRTVmYjNsU1lsWjZkR1J6VFJDUUF4allCQ2dLTWdZQmtvek5zUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVZTRTVmYjNsU1lsWjZkR1J6VFJDUUF4allCQ2dLTWdZQmtvek5zUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/2025/10/01/business/snapchat-storage-fee.html",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1759357191000",
+    "title": "Instagram head says company is not using your microphone to listen to you (with AI data, it won't need to)",
+    "snippet": "The idea that Meta would secretly turn on the microphones on users' phones to record their conversations is an age-old conspiracy theory -- and one that the...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVFWSFZpV2xsMlpIbzFkbXBIVFJEZEF4aURCU2dLTWdhbFZJS3VxUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVFWSFZpV2xsMlpIbzFkbXBIVFJEZEF4aURCU2dLTWdhbFZJS3VxUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://techcrunch.com/2025/10/01/instagram-head-says-company-is-not-using-your-microphone-to-listen-to-you-with-ai-data-it-wont-need-to/",
+    "publisher": "TechCrunch"
+  },
+  {
+    "timestamp": "1759405863000",
+    "title": "Xbox Game Pass price increase gets players angry",
+    "snippet": "Fans have reacted angrily after Microsoft announced price increases to its Xbox Game Pass subscription service. The company announced that the most popular...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVBVMUkwVUdaU1VFOVJUMDVXVFJDZkF4ampCU2dLTWdhUlVvSnZvUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVBVMUkwVUdaU1VFOVJUMDVXVFJDZkF4ampCU2dLTWdhUlVvSnZvUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.bbc.com/news/articles/ckgepkwpkg4o",
+    "publisher": "BBC"
+  }
+]
