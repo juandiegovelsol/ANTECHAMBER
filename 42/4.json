@@ -1,0 +1,105 @@
+{
+  "business_id": "ZI5ILT2br3V4bwggBfIa3Q",
+  "status": "success",
+  "status_code": 200,
+  "data": {
+    "encid": "ZI5ILT2br3V4bwggBfIa3Q",
+    "yelpMenu": {
+      "url": "https://www.yelp.com/menu/adelita-concord-2",
+      "__typename": "YelpMenu"
+    },
+    "popularItems": [
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "fish tacos",
+        "displayName": "Fish Tacos",
+        "photoCount": 2,
+        "reviewCount": 19,
+        "primaryPhoto": {
+          "encid": "wI02GIxPDuNcg0rVBhaonA",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/wI02GIxPDuNcg0rVBhaonA/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      },
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "quesadilla",
+        "displayName": "Quesadilla",
+        "photoCount": 3,
+        "reviewCount": 7,
+        "primaryPhoto": {
+          "encid": "RDJtJDWmglrXtURoZ4Z5Jw",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/RDJtJDWmglrXtURoZ4Z5Jw/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      },
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "carne asada tacos",
+        "displayName": "Carne Asada Tacos",
+        "photoCount": 1,
+        "reviewCount": 7,
+        "primaryPhoto": {
+          "encid": "7uoo7NsfeDPQFkkfPYhkkg",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/7uoo7NsfeDPQFkkfPYhkkg/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      },
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "churros",
+        "displayName": "Churros",
+        "photoCount": 1,
+        "reviewCount": 4,
+        "primaryPhoto": {
+          "encid": "thesFR5qj86-qNShsNOijQ",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/thesFR5qj86-qNShsNOijQ/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      },
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "steak tacos",
+        "displayName": "Steak Tacos",
+        "photoCount": 1,
+        "reviewCount": 3,
+        "primaryPhoto": {
+          "encid": "bixG-kmgeQJbaRPo44Fjcg",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/bixG-kmgeQJbaRPo44Fjcg/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      },
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "al pastor tacos",
+        "displayName": "Al Pastor Tacos",
+        "photoCount": 1,
+        "reviewCount": 3,
+        "primaryPhoto": {
+          "encid": "iL3t0jUdgNXcnJb4xCAgjA",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/iL3t0jUdgNXcnJb4xCAgjA/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      }
+    ],
+    "__typename": "Business"
+  }
+}

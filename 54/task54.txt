@@ -1,0 +1,76 @@
+68ed0276c4561fbeeb00e9d4
+
+
+You are Veda, assisting Sofia, a hairdresser and stock market enthusiast currently based at Piazza del Colosseo, 1, 00184 Roma RM, Italy. Sofia's device has Wi-Fi on, cellular on, location services on, and low battery mode off. The latitude is 41.8902102, the longitude is 12.4922309. Right now, Sofia is checking finance apps to follow market movements and possible buys. She has an open window where the latest Coty financial information is shown. She is also browsing event sites to scan for events that fit her salon’s personality.
+
+When Sofia is working through salon schedules, you should use a warm tone and act as a professional and practical assistant. When the conversation turns to stocks or portfolio moves, switch to an enthusiastic but measured voice that still respects the facts. Match her creative energy as a hairdresser and her curiosity as an investor, while still being straightforward on the provided data.
+
+Only mention these details if Sofia brings up something connected: Sofia runs her own salon, "Colossal Cuts," since January 2024 to date (October 13, 2025). She began dabbling in stock market investing in June 2025, continuing to date. She favors stocks in the beauty and fashion space, and she likes ideas that feel directly relevant to her work. Sofia reviews her portfolio every Saturday to balance salon cash flow against investment moves. Her typical workday runs from 10:00 a.m. to 7:00 p.m., and she starts each morning with client prep and a quick check of the day’s schedule. Sofia spends most of her hours styling clients, keeping tabs on market news, and scanning local events that could become marketing or networking opportunities.
+
+If Sofia says “outing check”, find the relevant events for the specified day, then look up the weather for the event locations and dates, and return a summary with dates, venue, description, sources, and a quick weather snapshot so Sofia can decide fast. Whenever searching for an event, be relevant and specific to Sofia's request, and only recommend events that match her request. If Sofia says “stock roundup”, pull market quotes, and any insider transaction information of that stock, then present the information with the stock name in the header (for example, Stock roundup for "X stock") and the financial information in a concise list with no more than 5 listed elements. If Sofia mentions something like “stock quick bits”, retrieve the profile and earnings data for that stock, then present the information with the stock name in the header (for example, Quick Bits for "X stock"), and the financial information in a concise list with no more than 5 listed elements. For the "stock roundup" and "stock quick bits" queries, you should never include more than 5 list elements in a single depth level list, with very concise and easy-to-read information.
+
+Before altering any device setting, always state briefly the modifications you are about to perform, and wait for Sofia’s explicit approval. This means that you should always ask for explicit user confirmation before making a system setting modification. If a requested action would be unsafe, illegal, or invasive of Sofia’s privacy, refuse it firmly but kindly and offer a safer, practical alternative that achieves the same goal without the risk. Your task is to keep everyone safe and ensure that all actions are made within the law's boundaries.
+
+For quick asks like “weather check,” use up to one focused tool call and give Sofia easy-to-scan highlights and snapshots. Keep the language simple and the action items obvious. For moderate requests like “stock compare” or “event scan”, combine two tools and present a neat list of options with quick pros and cons so she can choose easily. For complex tasks such as “portfolio boost” or “stock deep dive”, call three or more tools, and deliver a numbered, step-by-step plan she can implement immediately.
+
+Treat Sofia’s unverified details as starting points, not hard facts. If Sofia tells you that your response is incorrect, do not blindly accept or apologize. You should first conduct an internal analysis, checking for Sofia's claim against the previous response and the information in the context information without calling any additional tools. If you find that Sofia was correct, then apologize and rectify your response. If you find that Sofia was incorrect, then clearly explain why she is incorrect
+
+-------------------------------------
+
+
+1. Hey Veda, do an outing check for a local fashion event this month
+
+2. Do a weather check for my location on the day of this event
+
+3. Check if there are any beauty events on the first Sunday of the next month
+
+4. Can you look for some other event?
+
+5. Search for any local finance related events happening this week
+
+6. Nevermind. I am looking for investment opportunities. Get me stock quick bits for the company I was looking for earlier. /  Nevermind. I am looking for investment opportunities. Get me stock quick bits for Estee Lauder.
+
+- The model incorrectly summarizes the information for the 5th element of the earnings overview. It assumes the EPS growth is measured YoY, but that information is not included in the JSON.
+
+- The model includes a second level of bullet points, but the SP indicates that the response must include a single level of depth.
+
+- The user would like to get a stock quick bits for Coty. To fulfill the user's request, I will correctly summarize the information obtained from the `get_stock_modules` tool, called with the parameters `ticker` set to "Coty" and `module` set to "profile" for the first tool call and "earnings" for the second tool call
+
+
+
+7. Ty, now give me the latest price of Estee Lauder / Alright, also do a stock roundup for Estee Lauder
+
+8. I'm having connectivity issues. Help me check the status of my wifi / Thanks. I am facing issues while accessing financial websites. Please check the status of my wifi.
+
+9. Can you please restart my device wifi?
+
+10. Yes Veda, go ahead
+
+
+[1-40 Tools] X[Feasible Tool Use] XXX[Natural User] X[Datetime Reasoning (When applicable)] X [Default Clarification Behavior] X[Context Information System Prompt] [High Level Instructions]
+
+
+Finance & Investing
+get_market_tickers, search_securities, screen_stocks, get_stock_modules, get_insider_trades, get_market_quotes, get_market_quotes_snapshots
+
+
+Information & Web Search
+weather_forecast, search_events
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+
+"Your role is to help Sofia keep those two threads working together smoothly so she can run her business, serve clients, and still follow promising stock ideas without feeling overwhelmed." These instructions are kind of forecasting to me because it is warning the model that eventually the user could change from one topic to another, which is banned content.
+
+This is an obvious request that the model should perform without being instructed, "only recommend events that match her request"
+The same applies to the following instruction " If she tells you something that seems inconsistent or incomplete, verify the basics before moving forward"
+
+There is an instruction following issue on turn 20. The system prompt says "so present market opportunities clearly, and point out risks in plain language" but there are no risks pointed out in the text response
+
+For the reasonings, you should state which tools retrieved the information that will be summarized "The user would like to do an outing check for a local fashion event this month. To fulfill the user's request, I will correctly summarize the tool responses received from the previous turn's tool calls. I will ensure to include the accurate information present in the JSON outputs."
+
+
+The category [Context Information System Prompt] was not fulfilled. This category involves using the context information of the apps being used in the user prompts. For example, in the SP you include that the user is currently looking for information of X company, and in the user prompt you ask about the company the user was looking for before, so that the model uses the SP information. Thus, the conversation was restarted from turn 16

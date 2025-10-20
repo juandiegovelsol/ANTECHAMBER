@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "1760442180000",
+    "title": "Madagascar’s Gen Z drives protests, but offers few answers on what’s next",
+    "snippet": "Madagascar's turmoil appears typical of youth-led protest movements around the world in the past few weeks: demonstrators are desperate for change but...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWZWMFo1Wm01aWVWazFlV0pqVFJER0F4aWtCU2dLTWdrQkVJUk9tS1dSN1FF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWZWMFo1Wm01aWVWazFlV0pqVFJER0F4aWtCU2dLTWdrQkVJUk9tS1dSN1FF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.reuters.com/world/europe/scenting-victory-madagascar-youth-give-scant-thought-whats-next-2025-10-14/",
+    "publisher": "Reuters"
+  },
+  {
+    "timestamp": "1760446269000",
+    "title": "Questions remain about deceased Israeli hostages in Gaza",
+    "snippet": "The tenuous ceasefire in the two-year Israel-Hamas war appears to be holding even as complex issues remained ahead.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZWV2xDT1VSUGNtSmtOMUI1VFJERUF4aW1CU2dLTWdZQk1ZaHJNUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUZWV2xDT1VSUGNtSmtOMUI1VFJERUF4aW1CU2dLTWdZQk1ZaHJNUVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760439777000",
+        "title": "Israel names two of four dead hostages returned by Hamas, how they died",
+        "snippet": "Israel identified two of the four deceased hostages whose coffins it received from Hamas via the Red Cross on Monday and gave their causes of death.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTJYelJvWW5oc1VtdDRiMVl5VFJDZkF4ampCU2dLTWdtQlFaclZIT3FwYUFJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNTJYelJvWW5oc1VtdDRiMVl5VFJDZkF4ampCU2dLTWdtQlFaclZIT3FwYUFJ"
+        },
+        "newsUrl": "https://www.foxnews.com/world/israel-names-two-four-dead-hostages-returned-hamas-how-died",
+        "publisher": "Fox News"
+      },
+      {
+        "timestamp": "1760451086000",
+        "title": "Daily Briefing Oct. 14: Day 739 – Hamas withholds dead hostages, dampening joy of returned living",
+        "snippet": "Welcome to The Times of Israel's Daily Briefing, your 20-minute audio update on what's happening in Israel, the Middle East and the Jewish world.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNWVzFmVEdOd2Jsb3haMWRYVFJERUF4aW1CU2dLTWdhaGtKRHNOUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUNWVzFmVEdOd2Jsb3haMWRYVFJERUF4aW1CU2dLTWdhaGtKRHNOUVk"
+        },
+        "newsUrl": "https://www.timesofisrael.com/daily-briefing-oct-14-day-739-hamas-withholds-dead-hostages-dampening-joy-of-returned-living/",
+        "publisher": "The Times of Israel"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.npr.org/2025/10/14/nx-s1-5574057/israel-hamas-ceasefire-gaza",
+    "publisher": "NPR"
+  },
+  {
+    "timestamp": "1760437968000",
+    "title": "Fact-checking Donald Trump’s speech in Israeli parliament",
+    "snippet": "Trump made several claims about the Middle East conflict and other global peace deals that were not entirely true.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXVZVUZPYVZoRmEyUjRObGhGVFJEZ0F4aUFCU2dLTWdreEFJNjJqS3ByVHdF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXVZVUZPYVZoRmEyUjRObGhGVFJEZ0F4aUFCU2dLTWdreEFJNjJqS3ByVHdF"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760363164000",
+        "title": "Who are the 20 hostages released by Hamas?",
+        "snippet": "More than two years after they were abducted during the terrorist attack that launched the Israel-Hamas war, all remaining living hostages have been...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXpUelJsUjFSQmVUQjZjRTFmVFJERUF4aW1CU2dLTWdrQkFJREVvQ1VWQkFN=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXpUelJsUjFSQmVUQjZjRTFmVFJERUF4aW1CU2dLTWdrQkFJREVvQ1VWQkFN"
+        },
+        "newsUrl": "https://www.nbcnews.com/world/middle-east/israel-hamas-gaza-who-are-20-surviving-hostages-rcna237251",
+        "publisher": "NBC News"
+      },
+      {
+        "timestamp": "1760390690000",
+        "title": "Fighting flares in Gaza as Donald Trump says “The war is over”",
+        "snippet": "IT TOOK Donald Trump less than 12 hours on the ground to bring peace to the Middle East. At least this is how the American president's whirlwind visit to...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDFhVGR2TVVwdmMxQkhZWEJ6VFJDZkF4ampCU2dLTWdhUk1Zb3BsUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDFhVGR2TVVwdmMxQkhZWEJ6VFJDZkF4ampCU2dLTWdhUk1Zb3BsUW8"
+        },
+        "newsUrl": "https://www.economist.com/middle-east-and-africa/2025/10/13/fighting-flares-in-gaza-as-donald-trump-says-the-war-is-over",
+        "publisher": "The Economist"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.aljazeera.com/news/2025/10/14/fact-checking-donald-trumps-speech-in-israeli-parliament",
+    "publisher": "Al Jazeera"
+  },
+  {
+    "timestamp": "1760430632000",
+    "title": "NATO chief Mark Rutte mocks Russia over 'limping' submarine in English Channel",
+    "snippet": "The Russian submarine Novorossiysk had surfaced off the coast of France last week and was later escorted by the Dutch navy in the North Sea.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRjMWRMUVZCMk9YQTVjM1EwVFJDZkF4ampCU2dLTWdZVnRaRHR2UVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHRjMWRMUVZCMk9YQTVjM1EwVFJDZkF4ampCU2dLTWdZVnRaRHR2UVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760402363000",
+        "title": "Nato chief jokes about 'limping' Russian submarine",
+        "snippet": "Nato chief Mark Rutte joked about the condition of Russia's naval fleet on Monday as Moscow denied one of its submarines had to surface because of technical...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5TM2t5ZGpoME5FTXphRWhGVFJDT0FoamdBeWdLTWdZdDA0cFJ4UVE=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU5TM2t5ZGpoME5FTXphRWhGVFJDT0FoamdBeWdLTWdZdDA0cFJ4UVE"
+        },
+        "newsUrl": "https://www.bbc.com/news/articles/ckgk2pn4v9lo",
+        "publisher": "BBC"
+      },
+      {
+        "timestamp": "1760365996000",
+        "title": "NATO chief mocks 'broken' Russian submarine as Moscow denies malfunction",
+        "snippet": "NATO chief Mark Rutte mocked Russia on Monday over the \"limping\" condition of one of its submarines as Russian authorities denied it had been forced to...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUpPV3RoVGxsT1QxUm1XREpXVFJEQkF4aXNCU2dLTWdZaFZJcXVwUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUpPV3RoVGxsT1QxUm1XREpXVFJEQkF4aXNCU2dLTWdZaFZJcXVwUVk"
+        },
+        "newsUrl": "https://www.reuters.com/world/europe/russia-denies-malfunction-submarine-that-surfaced-off-france-2025-10-13/",
+        "publisher": "Reuters"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.euronews.com/2025/10/14/nato-chief-mark-rutte-mocks-russia-over-limping-submarine-in-english-channel",
+    "publisher": "Euronews.com"
+  },
+  {
+    "timestamp": "1760438760000",
+    "title": "House explosion in Italy kills 3 police officers near Verona trying to serve eviction notice",
+    "snippet": "Officials in Italy say a house explosion that killed 3 police was a deliberate attack by residents who had previously resisted eviction.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURUSFJuVkVWalZFSlVhM0l6VFJDUkF4ajhCU2dLTWdZQmNJd2FKQWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNURUSFJuVkVWalZFSlVhM0l6VFJDUkF4ajhCU2dLTWdZQmNJd2FKQWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760435933000",
+        "title": "Blast kills three police officers trying to evict siblings from house in Italy",
+        "snippet": "Three police officers have been killed and at least 15 other people injured in an apparently deliberate gas explosion at a farmhouse in northern Italy.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNHdOa1JzVUVoTk5Gb3ROR3BUVFJDT0FoamdBeWdLTWdNTjRBUQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNHdOa1JzVUVoTk5Gb3ROR3BUVFJDT0FoamdBeWdLTWdNTjRBUQ"
+        },
+        "newsUrl": "https://www.bbc.com/news/articles/ckg1jkl09xeo",
+        "publisher": "BBC"
+      },
+      {
+        "timestamp": "1760430422000",
+        "title": "Explosion at Italian Farmhouse Kills Three Military Police Officers",
+        "snippet": "An explosion early Tuesday at a farmhouse in northern Italy killed three military police officers and injured at least 13 other officers, Italy's defense...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhPRk4zYzNacFZIVlJWM0kwVFJDUUF4allCQ2dLTWdZQjhJaDRTQVE=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVhPRk4zYzNacFZIVlJWM0kwVFJDUUF4allCQ2dLTWdZQjhJaDRTQVE"
+        },
+        "newsUrl": "https://www.nytimes.com/2025/10/14/world/europe/italy-carabinieri-explosion-verona.html",
+        "publisher": "The New York Times"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.cbsnews.com/news/italy-explosion-house-verona-castel-dazzano-police-carabinieri-deaths/",
+    "publisher": "CBS News"
+  },
+  {
+    "timestamp": "1760442576000",
+    "title": "Indonesia finds radiation at clove farm in probe sparked by Cesium-137-tainted shrimp and spices in U.S.",
+    "snippet": "An investigation sparked by Cesium-137-tainted spices and shrimp in the U.S. has detected trace radiation at a clove farm in Indonesia.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNOMWRQZDJwaFowWkpiRU5ZVFJDUkF4ajhCU2dLTWdZQjA0Z3lRUVE=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDNOMWRQZDJwaFowWkpiRU5ZVFJDUkF4ajhCU2dLTWdZQjA0Z3lRUVE"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760035267000",
+        "title": "What Is Really Going on With All This Radioactive Shrimp?",
+        "snippet": "Here's the latest on how shrimp and spices got contaminated with cesium-137, how the FDA has responded, and why consumers should not panic.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdXV3RpUkUxbGNHZHRPVXRSVFJEdkFoaU1CU2dLTWdZQkFJcHRwUVE=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUdXV3RpUkUxbGNHZHRPVXRSVFJEdkFoaU1CU2dLTWdZQkFJcHRwUVE"
+        },
+        "newsUrl": "https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/",
+        "publisher": "Consumer Reports"
+      },
+      {
+        "timestamp": "1759734000000",
+        "title": "Indonesian Officials Find Cause of Cs-137 Contamination Behind Radioactive Shrimp",
+        "snippet": "After FDA discovered radioactive isotope Cesium-137 in shipments of shrimp and spices from Indonesia, the Indonesian government launched an investigation...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxVMU4zU0docGVXTmlabmhRVFJDZkF4amlCU2dLTWdZVmw0NUl1Z1U=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUxVMU4zU0docGVXTmlabmhRVFJDZkF4amlCU2dLTWdZVmw0NUl1Z1U"
+        },
+        "newsUrl": "https://www.food-safety.com/articles/10757-indonesian-officials-find-cause-of-cs-137-contamination-behind-radioactive-shrimp",
+        "publisher": "Food Safety Magazine"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.cbsnews.com/news/shrimp-radiation-indonesia-cesium-clove-farm-us-fda-spices-contaminated/",
+    "publisher": "CBS News"
+  },
+  {
+    "timestamp": "1760430960000",
+    "title": "US and Malaysia work to expand Thailand-Cambodia ceasefire in advance of ASEAN summit",
+    "snippet": "Malaysia and the U.S. are working to secure an expanded ceasefire agreement between Thailand and Cambodia.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVjamt4UzBaMVVsQnFTV1pPVFJDUEF4alhCQ2dLTWdhWkk2QlFsUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUVjamt4UzBaMVVsQnFTV1pPVFJDUEF4alhCQ2dLTWdhWkk2QlFsUW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://apnews.com/article/thailand-cambodia-ceasefire-agreement-asean-trump-02b681e9c3914eb763859c3634e910d6",
+    "publisher": "AP News"
+  },
+  {
+    "timestamp": "1760448916000",
+    "title": "Hamas fighters tighten grip in Gaza, clouding future of ceasefire",
+    "snippet": "CAIRO/JERUSALEM, Oct 14 (Reuters) - Hamas fighters tightened their grip in Gaza on Tuesday after carrying out public executions, defying Israel's assertion...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpiRTgzTVdJdFgyaGxZM2t6VFJERUF4aW1CU2dLTWdZQmtJYVd2QVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXpiRTgzTVdJdFgyaGxZM2t6VFJERUF4aW1CU2dLTWdZQmtJYVd2QVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.reuters.com/world/middle-east/hamas-fighters-tighten-grip-gaza-clouding-future-ceasefire-2025-10-14/",
+    "publisher": "Reuters"
+  },
+  {
+    "timestamp": "1760418660000",
+    "title": "Cameroon opposition candidate Tchiroma claims victory in presidential poll, urges Biya to concede",
+    "snippet": "GAROUA, Oct 14 (Reuters) - Cameroon opposition candidate Issa Tchiroma declared victory late on Monday in the country's October 12 presidential election,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWpUemxhVkRKRFQxbHNOSEZqVFJESEF4aWlCU2dLTWdrQlVZcGxzcVl0OHdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWpUemxhVkRKRFQxbHNOSEZqVFJESEF4aWlCU2dLTWdrQlVZcGxzcVl0OHdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.reuters.com/world/africa/cameroon-opposition-candidate-tchiroma-claims-victory-presidential-poll-urges-2025-10-14/",
+    "publisher": "Reuters"
+  },
+  {
+    "timestamp": "1760443869000",
+    "title": "What Would It Cost to Rebuild Gaza?",
+    "snippet": "A fragile cease-fire between Israel and Hamas is stoking hopes for a surge in investment in the region, and the Middle East more broadly.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXliM1J4Wm1OV1drSjBSVWRtVFJDUUF4allCQ2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNXliM1J4Wm1OV1drSjBSVWRtVFJDUUF4allCQ2dLTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/2025/10/14/business/dealbook/rebuild-gaza-cost.html",
+    "publisher": "The New York Times"
+  }
+]

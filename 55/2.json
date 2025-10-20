@@ -1,0 +1,459 @@
+{
+  "message": "200: success",
+  "searched_url": null,
+  "searched_ids": "LZzDvgfpkd4nI3E4L9wF1w",
+  "business_details": [
+    {
+      "business": {
+        "id": "LZzDvgfpkd4nI3E4L9wF1w",
+        "name": "El Charro Cafe",
+        "alias": "el-charro-cafe-tucson-9",
+        "address1": "311 N Court Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Tucson",
+        "zip": "85701",
+        "country": "US",
+        "hours": [
+          [660, 1260],
+          [2100, 2700],
+          [3540, 4140],
+          [4980, 5580],
+          [6420, 7020],
+          [7860, 8460],
+          [9300, 9900]
+        ],
+        "is_closed": false,
+        "latitude": 32.225754240697974,
+        "longitude": -110.97452732704767,
+        "review_count": 2407,
+        "state": "AZ",
+        "avg_rating": 3.5,
+        "unrounded_avg_rating": 3.6,
+        "neighborhoods": [],
+        "geo_accuracy": 9,
+        "addresses": {
+          "primary_language": {
+            "long_form": "311 N Court Ave, Tucson, AZ 85701",
+            "short_form": "311 N Court Ave, Tucson"
+          }
+        },
+        "price": 2,
+        "localized_price": "$$",
+        "categories": [
+          {
+            "name": "Tacos",
+            "category_filter": "tacos",
+            "is_restaurant": true
+          },
+          {
+            "name": "Cocktail Bars",
+            "category_filter": "cocktailbars",
+            "is_restaurant": false
+          },
+          {
+            "name": "Desserts",
+            "category_filter": "desserts",
+            "is_restaurant": false
+          }
+        ],
+        "is_yelp_guaranteed": false,
+        "platform_partner_ids": [],
+        "fmode": 0,
+        "phone": "5206221922",
+        "localized_phone": "+1-520-622-1922",
+        "dialable_phone": "+15206221922",
+        "menu_photos": [
+          {
+            "id": "ATWZ4E6cMfy8KM0loINRkQ",
+            "type": "business",
+            "time_created": 1747283037,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/ATWZ4E6cMfy8KM0loINRkQ/",
+            "url_suffix": ".jpg",
+            "caption": "This restaurant has been in existence since 1922.",
+            "feedback_positive_count": 9,
+            "width": 1505,
+            "height": 2000,
+            "business_id": "LZzDvgfpkd4nI3E4L9wF1w",
+            "share_url": "https://www.yelp.co.uk/biz_photos/LZzDvgfpkd4nI3E4L9wF1w?select=ATWZ4E6cMfy8KM0loINRkQ&utm_source=oshare",
+            "photo_category_id": "menu",
+            "fmode": 0
+          }
+        ],
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8tq0ED7Js_Pgokk1g51_sQ/ms.jpg",
+        "primary_photo": {
+          "id": "8tq0ED7Js_Pgokk1g51_sQ",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/8tq0ED7Js_Pgokk1g51_sQ/",
+          "url_suffix": ".jpg",
+          "fmode": 1
+        },
+        "photos": [
+          {
+            "id": "8tq0ED7Js_Pgokk1g51_sQ",
+            "type": "business",
+            "time_created": 1689454167,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/8tq0ED7Js_Pgokk1g51_sQ/",
+            "url_suffix": ".jpg",
+            "width": 2000,
+            "height": 934,
+            "business_id": "LZzDvgfpkd4nI3E4L9wF1w",
+            "share_url": "https://www.yelp.co.uk/biz_photos/LZzDvgfpkd4nI3E4L9wF1w?select=8tq0ED7Js_Pgokk1g51_sQ&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "5TyHKOBIVTxksIbuN_aV2w",
+            "type": "business",
+            "time_created": 1736022731,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/5TyHKOBIVTxksIbuN_aV2w/",
+            "url_suffix": ".jpg",
+            "caption": "Steak burro",
+            "width": 2000,
+            "height": 1500,
+            "business_id": "LZzDvgfpkd4nI3E4L9wF1w",
+            "share_url": "https://www.yelp.co.uk/biz_photos/LZzDvgfpkd4nI3E4L9wF1w?select=5TyHKOBIVTxksIbuN_aV2w&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "-9aeDC54pllU_ppQg2c3yA",
+            "type": "business",
+            "time_created": 1699172818,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/-9aeDC54pllU_ppQg2c3yA/",
+            "url_suffix": ".jpg",
+            "caption": "Dining room",
+            "width": 2000,
+            "height": 1502,
+            "business_id": "LZzDvgfpkd4nI3E4L9wF1w",
+            "share_url": "https://www.yelp.co.uk/biz_photos/LZzDvgfpkd4nI3E4L9wF1w?select=-9aeDC54pllU_ppQg2c3yA&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "gt_9tnEUrp0-AVUkfhvrUw",
+            "type": "business",
+            "time_created": 1732588112,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/gt_9tnEUrp0-AVUkfhvrUw/",
+            "url_suffix": ".jpg",
+            "caption": "Charro Street Tacos",
+            "feedback_positive_count": 62,
+            "width": 2000,
+            "height": 1502,
+            "business_id": "LZzDvgfpkd4nI3E4L9wF1w",
+            "share_url": "https://www.yelp.co.uk/biz_photos/LZzDvgfpkd4nI3E4L9wF1w?select=gt_9tnEUrp0-AVUkfhvrUw&utm_source=oshare",
+            "fmode": 0
+          }
+        ],
+        "photo_count": 1957,
+        "has_ad_driven_call_tracking_number": false,
+        "platform_actions": [],
+        "attributions": [],
+        "is_temp_closed": false,
+        "timezone": "America/Phoenix",
+        "localized_attributes": [
+          {
+            "label": "Health Score",
+            "value": "Pass"
+          },
+          {
+            "id": "RestaurantsReservations",
+            "label": "Takes Reservations",
+            "value": "Yes",
+            "type": "reservation"
+          },
+          {
+            "id": "RestaurantsDelivery",
+            "label": "Offers Delivery",
+            "value": "Yes",
+            "type": "platform",
+            "supported_vertical_types": ["food_at_customer"]
+          },
+          {
+            "id": "RestaurantsTakeOut",
+            "label": "Offers Takeout",
+            "value": "Yes",
+            "type": "platform",
+            "supported_vertical_types": ["food_at_business"]
+          },
+          {
+            "id": "OutdoorSeating",
+            "label": "Outdoor Seating",
+            "value": "Yes"
+          },
+          {
+            "id": "Ambience",
+            "label": "Ambience",
+            "value": "Casual Ambience"
+          },
+          {
+            "id": "NoiseLevel",
+            "label": "Noise Level",
+            "value": "Average"
+          },
+          {
+            "id": "RestaurantsAttire",
+            "label": "Attire",
+            "value": "Casual"
+          },
+          {
+            "id": "RestaurantsGoodForGroups",
+            "label": "Good for Groups",
+            "value": "Yes"
+          },
+          {
+            "id": "GoodForKids",
+            "label": "Good for Children",
+            "value": "Yes"
+          },
+          {
+            "id": "GoodForMeal",
+            "label": "Good For",
+            "value": "Lunch, Dinner"
+          },
+          {
+            "id": "GoodForDancing",
+            "label": "Good For Dancing",
+            "value": "No"
+          },
+          {
+            "id": "HasPoolTable",
+            "label": "Has Pool Table",
+            "value": "No"
+          },
+          {
+            "id": "BusinessAcceptsBitcoin",
+            "label": "Accepts Cryptocurrency",
+            "value": "No"
+          },
+          {
+            "id": "BusinessAcceptsCreditCards",
+            "label": "Accepts Credit Cards",
+            "value": "Yes"
+          },
+          {
+            "id": "BusinessAcceptsApplePay",
+            "label": "Accepts Apple Pay",
+            "value": "No"
+          },
+          {
+            "id": "BusinessParking",
+            "label": "Parking",
+            "value": "Street Parking"
+          },
+          {
+            "id": "BikeParking",
+            "label": "Bike Parking",
+            "value": "Yes"
+          },
+          {
+            "id": "RestaurantsTableService",
+            "label": "Waiter Service",
+            "value": "No"
+          },
+          {
+            "id": "WiFi",
+            "label": "Wi-Fi",
+            "value": "Free"
+          },
+          {
+            "id": "Music",
+            "label": "Music",
+            "value": ""
+          },
+          {
+            "id": "BestNights",
+            "label": "Best Nights",
+            "value": "Monday, Wednesday, Friday"
+          },
+          {
+            "id": "HappyHour",
+            "label": "Good For Happy Hour",
+            "value": "Yes"
+          },
+          {
+            "id": "Alcohol",
+            "label": "Alcohol",
+            "value": "Full Bar"
+          },
+          {
+            "id": "Smoking",
+            "label": "Smoking",
+            "value": "No"
+          },
+          {
+            "id": "ByAppointmentOnly",
+            "label": "By Appointment Only",
+            "value": "No",
+            "type": "platform",
+            "supported_vertical_types": ["spa_and_salon_at_business"]
+          },
+          {
+            "id": "DriveThru",
+            "label": "Drive-Thru",
+            "value": "Yes"
+          },
+          {
+            "id": "DogsAllowed",
+            "label": "Dogs Allowed",
+            "value": "No"
+          },
+          {
+            "id": "WheelchairAccessible",
+            "label": "Wheelchair Accessible",
+            "value": "Yes"
+          },
+          {
+            "id": "HasTV",
+            "label": "Has TV",
+            "value": "No"
+          },
+          {
+            "id": "OffersMilitaryDiscount",
+            "label": "Offers Military Discount",
+            "value": "Yes"
+          },
+          {
+            "id": "BusinessAcceptsAndroidPay",
+            "label": "Accepts Google Pay",
+            "value": "No"
+          }
+        ],
+        "menu": {
+          "action_url": "https://m.yelp.co.uk/menu/LZzDvgfpkd4nI3E4L9wF1w",
+          "action_image_url": "bundle://service_menu.png",
+          "action_title": "Explore the Menu",
+          "action_text": "El Charro Carne Seca Enchiladas, Quesabirria Enchiladas, The Carne Seca Platter",
+          "external_action_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=3f12db3c2117dae38b9cc2424633590876b97e5e2b491c770135bac180aad848&src_bizid=LZzDvgfpkd4nI3E4L9wF1w&url=https%3A%2F%2Fwww.elcharrocafe.com%2Fregular-menu%2F&website_link_type=menu",
+          "is_yelp_url": true,
+          "view_title": "Menu for El Charro Cafe",
+          "fmode": "0",
+          "is_single_platform_external_menu": false
+        },
+        "video_count": 15,
+        "ios_search_indexing_info": {
+          "webpage_url": "https://www.yelp.com/biz/el-charro-cafe-tucson-9",
+          "keywords": ["Tacos", "Cocktail Bars", "Desserts"],
+          "thumbnail_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8tq0ED7Js_Pgokk1g51_sQ/180s.jpg",
+          "description": "Rating: 3.5 - 2407 reviews - Price Range: $$\nTacos, Cocktail Bars, Desserts",
+          "title": "El Charro Cafe",
+          "is_eligible_for_prediction": false,
+          "filtered_url": ""
+        },
+        "android_app_annotation": {
+          "annotation_title": "El Charro Cafe, Tucson",
+          "deeplink_url": "android-app://com.yelp.android/yelp/annotate/biz/LZzDvgfpkd4nI3E4L9wF1w?utm_campaign=title_biz_name&utm_source=app_annotation",
+          "http_url": "https://www.yelp.com/biz/el-charro-cafe-tucson-9"
+        },
+        "url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=664f4410d60865176c8e0711517bb49f284ada46e2ca511bae11f812cfc6f9d4&src_bizid=LZzDvgfpkd4nI3E4L9wF1w&url=https%3A%2F%2Fwww.elcharrocafe.com%2Flocations%2Fdowntown%2F&website_link_type=website",
+        "distance": null,
+        "locality": "Tucson, AZ 85701",
+        "share_url": "https://www.yelp.co.uk/biz/el-charro-cafe-tucson-9?utm_source=ashare",
+        "cross_streets": null,
+        "quicktip_count": 0,
+        "is_slideshow_enabled": false,
+        "is_current_advertiser": true,
+        "is_searchable_nearby": true,
+        "summaries": null,
+        "transit": [],
+        "localized_address": "311 N Court Ave\nTucson, AZ 85701\nUSA",
+        "review": null,
+        "minute": 859,
+        "is_chain_business": true,
+        "regular_count": 1,
+        "health_score": "Pass",
+        "health_score_url": "https://m.yelp.co.uk/inspections/el-charro-cafe-tucson-9",
+        "health_score_detail": {
+          "health_score": "Pass",
+          "health_score_formatted": "Pass",
+          "time_of_score": 1714460400,
+          "provider": "Powered by Health Department Intelligence",
+          "violation_list": [],
+          "number_of_violations": 0,
+          "has_active_alert": false,
+          "health_score_detail_url": "https://m.yelp.co.uk/inspections/el-charro-cafe-tucson-9",
+          "is_estimated_health_score": false,
+          "health_score_title": "Health Score: Pass"
+        },
+        "localized_hours": ["Mon-Sun 11:00 - 21:00"],
+        "is_multiple_reservations_allowed": true,
+        "display_url": "https://www.elcharrocafe.com",
+        "from_this_business": {
+          "representative": {
+            "name": "Carlotta F.",
+            "bio": "El Charro's current chef is Carlotta Flores, the great-grandniece of original owner Monica Flin.\n\nShe has helped El Charro become what it is today: a critically acclaimed restaurant with all kinds of feature articles in publications such as Bon Appétit, Gourmet Magazine and recently the New York Post, among other publications and television stations like the Food Network and the Travel Channel.",
+            "role": "business_owner",
+            "photo": {
+              "id": "AFSbFf-seyoVLCsRCswwlA",
+              "url_prefix": "https://s3-media0.fl.yelpcdn.com/buphoto/AFSbFf-seyoVLCsRCswwlA/",
+              "url_suffix": ".jpg",
+              "fmode": 1
+            }
+          },
+          "specialties": "The Home of the Chimichanga\nOur Legendary Tia Monica Flin, is well-known as \"The Inventor of The Chimichanga.\" While frying her now famous El Charro ground beef tacos, she accidentally dropped a burro into the frying pan and when the oil splashed up she was about to lash out a common Spanish cuss word starting with \"Ch\" but because she was amongst her young nieces and nephews, changed it to \"Chimichanga\", the equivalent of \"thingamajig.\" Thankfully for all of us, Monica was a controlled and creative cuss.",
+          "history": "Established in 1922 by our beloved Tia Monica Flin, El Charro Café of Tucson, Arizona is The Nation's Oldest Mexican Restaurant in continuous operation by the same family. Our Tia Monica, a true entrepreneur and burgeoning chef, came to Tucson via France in the 1800's when her father Jules, a famous stone-mason, was commissioned to build the city's pristine St. Augustine Cathedral. Jules, whose signature work can be seen throughout Tucson's Historic District, also built the families residence in 1896. This same building is now home to the Original Downtown El Charro Café location on Court Avenue.\n\nToday, Carlotta Flores, our chef and great grandniece of Monica, carries on the tradition of Tia Monica! Under her guidance, El Charro has become one of the most critically acclaimed restaurant brands in the USA!",
+          "year_established": 1922
+        },
+        "display_menu_url": "https://www.elcharrocafe.com/regular-menu/",
+        "menu_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=3f12db3c2117dae38b9cc2424633590876b97e5e2b491c770135bac180aad848&src_bizid=LZzDvgfpkd4nI3E4L9wF1w&url=https%3A%2F%2Fwww.elcharrocafe.com%2Fregular-menu%2F&website_link_type=menu"
+      },
+      "annotations": [
+        {
+          "type": "REVIEW",
+          "image_path": "16x16_speech_v2.png",
+          "image_url": "https://s3-media0.fl.yelpcdn.com/assets/srv0/icons/6be2758d302f/android/drawable-xxhdpi/speech_v2_16x16.png",
+          "image_color": null,
+          "image_size": {
+            "width": 16,
+            "height": 16
+          },
+          "title": "We always enjoy the food at El Charro&#39;s. The server, Aubrey, was an absolute delight. She was very welcoming and explained the various food selections. She was attentive throughout our meal. Kudos to this excellent server.",
+          "title_color": [43, 39, 60],
+          "title_color_string": null,
+          "show_legal_disclaimer": false,
+          "identifier": "TOP_REVIEW_SNIPPET",
+          "is_highlighted_annotation": false,
+          "action": {
+            "type": "VIEW_REVIEW",
+            "text": "Read more",
+            "display_behavior": "status_quo",
+            "review_id": "E0YrbMrbBRXjuZbd1u0Zpg"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "text": "Visit website",
+          "short_text": "Visit website",
+          "type": "visit_website",
+          "biz_action_text": "Visit website",
+          "is_disabled": false,
+          "supported_vertical_types": [],
+          "button_type": "secondary",
+          "text_color": [0, 151, 236],
+          "default_color_top": [255, 255, 255],
+          "default_color_bottom": [245, 245, 240],
+          "selected_color_top": [204, 204, 196],
+          "selected_color_bottom": [229, 229, 225],
+          "border_color": [168, 168, 162],
+          "website_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=664f4410d60865176c8e0711517bb49f284ada46e2ca511bae11f812cfc6f9d4&src_bizid=LZzDvgfpkd4nI3E4L9wF1w&url=https%3A%2F%2Fwww.elcharrocafe.com%2Flocations%2Fdowntown%2F&website_link_type=website"
+        }
+      ],
+      "available_actions": [
+        {
+          "text": "Visit website",
+          "short_text": "Visit website",
+          "type": "visit_website",
+          "biz_action_text": "Visit website",
+          "is_disabled": false,
+          "supported_vertical_types": [],
+          "button_type": "secondary",
+          "text_color": [0, 151, 236],
+          "default_color_top": [255, 255, 255],
+          "default_color_bottom": [245, 245, 240],
+          "selected_color_top": [204, 204, 196],
+          "selected_color_bottom": [229, 229, 225],
+          "border_color": [168, 168, 162],
+          "website_url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=664f4410d60865176c8e0711517bb49f284ada46e2ca511bae11f812cfc6f9d4&src_bizid=LZzDvgfpkd4nI3E4L9wF1w&url=https%3A%2F%2Fwww.elcharrocafe.com%2Flocations%2Fdowntown%2F&website_link_type=website"
+        }
+      ],
+      "always_show_business_photos": false
+    }
+  ]
+}

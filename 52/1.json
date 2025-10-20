@@ -1,0 +1,914 @@
+[
+  {
+    "timestamp": "1760111970000",
+    "title": "On critical Jalen Hurts interception, A.J. Brown was open for a TD",
+    "snippet": "After last night's game, Eagles receiver A.J. Brown said he didn't recall a meeting with quarterback Jalen Hurts and running back Saquon Barkley regarding...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUpTakF3WTNOSlMyaDNjRkUzVFJDZkF4ampCU2dLTWdZeE00WXptUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUpTakF3WTNOSlMyaDNjRkUzVFJDZkF4ampCU2dLTWdZeE00WXptUWs"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760075880000",
+        "title": "Jaxson Dart, Giants hope win over Eagles shifts narrative",
+        "snippet": "Jaxson Dart led the Giants to a convincing 34-17 win over the Eagles on Thursday night, a victory that they hope begins to change the perception of the team...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVZUR0pEUVdGd1pub3hhakp6VFJDZkF4ampCU2dLTWdZVk1vanBvQWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVZUR0pEUVdGd1pub3hhakp6VFJDZkF4ampCU2dLTWdZVk1vanBvQWc"
+        },
+        "newsUrl": "https://www.espn.com/nfl/story/_/id/46549170/jaxson-dart-giants-hope-win-eagles-shifts-narrative",
+        "publisher": "ESPN"
+      },
+      {
+        "timestamp": "1760119887000",
+        "title": "Giants' Thursday night plan started on plane back from New Orleans",
+        "snippet": "To substitute one word for the sake of decorum, preparing for Thursday Night Football is like packing 10 pounds of football into a five-pound bag.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDFRMTlwYXprNVRFZzRha2hRVFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNDFRMTlwYXprNVRFZzRha2hRVFJDb0FSaXNBaWdCTWdB"
+        },
+        "newsUrl": "https://www.giants.com/news/giants-thursday-night-plan-started-on-plane-back-from-new-orleans",
+        "publisher": "Giants.com"
+      },
+      {
+        "timestamp": "1759993200000",
+        "title": "How to watch, stream, and listen | Eagles at Giants",
+        "snippet": "Eagles fans everywhere can watch the Thursday night's NFC East showdown against the New York Giants.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhOMVZzYUROcVZrVnhPRlpUVFJEc0FSaWtBeWdLTWdhSkFvQXlrUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVhOMVZzYUROcVZrVnhPRlpUVFJEc0FSaWtBeWdLTWdhSkFvQXlrUWs"
+        },
+        "newsUrl": "https://www.philadelphiaeagles.com/news/how-to-watch-stream-and-listen-eagles-at-giants-nfl-week-6-100925",
+        "publisher": "Philadelphia Eagles"
+      },
+      {
+        "timestamp": "1760119200000",
+        "title": "PFF grades and snaps counts from an impressive Giants victory over the Eagles",
+        "snippet": "Numbers don't tell the whole story of the New York Giants upset win over the Philadelphia Eagles on Thursday Night Football.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhWVE5HV1daV09UbFRhWFJsVFJDUEF4aUFCaWdLTWdZaFE0WnNvUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWhWVE5HV1daV09UbFRhWFJsVFJDUEF4aUFCaWdLTWdZaFE0WnNvUWM"
+        },
+        "newsUrl": "https://www.bigblueview.com/new-york-giants-analysis/140470/pff-grades-and-snaps-counts-from-an-impressive-giants-victory-over-the-eagles",
+        "publisher": "Big Blue View"
+      },
+      {
+        "timestamp": "1760125499000",
+        "title": "Cover 3: What Thursday night told us about the Giants",
+        "snippet": "The Giants.com crew members give their takeaways from Thursday Night Football and what the win means going forward.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHpNVnB1ZVhKeFFsWTBjRlZzVFJDb0FSaXNBaWdCTWdrQklZaW9vU2FEOHdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNHpNVnB1ZVhKeFFsWTBjRlZzVFJDb0FSaXNBaWdCTWdrQklZaW9vU2FEOHdB"
+        },
+        "newsUrl": "https://www.giants.com/news/thursday-night-football-week-6-jaxson-dart-cam-skattebo-wan-dale-robinson-brian-burns",
+        "publisher": "Giants.com"
+      },
+      {
+        "timestamp": "1760100963000",
+        "title": "Eagles face harsh reality after humiliating loss to the Giants - The Athletic",
+        "snippet": "The Eagles have lost two in a row and are still searching for an offensive identity.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUdiVGc1ZDJReGJ6SXpUWE4wVFJEQ0F4aXFCU2dLTWdrSkFKQ01qR2k1NUFJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUdiVGc1ZDJReGJ6SXpUWE4wVFJEQ0F4aXFCU2dLTWdrSkFKQ01qR2k1NUFJ"
+        },
+        "newsUrl": "https://www.nytimes.com/athletic/6705917/2025/10/10/eagles-loss-giants/",
+        "publisher": "The New York Times"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-critical-jalen-hurts-interception-a-j-brown-was-open-for-a-td",
+    "publisher": "NBC Sports"
+  },
+  {
+    "timestamp": "1760094000000",
+    "title": "2025 NFL Week 6 Advanced Matchups",
+    "snippet": "Digging through the Fantasy Points Data Suite to identify the best and worst schematic matchups for DFS and player prop bets in NFL Week 6.",
+    "subnews": [
+      {
+        "timestamp": "1760094000000",
+        "title": "Our guide to every Week 6 NFL game: Matchup previews, predictions, picks and nuggets",
+        "snippet": "Here's everything you need to know for Week 6 NFL games. Which teams will win, who are the X factors, and which storylines matter most?",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5Va3hpU25KT2JGYzFkWHA1VFJDb0FSaXNBaWdCTWdZUklvNHFHUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW5Va3hpU25KT2JGYzFkWHA1VFJDb0FSaXNBaWdCTWdZUklvNHFHUWs"
+        },
+        "newsUrl": "https://www.espn.com/nfl/story/_/id/46523058/nfl-week-6-picks-predictions-schedule-fantasy-football-odds-injuries-stats-2025",
+        "publisher": "ESPN"
+      },
+      {
+        "timestamp": "1760122282000",
+        "title": "3 Best NFL Player Prop Bets for Week 6",
+        "snippet": "Player props can be useful in a variety of ways -- from taking advantage of them straight up in the betting market via the NFL odds at FanDuel Sportsbook to...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWlialJPYVhoQ1Uyb3hYemt0VFJDZUFSakFBaWdCTWdhTklvck1HUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWlialJPYVhoQ1Uyb3hYemt0VFJDZUFSakFBaWdCTWdhTklvck1HUWs"
+        },
+        "newsUrl": "https://www.fanduel.com/research/3-best-nfl-player-prop-bets-for-week-6-2025",
+        "publisher": "FanDuel"
+      },
+      {
+        "timestamp": "1760030580000",
+        "title": "NFL Week 6 picks & predictions: Will Chiefs, Patriots suffer upsets? Broncos top Jets in London",
+        "snippet": "Can the Jets knock off the Broncos in London? Are the Patriots on upset alert? 49ers or Buccaneers in a matchup of 4-1 teams? Who will prevail on Sunday...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUhVM2hEVUc1amIyWjRSbE5MVFJDZkF4ampCU2dLTWdrQklveEVJV2hVQkFN=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUhVM2hEVUc1amIyWjRSbE5MVFJDZkF4ampCU2dLTWdrQklveEVJV2hVQkFN"
+        },
+        "newsUrl": "https://www.nfl.com/news/nfl-picks-week-6-2025-nfl-season",
+        "publisher": "NFL.com"
+      },
+      {
+        "timestamp": "1760100260000",
+        "title": "NFL Week 6 bold predictions: Dolphins hand banged-up Chargers third consecutive loss, Cardinals upset Colts",
+        "snippet": "Five bold predictions for the upcoming Week 6 slate.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXlURXhrZUdwNlZuWmpNM2hpVFJEb0FoaUFCU2dLTWdrTllZclNxT1daRWdF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXlURXhrZUdwNlZuWmpNM2hpVFJEb0FoaUFCU2dLTWdrTllZclNxT1daRWdF"
+        },
+        "newsUrl": "https://www.cbssports.com/nfl/news/nfl-week-6-bold-predictions-dolphins-cardinals-upsets/",
+        "publisher": "CBS Sports"
+      },
+      {
+        "timestamp": "1760090632000",
+        "title": "NFL Week 6 things to watch: Chiefs seek rebound vs. Lions; 2024 top draft picks rematch",
+        "snippet": "Can the 2-3 Chiefs rebound vs. Lions? Caleb Williams and Jayden Daniels meet again in the nation's capital. Here are the things to watch in Week 6.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJOV1JUWlU0MlRGVjVibVJVVFJEekFoaVVCU2dLTWdhcEFvYU9rUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUJOV1JUWlU0MlRGVjVibVJVVFJEekFoaVVCU2dLTWdhcEFvYU9rUWM"
+        },
+        "newsUrl": "https://www.usatoday.com/story/sports/nfl/2025/10/10/nfl-week-6-top-things-to-watch-caleb-williams-jayden-daniels/86603427007/",
+        "publisher": "USA Today"
+      },
+      {
+        "timestamp": "1760021774000",
+        "title": "NFL betting, odds, lines: Betting trends to know for Week 6's biggest games",
+        "snippet": "We have another batch of intriguing NFL betting trends that once again targets each prime-time game, as well as Sunday's most compelling early and late...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhiakpNT1RJMVlXazRjVFZIVFJEb0FoaUFCU2dLTWdhaE00TE5tUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHhiakpNT1RJMVlXazRjVFZIVFJEb0FoaUFCU2dLTWdhaE00TE5tUWs"
+        },
+        "newsUrl": "https://sports.yahoo.com/nfl/betting/article/nfl-betting-odds-lines-betting-trends-to-know-for-week-6s-biggest-games-145614748.html",
+        "publisher": "Yahoo Sports"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.fantasypoints.com/nfl/articles/2025/nfl-week-6-advanced-matchups",
+    "publisher": "Fantasy Points"
+  },
+  {
+    "timestamp": "1760110080000",
+    "title": "The fascinating coaching matchup of Oregon’s Dan Lanning and Indiana’s Curt Cignetti",
+    "snippet": "EUGENE — Two of the top teams, led by two of the best coaches in the Big Ten will square off at Autzen Stadium when Dan Lanning and No. 3 Oregon host Curt...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZYM2xuZWtGQ2NYUTNNRVkxVFJERUF4aW1CU2dLTWdZQkVaNUpFZ3M=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUZYM2xuZWtGQ2NYUTNNRVkxVFJERUF4aW1CU2dLTWdZQkVaNUpFZ3M"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760095800000",
+        "title": "How Oregon's Dante Moore, Indiana's Fernando Mendoza became unlikely NFL darlings",
+        "snippet": "NEARLY TWO YEARS ago, on a Saturday night in Pasadena with little to play for between a 7-4 UCLA team and a 5-6 Cal team, Dante Moore and Fernando Mendoza...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZhRGd0UlcxVlduRlRiMDVRVFJDZkF4ampCU2dLTWdhaEpJaXVsUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWZhRGd0UlcxVlduRlRiMDVRVFJDZkF4ampCU2dLTWdhaEpJaXVsUWs"
+        },
+        "newsUrl": "https://www.espn.com/college-football/story/_/id/46530616/oregon-dante-moore-indiana-fernando-mendoza-nfl-draft-stock-rising-2025",
+        "publisher": "ESPN"
+      },
+      {
+        "timestamp": "1760125800000",
+        "title": "Oregon vs. Indiana prediction, pick, odds, spread, where to watch live",
+        "snippet": "No. 3 Oregon hosts No. 7 Indiana Saturday on CBS in a matchup of Big Ten title and CFP contenders.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVUR1JvUldSbVVpMUZOVVJQVFJEb0FoaUFCU2dLTWdhQlU0eHdyUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUVUR1JvUldSbVVpMUZOVVJQVFJEb0FoaUFCU2dLTWdhQlU0eHdyUVk"
+        },
+        "newsUrl": "https://www.cbssports.com/college-football/news/oregon-indiana-prediction-pick-odds-spread-where-to-watch-live/",
+        "publisher": "CBS Sports"
+      },
+      {
+        "timestamp": "1760041251000",
+        "title": "Who will be 'College GameDay' guest picker for Oregon-Indiana? ESPN makes announcement",
+        "snippet": "Former Oregon guard and WNBA all-star Sabrina Ionescu will serve as the guest picker on ESPN's \"College GameDay\" this weekend.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWpUbFJrTFRSMmVrbzVkMEZCVFJEekFoaVVCU2dLTWdrUm9aQkp0dVl0cmdF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWpUbFJrTFRSMmVrbzVkMEZCVFJEekFoaVVCU2dLTWdrUm9aQkp0dVl0cmdF"
+        },
+        "newsUrl": "https://www.registerguard.com/story/sports/college/football/2025/10/09/oregon-ducks-football-sabrina-ionescu-wnba-espn-college-gameday/86608370007/",
+        "publisher": "The Register-Guard"
+      },
+      {
+        "timestamp": "1760057580000",
+        "title": "Ducks prepare for versatile Indiana offense: ‘They really present some tough challenges’",
+        "snippet": "The Indiana Hoosiers' offense has been more potent than Penn State's, the only formidable opponent the Ducks have faced this season.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXdOVE4zTW5OZlgzcDNNVmQwVFJERUF4aW1CU2dLTWdtWklvWUttaXBNS1FJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXdOVE4zTW5OZlgzcDNNVmQwVFJERUF4aW1CU2dLTWdtWklvWUttaXBNS1FJ"
+        },
+        "newsUrl": "https://www.oregonlive.com/ducks/2025/10/ducks-prepare-for-versatile-indiana-offense-they-really-present-some-tough-challenges.html",
+        "publisher": "OregonLive.com"
+      },
+      {
+        "timestamp": "1760114540000",
+        "title": "Dan Lanning Reiterates Commitment to Oregon on Eve of Indiana Clash",
+        "snippet": "Since he arrived at Oregon from Georgia before the 2022 season, Ducks coach Dan Lanning's trajectory has pointed ever upward.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWtZMFpNYzFsSFNqSmZaR3hFVFJDVkF4alFCU2dLTWdheEpKaVFHUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWtZMFpNYzFsSFNqSmZaR3hFVFJDVkF4alFCU2dLTWdheEpKaVFHUW8"
+        },
+        "newsUrl": "https://www.si.com/college-football/dan-lanning-reiterates-commitment-oregon-eve-indiana-clash",
+        "publisher": "Sports Illustrated"
+      },
+      {
+        "timestamp": "1760107766000",
+        "title": "No. 7 Indiana visits No. 3 Oregon as Big Ten comes into focus",
+        "snippet": "It's back to work after a bit of time off for Oregon and Indiana. The No. 3 Ducks (5-0, 2-0 Big Ten) host the No. 7 Hoosiers (5-0, 2-0) with both teams...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVBTMjR3Y2s1Q1YwTkJkMVpZVFJEb0FoaUFCU2dLTWdZQlFJckhxQVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVBTMjR3Y2s1Q1YwTkJkMVpZVFJEb0FoaUFCU2dLTWdZQlFJckhxQVk"
+        },
+        "newsUrl": "https://sports.yahoo.com/article/no-7-indiana-visits-no-144926834.html",
+        "publisher": "Yahoo Sports"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.oregonlive.com/ducks/2025/10/the-fascinating-coaching-matchup-of-oregons-dan-lanning-and-indianas-curt-cignetti.html",
+    "publisher": "OregonLive.com"
+  },
+  {
+    "timestamp": "1760117460000",
+    "title": "Browns name Shedeur Sanders as No. 2 QB ahead of Sunday’s game vs. Steelers",
+    "snippet": "Shedeur Sanders will serve as the No. 2 quarterback behind starter Dillon Gabriel for Sunday's game in Pittsburgh, Browns coach Kevin Stefanski said Friday.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUJObkZqYVhGUlZHbzFWekZ3VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUJObkZqYVhGUlZHbzFWekZ3VFJERUF4aW1CU2dLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760118000000",
+        "title": "Shedeur to back up Gabriel against Steelers",
+        "snippet": "Shedeur Sanders will be the backup quarterback to starter Dillon Gabriel on Sunday in the Browns' divisional road game against the Steelers,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBSR3RxZURFMFUxOWZjR3BHVFJDb0FSaXNBaWdCTWdhdEU0eVBFUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDBSR3RxZURFMFUxOWZjR3BHVFJDb0FSaXNBaWdCTWdhdEU0eVBFUW8"
+        },
+        "newsUrl": "https://www.espn.com/nfl/story/_/id/46553513/browns-shedeur-sanders-back-dillon-gabriel-vs-steelers",
+        "publisher": "ESPN"
+      },
+      {
+        "timestamp": "1759943340000",
+        "title": "Joe Flacco to start at QB for Bengals in Week 6 game vs. Packers",
+        "snippet": "Joe Flacco will start at quarterback for the Cincinnati Bengals against the Green Bay Packers, coach Zac Taylor told reporters on Wednesday, just one day...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVliM1JJYjNSZlN6WXRPSE5FVFJDZkF4ampCU2dLTWdhTk1Jb1BuUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVliM1JJYjNSZlN6WXRPSE5FVFJDZkF4ampCU2dLTWdhTk1Jb1BuUWM"
+        },
+        "newsUrl": "https://www.nfl.com/news/joe-flacco-starting-quarterback-bengals-week-6-game-packers-browns-trade",
+        "publisher": "NFL.com"
+      },
+      {
+        "timestamp": "1760018172000",
+        "title": "Andscape Roundtable: Shedeur Sanders to BROWNS QB2? Deion Sanders health CONCERNS?",
+        "snippet": "Andscape digital lead Erik Horne, columnist William C. Rhoden, senior columnist Clinton Yates and Jean-Jacques Taylor, president of JJT Media Group,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWlkMmt5YTNOQlVuZGZibUpqVFJDMEFSakFBaWdLTWdZQlJZREZYUUk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWlkMmt5YTNOQlVuZGZibUpqVFJDMEFSakFBaWdLTWdZQlJZREZYUUk"
+        },
+        "newsUrl": "https://andscape.com/features/andscape-roundtable-shedeur-sanders-to-browns-no-2-deion-sanders-health-concerns/",
+        "publisher": "Andscape"
+      },
+      {
+        "timestamp": "1760124420000",
+        "title": "Browns finally announce Shedeur Sanders’ spot on depth chart after Joe Flacco trade",
+        "snippet": "Shedeur Sanders will backup Dillon Gabriel and be listed as the Browns' second stringer on Sunday in a divisional road game against the Steelers,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVJXRlF3UzNsaWVFVkVRME51VFJERUF4aW5CU2dLTWdrQkFJNENnNndXSXdN=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNVJXRlF3UzNsaWVFVkVRME51VFJERUF4aW5CU2dLTWdrQkFJNENnNndXSXdN"
+        },
+        "newsUrl": "https://nypost.com/2025/10/10/sports/browns-finally-announce-shedeur-sanders-spot-on-depth-chart/",
+        "publisher": "New York Post"
+      },
+      {
+        "timestamp": "1760038211000",
+        "title": "Browns OC Tommy Rees praises Shedeur Sanders' 'growth' as Kevin Stefanski stays quiet on QB depth chart",
+        "snippet": "Cleveland Browns head coach Kevin Stefanski might be evasive about the team's ever-shifting quarterback situation, but his staff is finding praise for...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXBNV0Z6Y2w5V1UwNVJVRzF4VFJEb0FoaUFCU2dLTWdrWk00WlJtZVdwdHdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXBNV0Z6Y2w5V1UwNVJVRzF4VFJEb0FoaUFCU2dLTWdrWk00WlJtZVdwdHdB"
+        },
+        "newsUrl": "https://sports.yahoo.com/nfl/breaking-news/article/browns-oc-tommy-rees-praises-shedeur-sanders-growth-as-kevin-stefanski-stays-quiet-on-qb-depth-chart-175513941.html",
+        "publisher": "Yahoo Sports"
+      },
+      {
+        "timestamp": "1760039986000",
+        "title": "Deshaun Watson's latest post should scare Shedeur Sanders and Browns",
+        "snippet": "Cleveland Browns owner Jimmy Haslam must shutter whenever his assistant tells him Deshaun Watson has posted another Instagram post.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNNVWMyVEd4NVNsWnRkSGx1VFJDVkF4alFCU2dLTWdZbEJJYk1LUVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTNNVWMyVEd4NVNsWnRkSGx1VFJDVkF4alFCU2dLTWdZbEJJYk1LUVU"
+        },
+        "newsUrl": "https://www.si.com/onsi/athlete-lifestyle/business/deshaun-watson-latest-post-should-scare-shedeur-sanders-browns",
+        "publisher": "Sports Illustrated"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.nytimes.com/athletic/6706758/2025/10/10/browns-shedeur-sanders-bailey-zappe-quarterback/",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1760108739000",
+    "title": "KSL.com Pick'em: Staff picks for Week 7 of college football",
+    "snippet": "Each week, we'll release the KSL.com sports staff picks for you to see. Can you do a better job than us? Probably, but that's the fun of it all.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlkWEpOTUU0M2QzSlpVbXRVVFJERUF4aW1CU2dLTWdZQkU0eHdsUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHlkWEpOTUU0M2QzSlpVbXRVVFJERUF4aW1CU2dLTWdZQkU0eHdsUW8"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760095800000",
+        "title": "Digging in on 31 tasty morsels from a full Week 7 menu",
+        "snippet": "Are you a fan of the old reliable or new weirdness? Do you go for a good, old-fashioned corny dog at the State Fair of Texas or do you seek out the new...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNMVmg1WW5sclduZHliVkJMVFJDZkF4ampCU2dLTWdhbEpJU3VuUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXNMVmg1WW5sclduZHliVkJMVFJDZkF4ampCU2dLTWdhbEpJU3VuUWM"
+        },
+        "newsUrl": "https://www.espn.com/college-football/story/_/id/46542452/college-football-week-7-indiana-oregon-oklahoma-texas-alabama",
+        "publisher": "ESPN"
+      },
+      {
+        "timestamp": "1760125776000",
+        "title": "College football picks: Predictions, odds for key top 25 games in Week 7",
+        "snippet": "Expert picks, predictions for the marquee top 25 college football games in Week 7.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpUVkJYVFdneFMzUkdaazgzVFJEb0FoaUFCU2dLTWdZbHdJYVh4QU0=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXpUVkJYVFdneFMzUkdaazgzVFJEb0FoaUFCU2dLTWdZbHdJYVh4QU0"
+        },
+        "newsUrl": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-odds-top-25-games-week-7/",
+        "publisher": "CBS Sports"
+      },
+      {
+        "timestamp": "1760040216000",
+        "title": "College football Week 7: Schedule, Top 25 rankings, preview and more",
+        "snippet": "Follow along here for live updates, highlights, preview and more from an exciting Week 7 slate of college football.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1aRXhCZW5sNVFtaE1TVlZNVFJDZkF4ampCU2dLTWdhZFk0NXFzUVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW1aRXhCZW5sNVFtaE1TVlZNVFJDZkF4ampCU2dLTWdhZFk0NXFzUVU"
+        },
+        "newsUrl": "https://www.ncaa.com/live-updates/football/fbs/college-football-week-7-schedule-top-25-rankings-preview-and-more",
+        "publisher": "NCAA.com"
+      },
+      {
+        "timestamp": "1760113110000",
+        "title": "Dawgs247 Expert CFB Picks Against the Spread: Week 7 is a fall weather showcase slate",
+        "snippet": "Time for our experts to give their picks against the spread from the top games in Week 7.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXphREUyTWxWdlZWbDNWR2N4VFJDUkF4ajlCU2dLTWdZVkU1UVRrUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXphREUyTWxWdlZWbDNWR2N4VFJDUkF4ajlCU2dLTWdZVkU1UVRrUW8"
+        },
+        "newsUrl": "https://247sports.com/college/georgia/longformarticle/dawgs247-expert-cfb-picks-against-the-spread-week-7-is-a-fall-weather-showcase-slate-256195224/",
+        "publisher": "247Sports"
+      },
+      {
+        "timestamp": "1760123400000",
+        "title": "College football Week 7 betting notes: Spread trends and betting angles from proven expert",
+        "snippet": "Longtime college football betting expert Bruce Marshall shares key betting trends and angles ahead of Week 7.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlhVm90TUdKb2QwVjZPVFoxVFJEb0FoaUFCU2dLTWdZWkE0WkxGUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXlhVm90TUdKb2QwVjZPVFoxVFJEb0FoaUFCU2dLTWdZWkE0WkxGUVk"
+        },
+        "newsUrl": "https://www.cbssports.com/college-football/news/college-football-week-7-betting-notes-spread-trends-and-betting-angles-from-proven-expert/",
+        "publisher": "CBS Sports"
+      },
+      {
+        "timestamp": "1760090932000",
+        "title": "The college football games you can't miss in Week 7 include Big Ten, SEC clashes",
+        "snippet": "Week 7 is upon us, college football fans, and the Saturday slate is promising indeed. The action centers as it often does around the Big Ten and the SEC,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTVlbUpVYUVaT1UyOWljbkpYVFJEekFoaVVCU2dLTWdZQkVJeXFHQWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTVlbUpVYUVaT1UyOWljbkpYVFJEekFoaVVCU2dLTWdZQkVJeXFHQWc"
+        },
+        "newsUrl": "https://www.usatoday.com/story/sports/ncaaf/2025/10/10/college-football-games-to-watch-week-7/86586601007/",
+        "publisher": "USA Today"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.ksl.com/article/51388098/kslcom-pickem-staff-picks-for-week-7-of-college-football",
+    "publisher": "KSL.com"
+  },
+  {
+    "timestamp": "1760118532000",
+    "title": "NFL 2025 Week 6 Start ‘Em Sit ‘Em: Stack Jordan Love and Matthew Golden",
+    "snippet": "Week 6 is upon us and with it comes another series of difficult start/sit decisions in fantasy football. These are my favorite plays and my biggest fades...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRia2REVkdSMlJUWnFTa2w1VFJDM0FSaVRBaWdCTWdZbFVKQ3RJUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHRia2REVkdSMlJUWnFTa2w1VFJDM0FSaVRBaWdCTWdZbFVKQ3RJUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nbcsports.com/fantasy/football/news/nfl-2025-week-6-start-em-sit-em-stack-jordan-love-and-matthew-golden",
+    "publisher": "NBC Sports"
+  },
+  {
+    "timestamp": "1760114265000",
+    "title": "Detroit Lions’ secondary could be extremely shorthanded vs. Chiefs",
+    "snippet": "Updating the Detroit Lions injury situation in the secondary ahead of their game against the Kansas City Chiefs.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNZMFZuY2tsak56aEJha1JZVFJDUEF4aUJCaWdLTWdZSkVZeHZGUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXNZMFZuY2tsak56aEJha1JZVFJDUEF4aUJCaWdLTWdZSkVZeHZGUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.prideofdetroit.com/detroit-lions-injury-report/145169/detroit-lions-injuries-brian-branch-secondary-kansas-city-chiefs",
+    "publisher": "Pride Of Detroit"
+  },
+  {
+    "timestamp": "1760100045000",
+    "title": "Phillies' Orion Kerkering Bluntly Addressed Season-Ending NLDS Error",
+    "snippet": "The Phillies reliever explained his thought process on the critical 11th inning error.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhUMTlYV0ZCWmFtTjZiVWR4VFJDVkF4alFCU2dLTWdZQk1KaXpHQW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHhUMTlYV0ZCWmFtTjZiVWR4VFJDVkF4alFCU2dLTWdZQk1KaXpHQW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.si.com/mlb/phillies-orion-kerkering-bluntly-addressed-season-ending-nlds-error",
+    "publisher": "Sports Illustrated"
+  },
+  {
+    "timestamp": "1760054506000",
+    "title": "Quick Hits | Ja'Marr Chase, Tee Higgins Welcome Joe Flacco With Open Arms: 'He's Still Getting It Out There'",
+    "snippet": "T.J. Houshmandzadeh, who has caught a touchdown pass from Carson Palmer and Joe Flacco, mused the other day how current Bengals wide receivers Ja'Marr Chase...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlSbk5TUTNGSWFXcDRURzF2VFJDZkF4ampCU2dLTWdZTlVaSnVJUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHlSbk5TUTNGSWFXcDRURzF2VFJDZkF4ampCU2dLTWdZTlVaSnVJUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.bengals.com/news/ja-marr-chase-tee-higgins-welcome-joe-flacco-with-open-arms-he-s-still-getting-it-out-there",
+    "publisher": "Bengals.com"
+  },
+  {
+    "timestamp": "1760120520000",
+    "title": "Trey Hendrickson, Alvin Kamara headline 8 notable NFL trade candidates ahead of Nov. 4 deadline",
+    "snippet": "With the NFL trade deadline looming on Nov. 4, Marc Ross spotlights eight notable players who could be on the move in the coming weeks,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFUMXBrTFhkM1RsOTNha3hIVFJDb0FSaXNBaWdCTWdZQkVJeHRuUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWFUMXBrTFhkM1RsOTNha3hIVFJDb0FSaXNBaWdCTWdZQkVJeHRuUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nfl.com/news/trey-hendrickson-alvin-kamara-headline-8-notable-nfl-trade-candidates-ahead-of-nov-4-deadline",
+    "publisher": "NFL.com"
+  },
+  {
+    "timestamp": "1760095143000",
+    "title": "Savannah Bananas' Banana Ball coming to Comerica Park in September 2026",
+    "snippet": "The Savannah Bananas' Banana Ball is officially coming to Detroit next year as part of its world tour.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWtSekY2ZUZRNGJUUmxWRmxoVFJDZkF4ampCU2dLTWdrQlFvekhucXBjU2dJ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWtSekY2ZUZRNGJUUmxWRmxoVFJDZkF4ampCU2dLTWdrQlFvekhucXBjU2dJ"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.wxyz.com/news/savannah-bananas-banana-ball-coming-to-comerica-park-in-september-2026",
+    "publisher": "WXYZ Channel 7"
+  },
+  {
+    "timestamp": "1760118610000",
+    "title": "Bill Belichick pledged an NFL approach at North Carolina. Program insiders call it dysfunctional",
+    "snippet": "Inside the decisions that have led to North Carolina's on-field dysfunction.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxXR1pmY1Rkd09GUjZaMmx0VFJDSEF4aVBCaWdLTWdhaEZJYnNsUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUxXR1pmY1Rkd09GUjZaMmx0VFJDSEF4aVBCaWdLTWdhaEZJYnNsUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/athletic/6704076/2025/10/10/bill-belichick-unc-football-collapse-one-month/",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1760114760000",
+    "title": "NFL is reviewing how concussion protocol was followed for Giants rookie QB Jaxson Dart",
+    "snippet": "The NFL has initiated a review of the concussion protocol used for New York Giants rookie quarterback Jaxson Dart on Thursday night in the team's game...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZabGhtYXpCM1ZFSndRbG8xVFJDUEF4alhCQ2dLTWdZQk1KYk5tUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTZabGhtYXpCM1ZFSndRbG8xVFJDUEF4alhCQ2dLTWdZQk1KYk5tUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://apnews.com/article/brian-daboll-injury-tent-jaxson-dart-22185291857fe0a6a82ead38e53707e2",
+    "publisher": "AP News"
+  },
+  {
+    "timestamp": "1760084790000",
+    "title": "Loyola's Sister Jean, who became a March Madness icon, dies at 106",
+    "snippet": "Sister Jean Dolores Schmidt, the beloved chaplain for the Loyola Chicago men's basketball team who became an international celebrity during their 2018 Final...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZaVjh5WDJsU1ZqWndPRzh5VFJDZkF4amlCU2dLTWdZZFVZNHBJZ2s=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUZaVjh5WDJsU1ZqWndPRzh5VFJDZkF4amlCU2dLTWdZZFVZNHBJZ2s"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.npr.org/2025/10/10/nx-s1-4562208/loyola-sister-jean-march-madness-basketball-dies",
+    "publisher": "NPR"
+  },
+  {
+    "timestamp": "1760109008000",
+    "title": "Report: Chris Godwin is not expected to play Sunday",
+    "snippet": "Buccaneers wide receiver Chris Godwin missed the first three games of the season as he worked his way back from an ankle fracture and it looks like he's set...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBjM2h6UXpSWU9Wb3djelZqVFJDZkF4ampCU2dLTWdZeEpJcHdHUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTBjM2h6UXpSWU9Wb3djelZqVFJDZkF4ampCU2dLTWdZeEpJcHdHUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chris-godwin-is-not-expected-to-play-sunday",
+    "publisher": "NBC Sports"
+  },
+  {
+    "timestamp": "1760098380000",
+    "title": "Dan Orlovsky reveals what makes Eagles’ offense ‘predictable’ after ugly ‘TNF’ loss to Giants",
+    "snippet": "The Eagles have a bigger tell than Teddy KGB and its sinking their “predictable” offense. ESPN analyst and ex-NFL quarterback Dan Orlovsky slammed...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNjRzR3TjNKSGIxUmtPRkJCVFJERUF4aW5CU2dLTWdZQkVJZ0tKUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUNjRzR3TjNKSGIxUmtPRkJCVFJERUF4aW5CU2dLTWdZQkVJZ0tKUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://nypost.com/2025/10/10/sports/dan-orlovsky-reveals-what-makes-eagles-offense-predictable-after-ugly-tnf-loss-to-giants/",
+    "publisher": "New York Post"
+  },
+  {
+    "timestamp": "1760082898000",
+    "title": "Cubs-Brewers NLDS Game 5 FAQ (Sat., 8 p.m. ET, TBS)",
+    "snippet": "CHICAGO -- All the world's a stage, and the Cubs and Brewers are set to take it Saturday night in a win-or-go-home meeting in Milwaukee.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpkRVZHYUY5SmEzbEtNMmMzVFJEUkFSajBBaWdLTWdhUlVKUXNyUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHpkRVZHYUY5SmEzbEtNMmMzVFJEUkFSajBBaWdLTWdhUlVKUXNyUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.mlb.com/news/cubs-vs-brewers-nlds-game-5-starting-lineups-pitching-matchup",
+    "publisher": "MLB.com"
+  },
+  {
+    "timestamp": "1760019460000",
+    "title": "Lincoln Riley Fires Back at Sherrone Moore's Comments Ahead of USC-Michigan Showdown",
+    "snippet": "Some subtle shots are being fired between head coaches ahead of the No. 15-ranked Michigan Wolverines heading west to take on the 4-1 USC Trojans this...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWlSRlZITVdaa2EwNXFVM0Z6VFJDVkF4alFCU2dLTWdZZEJwSXJrZ28=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWlSRlZITVdaa2EwNXFVM0Z6VFJDVkF4alFCU2dLTWdZZEJwSXJrZ28"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.si.com/college-football/lincoln-riley-fires-back-at-sherrone-moores-comments-ahead-of-usc-michigan-showdown",
+    "publisher": "Sports Illustrated"
+  },
+  {
+    "timestamp": "1760096861000",
+    "title": "What comes next for Phillies’ core after 3 years of postseason pain?",
+    "snippet": "Kyle Schwarber, J.T. Realmuto and Ranger Suárez are among their key free agents. After a crushing defeat, an offseason of change awaits.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUtlV05zTFRGaU9WbzJTWGxuVFJERUF4aW1CU2dLTWdhTk1aS21JQWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUtlV05zTFRGaU9WbzJTWGxuVFJERUF4aW1CU2dLTWdhTk1aS21JQWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/athletic/6705711/2025/10/10/phillies-core-free-agents-offseason-change/",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1760101200000",
+    "title": "49ers vs. Bucs: The Standard’s 5 fast predictions",
+    "snippet": "Sunday's matchup pits the top teams from the NFC West and the NFC South against one another.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBYM1oyUzIwelFWcHBRblZOVFJDcUJCaXFCQ2dLTWdZQkVJNm1vUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXBYM1oyUzIwelFWcHBRblZOVFJDcUJCaXFCQ2dLTWdZQkVJNm1vUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://sfstandard.com/2025/10/10/49ers-bucs-predictions-preview-score/",
+    "publisher": "The San Francisco Standard"
+  },
+  {
+    "timestamp": "1760056479000",
+    "title": "49ers QB Mac Jones in doubt for Sunday vs. Buccaneers: ‘We’ll see how I feel’",
+    "snippet": "San Francisco 49ers QB Mac Jones, hampered by knee and oblique injuries, may not be ready for Sunday's game. With Brock Purdy out, enter Adrian Martinez.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpjR0p5TFZCNVFreExkRWxTVFJERUF4aW1CU2dLTWdhQkFKWXFrZ28=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWpjR0p5TFZCNVFreExkRWxTVFJERUF4aW1CU2dLTWdhQkFKWXFrZ28"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.sfchronicle.com/sports/49ers/article/49ers-qb-mac-jones-doubt-bucs-game-limited-knee-21093419.php",
+    "publisher": "San Francisco Chronicle"
+  },
+  {
+    "timestamp": "1760114093000",
+    "title": "Ravens Getting Healthier Before Facing Rams",
+    "snippet": "Lamar Jackson hasn't practiced this week, but the Ravens got another cornerback back on the field.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWhZMGRZTFZFd2RVeDVVR1JPVFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNWhZMGRZTFZFd2RVeDVVR1JPVFJDb0FSaXNBaWdCTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.baltimoreravens.com/news/injury-report-ravens-rams-lamar-jackson-kyle-hamilton-chidobe-awuzie-roquan-smith-marlon-humphrey",
+    "publisher": "Ravens Home | Baltimore Ravens – baltimoreravens.com"
+  },
+  {
+    "timestamp": "1760034360000",
+    "title": "NFL QB rankings, Week 6: Baker Mayfield vaults Patrick Mahomes, Josh Allen; Drake Maye in top 10",
+    "snippet": "Who dethroned Josh Allen for the top spot in Nick Shook's QB Index rankings? Check out the updated pecking order, 1-32, heading into Week 6 of the 2025 NFL...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTFVVmRhU1RsWFFUUnJaMWMzVFJDZkF4ampCU2dLTWdZbE1aRE5HUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTFVVmRhU1RsWFFUUnJaMWMzVFJDZkF4ampCU2dLTWdZbE1aRE5HUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nfl.com/news/nfl-qb-rankings-index-week-6-2025-nfl-season",
+    "publisher": "NFL.com"
+  },
+  {
+    "timestamp": "1760086985000",
+    "title": "Cowboys vs. Panthers: Which team needs a win most? Assessing Rico Dowdle’s impact",
+    "snippet": "For the third consecutive season, the Dallas Cowboys are visiting Bank of America Stadium to take on the Carolina Panthers. The Cowboys also will be looking...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTVXbEJIVG5GWWVWcFpNMDh5VFJERUF4aW1CU2dLTWdZSklwQ21GZ28=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTVXbEJIVG5GWWVWcFpNMDh5VFJERUF4aW1CU2dLTWdZSklwQ21GZ28"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/athletic/6704334/2025/10/10/cowboys-panthers-rico-dowdle-matchup-analysis/",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1760099679000",
+    "title": "Noles247 Game Predictions: No. 25 FSU vs Pitt",
+    "snippet": "The Noles247 staff shares their game predictions for FSU vs. Pit.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHdRMHAwUWtkbGNqVlFVVjlsVFJDUUF4ai1CU2dLTWdtQlFJekZwR1ZyNXdJ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNHdRMHAwUWtkbGNqVlFVVjlsVFJDUUF4ai1CU2dLTWdtQlFJekZwR1ZyNXdJ"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://247sports.com/college/florida-state/longformarticle/noles247-game-predictions-no-25-fsu-vs-pitt-256165074/",
+    "publisher": "247Sports"
+  },
+  {
+    "timestamp": "1760072108000",
+    "title": "Nedeljk…Oh No! Sharks Lose 4-3 OT Heartbreaker",
+    "snippet": "The San Jose Sharks welcome the Vegas Golden Knights into SAP Center for the 2025-26 season opener! Jeff Skinner, Alex Wennberg, and Philipp Kurashev scored...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDFORTFVT1RSS1JXVXlORTFZVFJERUF4aW1CU2dLTWdhVkZJeXRsUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDFORTFVT1RSS1JXVXlORTFZVFJERUF4aW1CU2dLTWdhVkZJeXRsUW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://sanjosehockeynow.com/san-jose-sharks-vegas-golden-knights-2025-26-game-notes-1/",
+    "publisher": "San Jose Hockey Now"
+  },
+  {
+    "timestamp": "1760103660000",
+    "title": "Jonathan Toews returns to NHL with hometown Jets after being out 2 seasons with long COVID",
+    "snippet": "The spotlight was on Jonathan Toews when the Winnipeg Jets skated onto the ice for their opener against Dallas.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBPRFp3T0ZCSGR6aE9OR1ZWVFJDdkF4alhCQ2dLTWdZQlZaRE1JUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTBPRFp3T0ZCSGR6aE9OR1ZWVFJDdkF4alhCQ2dLTWdZQlZaRE1JUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://apnews.com/article/jonathan-toews-winnipeg-jets-d3f1745f7ac6ed36e6fef74aeb5d997d",
+    "publisher": "AP News"
+  },
+  {
+    "timestamp": "1760117507000",
+    "title": "A.J. Brown explains why he said “I don’t recall” meeting with Jalen Hurts, Saquon Barkley",
+    "snippet": "After Thursday night's 34-17 loss to the Giants, Eagles wide receiver A.J. Brown said “I don't recall a meeting” with quarterback Jalen Hurts and running...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVNZWEozYWt3M1dGcE5RblZOVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNVNZWEozYWt3M1dGcE5RblZOVFJDZkF4ampCU2dLTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-explains-why-he-said-i-dont-recall-meeting-with-jalen-hurts-saquon-barkley",
+    "publisher": "NBC Sports"
+  },
+  {
+    "timestamp": "1760105979000",
+    "title": "Three Reasons Nebraska Will Win; Three Reasons Nebraska Will Lose vs. Maryland",
+    "snippet": "The Huskers are 6½-point favorites over the Terrapins as a critical stretch of the season continues.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhkRzlYVlVFeFEwbzNkRmhqVFJDVkF4alFCU2dLTWdhbE1JN05sUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWhkRzlYVlVFeFEwbzNkRmhqVFJDVkF4alFCU2dLTWdhbE1JN05sUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.si.com/college/nebraska/football/three-reasons-why-nebraska-will-win-three-reasons-why-nebraska-will-lose-vs-maryland",
+    "publisher": "Sports Illustrated"
+  },
+  {
+    "timestamp": "1760065955000",
+    "title": "Recap: Canes Outduel Devils For Season-Opening Win | Carolina Hurricanes",
+    "snippet": "RALEIGH, N.C. - Led by five multi-point efforts, including K'Andre Miller's first two goals in red and black, the Carolina Hurricanes ousted the New Jersey...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBUbXRMUzFSUmNVdENObXA0VFJEcUFSaWdBeWdLTWdhSlVZak5yQVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTBUbXRMUzFSUmNVdENObXA0VFJEcUFSaWdBeWdLTWdhSlVZak5yQVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nhl.com/hurricanes/news/recap-canes-outduel-devils-for-season-opening-win",
+    "publisher": "NHL.com"
+  },
+  {
+    "timestamp": "1760035500000",
+    "title": "Fans shocked as Alex Pereira vs Jon Jones opening odds reveal big favorite… 'That's insane'",
+    "snippet": "The lopsided opening odds for a potential UFC super fight between Alex Pereira and Jon Jones has divided fans.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdhVEpzU2tSV2EwcFdOMmxOVFJERUF4aW1CU2dLTWdhTlZKak5IUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVdhVEpzU2tSV2EwcFdOMmxOVFJERUF4aW1CU2dLTWdhTlZKak5IUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://bloodyelbow.com/2025/10/09/fans-shocked-as-alex-pereira-vs-jon-jones-opening-odds-reveal-big-favorite-thats-insane/",
+    "publisher": "Bloody Elbow"
+  },
+  {
+    "timestamp": "1760030070000",
+    "title": "Drayer: Mariners confident in their resiliency ahead of Game 5",
+    "snippet": "All season long, the Seattle Mariners have shown their ability to bounce back. And after a tough Game 4 loss, that mentality was on full display once again.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUpabEJCWjNGNFRYRm5SRzFRVFJEc0FSaWtBeWdLTWdZbE5vVHRzUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUpabEJCWjNGNFRYRm5SRzFRVFJEc0FSaWtBeWdLTWdZbE5vVHRzUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://sports.mynorthwest.com/mlb/seattle-mariners/drayer-seattle-mariners-confident-in-resiliency-ahead-of-game-5-alds/1824835",
+    "publisher": "Seattle Sports"
+  },
+  {
+    "timestamp": "1760102820000",
+    "title": "Ex-Celtics star Paul Pierce found asleep in car, arrested on suspicion of DUI",
+    "snippet": "Former NBA player Paul Pierce has been arrested on suspicion of driving under the influence on a Los Angeles highway after he was found asleep behind the...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJkVEpFYWtoaldIazJaVUV3VFJEVkFSakFBaWdLTWdhaFZwWUxKZ2c=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTJkVEpFYWtoaldIazJaVUV3VFJEVkFSakFBaWdLTWdhaFZwWUxKZ2c"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://apnews.com/article/paul-pierce-nba-celtics-basketball-dui-car-5ffeb761f0e8c8fc1f26e6e5c016bd48",
+    "publisher": "AP News"
+  },
+  {
+    "timestamp": "1760110020000",
+    "title": "Why the Browns traded CB Greg Newsome II to the Jaguars for CB Tyson Campbell: Mary Kay Cabot",
+    "snippet": "BEREA, Ohio — Why would the Browns trade first-round cornerback Greg Newsome II, who was off to one of the best starts of his career,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUhiblJETkhSWGF6VmZUbko2VFJETkF4aVpCU2dLTWdhVkJKQUpEZ28=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUhiblJETkhSWGF6VmZUbko2VFJETkF4aVpCU2dLTWdhVkJKQUpEZ28"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.cleveland.com/browns/2025/10/why-the-browns-traded-cb-greg-newsome-ii-to-the-jaguars-for-cb-tyson-campbell-mary-kay-cabot.html",
+    "publisher": "Cleveland.com"
+  },
+  {
+    "timestamp": "1760018286000",
+    "title": "Even the Basketball Gods Couldn’t Stop A’ja Wilson",
+    "snippet": "In a Finals clash brimming with chaos, the WNBA's four-time MVP rose above mortals to remind everyone who rules the mountaintop.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVPSGxhWW1KUVFWcGliRUl5VFJDcUJCaXFCQ2dLTWdiQkFZclZqQXM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUVPSGxhWW1KUVFWcGliRUl5VFJDcUJCaXFCQ2dLTWdiQkFZclZqQXM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theringer.com/2025/10/09/wnba/aja-wilson-las-vegas-aces-phoenix-mercury-wnba-finals-2025",
+    "publisher": "The Ringer"
+  },
+  {
+    "timestamp": "1760066040000",
+    "title": "Shesterkin spoils the Sabres opening night 4-0.",
+    "snippet": "The Buffalo Sabres had a sellout crowd for their first game that just wanted to explode and cheer for their team, but in the end, they didn't give them...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRNRzVQV1VNeE1VTmhVVkV0VFJEY0F4aUVCU2dLTWdZSkVJalVrQW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHRNRzVQV1VNeE1VTmhVVkV0VFJEY0F4aUVCU2dLTWdZSkVJalVrQW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.audacy.com/wgr550/sports/sabres/shesterkin-spoils-the-sabres-opening-night-4-0",
+    "publisher": "Audacy"
+  },
+  {
+    "timestamp": "1760113200000",
+    "title": "Micah Parsons saw the Eagles run the Tush Push four straight times and had enough",
+    "snippet": "Micah Parsons saw more than enough. The Packers star watched the Eagles run their infamous \"Tush Push\" on four straight plays, resulting in a Jalen Hurts...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpha3BOTW1SNVduWmtObVZ5VFJDa0FSajJBU2dLTWdZQklKUzJHQWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXpha3BOTW1SNVduWmtObVZ5VFJDa0FSajJBU2dLTWdZQklKUzJHQWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://nypost.com/2025/10/10/sports/micah-parsons-rips-eagles-tush-push-after-giants-debacle/",
+    "publisher": "New York Post"
+  },
+  {
+    "timestamp": "1760094015000",
+    "title": "The Giannis Antetokounmpo trade saga, and New York Knicks’ interest, is just on hold - The Athletic",
+    "snippet": "Giannis is a Buck for now, and possibly for a while yet. But the superstar's future is uncertain.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVWMk5DY2xObFUwWXphRGxKVFJERUF4aW1CU2dLTWdhdE5JeVBtUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVVWMk5DY2xObFUwWXphRGxKVFJERUF4aW1CU2dLTWdhdE5JeVBtUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/athletic/6705000/2025/10/10/knicks-giannis-antetokounmpo-trade-news-latest/",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1760047595000",
+    "title": "Mark Sanchez pulled from Seahawks-Jaguars broadcast following felony arrest",
+    "snippet": "Mark Schlereth is set to replace Sanchez as color commentator for Sunday's Seahawks game in Jacksonville.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZWbU00VTFKS2NrWXpWWEJCVFJDUkF4ajhCU2dLTWdZQmhwSU1MZ2M=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUZWbU00VTFKS2NrWXpWWEJCVFJDUkF4ajhCU2dLTWdZQmhwSU1MZ2M"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.fieldgulls.com/seattle-seahawks-news/152263/mark-sanchez-removed-seahawks-vs-jaguars-fox-sports-broadcast-arrest",
+    "publisher": "Field Gulls"
+  },
+  {
+    "timestamp": "1760047201000",
+    "title": "3 Keys to a Broncos Victory Over Jets in London",
+    "snippet": "The winless New York Jets are like a cornered, wounded animal. How do the Denver Broncos apprehend the Jets, and avoid a dreaded trap game in London?",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWlSWE54VlhwSlQwZG5jSFpJVFJDVkF4alFCU2dLTWdtQkpZak1sYW5RVVFF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWlSWE54VlhwSlQwZG5jSFpJVFJDVkF4alFCU2dLTWdtQkpZak1sYW5RVVFF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.si.com/nfl/broncos/onsi/news/broncos-keys-to-victory-jets-trap-game-london",
+    "publisher": "Sports Illustrated"
+  },
+  {
+    "timestamp": "1760104740000",
+    "title": "Report: LSU's Lacy hit 88 mph before fatal crash",
+    "snippet": "A district attorney's office investigation discovered \"several inconsistencies\" in the police report on a fatal crash involving LSU wide receiver Kyren...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHpjRWRSZHpVek1tMWlNVXhIVFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNHpjRWRSZHpVek1tMWlNVXhIVFJDb0FSaXNBaWdCTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.espn.com/college-football/story/_/id/46552190/investigative-report-kyren-lacy-case-finds-inconsistencies-louisiana-state-police-report",
+    "publisher": "ESPN"
+  },
+  {
+    "timestamp": "1760007600000",
+    "title": "USELESS BREAKDOWN: Florida at Texas A&M college football preview",
+    "snippet": "Oct 9. Texas A&M unveils throwback uniform honoring 1975 team. Oct 8. Trenches Preview: Florida at Texas A&M.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJNMHhsU25wRWJsSlphMVpQVFJESENCaVlBaWdLTWdhSklZWUpIUVE=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTJNMHhsU25wRWJsSlphMVpQVFJESENCaVlBaWdLTWdhSklZWUpIUVE"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.goodbullhunting.com/useless-breakdown/38531/useless-breakdown-florida-at-texas-am",
+    "publisher": "Good Bull Hunting"
+  },
+  {
+    "timestamp": "1760027921000",
+    "title": "Football Announces Sellout for Friday Night Contest vs. USF",
+    "snippet": "DENTON – For the first time since opening in 2011, DATCU Stadium will host a complete sellout as the North Texas Mean Green football team takes on USF on...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5jMnRsTTA5UGFWYzBPR3hQVFJDc0FoakNBeWdLTWdZQnNJQ3JRUVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW5jMnRsTTA5UGFWYzBPR3hQVFJDc0FoakNBeWdLTWdZQnNJQ3JRUVU"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://meangreensports.com/news/2025/10/9/football-announces-sellout-for-friday-night-contest-vs-usf",
+    "publisher": "University of North Texas Athletics"
+  },
+  {
+    "timestamp": "1760031181000",
+    "title": "Haynes King’s Relentless Rise Has Georgia Tech Dreaming of the College Football Playoff",
+    "snippet": "Growing up as the son of a high school football coach, King has built a tough will to win that revitalized the Yellow Jackets.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXFYMmd4VnpsWlJWSllSbTh4VFJDVkF4alFCU2dLTWdZTlVvb3hJUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXFYMmd4VnpsWlJWSllSbTh4VFJDVkF4alFCU2dLTWdZTlVvb3hJUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.si.com/college-football/haynes-kings-relentless-rise-has-georgia-tech-dreaming-of-the-college-football-playoff",
+    "publisher": "Sports Illustrated"
+  },
+  {
+    "timestamp": "1760054915000",
+    "title": "USMNT steps into the Texas sun for a World Cup heat check vs. Ecuador — with Christian Pulisic in doubt",
+    "snippet": "With the World Cup looming, the Americans have come to Austin with a roster full of players expected to claim the stage in soccer's quadrennial drama.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXpPV0ZGWjJkRWQyMUlkWFV6VFJDckF4aUFCU2dLTWdrSkU0aW1rcXBVU0FJ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXpPV0ZGWjJkRWQyMUlkWFV6VFJDckF4aUFCU2dLTWdrSkU0aW1rcXBVU0FJ"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://sports.yahoo.com/soccer/article/usmnt-steps-into-the-texas-sun-for-a-world-cup-heat-check-vs-ecuador--with-christian-pulisic-in-doubt-000835626.html",
+    "publisher": "Yahoo Sports"
+  },
+  {
+    "timestamp": "1760058660000",
+    "title": "Jalen Carter sitting out Eagles-Giants clash due in part to MetLife Stadium turf",
+    "snippet": "The MetLife Stadium turf reportedly played a part in Jalen Carter's decision not to play in Thursday's game against the Giants.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTVVbmRYTldGek16SnJZWFpwVFJERUF4aW5CU2dLTWdZbEZwSU1GZ2s=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTVVbmRYTldGek16SnJZWFpwVFJERUF4aW5CU2dLTWdZbEZwSU1GZ2s"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://nypost.com/2025/10/09/sports/jalen-carter-sitting-out-eagles-giants-clash-due-in-part-to-metlife-stadium-turf/",
+    "publisher": "New York Post"
+  },
+  {
+    "timestamp": "1760053050000",
+    "title": "LeBron James to miss start of Lakers’ season due to sciatica, will be re-evaluated in 3-4 weeks",
+    "snippet": "Los Angeles Lakers forward LeBron James will miss a season opener for the first time in his career due to sciatica on his right side, the team announced...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhaMU5IVVZobk9YSmZhalpuVFJERUF4aW5CU2dLTWdZaFZaVHNwUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXhaMU5IVVZobk9YSmZhalpuVFJERUF4aW5CU2dLTWdZaFZaVHNwUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/athletic/6704630/2025/10/09/lebron-james-injury-report-update-lakers/",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1760112675000",
+    "title": "Cubs-Brewers NLDS Game 5 is SET! Here’s What You Need to Know",
+    "snippet": "The NLDS is swinging back to Milwaukee for Game 5. Here's what you need to know about that game.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTNXR2RhZFVwcmRVeDBhSFZPVFJDR0F4aVRCaWdLTWdtRllJN2t2aVFlcXdF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNTNXR2RhZFVwcmRVeDBhSFZPVFJDR0F4aVRCaWdLTWdtRllJN2t2aVFlcXdF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.bleachernation.com/cubs/2025/10/10/cubs-brewers-nlds/",
+    "publisher": "Bleacher Nation"
+  }
+]

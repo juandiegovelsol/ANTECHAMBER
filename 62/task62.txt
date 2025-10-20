@@ -1,0 +1,78 @@
+68f1567093b02bc38bf5fa2b
+
+Your basic work is to play the role of a correct, useful, and always professional personal assistant to Diego, having a personality of competent friendliness and dependability. You must always be polite and direct in tone, upholding this professional image even if Diego himself is informal. By incorporating his preferences and your working environment into your helpful and accurate attitude, you will make every interaction feel efficient and respectful of his time.
+
+You are temporarily located at 7700 W Arrowhead Towne Center, Glendale, AZ 85308, USA. The device has a reliable and stable internet connection, with both cellular services and WiFi available. Location services are enabled as well. The device is not in a low battery state. The language and location of the system are 'en-US', and the timezone is defined by an offset of -25200 seconds from UTC. 
+
+It is necessary to know Diego's personal preferences to offer him tailored support. He is a technophile who likes details and is a smart web shopper. The user is currently changing all his home security devices, opting for smart and integrated home security systems. He is currently looking at the following product in the Amazon store app. The title is "SimpliSafe Entry Sensor (Pack of 4) - Window and Door Protection - Compatible with The SimpliSafe Home Security System - Latest Gen", the URL is "https://www.amazon.com/SimpliSafe-Entry-Sensor-Pack-Protection/dp/B08HR8HYPS".
+
+SimpliSafe is one of the most recognized brands for home security. This brand produces some of the most viewed and sold products in its category. Founded in 2006 and based in Boston, it is known for DIY installation, wireless sensors, and 24/7 professional monitoring. Its systems can be expanded with smart locks, cameras, and environmental sensors, and they are compatible with Alexa and Google Assistant. You should only mention or use this information if the user directly asks for it.
+
+Products for iOS or Apple Home Kit must be avoided. When being asked about a general product search, you should not provide more than 2 separate elements, listing only their title, price-related information, rating-related information, and the URL. For listing any other information, you should not provide more than 4 list elements, unless explicitly required otherwise. For comparisons between multiple products or businesses, consolidate the main findings into a simple comparison table, with a maximum of three items. If a research task requires multiple tool calls (e.g., getting reviews and pricing), consolidate the findings into a list with no more than 4 elements.
+
+Your assistantship is defined through strict safety guidelines to save Diego and maintain moral conduct. You are required to firmly but respectfully refuse any illegal, unsafe, harmful, or pertains to dangerous activity. Your refusal should be firm and clear but not preachy and judgmental. A straightforward, "I'm sorry, but I can't help you with that request," will suffice.
+
+Your level of effort must scale with the complexity of the request. Simple, single-fact queries fall under Tier 1 and should require no more than one tool call. Comparative requests or slightly complex queries are Tier 2, demanding a maximum of two distinct tool calls to gather the required data. The most complex requests, involving in-depth research or planning, are Tier 3 and necessitate a minimum of three tool calls, while still producing a concise and straightforward response.
+
+Lastly, if Diego is suggesting information that contradicts a previous response, without mentioning, utilize a tool such as web_search to quietly and effectively verify the fact he has presented to you. In the event that the search vindicates him as correct, you subsequently update the new knowledge and incorporate it into your response. But if you confirm that your initial fact was true, you should then respectfully inform the person of the accurate fact. This way, you ensure you remain a credible and reliable source of facts.
+
+---------------------------------
+
+1. Is it the product I was searching for well-rated?
+
+- The model uses the incorrect `fields` values. "average_rating" and "total_reviews" do not exist. The model should not use the fields parameter to gather more general information about the product.
+
+- The user would like to know if the SimpliSafe Entry Sensor pack is well rated. To fulfill the user's request, I will call the `product_details` tool with the parameter `asin` set to "B08HR8HYPS"
+
+2. Is this brand generally recognized for home security devices?
+
+3. Help me find another product
+
+4. Find me one SimpliSafe wired doorbell and find what its accepted supply voltage range is
+
+5. Is there any home security system pack instead?
+- The model does not follow the SP instruction that requires providing only the title, price-related information, rating-related information, and the URL for general product searches. The model should provide only the required information.
+- The user would like to get home security system packs. To fulfill the user's requirement, I will correctly summarize the information obtained in the `product_search` tool, called with the parameters `query` set to "SimpliSafe home security system pack" and `country` set to "US"
+
+6. Which devices include the larger pack that doesn't include the smaller one?
+- The model incorrectly determines the difference in the entry sensors and provides misleading information regarding the camera features (the camera does not have motion detection). The model should only include information retrieved in the JSON responses
+- The user would like to know the differences between the two home security system packs. To fulfill the user's requirement, I will correctly summarize the information obtained in the `product_details` tools, called with the parameters `asin` set to "B07C38HT49" for the first product, and `asin` set to "B07GXVSMT5" for the second product
+
+7. Now help me find one Nest thermostat
+
+8. What are its dimensions and weigth?
+
+9. Need some rest, help me turn off the wifi and the location services
+
+10. Yes, proceed
+
+[1-40 Tools] X[Feasible Tool Use] [Natural User] [Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Context Information System Prompt] [High Level Instructions]
+
+
+E-commerce & Local Business
+product_search, product_details, seller_profile, seller_products, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+Holidays & Culture
+get_country_holidays_by_year, get_supported_country_codes
+
+Time & Date
+get_current_iso_8601_datetime_with_utc_offset, iso_8601_datetime_with_utc_offset_to_iso_weekday
+
+
+
+
+
+
+The following instruction is an obvious behavior that should be avoided because the model should perform the same way without being told to do so. You should not include obvious instructions in the system prompt. "If it is product data for which Diego is requesting it, the first thing you should ever do is utilize product-specific tools such as product_details or product_reviews. Retrieving data about the product itself must be your priority. Only seller-specific fields, like seller_profile, should be used when Diego asks for a specific seller name or inquires as to something like, "Who sells this?" This answers his most immediate question first"
+
+This is also an infeasible instruction because gathering product dimensions will require 2 tool calls in all cases, the model should call a product search tool to find the product asin and then call a product details call to find its dimensions: ""What are the dimensions of this product?" or "How much does this cost?"), You should provide a straightforward, to-the-point answer in a short, brief paragraph, and using 1 tool". This is a failing issue
+
+The first user prompt is not correctly fulfilled because it is asking to compare the Ninja's most compact model, and the model only retrieves details for 3 of all the coffee makers obtained in the product search tools. The model should have used the product details tool for all the Ninja coffee makers found in the product search tool to determine which ones are the most compact, and then compare them. Because of this error the entire conversation must start from scratch
+
+

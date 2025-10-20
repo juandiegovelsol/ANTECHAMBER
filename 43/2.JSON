@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "1759782012000",
+    "title": "Google Japan’s concept keyboard is inspired by rotary phones",
+    "snippet": "It's not a prank. Google Japan created a concept Gboard Dial Version keyboard that looks like antique rotary phones, but with modern sensors inside.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVBWVGR1T1Uxd1VIZGxWRlZGVFJERUF4aW1CU2dLTWdZZE1JcE9NUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVBWVGR1T1Uxd1VIZGxWRlZGVFJERUF4aW1CU2dLTWdZZE1JcE9NUVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759568400000",
+        "title": "Crazy Google Japan keyboard design switches keys for dials — the Gboard Dial Edition shows why the software team isn't allowed to design hardware",
+        "snippet": "Google Japan's Gboard team have designed and open-sourced a revolutionary new physical keyboard that boldly eschews keys in favor of dials.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVpOakpVY2s5WFpXZEZlVlV3VFJDZkF4ampCU2dLTWd1UkVJNElzYVkwVTFuTndB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNVpOakpVY2s5WFpXZEZlVlV3VFJDZkF4ampCU2dLTWd1UkVJNElzYVkwVTFuTndB"
+        },
+        "newsUrl": "https://www.tomshardware.com/peripherals/keyboards/crazy-google-japan-keyboard-design-switches-keys-for-dials-the-gboard-dial-edition-shows-why-the-software-team-isnt-allowed-to-design-hardware",
+        "publisher": "Tom's Hardware"
+      },
+      {
+        "timestamp": "1759395300000",
+        "title": "Google introduced a new disk keyboard",
+        "snippet": "The Japanese division of Google presented a conceptual computer keyboard in the style of a rotary phone, Rozetked reported. Instead of traditional keys,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNURZalIzYjNWbFlWZEJiVWhxVFJDZkF4ampCU2dLTWdNQkZBZw=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNURZalIzYjNWbFlWZEJiVWhxVFJDZkF4ampCU2dLTWdNQkZBZw"
+        },
+        "newsUrl": "https://zamin.uz/en/technology/162317-google-introduced-a-new-disk-keyboard.html",
+        "publisher": "Zamin.uz"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theverge.com/news/793136/google-japan-open-source-concept-dial-keyboard-rotary-phone",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1759766250000",
+    "title": "Don’t buy an Echo Show (you can have mine)",
+    "snippet": "My Echo Show shows ads on the home screen and in my photo carousel. I'm done.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWlWV1ZaZFhwcGQwSkVaa2xsVFJDZkF4amlCU2dLTWdZRlVwUVNvUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWlWV1ZaZFhwcGQwSkVaa2xsVFJDZkF4amlCU2dLTWdZRlVwUVNvUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.engadget.com/home/smart-home/dont-buy-an-echo-show-you-can-have-mine-155730401.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1759767300000",
+    "title": "Google Wallet adds support for 10th state ID on Android",
+    "snippet": "After the ninth addition last week, Google Wallet on Android is now rolling out support for Arkansas state IDs. Open the Google Wallet app, tap the Add to...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVUelZCUTBaRFptRklWakZFVFJDSEF4aVBCaWdLTWdZcFZZek9LUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUVUelZCUTBaRFptRklWakZFVFJDSEF4aVBCaWdLTWdZcFZZek9LUVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759373700000",
+        "title": "North Dakota to now offer a mobile ID option",
+        "snippet": "As technology changes, so has the way you can now present your North Dakota license.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBVbFpYZFZSd2EzbEpSWE5UVFJDSEF4aVBCaWdLTWdZbEpZU01HUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXBVbFpYZFZSd2EzbEpSWE5UVFJDSEF4aVBCaWdLTWdZbEpZU01HUW8"
+        },
+        "newsUrl": "https://www.valleynewslive.com/2025/10/02/north-dakota-now-offer-mobile-id-option/",
+        "publisher": "Valley News Live"
+      },
+      {
+        "timestamp": "1759239600000",
+        "title": "Apple's iPhone Driver's License Feature Now Available in 11 U.S. States",
+        "snippet": "In select U.S. states, residents can add their driver's license or state ID to the Wallet app on the iPhone and Apple Watch, providing a...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUdNbGRLZEhOWWJIQnBOemhIVFJEaEFSaVFBeWdLTWdtWllvNUpzbVpGcmdF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUdNbGRLZEhOWWJIQnBOemhIVFJEaEFSaVFBeWdLTWdtWllvNUpzbVpGcmdF"
+        },
+        "newsUrl": "https://www.macrumors.com/2025/09/30/apple-wallet-drivers-license-11th-state/",
+        "publisher": "MacRumors"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://9to5google.com/2025/10/06/google-wallet-id-arkansas/",
+    "publisher": "9to5Google"
+  },
+  {
+    "timestamp": "1759766347000",
+    "title": "One UI 8 stock visuals are stunning wallpapers [Download]",
+    "snippet": "One UI 8.5's eye-catching change is a new banner image on the “Software Update” screen, which you can now download to use as a wallpaper.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVZOWFkxYTI0eVRGVnRMVVUzVFJDa0F4amFCU2dLTWdhbHBKYU5OUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVZOWFkxYTI0eVRGVnRMVVUzVFJDa0F4amFCU2dLTWdhbHBKYU5OUWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759491145000",
+        "title": "Samsung's One UI 8.5 update is an even bigger deal than you thought",
+        "snippet": "Samsung's upcoming One UI 8.5 update will be based on Google's latest version of Android 16. Here's why that's a big deal.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpUWFV0TlUxa09IaFJiazVYVFJDZkF4ampCU2dLTWdhTklvaXVLUVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWpUWFV0TlUxa09IaFJiazVYVFJDZkF4ampCU2dLTWdhTklvaXVLUVU"
+        },
+        "newsUrl": "https://www.androidauthority.com/one-ui-8-5-android-16-qpr2-3603597/",
+        "publisher": "Android Authority"
+      },
+      {
+        "timestamp": "1759398120000",
+        "title": "AI notification summaries coming to Galaxy devices with One UI 8.5, here's a peek",
+        "snippet": "A new One UI 8.5 firmware has made its way online for the Galaxy S25 Ultra, and it gives us our first proper look at the rumored Galaxy AI-powered...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlVMHBqU2sxRE5HMUtTR05NVFJDZkF4ampCU2dLTWdZaGNKRE1OUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHlVMHBqU2sxRE5HMUtTR05NVFJDZkF4ampCU2dLTWdZaGNKRE1OUWM"
+        },
+        "newsUrl": "https://www.sammobile.com/news/one-ui-8-5-ai-notification-summaries-galaxy-devices/",
+        "publisher": "SamMobile"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.sammyfans.com/2025/10/06/one-ui-8-stock-visuals-are-stunning-wallpapers-download/",
+    "publisher": "Sammy Fans"
+  },
+  {
+    "timestamp": "1759760222000",
+    "title": "Your next phone might come without a USB cable",
+    "snippet": "A Reddit post shows the Sony Xperia 10 VII doesn't include a USB cable in the box. Judging by recent history, this could turn into a trend.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhiV04zYUUxT1kyMTNUWHAyVFJDZkF4ampCU2dLTWdhUkFZZ09FUVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVhiV04zYUUxT1kyMTNUWHAyVFJDZkF4ampCU2dLTWdhUkFZZ09FUVU"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.androidauthority.com/smartphones-losing-bundled-usb-cables-3604292/",
+    "publisher": "Android Authority"
+  },
+  {
+    "timestamp": "1759762285000",
+    "title": "The best October Prime Day deals on Apple devices: Save on AirPods, iPads, AirTags and more",
+    "snippet": "We're rounding up all the best deals on Apple devices we can find from Amazon's October Prime Day sale.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJjM1JrTUhFM1EzQXRWbGhRVFJEaEF4ai1CQ2dLTWdhaFU1UnNLUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUJjM1JrTUhFM1EzQXRWbGhRVFJEaEF4ai1CQ2dLTWdhaFU1UnNLUWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759765955000",
+        "title": "10 Worth-It Prime Day Apple Deals, From MacBooks to iPads to Accessories",
+        "snippet": "If you're shopping for a new Apple device, the Prime Big Deal Days event might be a good time to get a deal.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNObEZtVVd3d1dqRnhlbE5WVFJDSEF4aVBCaWdLTWdZSk1vZ3hJUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVNObEZtVVd3d1dqRnhlbE5WVFJDSEF4aVBCaWdLTWdZSk1vZ3hJUVk"
+        },
+        "newsUrl": "https://www.nytimes.com/wirecutter/money/prime-big-deal-days-apple-deals-2025-1006/",
+        "publisher": "The New York Times"
+      },
+      {
+        "timestamp": "1759162507000",
+        "title": "Best early October Prime Day MacBook deals: We're tracking Apple laptop prices",
+        "snippet": "As Mashable's resident laptop expert, I'm in charge of sniffing out the best deals on Apple MacBooks ahead of Amazon Prime Big Deal Days (an \"October Prime...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBaVTVSUmtKMmQxWkVNMTlQVFJDZkF4ampCU2dLTWdZZFE1Qk1wUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDBaVTVSUmtKMmQxWkVNMTlQVFJDZkF4ampCU2dLTWdZZFE1Qk1wUWM"
+        },
+        "newsUrl": "https://mashable.com/article/early-oct-prime-day-macbook-deals-2025",
+        "publisher": "Mashable"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.engadget.com/deals/the-best-october-prime-day-deals-on-apple-devices-save-on-airpods-ipads-airtags-and-more-125644485.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1759784457000",
+    "title": "A grim outlook for EVs, smaller portions, inside a Turkish bath: Catch up on the day’s stories",
+    "snippet": "Welcome to 5 Things PM! Scrawled messages on bullet casings and weapons have popped up at several recent high-profile shootings. It's actually an ancient...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRjRE42WDB0aWRsaE9hRU5XVFJEWUF4aUtCU2dLTWdZQkVJeWl0UVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVRjRE42WDB0aWRsaE9hRU5XVFJEWUF4aUtCU2dLTWdZQkVJeWl0UVU"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.cnn.com/2025/10/06/us/5-things-pm-october-6-trnd",
+    "publisher": "CNN"
+  },
+  {
+    "timestamp": "1759748663000",
+    "title": "A long-requested Taskbar feature is finally rolling out on Windows 11",
+    "snippet": "Multiple-monitor users will finally be able to open the notification center on displays that aren't their primary monitor with the latest Windows 11 update.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVJRWE5PTTNsUlozZDBhWEZNVFJDZkF4ampCU2dLTWdZVkFwVHJNQWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVJRWE5PTTNsUlozZDBhWEZNVFJDZkF4ampCU2dLTWdZVkFwVHJNQWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759786581000",
+        "title": "Announcing Windows 11 Insider Preview Build 26120.6772 (Beta Channel)",
+        "snippet": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26120.6772 (KB5065797) to the Beta Channel for Windows Insiders on Windows...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJabk5uVms5R1MzVjBMVlJQVFJEdEFoandCQ2dLTWdZVmdwQ0lMZ2c=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDJabk5uVms5R1MzVjBMVlJQVFJEdEFoandCQ2dLTWdZVmdwQ0lMZ2c"
+        },
+        "newsUrl": "https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26120-6772-beta-channel/",
+        "publisher": "Windows Blog"
+      },
+      {
+        "timestamp": "1759596900000",
+        "title": "Windows 11 25H2 Installs Can Be A Breeze With This Rufus Tool Tip",
+        "snippet": "The developer of popular install media creation tool Rufus has updated it with full support for Windows 11 25H2.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUtjelJDU21waFNHOUJiWGRhVFJDT0F4akVCU2dLTWdZbFpKYU5LUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUtjelJDU21waFNHOUJiWGRhVFJDT0F4akVCU2dLTWdZbFpKYU5LUWc"
+        },
+        "newsUrl": "https://hothardware.com/news/windows-11-25h2-rufus-update",
+        "publisher": "HotHardware"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.windowscentral.com/microsoft/windows-11/microsoft-begins-rolling-out-highly-anticipated-taskbar-feature-for-windows-11-power-users",
+    "publisher": "Windows Central"
+  },
+  {
+    "timestamp": "1759772403000",
+    "title": "Quantum uncertainty captured in real time using femtosecond light pulses",
+    "snippet": "Researchers from the University of Arizona, working with an international team, have captured and controlled quantum uncertainty in real time using...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlUbFprTmpoTVZEY3pUM0J1VFJERUF4aW1CU2dLTWdhbE5vb01uZ2s=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHlUbFprTmpoTVZEY3pUM0J1VFJERUF4aW1CU2dLTWdhbE5vb01uZ2s"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://phys.org/news/2025-10-quantum-uncertainty-captured-real-femtosecond.html",
+    "publisher": "Phys.org"
+  },
+  {
+    "timestamp": "1759774306000",
+    "title": "Microsoft: Critical GoAnywhere bug exploited in ransomware attacks",
+    "snippet": "A cybercrime group, tracked as Storm-1175, has been actively exploiting a maximum severity GoAnywhere MFT vulnerability in Medusa ransomware attacks for...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNialpUV0dabmRXdHdObDlyVFJDZkF4ampCU2dLTWdZbFJJcXRNUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVNialpUV0dabmRXdHdObDlyVFJDZkF4ampCU2dLTWdZbFJJcXRNUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/",
+    "publisher": "BleepingComputer"
+  }
+]

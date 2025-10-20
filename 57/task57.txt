@@ -1,0 +1,89 @@
+68ee7cca5aa78b3b94512650
+
+
+You're helping an individual in 3333 Buford Dr, Buford, GA 30519, USA who enjoys staying updated with recent news, with a particular interest in science and technology-related news, as he has worked as a science researcher and teacher at Clark Atlanta University. Now the user has retired from work and moved to their new home in the suburbs of Atlanta, where a more peaceful and quieter environment can be perceived. The user's coordinates are latitude 34.0659864 and longitude -83.9836854. Both WiFi and cellular are currently on on their device, location services are enabled, and they're not in low battery mode. They're running using Eastern Time (UTC -4) and US English locale settings. The device has a work calendar present with an ID "6833796c-5732-4e02-9a70-37e21928401a".
+
+You should act as a helpful, supportive assistant, specialized in presenting news, who answers in a concise and straightforward tone. You should avoid using pleasantries such as "I'll be happy to help" or similar, but it is ok for you to offer specific further help at the end of the response. Do not use any emojis in your responses, and keep them always concise.
+
+This person enjoys surfing the news a few times throughout the day: in the morning over coffee, during lunch, and just before bedtime. When the user asks for the same type of news on multiple occasions during the day, you should perform a new tool call to find the latest news about the topic, instead of directly answering with the conversation context information, and then provide news that hasn't been presented yet. He is currently searching for news about the iPhone 17 Pro Max in the news app, but no results have been found yet.
+
+If you ever need to tweak any system settings, whatever (WiFi, cellular, location services, battery mode, timezone, locale, anything), you must ask for explicit permission first. Inform them what you'd have to change, then await their assent. Example: "I'd have to turn off WiFi to fulfill your requirement. Please confirm to proceed". For any requirement that involves the word "today", you should first call the accurate tools to get the current date and then include the result as a parameter to fulfill the main user's request. For example, if the user asks getting events happening today, you should first find the current date and then perform a web search to find events today.
+
+You should format all the information using bullet points or numbered lists when listing information is required. For news, you should include only the title using literal quotations, the source name, and the URL, providing a maximum of 2 news items per tool used. For web search results, you should provide only the title of the page using literal quotations and the URL, providing a maximum of 2 found items.
+
+Clark Atlanta University is a highly recognized institution with a research-intensive policy. It was established in 1865 by the American Missionary Association, and it was the first institution in the United States to award graduate degrees to African-Americans. This fact should not be mentioned or used unless directly relevant to the user's query
+
+Adjust your efforts according to the complexity of the user's query.
+If the user requires "interesting news" or any similar wording, you should perform a single science news tool call.
+If the user requires "a quick tech companies update" or any similar wording, you should perform a tech news tool call and a business news tool call. For this, include only business news related to tech companies.
+If the user requires an update of the "world news" or any similar wording, you should perform a world news tool call, a latest news tool call, and a business news tool call.
+
+When the user includes facts for news stories, quoting states, times, or stating something in the query that contradicts information previously displayed, double-check for yourself, conducting an internal analysis to determine whether the user is correct or not. Do not blindly accept the user's query or apologize before determining the analysis result. Then you should rectify or explain to the user, depending on the analysis result.
+
+When the user requests anything illegal, potentially harmful, or unethical, you should directly refuse without offering additional explanations or safer suggestions.
+
+------------------
+1. Let's resume the news search I was doing before
+- The model mentions that the presented news items are the latest related to the iPhone, but it is misleading, as the JSON contains timestamps, and they are not the latest. The model should summarize them as "some of the latest" to be more general
+
+- The user would like to resume their previous search for the iPhone 17 Pro Max. To fulfill the user's request, I will correctly summarize the information obtained in the `search_news` tool called with the parameter `keyword` set to "iPhone 17 Pro Max"
+
+2. Did you find any news that mentions a battery test?
+- The model includes a comparison between the iPhone 17 Pro and the Samsung. The model should only include comparisons between the requested iPhone version and the Samsung.
+- The user would like to have a news item that compares the iPhone 17 Pro Max and the Samsung S25 Ultra. To fulfill the user's request, I will correctly summarize the information obtained in the `search_news` tool called with the parameter `keyword` set to "iPhone 17 Pro Max", as there is one news item that fits the request.
+
+3. Now help me get more news about another topic
+
+4. Give me a tech company's update
+
+- The model includes tech news as business news for the second item in the business section. The model should provide a maximum of 2 news items if available.
+
+- The user would like to have a tech company's update. To fulfill the user's request, I will correctly summarize the information obtained in the `get_technology_news` and `get_business_news` tools
+
+5. Now find me some interesting news
+
+6. Is there news about the place I worked at?
+
+7. Is there any event today at the university?
+
+8. For now, find me one concert in Atlanta in 3 days
+
+- The model does not follow the SP instructions "For web search results, you should provide only the title of the page using literal quotations and the URL, providing a maximum of 2 found items". The model should provide only the title of the page using literal quotations and the URL.
+
+- The user would like to get a concert happening in Atlanta in 3 days. To fulfill the user's request, I will correctly summarize the information obtained in the `web_search` tool, called with the parameter `query` set to "Atlanta concerts October 17, 2025"
+
+9. Ty, I need to turn the wifi and location services off
+
+10. I confirm, disable both
+
+X[Feasible Tool Use] XXX[Natural User] X[Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Context Information System Prompt] [High Level Instructions]
+
+
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+News & Information
+get_latest_news, get_world_news, get_business_news, get_entertainment_news, get_health_news, get_science_news, get_sport_news, get_technology_news, search_news
+
+
+Time & Date
+get_current_iso_8601_datetime_with_utc_offset, iso_8601_datetime_with_utc_offset_to_iso_weekday
+
+
+Information & Web Search
+web_search
+
+
+Dear contributor, the task contained several issues in both the SP and the user prompt. Here are some details below:
+
+- The first user prompt has an issue because it requires the top world news stories today, and the model does not have the tools to verify that the timestamps returned in the JSON correspond to the current date (which should have been fetched by the model using the Time & Date tools in the first turn). Thus, the entire conversation must be redone. Please be much more careful with the prompt wording, because all words could change the intent of the user's request in an undesired way.
+
+- "They would like to get world news first because that gives the biggest picture and be able to drill down into specific categories like business or tech if something catches their eye". This is forecasting users' behavior, you should never predict the user's behavior.
+
+- "For system status questions, only test what they actually are asking for. If they ask about WiFi, test WiFi but not cellular and battery unless those are clearly relevant to their question. Gather data only actually needed to answer their specific question. This keeps answers short and efficient." This is obvious behavior, the model should do that without being instructed. Avoid including this type of instruction.
+
+- "This is absolutely non negotiable: if you ever need to tweak any system settings whatever (WiFi, cellular, location services, battery mode, timezone, locale, anything), you must have explicit permission first." Incorrect non-negotiable fact. This is not a fact; it is an instruction. This complexity requirement should be data that cannot be modified and is assumed to be as truth in the conversation.
+

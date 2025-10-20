@@ -1,0 +1,194 @@
+[
+  {
+    "timestamp": "1760986054000",
+    "title": "Amazon Web Services outage persists as recovery stalls, impacting many websites and apps",
+    "snippet": "An Amazon Web Services outage continued into Monday afternoon, impacting Amazon's own services and as well as apps around the world.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9TMk00Y0d4UVIyeEhjazl5VFJDUkF4ajhCU2dLTWdhRlVZeEhwUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU9TMk00Y0d4UVIyeEhjazl5VFJDUkF4ajhCU2dLTWdhRlVZeEhwUWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760991660000",
+        "title": "Huge global outage impacts Amazon, Fortnite and Snapchat | CNN Business",
+        "snippet": "Amazon has said its cloud computing services unit AWS has been hit by an outage, disrupting several popular websites and apps across the world.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlVRzlHZGxoa1kyaGlNV0Z3VFJDZkF4ampCU2dLTWdhUkFvWnJsUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXlVRzlHZGxoa1kyaGlNV0Z3VFJDZkF4ampCU2dLTWdhUkFvWnJsUWs"
+        },
+        "newsUrl": "https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl",
+        "publisher": "CNN"
+      },
+      {
+        "timestamp": "1760988437000",
+        "title": "Amazon cloud outage takes down many online services around the world",
+        "snippet": "LONDON (AP) — A problem with Amazon's cloud computing service disrupted internet use around the world Monday, taking down a broad range of online services,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZVRk10T0VwNVpFZHJZakV6VFJDb0FSaXNBaWdCTWdhWlk0NXFxUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTZVRk10T0VwNVpFZHJZakV6VFJDb0FSaXNBaWdCTWdhWlk0NXFxUWM"
+        },
+        "newsUrl": "https://www.ajc.com/news/2025/10/amazon-cloud-outage-takes-down-many-online-services-around-the-world/",
+        "publisher": "AJC.com"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.cbsnews.com/news/amazon-web-services-outage-issues-major-apps-websites-worldwide/",
+    "publisher": "CBS News"
+  },
+  {
+    "timestamp": "1760989800000",
+    "title": "Dow jumps 500 points as rally accelerates Monday on the back of Apple: Live updates",
+    "snippet": "Stocks are coming off a volatile trading week, closing higher despite flaring trade tensions, regional bank losses and declines in some hot AI stocks.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNU5WbVEyU214bFVESkJla1k0VFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNU5WbVEyU214bFVESkJla1k0VFJDZkF4ampCU2dLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760991060000",
+        "title": "Stock Market Today: Dow Rises Over 250 Points; Busy Earnings Week Begins — Live Updates",
+        "snippet": "Trump's tariffs and the government shutdown continue to affect the economy. Follow along for live updates on the Dow, S&P 500, Nasdaq and other markets...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUVOa05yTTIxRlEyTTFSelEzVFJDSEF4aVBCaWdLTWdrTkFJeHJrS3FDU3dF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUVOa05yTTIxRlEyTTFSelEzVFJDSEF4aVBCaWdLTWdrTkFJeHJrS3FDU3dF"
+        },
+        "newsUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2025",
+        "publisher": "The Wall Street Journal"
+      },
+      {
+        "timestamp": "1760991540000",
+        "title": "Stock Market Today: Dow ends 515 points higher, S&P 500 and Nasdaq log back-to-back gains, as White House adviser says shutdown could end this week; gold charges higher",
+        "snippet": "Stock Market Today: Dow ends 515 points higher, S&P 500 and Nasdaq log back-to-back gains, as White House adviser says shutdown could end this week;...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUpVVlpHYzNFeVozTjVaRGROVFJDZkF4ampCU2dLTWdZVk1ZNEltZ2c=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUpVVlpHYzNFeVozTjVaRGROVFJDZkF4ampCU2dLTWdZVk1ZNEltZ2c"
+        },
+        "newsUrl": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-for-gains-tariff-relief-view",
+        "publisher": "MarketWatch"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.cnbc.com/2025/10/19/stock-market-today-live-updates.html",
+    "publisher": "CNBC"
+  },
+  {
+    "timestamp": "1760985699000",
+    "title": "China’s economy grows at slowest pace in a year as trade war bites",
+    "snippet": "Official data put the annual growth rate at 4.8 percent, a sobering number for Chinese Communist Party leaders as they begin an important planning meeting.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVFhazluVWtkc1owRm5YekJIVFJERUF4aW1CU2dLTWdZWlJKQ1BIUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVFhazluVWtkc1owRm5YekJIVFJERUF4aW1CU2dLTWdZWlJKQ1BIUWs"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760955435000",
+        "title": "China’s Lopsided Growth Puts Spotlight on Xi’s Five-Year Plan",
+        "snippet": "(Bloomberg) -- China's factories kept the country on track to reach this year's growth target, powered by an export boom that's papering over deeper...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVlSbFI2Y0VKTVRtVkdla1ZaVFJDR0F4aUFCU2dLTWdrQkFZYm5RQ002QXdN=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNVlSbFI2Y0VKTVRtVkdla1ZaVFJDR0F4aUFCU2dLTWdrQkFZYm5RQ002QXdN"
+        },
+        "newsUrl": "https://finance.yahoo.com/news/china-says-growth-target-reach-030850194.html",
+        "publisher": "Yahoo Finance"
+      },
+      {
+        "timestamp": "1760932560000",
+        "title": "China’s Economy Expands at Slowest Pace in a Year",
+        "snippet": "SINGAPORE—China said economic momentum decelerated to its slowest pace in a year, putting Beijing on alert in the midst of hardball trade negotiations with...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNW9XSEo2Vm1wSWJrVTVSbFpIVFJERUF4aW1CU2dLTWdrQmdJcWp3bVUxelFF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNW9XSEo2Vm1wSWJrVTVSbFpIVFJERUF4aW1CU2dLTWdrQmdJcWp3bVUxelFF"
+        },
+        "newsUrl": "https://www.wsj.com/economy/chinas-economic-growth-slows-to-one-year-low-07e36e7b",
+        "publisher": "The Wall Street Journal"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.washingtonpost.com/world/2025/10/20/china-economy-gdp-growth/",
+    "publisher": "The Washington Post"
+  },
+  {
+    "timestamp": "1760985546000",
+    "title": "Wall St rallies on tech strength, earnings optimism",
+    "snippet": "NEW YORK, Oct 20 (Reuters) - Wall Street stocks moved sharply higher on Monday with technology shares providing much of the upside muscle, as generally...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNRVlp4VkZOdldWTllkRTFMVFJERUF4aW1CU2dLTWdZcFpJNlBKUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVNRVlp4VkZOdldWTllkRTFMVFJERUF4aW1CU2dLTWdZcFpJNlBKUWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760990447000",
+        "title": "Dow, S&P 500, Nasdaq jump as Apple leads tech stocks higher ahead of busy earnings week",
+        "snippet": "US stocks rallied on Monday as Wall Street kicked off a packed week full of high-profile earnings and a delayed release of key inflation data.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWhTa2R1TkdacWJscG1iRlJpVFJERUF4aW1CU2dLTWdPQmdnQQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNWhTa2R1TkdacWJscG1iRlJpVFJERUF4aW1CU2dLTWdPQmdnQQ"
+        },
+        "newsUrl": "https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-jump-as-apple-leads-tech-stocks-higher-ahead-of-busy-earnings-week-200047280.html",
+        "publisher": "Yahoo Finance"
+      },
+      {
+        "timestamp": "1760986873000",
+        "title": "Stocks Buoyed by Earnings as Apple Jumps to Record: Markets Wrap",
+        "snippet": "Wall Street traders drove stocks higher amid solid results from Corporate America while tariff tensions between the world's two largest economies cooled.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXdZVWRUTUVSMlMwOHhSVEkyVFJEY0FoanNCQ2dLTWdhTllZcUtxUVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXdZVWRUTUVSMlMwOHhSVEkyVFJEY0FoanNCQ2dLTWdhTllZcUtxUVU"
+        },
+        "newsUrl": "https://www.bloomberg.com/news/articles/2025-10-19/us-stock-futures-rise-as-china-trade-tensions-cool-markets-wrap",
+        "publisher": "Bloomberg.com"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.reuters.com/business/wall-street-futures-gain-corporate-earnings-momentum-builds-2025-10-20/",
+    "publisher": "Reuters"
+  },
+  {
+    "timestamp": "1760865281000",
+    "title": "At ESMO, AstraZeneca and Gilead square off in triple-negative breast cancer",
+    "snippet": "At the ESMO Conference 2025, both companies reported successes in treating triple-negative breast cancer, with experts discussing which drug had the edge.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDFja2RVWW1OMFZYSnJTVko1VFJDcUJCaXFCQ2dLTWdZQklZb0NsUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDFja2RVWW1OMFZYSnJTVko1VFJDcUJCaXFCQ2dLTWdZQklZb0NsUW8"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760971620000",
+        "title": "‘Smart bomb’ drug actually works better than chemo for super-aggressive breast cancer",
+        "snippet": "Good news for a grave concern. Researchers believe a groundbreaking new drug can offer hope to those diagnosed with this deadly breast cancer,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxUbWh6Y0RobFRXOWlhMnBUVFJERUF4aW5CU2dLTWdZNVE1QXhvUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUxUbWh6Y0RobFRXOWlhMnBUVFJERUF4aW5CU2dLTWdZNVE1QXhvUWc"
+        },
+        "newsUrl": "https://nypost.com/2025/10/20/health/smart-bomb-drug-better-than-chemo-for-aggressive-breast-cancer/",
+        "publisher": "New York Post"
+      },
+      {
+        "timestamp": "1760855502000",
+        "title": "AstraZeneca's Datroway extends survival in aggressive breast cancer",
+        "snippet": "Datroway's success could position it to compete more directly with Gilead's Trodelvy.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJNVk5mT0ZvellYVnVUVzFFVFJEckJCanZBeWdLTWdZQk1LQWxHUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTJNVk5mT0ZvellYVnVUVzFFVFJEckJCanZBeWdLTWdZQk1LQWxHUW8"
+        },
+        "newsUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazenecas-datroway-extends-survival-aggressive-breast-cancer-2025-10-19/",
+        "publisher": "Reuters"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.statnews.com/2025/10/19/esmo-astrazeneca-gilead-trodelvy-datroway-triple-negative-breast-cancer-adcs/",
+    "publisher": "statnews.com"
+  },
+  {
+    "timestamp": "1760941855000",
+    "title": "To hit back at the United States in their trade war, China borrows from the US playbook",
+    "snippet": "WASHINGTON -- WASHINGTON (AP) — China likes to condemn the United States for extending its arm too far outside of its borders to make demands on...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdUMmhpVVhKNVN6Y3pkbHBYVFJDZkF4ampCU2dLTWdZQkZJaVBGUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHdUMmhpVVhKNVN6Y3pkbHBYVFJDZkF4ampCU2dLTWdZQkZJaVBGUW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://abcnews.go.com/Business/wireStory/hit-back-united-states-trade-war-china-borrows-126667971",
+    "publisher": "ABC News - Breaking News, Latest News and Videos"
+  }
+]

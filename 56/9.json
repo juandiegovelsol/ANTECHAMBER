@@ -1,0 +1,405 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDE3MTA0ODQ1Nzg1MDczMDg0OTE3",
+    "name": "Atlanta Falcons vs. Miami Dolphins",
+    "link": "https://local.aarp.org/event/atlanta-falcons-vs-miami-dolphins-2025-10-26-tm-atlanta-ga.html",
+    "description": "Attend the Atlanta Falcons vs. Miami Dolphins event in Atlanta, GA at the Mercedes-Benz Stadium, in Atlanta located at 35 Northside Drive, NW, Atlanta, GA 30313. The event starts at 1:00 P.M. on...",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 10:00 AM – 2:30 PM",
+    "start_time": "2025-10-26 10:00:00",
+    "start_time_utc": "2025-10-26 10:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 14:30:00",
+    "end_time_utc": "2025-10-26 14:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB7uonPw8uAJe_Fz0wveFJflpOV2zGUZfyV4FcVD4eA&s=10",
+    "publisher": "AARP Local",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://local.aarp.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "local.aarp.org",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/miami-dolphins-vs-atlanta-falcons-tailgate-with-the-dj-team-dj-tbrown305-tickets-1442415396279",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/sports-tickets/2025/10/26/atlanta-falcons-vs-miami-dolphin",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tickpick.com",
+        "link": "https://www.tickpick.com/buy-tickets/6977997",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://tickpick.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/atlanta-falcons-tickets-mercedes-benz-stadium-3-8-2026--sports-nfl-football/production/5470583",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Seatgeek.com",
+        "link": "https://seatgeek.com/atlanta-falcons-tickets/10-26-2025-atlanta-georgia-mercedes-benz-stadium/nfl/17346595?gclsrc=%7BGOOGLE-ADS-CLICK-SOURCE%7D&refob=mta&ref_price=82.68",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seatgeek.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Nationaltoday.com",
+        "link": "https://nationaltoday.com/event/atlanta-falcons-vs-miami-dolphins/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88f5037c38c799e3:0x6541be00805df0ee",
+      "name": "Mercedes-Benz Stadium",
+      "phone_number": "+14703415000",
+      "website": "http://mercedesbenzstadium.com",
+      "review_count": 34267,
+      "rating": 4.7,
+      "subtype": "Stadium",
+      "subtypes": ["Stadium"],
+      "full_address": "Mercedes-Benz Stadium, 1 AMB Dr NW, Atlanta, GA 30313",
+      "latitude": 33.7553232,
+      "longitude": -84.40059049999999,
+      "district": "Downtown Atlanta",
+      "street_number": "1",
+      "street": "1 AMB Dr NW",
+      "city": "Atlanta",
+      "zipcode": "30313",
+      "state": "Georgia",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/m/0n4844m"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTIwfDU0ODcyNDA1Nzc0NTIxODE3OTY=",
+    "name": "Dolphins v , NFL 2025-2026",
+    "link": "https://www.flicks.co.nz/sport/american-football/nfl/nfl-97/",
+    "description": "Miami Dolphins vs Cleveland Browns, Week 7, NFL 2025-2026 is scheduled to start at 06:00am on 20 October 2025 (NZT), and will be streaming live on NFL Game Pass.",
+    "language": "en",
+    "date_human_readable": "Mon, Oct 20, 6 AM",
+    "start_time": "2025-10-20 06:00:00",
+    "start_time_utc": "2025-10-20 06:00:00",
+    "start_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Flicks",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.flicks.co.nz&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.flicks.co.nz",
+    "ticket_links": [
+      {
+        "source": "Flicks",
+        "link": "https://www.flicks.co.nz/sport/american-football/nfl/nfl-97/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://flicks.co.nz&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [null],
+    "venue": {
+      "google_id": "0x8830f085d448b84d:0xc1d55254b1aa84e9",
+      "name": "Huntington Bank Field",
+      "phone_number": "+14408915000",
+      "website": "https://huntingtonbankfield.com",
+      "review_count": 8775,
+      "rating": 4.5,
+      "subtype": "Stadium",
+      "subtypes": ["Stadium"],
+      "full_address": "Huntington Bank Field, 100 Alfred Lerner Way, Cleveland, OH 44114",
+      "latitude": 41.5060535,
+      "longitude": -81.6995481,
+      "district": "Downtown",
+      "street_number": "100",
+      "street": "100 Alfred Lerner Way",
+      "city": "Cleveland",
+      "zipcode": "44114",
+      "state": "Ohio",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/m/02y4n2"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDE5MTc0NjY2MjA1MjQzNzg3NjU=",
+    "name": "ATLANTA _ Miami Dolphins Vs Atlanta Falcons Watch Party & Afterparty",
+    "link": "https://www.eventbrite.com/e/atlanta-miami-dolphins-vs-atlanta-falcons-watch-party-afterparty-tickets-1668633209849",
+    "description": "Come Join us at the Sexy SUDO LOUNGE in Ellenwood to watch the ATL Falcons Vs Miami Dolphins. Then the Afterparty",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 12 – 9 PM",
+    "start_time": "2025-10-26 12:00:00",
+    "start_time_utc": "2025-10-26 12:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 21:00:00",
+    "end_time_utc": "2025-10-26 21:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7bm2MyULfMaGTjnlbTkk_jOCcbIELbB2bUuFSmBGIw&s=10",
+    "publisher": "Eventbrite.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.eventbrite.com",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/atlanta-miami-dolphins-vs-atlanta-falcons-watch-party-afterparty-tickets-1668633209849",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/ellenwood/atlanta-_-miami-dolphins-vs-atlanta-falcons-watch-party-and-afterparty/100001668633209849",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/atlanta-miami-dolphins-vs-atlanta-falcons-watch-party-afterparty-tickets-1668633209849"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88f45592d80d9383:0xd88aaa208fa56c11",
+      "name": "SUDO BAR & GRILL (ELLENWOOD)",
+      "phone_number": "+16783436900",
+      "website": "https://sudobarandgrill.com/ellenwood",
+      "review_count": 2130,
+      "rating": 4.4,
+      "subtype": "Bar & grill",
+      "subtypes": [
+        "Bar & grill",
+        "American restaurant",
+        "Chicken wings restaurant",
+        "Hamburger restaurant",
+        "Hookah bar",
+        "Seafood restaurant",
+        "Southern restaurant (US)",
+        "Sports bar",
+        "Tex-Mex restaurant"
+      ],
+      "full_address": "SUDO BAR & GRILL (ELLENWOOD), 1792 Panola Rd, Ellenwood, GA 30294",
+      "latitude": 33.6222396,
+      "longitude": -84.2359817,
+      "district": null,
+      "street_number": "1792",
+      "street": "1792 Panola Rd",
+      "city": "Ellenwood",
+      "zipcode": "30294",
+      "state": "Georgia",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11j1mgnb6q"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTIwfDkyNzkyNzg4Mzc2MDUxODcxMDM=",
+    "name": "Dolphins v , NFL 2025-2026",
+    "link": "https://www.flicks.com.au/sport/american-football/nfl/nfl-97/",
+    "description": "Miami Dolphins vs Cleveland Browns, Week 7, NFL 2025-2026 is scheduled to start at 04:00am on 20 October 2025 (AET), and will be streaming live on NFL Game Pass.",
+    "language": "en",
+    "date_human_readable": "Mon, Oct 20, 4 AM CDT",
+    "start_time": "2025-10-20 04:00:00",
+    "start_time_utc": "2025-10-20 09:00:00",
+    "start_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Flicks",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.flicks.com.au&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.flicks.com.au",
+    "ticket_links": [
+      {
+        "source": "Flicks",
+        "link": "https://www.flicks.com.au/sport/american-football/nfl/nfl-97/",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://flicks.com.au&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [null],
+    "venue": {
+      "google_id": "0x52b32d1eeefb226f:0x33a129d4035fbf6b",
+      "name": "Huntington Bank Stadium",
+      "phone_number": "+16126248080",
+      "website": "https://gophersports.com/sports/2021/6/29/huntington-bank-stadium.aspx",
+      "review_count": 2450,
+      "rating": 4.5,
+      "subtype": "Stadium",
+      "subtypes": ["Stadium", "Football Field"],
+      "full_address": "Huntington Bank Stadium, 420 23rd Ave SE, Minneapolis, MN 55455",
+      "latitude": 44.976524999999995,
+      "longitude": -93.22454619999999,
+      "district": "University of Minnesota - Twin Cities",
+      "street_number": "420",
+      "street": "420 23rd Ave SE",
+      "city": "Minneapolis",
+      "zipcode": "55455",
+      "state": "Minnesota",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/m/05k4sm"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDM4NDAwMTkwMDk5OTYyMDg0ODU=",
+    "name": "Atlanta Falcons vs Miami Dolphins",
+    "link": "https://allevents.in/norcross/atlanta-falcons-vs-miami-dolphins/200028872450943",
+    "description": "🔥 Game Day at BW Burgers! 🔥 Catch the Atlanta Falcons take on Miami this Sunday, 10/26 at 1:00 PM on the big screens at BW Burgers! We’ve got wall-to-wall action, cold brews, and all the wings...",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 2 PM",
+    "start_time": "2025-10-26 14:00:00",
+    "start_time_utc": "2025-10-26 14:00:00",
+    "start_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtqoec88_Hbbx_VphOyY636_QniQ5XPG7KloKT-lGU76IynXfGwlzqWmW7ug&s=10",
+    "publisher": "Allevents.in",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/norcross/atlanta-falcons-vs-miami-dolphins/200028872450943",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/norcross/atlanta-falcons-vs-miami-dolphins/200028872450943"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88f5a1de38a7a33f:0x72feb41144938b72",
+      "name": "B&W Burgers, Buns & Brews",
+      "phone_number": "+14703597896",
+      "website": "https://bwburgers.com",
+      "review_count": 2682,
+      "rating": 4.8,
+      "subtype": "Restaurant",
+      "subtypes": ["Restaurant"],
+      "full_address": "B&W Burgers, Buns & Brews, 113 S Peachtree St, Norcross, GA 30071",
+      "latitude": 33.940792,
+      "longitude": -84.2136664,
+      "district": "Downtown Norcross",
+      "street_number": "113",
+      "street": "113 S Peachtree St",
+      "city": "Norcross",
+      "zipcode": "30071",
+      "state": "Georgia",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11s3y993c8"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDEyMjM2MDgxNjA2NjA4NjcwOTQ1",
+    "name": "Atlanta Falcons vs Miami Dolphins",
+    "link": "https://lascostasnayaritas.com/index.php/event/costas-tuesdays-4/",
+    "description": "Kickoff Sunday at Las Costas Nayaritas!Don’t miss the action as the Atlanta Falcons take on the Miami Dolphins this Sunday, October 26th at 1:00 PM! Watch the game with friends, big screens, and...",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 5 – 8 PM",
+    "start_time": "2025-10-26 17:00:00",
+    "start_time_utc": "2025-10-26 17:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 20:00:00",
+    "end_time_utc": "2025-10-26 20:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0c0ecONkflMf1TEJVauirSjQkcIrFZahGX2BgBArLSLEFFqU6k5ZnnfpYA&s=10",
+    "publisher": "Lascostasnayaritas.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://lascostasnayaritas.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "lascostasnayaritas.com",
+    "ticket_links": [
+      {
+        "source": "Las Costas Nayaritas",
+        "link": "https://lascostasnayaritas.com/index.php/event/costas-tuesdays-4/",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://lascostasnayaritas.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/duluth/atlanta-falcons-vs-miami-dolphins/200028858359359",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Lascostasnayaritas.com",
+        "link": "https://lascostasnayaritas.com/index.php/event/costas-tuesdays-4/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88f5a36a4601f9c1:0x9c2cb11ac0bb128f",
+      "name": "1555 Pleasant Hill Rd",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "1555 Pleasant Hill Rd, Duluth, GA 30096",
+      "latitude": 33.9426425,
+      "longitude": -84.12439859999999,
+      "district": null,
+      "street": null,
+      "city": null,
+      "zipcode": null,
+      "state": null,
+      "country": null,
+      "timezone": "America/New_York",
+      "google_mid": "/g/11bw4qc5ty"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDU4MjMzODAyNTMyODE4ODk5NTk=",
+    "name": "Dolphins vs Falcons Watch Party at CLUTCH Wynwood",
+    "link": "https://www.eventbrite.com/e/buccaneers-vs-saints-gameday-bash-at-clutch-wynwood-tickets-1740041313409",
+    "description": "Catch Buccaneers vs Saints at CLUTCH Wynwood! Free beer for first 50 RSVPs + full game audio. RSVP now to lock your spot!",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 1:35 – 6:35 PM",
+    "start_time": "2025-10-26 13:35:00",
+    "start_time_utc": "2025-10-26 13:35:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 18:35:00",
+    "end_time_utc": "2025-10-26 18:35:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-xbc37RpbdjB3zUKm8NckZj7KFrM3zyRFSxl0cwaFScbWjDYwihapNnSOg&s=10",
+    "publisher": "Eventbrite",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.eventbrite.com",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/dolphins-vs-falcons-watch-party-at-clutch-wynwood-tickets-1740025135019",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/miami/dolphins-vs-falcons-watch-party-at-clutch-wynwood/100001740025135019",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/dolphins-vs-falcons-watch-party-at-clutch-wynwood-tickets-1740025135019"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9b6b204210847:0xfe5fbf89d2ecbfd",
+      "name": "Wynwood Marketplace",
+      "phone_number": "+13054612700",
+      "website": "https://www.wynwood-marketplace.com",
+      "review_count": 2740,
+      "rating": 4.5,
+      "subtype": "Shopping mall",
+      "subtypes": ["Shopping mall"],
+      "full_address": "Wynwood Marketplace, 2250 NW 2nd Ave, Miami, FL 33127",
+      "latitude": 25.7986643,
+      "longitude": -80.19995519999999,
+      "district": "Wynwood Art District",
+      "street_number": "2250",
+      "street": "2250 NW 2nd Ave",
+      "city": "Miami",
+      "zipcode": "33127",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11df4m6p5k"
+    }
+  }
+]

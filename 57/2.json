@@ -1,0 +1,238 @@
+[
+  {
+    "timestamp": "1760449043000",
+    "title": "Windows 10 support ends today, but here's how to get an extra year for free",
+    "snippet": "Windows 10 'end of life' status is here, but thanks to Extended Security Updates, you've got another 12 months to figure things out.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVaVGRDYWkxcmRVcFdTa0pJVFJERUF4aW5CU2dLTWdZSlVwQ0Z0Z1k=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVVaVGRDYWkxcmRVcFdTa0pJVFJERUF4aW5CU2dLTWdZSlVwQ0Z0Z1k"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760439788000",
+        "title": "Microsoft Drops Windows 10 Support With Millions Still Using It",
+        "snippet": "Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg's journalists around the world. Today, Vlad Savov and Jane Lanhee...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZURFZqWkVsMk9UQlFTMjE0VFJERUF4aW1CU2dLTWdhWkFwUXdGUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXZURFZqWkVsMk9UQlFTMjE0VFJERUF4aW1CU2dLTWdhWkFwUXdGUWs"
+        },
+        "newsUrl": "https://www.bloomberg.com/news/newsletters/2025-10-14/microsoft-drops-windows-10-support-with-millions-still-using-it",
+        "publisher": "Bloomberg.com"
+      },
+      {
+        "timestamp": "1760436000000",
+        "title": "Windows 10 Support Ends Today: Here Are 7 Great Upgrade Options",
+        "snippet": "If your current laptop can't make the leap to Windows 11, then you'll need a replacement sooner or later. Here are seven of my favorite laptops that I've...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURNREZmWjBaNFltUXdVbVV3VFJDcUJCaXFCQ2dLTWdhQlFwSlBwUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNURNREZmWjBaNFltUXdVbVV3VFJDcUJCaXFCQ2dLTWdhQlFwSlBwUWc"
+        },
+        "newsUrl": "https://www.cnet.com/tech/computing/windows-10-support-ends-today-here-are-7-great-upgrade-options/",
+        "publisher": "CNET"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.engadget.com/computing/windows-10-support-ends-today-but-heres-how-to-get-an-extra-year-for-free-125118540.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1760461101000",
+    "title": "Nvidia sells tiny new computer that puts big AI on your desktop",
+    "snippet": "On Tuesday, Nvidia announced it will begin taking orders for the DGX Spark, a $4,000 desktop AI computer that wraps one petaflop of computing performance...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpXVGRQZG5Sa1dHUnFRM3BXVFJDZkF4ampCU2dLTWdZbFZack5vUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHpXVGRQZG5Sa1dHUnFRM3BXVFJDZkF4ampCU2dLTWdZbFZack5vUWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760402026000",
+        "title": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX",
+        "snippet": "The next AI revolution starts where rockets launch. NVIDIA DGX Spark's first stop: Starbase, Texas. NVIDIA founder and CEO Jensen Huang arrived at the...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWZia290VFVwR2NsQmhkM1JvVFJDVEF4ajRCU2dLTWdtVkVveG9vaWhGb3dJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNWZia290VFVwR2NsQmhkM1JvVFJDVEF4ajRCU2dLTWdtVkVveG9vaWhGb3dJ"
+        },
+        "newsUrl": "https://blogs.nvidia.com/blog/live-dgx-spark-delivery/",
+        "publisher": "NVIDIA Blog"
+      },
+      {
+        "timestamp": "1760394632000",
+        "title": "Nvidia to Start Selling $3,999 DGX Spark Mini PC This Week",
+        "snippet": "Get the new mini PC at Nvidia.com or third-party retailers starting starting Oct. 15.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9iRVJPVnpSWE5XcG1TSGxSVFJDd0F4akdCU2dLTWdhTmNvWm5yZ2c=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU9iRVJPVnpSWE5XcG1TSGxSVFJDd0F4akdCU2dLTWdhTmNvWm5yZ2c"
+        },
+        "newsUrl": "https://www.pcmag.com/news/nvidia-to-start-selling-3999-dgx-spark-mini-pc-this-week",
+        "publisher": "PCMag"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/",
+    "publisher": "Ars Technica"
+  },
+  {
+    "timestamp": "1760469468000",
+    "title": "Apple teases M5 MacBook",
+    "snippet": "Apple is getting ready to take the wraps off its M5 MacBook, with worldwide marketing SVP Greg Joswiak posting a short video with the caption: “Something...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRUMlExWTJ0UU4ycHlPVTR3VFJER0F4aWtCU2dLTWdhZFk1S09NUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHRUMlExWTJ0UU4ycHlPVTR3VFJER0F4aWtCU2dLTWdhZFk1S09NUWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760469778000",
+        "title": "Apple's Joswiak flashes new hardware in cryptic post (AAPL:NASDAQ)",
+        "snippet": "Apple's (AAPL) senior vice president of global marketing, Greg Joswiak, posted a shadowy video on X today that appeared to possibly provide a glimpse of the...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXpWSEZmV0VSWlkxVXpVbkZFVFJERUF4aW1CU2dLTWdtQlJZS2pXaUo3WndJ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXpWSEZmV0VSWlkxVXpVbkZFVFJERUF4aW1CU2dLTWdtQlJZS2pXaUo3WndJ"
+        },
+        "newsUrl": "https://seekingalpha.com/news/4504048-apples-joswiak-flashes-new-hardware-in-cryptic-post",
+        "publisher": "Seeking Alpha"
+      },
+      {
+        "timestamp": "1760121300000",
+        "title": "macOS Tahoe itself has leaked 2025 and 2026 Mac release timelines",
+        "snippet": "Details surrounding the general timeline of Apple's 2026 Mac releases have surfaced, thanks to our sources that have knowledge of macOS Tahoe development...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNjbTF2U2xWSVRWQlFXVFp3VFJDZkF4ampCU2dLTWdZQkpJd3FJZ2c=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDNjbTF2U2xWSVRWQlFXVFp3VFJDZkF4ampCU2dLTWdZQkpJd3FJZ2c"
+        },
+        "newsUrl": "https://appleinsider.com/articles/25/10/10/macos-tahoe-itself-has-leaked-2025-and-2026-mac-release-timelines",
+        "publisher": "AppleInsider"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1760458246000",
+    "title": "Google’s Gemini can now help you schedule Google Calendar meetings",
+    "snippet": "Google is launching a new tool that uses AI to make it easier for Gmail users with Google Calendar to schedule their meetings. On Tuesday, the company...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUlPRTlWZHkxcUxVaFJUbDlmVFJEQUF4aXNCU2dLTWdhVklvYXExUU0=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUlPRTlWZHkxcUxVaFJUbDlmVFJEQUF4aXNCU2dLTWdhVklvYXExUU0"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760458274000",
+        "title": "Gemini can now help you schedule time with others in Gmail.",
+        "snippet": "Today we announced a new Gemini-powered feature in Gmail called “Help me schedule”. Here's how it works: When you're responding to an email about finding a...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtibVpsTm13NE1ERkROWGxvVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUtibVpsTm13NE1ERkROWGxvVFJDZkF4ampCU2dLTWdB"
+        },
+        "newsUrl": "https://blog.google/products/workspace/help-me-schedule-gmail-gemini/",
+        "publisher": "The Keyword"
+      },
+      {
+        "timestamp": "1760457600000",
+        "title": "Gmail now uses AI to help you find meeting times",
+        "snippet": "Google is launching a new AI-powered feature for Gmail that will use the context of your email and your Google Calendar to help you find time to schedule...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXJUREp0UW1KaFN6aFBTbmd3VFJERUF4aW1CU2dLTWdhaGhKRE1OUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXJUREp0UW1KaFN6aFBTbmd3VFJERUF4aW1CU2dLTWdhaGhKRE1OUWM"
+        },
+        "newsUrl": "https://www.theverge.com/news/799160/google-gmail-gemini-ai-help-me-schedule",
+        "publisher": "The Verge"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/",
+    "publisher": "TechCrunch"
+  },
+  {
+    "timestamp": "1760449500000",
+    "title": "Strange and sketchy leak suggests Gemini 3.0 could launch on October 22",
+    "snippet": "Google is following up on a successful Nano Banana release with Gemini 3.0, which a reported leak suggests could be in late October.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhOMmhqZERKZmIyTnhUV0pTVFJDSEF4aVBCaWdLTWdZdEE1QlFrUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVhOMmhqZERKZmIyTnhUV0pTVFJDSEF4aVBCaWdLTWdZdEE1QlFrUWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760464408000",
+        "title": "Google works on \"I am feeling lucky\" feature for AI Studio",
+        "snippet": "Google debuts a usage dashboard for AI Studio to track token use, a random prompt tool and model selector tooltip hinting at upcoming options.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJNa2N6ZGxrMVR6bEZVRkF3VFJDZkFSaThBaWdCTWdZbEk1Q09tUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUJNa2N6ZGxrMVR6bEZVRkF3VFJDZkFSaThBaWdCTWdZbEk1Q09tUWs"
+        },
+        "newsUrl": "https://www.testingcatalog.com/google-works-on-i-am-feeling-lucky-feature-for-ai-studio/",
+        "publisher": "testingcatalog.com"
+      },
+      {
+        "timestamp": "1759995161000",
+        "title": "Google prepares Gemini 3 launch to rival OpenAI's GPT-5: Report | The model may also introduce an 'Agent Mode' | Inshorts",
+        "snippet": "google is preparing to launch its next multimodal ai model gemini 3 during its livestream event on october 9 aiming to rival openais gpt5 reports stated the...",
+        "newsUrl": "https://inshorts.com/en/news/google-prepares-gemini-3-launch-to-rival-openai-s-gpt-5--report-1759916684479",
+        "publisher": "Inshorts"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://9to5google.com/2025/10/14/gemini-3-0-leak-announcement/",
+    "publisher": "9to5Google"
+  },
+  {
+    "timestamp": "1760444700000",
+    "title": "iPhone 17 demand sees Apple almost catch Samsung, says IDC",
+    "snippet": "The popularity of the iPhone 17 lineup saw Apple almost match Samsung's market share for the third quarter of the year, according to new IDC data.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUNXWGxGWHpCaWRUSXRVV1JsVFJDSEF4aVBCaWdLTWdNSk13dw=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNUNXWGxGWHpCaWRUSXRVV1JsVFJDSEF4aVBCaWdLTWdNSk13dw"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://9to5mac.com/2025/10/14/iphone-17-demand-sees-apple-almost-catch-samsung-says-idc/",
+    "publisher": "9to5Mac"
+  },
+  {
+    "timestamp": "1760455215000",
+    "title": "Motorola has a super-thin Air phone too",
+    "snippet": "Thin phones are in, and Motorola doesn't want to miss out. It's teasing the imminent launch of the X70 Air in China, a slim phone with an unexpectedly big...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9OR05PY3pOcVpGSmlkMGRXVFJERUF4aW1CU2dLTWdZaE5JcXRvUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU9OR05PY3pOcVpGSmlkMGRXVFJERUF4aW1CU2dLTWdZaE5JcXRvUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theverge.com/news/799159/motorola-has-a-super-thin-air-phone-too",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1760437440000",
+    "title": "Galaxy S25 series gets its first post-One UI 8.0 update",
+    "snippet": "Samsung is rolling out the first software update to the Galaxy S25 series after offering One UI 8. It offers the October 2025 security patch. - SamMobile.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRRVkJHTm05WlMzWlhWVkJvVFJDZkF4ampCU2dLTWdZaFE0WU9wZ1U=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDRRVkJHTm05WlMzWlhWVkJvVFJDZkF4ampCU2dLTWdZaFE0WU9wZ1U"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.sammobile.com/news/galaxy-s25-series-gets-its-first-post-one-ui-8-0-update/",
+    "publisher": "SamMobile"
+  },
+  {
+    "timestamp": "1760471275000",
+    "title": "We Finally Know When Pokémon Legends: Z-A Takes Place in the Pokémon Timeline",
+    "snippet": "When Pokémon Legends: Z-A was first revealed, we all immediately got to work speculating on when it would take place in the Pokémon timeline.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHRObEJaWTFnd1JHWTVNR2RFVFJDZkF4ampCU2dLTWdtTkFZN3lpS21wS3dJ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNHRObEJaWTFnd1JHWTVNR2RFVFJDZkF4ampCU2dLTWdtTkFZN3lpS21wS3dJ"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.ign.com/articles/we-finally-know-when-pokmon-legends-z-a-takes-place-in-the-pokmon-timeline",
+    "publisher": "IGN"
+  },
+  {
+    "timestamp": "1760377680000",
+    "title": "Microsoft previews People grouping in OneDrive photos",
+    "snippet": "Microsoft's OneDrive is increasing the creepiness quotient by using AI to spot faces in photos and group images accordingly. Don't worry, it can be turned...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTNja00wY2s1S1QyaEVjM1JoVFJDM0FSaVVBaWdCTWdrQkFJU0FsT1JMZ3dN=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNTNja00wY2s1S1QyaEVjM1JoVFJDM0FSaVVBaWdCTWdrQkFJU0FsT1JMZ3dN"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/",
+    "publisher": "theregister.com"
+  }
+]

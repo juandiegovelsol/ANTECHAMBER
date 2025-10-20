@@ -1,0 +1,212 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDE0NzY5MzM0MjkzNzM5NTA3MjY=",
+    "name": "Muertos Fest at Hemisfair",
+    "link": "https://www.visitsanantonio.com/event/muertos-fest-at-hemisfair/7455/",
+    "description": "San Antonio’s premier and longest-running Day of the Dead celebration, Muertos Fest at Hemisfair, returns for its 13th year with a vibrant, two-day festival – FREE to the public on Saturday...",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 3 AM – 11 PM CDT",
+    "start_time": "2025-10-26 03:00:00",
+    "start_time_utc": "2025-10-26 08:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 23:00:00",
+    "end_time_utc": "2025-10-27 04:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Visit San Antonio",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.visitsanantonio.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.visitsanantonio.com",
+    "ticket_links": [
+      {
+        "source": "Hemisfair",
+        "link": "https://hemisfair.org/event/muertos-fest-at-hemisfair/2025-10-26/1/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hemisfair.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Visit San Antonio",
+        "link": "https://www.visitsanantonio.com/event/muertos-fest-at-hemisfair/7455/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://visitsanantonio.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Austin American-Statesman",
+        "link": "https://www.statesman.com/austin360/things-to-do/?_evDiscoveryPath=/event/310490912p--dia-de-los-muertos-",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://statesman.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Kids Out and About San Antonio",
+        "link": "https://sanantonio.kidsoutandabout.com/content/dia-de-los-muertos-hemisfair-0",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://kidsoutandabout.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Evvnt",
+        "link": "https://evvnt.com/events/?_evDiscoveryPath=/event/310490912p--dia-de-los-muertos-",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://evvnt.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Hemisfair.org",
+        "link": "https://hemisfair.org/event/muertos-fest-at-hemisfair/2025-10-26/1/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x865c58a9e14131e1:0x1f199c3677750778",
+      "name": "Hemisfair",
+      "phone_number": "+12107094750",
+      "website": "http://www.hemisfair.org",
+      "review_count": 16089,
+      "rating": 4.7,
+      "subtype": "Park",
+      "subtypes": [
+        "Park",
+        "Event venue",
+        "Historical landmark",
+        "Tourist attraction"
+      ],
+      "full_address": "Hemisfair, San Antonio, TX 78205",
+      "latitude": 29.4201904,
+      "longitude": -98.4871807,
+      "district": "Hemisfair",
+      "street": null,
+      "city": "San Antonio",
+      "zipcode": "78205",
+      "state": "Texas",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/1w0sd8qt"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI0fDEyNTY5MTkyNjY3NzkxNjA5NjI1",
+    "name": "Muertos Fest at Hemisfair",
+    "link": "https://hemisfair.org/event/muertos-fest-at-hemisfair/2025-10-24/",
+    "description": "Día de los Muertos, San Antonio\\'s beloved, cultural event. Muertos Fest returns to Hemisfair for its 13th year of celebration with a two-day, in-person festival on Oct 25-26, 2025. Our […]\\n",
+    "language": "en",
+    "date_human_readable": "Fri, Oct 24, 5 – 11 PM CDT",
+    "start_time": "2025-10-24 17:00:00",
+    "start_time_utc": "2025-10-24 22:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-24 23:00:00",
+    "end_time_utc": "2025-10-25 04:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Hemisfair.org",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hemisfair.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "hemisfair.org",
+    "ticket_links": [
+      {
+        "source": "Hemisfair",
+        "link": "https://hemisfair.org/event/muertos-fest-at-hemisfair/2025-10-24/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hemisfair.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Do210",
+        "link": "https://do210.com/muertos-fest-tickets",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://do210.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Hemisfair.org",
+        "link": "https://hemisfair.org/event/muertos-fest-at-hemisfair/2025-10-24/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x865c58a9e14131e1:0x1f199c3677750778",
+      "name": "Hemisfair",
+      "phone_number": "+12107094750",
+      "website": "http://www.hemisfair.org",
+      "review_count": 16089,
+      "rating": 4.7,
+      "subtype": "Park",
+      "subtypes": [
+        "Park",
+        "Event venue",
+        "Historical landmark",
+        "Tourist attraction"
+      ],
+      "full_address": "Hemisfair, San Antonio, TX 78205",
+      "latitude": 29.4201904,
+      "longitude": -98.4871807,
+      "district": "Hemisfair",
+      "street": null,
+      "city": "San Antonio",
+      "zipcode": "78205",
+      "state": "Texas",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/1w0sd8qt"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTE4fDYxODc1NjQ3MTMyMTgyMjU5Mzc=",
+    "name": "New Braunfels Dia de Los Muertos Festival",
+    "link": "https://texastimetravel.com/events/new-braunfels-dia-de-los-muertos-festival/",
+    "description": "New Braunfels Dia de Los Muertos Festival on Saturday, October 18, 2025, from noon to 10:00 p.m. in the heart of Downtown New Braunfels! This free-admission event brings the community together to...",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 18, 12 – 10 PM CDT",
+    "start_time": "2025-10-18 12:00:00",
+    "start_time_utc": "2025-10-18 17:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-18 22:00:00",
+    "end_time_utc": "2025-10-19 03:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Texastimetravel.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://texastimetravel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "texastimetravel.com",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/new-braunfels-dia-de-los-muertos-festival-tickets-1432071387069",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Texas Time Travel",
+        "link": "https://texastimetravel.com/events/new-braunfels-dia-de-los-muertos-festival/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://texastimetravel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tour Texas",
+        "link": "https://www.tourtexas.com/all-events/83556/Dia-De-Los-Muertos-Festival-New-Braunfels-TX",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tourtexas.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/new-braunfels/new-braunfels-dia-de-los-muertos-festival/100001432071387069",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Texastimetravel.com",
+        "link": "https://texastimetravel.com/events/new-braunfels-dia-de-los-muertos-festival/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x865cbd5f23f1a239:0xc353a9052169373d",
+      "name": "Wurstfest",
+      "phone_number": "+18306259167",
+      "website": "http://www.wurstfest.com",
+      "review_count": 221,
+      "rating": 4.6,
+      "subtype": "Festival",
+      "subtypes": ["Festival", "Cultural landmark"],
+      "full_address": "Wurstfest, 178 Landa Park Dr, New Braunfels, TX 78130",
+      "latitude": 29.707731199999998,
+      "longitude": -98.1310537,
+      "district": null,
+      "street_number": "178",
+      "street": "178 Landa Park Dr",
+      "city": "New Braunfels",
+      "zipcode": "78130",
+      "state": "Texas",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/1tfgk76y"
+    }
+  }
+]

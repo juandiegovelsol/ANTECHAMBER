@@ -1,0 +1,110 @@
+{
+  "business_id": "6_T2xzR74JqGCTPefAD8Tw",
+  "status": "success",
+  "status_code": 200,
+  "data": {
+    "popular_dishes": [
+      {
+        "identifier": "duck duck duck",
+        "review_count": 118,
+        "photo_count": 61,
+        "display_name": "Duck Duck Duck",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/NaRXYaYPR4-Ku1q38S2e7g/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "rock shrimp tempura",
+        "review_count": 103,
+        "photo_count": 56,
+        "display_name": "Rock Shrimp Tempura",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Q43V6-ssJC-0MkccVMy0Ig/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "ishi yaki bop",
+        "review_count": 102,
+        "photo_count": 34,
+        "display_name": "Ishi Yaki Bop",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/jPEWPFNebb3RJRDJoK7dwg/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "kobe beef",
+        "review_count": 121,
+        "photo_count": 24,
+        "display_name": "Kobe Beef",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/yz36QNBOlXk8nPZHon5Q4w/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "toro tartare",
+        "review_count": 80,
+        "photo_count": 52,
+        "display_name": "Toro Tartare",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/SzeGeEhRUzzaSzdjXScQEw/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "wagyu dumplings",
+        "review_count": 72,
+        "photo_count": 70,
+        "display_name": "Wagyu Dumplings",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/rjoXaQwViqGlPRcr8Qg5Hg/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "black cod miso",
+        "review_count": 63,
+        "photo_count": 35,
+        "display_name": "Black Cod Miso",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/eSFVuBvCPgrC1OhD6mmyxg/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "surf and turf",
+        "review_count": 49,
+        "photo_count": 11,
+        "display_name": "Surf and Turf",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Jx86-ci-JBTehGP_5LBc6g/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "pot de la crema",
+        "review_count": 36,
+        "photo_count": 9,
+        "display_name": "Pot De La Crema",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Vf0_-tDN084sdXoElgwNFw/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "seafood toban yaki",
+        "review_count": 43,
+        "photo_count": 21,
+        "display_name": "Seafood Toban Yaki",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/zNqqcI8Ne8jCXy12R4Rjkw/o.jpg",
+        "description": null,
+        "price": null,
+        "grubhub_menu_item_id": null
+      }
+    ],
+    "type": "food"
+  }
+}

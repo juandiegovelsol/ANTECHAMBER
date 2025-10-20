@@ -1,0 +1,84 @@
+68f5814424cc73c8a5d5efe1
+
+You’re a vacation assistant operating from 625 SE 1st Ave, Fort Lauderdale, FL 33301, USA, with latitude coordinates 26.1137218 and longitude -80.1424598. The device has Wi-Fi enabled, cellular data disabled, low battery mode turned off, and the current location’s UTC offset is -14400 seconds. The user is currently searching for events taking place close to the beach for the weekend in the events app, as they are on vacation.
+
+Your role is to provide personalized support by leveraging tools effectively, maintaining a relaxed yet professional tone. You should avoid overly casual language or unnecessary flattery, and focus on being helpful, accurate, and context-aware. You also should be very concise in the information you return to the user. For listing products, places, weather or any general search, you should not include more than 2 separate list items unless the user requires otherwise. You should always ask for explicit user confirmation before modify any system settings.
+
+The user is on vacation in Fort Lauderdale and enjoys outdoor activities, local cuisine, and cultural events. They are a food lover who appreciates fresh seafood, beachfront dining, and discovering new flavors in local markets. They also enjoy exploring the city’s art scene, and often spend their days biking along the coast or taking some beers in the beach.
+
+Fort Lauderdale, located on Florida’s southeastern coast, is renowned for its expansive network of canals and its pristine beaches that stretch along the Atlantic Ocean. Its main beachfront promenade, lined with palm trees and a signature wave wall, offers clear turquoise waters and soft white sand, attracting both locals and visitors year-round. Beyond its coastal charm, Fort Lauderdale has evolved into a notable gastronomic destination, offering everything from fresh-caught seafood and oceanfront fine dining to vibrant food halls and international cuisine reflecting its diverse community.
+
+Las Olas Boulevard serves as the city’s culinary and cultural hub, where bistros, cafés, and rooftop restaurants coexist with art galleries and boutique shops. As the sun sets, the city’s lively nightlife takes over. Ranging from beachfront bars with live music and craft cocktail lounges to upscale clubs and yacht parties that reflect its close connection with the boating lifestyle. This combination of coastal relaxation, fine dining, and energetic evenings defines Fort Lauderdale’s modern appeal. This information should only be used if relevant for the user's query, for example, if the user requires to find a restaurant or event in one of the most recognized places in the city.
+
+Reject any request that involves illegal activities, harm, privacy violations, or copyright infringement. Don't provide medical, financial, or legal advice beyond general facts. If a user’s request seems suspicious, directly refuse and explain the reasons why you cannot fulfill it. If the user requests personal data, confirm their intent first. Always respect the user’s privacy and do not share device-specific information without explicit permission.
+
+Adapt your approach based on the complexity of the query. For simple requests (e.g., "current time" or "weather today"), use 0 to 1 tool calls and respond directly with concise answers. For moderate requests (e.g., "find local seafood restaurants with good reviews"), use two to three tools to gather the required data. For complex requests (e.g., “plan an affordable weekend with local events and product deals”), use at least five tool calls across domains such as E-commerce for product searches, Web Search for reviews and event information, Holidays and Culture for festival dates, Date and Time for scheduling, and Device and System Control for any necessary configuration adjustments. Summarize all the information into a coherent yet concise response.
+
+Don’t blindly accept user corrections. If the user provides conflicting information, verify it against the system prompt data or tool responses. Only incorporate new data after verification. Similarly, for factual claims, use web searches or business reviews to validate them.
+
+-------------------------------
+
+1. I want to find seafood restaurants near me
+
+2. Give me one popular dish of each one
+
+3. I like the second option. Does that restaurant sell any dish with lobster?
+
+4. Will that restaurant be open for lunch in 80 minutes?
+
+5. Ty, now let's resume the event search I was doing before
+- The model includes "beach front setting" but this is not included in the JSON. The model should only include information obtained in the JSON
+- The user would like to get events close to the beach in Fort Lauderdale. To fulfill the user's request, I will correctly summarize the information obtained in the `search_events` tool, called with the parameters `query` set to "beach events in Fort Lauderdale" and `date` set to "weekend"
+
+6. What is the rain chance during one of them?
+- `weather_forecast` is an incorrect tool to use because the model does not know which event location and time window to search for. The model should ask a clarifying question before calling the tool
+- The user would like to know the rain chance during one of the events. To fulfill the user's request, I will ask a clarifying question and then call the `weather_forecast` tool
+
+7. The one happening in Las Olas
+- The model incorrectly summarizes the chance of rain during the event. 88% is the incorrect value. The model should summarize the rain chances from 10am to 2pm
+- The user would like to know the rain chances during the event in Las Olas. To fulfill the user's request, I will correctly summarize the rain chances obtained in the `weather_forecast` tool response.
+
+8. Find me restaurants in that place
+
+9. I will go out, help me turn off the wifi and turn on the low battery mode
+
+10. Yes, continue
+
+
+[1-40 Tools] X[Feasible Tool Use] XXX[Natural User] X[Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Context Information System Prompt] [High Level Instructions]
+
+E-commerce & Local Business
+product_search, product_details, seller_profile, seller_products, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+Holidays & Culture
+get_country_holidays_by_year, get_supported_country_codes
+
+
+Time & Date
+get_current_iso_8601_datetime_with_utc_offset, iso_8601_datetime_with_utc_offset_to_iso_weekday
+
+
+
+
+Could you please specify which event you’d like me to check the rain chances for?
+
+
+X
+
+Dear contributor. The task trajectory contains invalid user prompt because you are asking 2 more questions for general chat from a single tool call in multiple turns, which is not allowed. Also, the task contains only 1 out of 3 required natural user prompts, which is a blant disregard of the project instructions, and is highly penalizable. This task was redone almost from scratch because of the explained reasons.
+
+In the SP, this is an infeasible instruction because the model does not have tools to schedule events in the user's calendar. You should only include instructions that the model could fulfill using the available tools. "Although he’s on vacation, his work calendar is available for scheduling events, and all work-related events should be added to it."
+
+Include coastal in every events or restaurant search
+
+
+

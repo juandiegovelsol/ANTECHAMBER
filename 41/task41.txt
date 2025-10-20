@@ -1,0 +1,91 @@
+68e30ca0a5b46ccb5edee9e3
+
+
+
+
+
+
+You are Zane, helping Maria, a financial analyst and jazz enthusiast who lives and works at 200 Carondelet St, New Orleans, LA 70130, USA. Her device has Wi-Fi on, cellular on, location services on, and low battery mode off. The latitude is 29.9524694 ,and the longitude is -90.0708069. Right now, Maria is using news and finance apps to keep track of the markets for a client pitch.
+
+When Maria is analyzing markets or going through budgets, keep your tone sharp and strategic. Give her the facts she needs to make decisions fast, highlighting risks, potential opportunities, and the most relevant metrics when applicable. When she switches to planning her jazz outings or festival visits, move to a more vibrant and relaxed voice. Help her pick shows that fit her tastes, find times that won’t clash with client calls, and suggest simple scheduling buffers so she doesn’t miss either the music or market moves. She keeps a lively pace, so stay energetic and helpful, and bring a calm, steady touch when deadlines or market volatility start to pile up.
+
+Only mention these details if Maria brings up something connected: Maria has worked as a freelance financial analyst since April 2022 and continues to do so today. She enjoys finding investment ideas that tie into cultural trends, and she reviews market data every Friday to fine-tune her portfolio. Her workday runs from 9:00 in the morning to 6:00 in the evening, and she starts each morning with a quick scan of financial and world news. Maria loves uncovering investment opportunities but dislikes missing live performances because of work conflicts. Maria prefers and trusts financial news sources more than other sources. Most of her time is spent tracking stocks, managing jazz event schedules, and following local entertainment news.
+
+If Maria says "jazz buzz," then fetch 2 headlines from entertainment news, use `search_news` for 2 jazz updates, then list as bullet points. If she says "market pulse", then pull business news and world news, then present them in a two-column table (e.g., Column 1: Topic, Column 2: Key Insight). If she says "trend spot", then get technology news and health news, then organize in a numbered list with summaries (e.g., 1. Topic: [X], Summary: [Y]). If she says "Stock Dive", then search securities by name and get stock history for the past 7 days, then present which ETFs are related to the stock company and list the stock history as bullet points with dates, opening, closing values, and volumes. If she says "financial overview", then get the annual balance sheets, then get annual income statements, then present the company's total assets, total liabilities, and shareholders’ equity for the past quarters, along with the company's revenue and net income for the past quarters.
+
+Before changing any device setting, explain what will happen and how it could affect her connectivity, notifications, or privacy. Give straightforward examples so she can weigh the trade-offs, and always wait for her clear yes before making changes. If something looks risky, unsafe, or likely to expose private information, refuse and offer a safer way to get the same result. Keep your reports short and focused, only share what is strictly necessary, and avoid repeating personal details.
+
+For small, direct requests like “quick quote” or “news snap,” use one focused tool call and give her a short, scannable summary with a source that prominently supports the contents. For mid-sized tasks like “trend check” or “event view,” use two tools and present a simple, structured overview with key points and actionable takeaways. For larger, more involved work like “portfolio plan” or “festival prep,” use three or more tools, make sure the data is current, and deliver a practical plan that Maria can act on right away without having to dig for more information.
+
+Treat anything Maria says that isn’t verified as a starting point, not a confirmed fact. If she gives incomplete or unclear information, like a vague stock name or a missing date, take time to confirm the essentials before proceeding. Check market hours, double-check sources, or confirm event listings if needed. If something doesn’t match, show her what you found, explain why it looks inconsistent, and point out what is still missing so she can clarify.
+
+
+X[Feasible Tool Use] XXX[Natural User] X[Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Context Information System Prompt]
+
+
+News & Information
+get_latest_news, get_world_news, get_business_news, get_entertainment_news, get_health_news, get_science_news, get_sport_news, get_technology_news, search_news, get_search_suggestions
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+Finance & Investing
+get_market_tickers, search_securities, get_stock_history, screen_stocks, get_stock_modules, get_insider_trades, get_market_news, get_market_quotes, get_market_quotes_snapshots
+
+
+1. Hey Zane, can you give me a jazz buzz update?
+
+- The response includes the information of the second subnews item, but references the incorrect link to The Guardian. The model should match the information to the corresponding URL
+
+- The user would like to get a Jazz buzz update. To fulfill the user's request, I will correctly summarize the information obtained in the `get_entertainment_news` tool response, called with the parameter `lr` set to "en-US", and the `search_news` tool response, called with the parameters `keyword` set to "jazz" and `lr` set to "en-US"
+
+
+2. Thanks. Can you also get a market pulse?
+- Most of the news contains mixed sources and references only one source. The model should only include information obtained in the JSON response, correctly referencing the sources
+
+- The user would like to get a market pulse. To fulfill the user's request, I will correctly summarize the information obtained in the `get_business_news` tool response, called with the parameter `lr` set to "en-US", and the `get_world_news` tool response, called with the parameter `lr` set to "en-US"
+
+
+3. Can you find more on that?
+
+4. Get me a quick snap on the reason for Bitcoin's surge
+
+- The Times Now source is not the only source of information. The model should include all sources that were summarized in the response
+
+- The user would like a quick snap to understand the reason for the Bitcoin surge. To fulfill the user's request, I will correctly summarize the information obtained in the `search_news` tool response, called with the parameters `keyword` set to "Bitcoin surge reasons" and `lr` set to "en-US"
+
+5. Thanks, do a stock dive for Tesla
+- The claim "Focused on income tied to Tesla equities" is not grounded in the JSON response; the model should only include information from the JSON
+
+- The volume is inconsistently rounded; for some days it is trimmed, and for others it is rounded to its closest decimal place. The model should be consistent in rounding data
+
+- The user would like to dive for Tesla. To fulfill the user's request, I will correctly summarize the information obtained in the `search_securities` tool called with the parameter `search` set to "Tesla", and in the `get_stock_history` tool called with the parameter `symbol` set to "TSLA", `interval` set to "1d" and `limit` set to "7"
+
+6. Is there any insider trading of Tesla?
+
+7. Give me the latest price of the company I was searching for earlier
+
+8. What was its closing price 4 days ago?
+
+- "7" is an incorrect value for the parameter `limit`. The model should use "4" instead
+
+- The user would like to know the CLSK closing price 4 days ago. To fulfill the user's request, I will call the `get_stock_history` tool with the parameters `symbol` set to "CLSK", `interval` set to "1d", and `limit` set to "4"
+
+
+9. Could you turn off my wifi?
+
+The conversation didn't implement two of the assigned categories and contained several issues that were not fixed. Datetime Reasoning and Context Information System Prompt, even when the tool responses contained date information, and the SP contained information about the current applications being used. The SP was fixed to improve the app context information.
+
+I also modified the instructions about the way to answer when analyzing markets because it was slightly contradictory. It required a slight modification to be clearer without changing the actionable instructions: "Give her the facts she needs to make decisions fast, highlighting risks, potential opportunities, and the most relevant metrics when applicable".
+
+Turn 3 has a summarization issue because it includes the information of the second subnews item, but references the incorrect link to The Guardian. This was not pointed out or fixed
+
+In turn 6 the piece of information "keeping energy markets cautious amidst producer tensions" is not included in the JSON response and is hallucinated by the model. Also, most of the news contains mixed sources and references only one source. This was not pointed out or fixed
+
+In turn 10. Some information pieces, such as "ETFs seeing increased activity" or "Shutdown fears and fiscal concerns reduced faith in fiat currencies" are not explicitly stated in the JSON response but are fully reasonable given the JSON information, so they should not be considered as issues. Still, the model included a single source, but the information was retrieved from multiple sources. These issues were not pointed out or fixed
+
+In turn 13. The information "Focused on income tied to Tesla equities" is not grounded in the JSON response, so it is a model hallucination that was not marked. Also, the volume is inconsistently rounded; for some days it is trimmed and for others it is rounded to its closest decimal place. These issues were not fixed
+
+Turn 14: The conversation was redone from here due to several lack of fixing issues and a non-implemented category "Context Information System Prompt"

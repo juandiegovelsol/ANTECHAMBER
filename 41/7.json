@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-09-25",
+    "timestamp_unix": 1758772800,
+    "open": 435.24,
+    "high": 435.35,
+    "low": 419.08,
+    "close": 423.39,
+    "volume": 96746400
+  },
+  {
+    "timestamp": "2025-09-26",
+    "timestamp_unix": 1758859200,
+    "open": 428.3,
+    "high": 440.47,
+    "low": 421.02,
+    "close": 440.4,
+    "volume": 101628100
+  },
+  {
+    "timestamp": "2025-09-29",
+    "timestamp_unix": 1759118400,
+    "open": 444.35,
+    "high": 450.98,
+    "low": 439.5,
+    "close": 443.21,
+    "volume": 79491500
+  },
+  {
+    "timestamp": "2025-09-30",
+    "timestamp_unix": 1759204800,
+    "open": 441.52,
+    "high": 445,
+    "low": 433.12,
+    "close": 444.72,
+    "volume": 74357900
+  },
+  {
+    "timestamp": "2025-10-01",
+    "timestamp_unix": 1759291200,
+    "open": 443.8,
+    "high": 462.29,
+    "low": 440.75,
+    "close": 459.46,
+    "volume": 98122200
+  },
+  {
+    "timestamp": "2025-10-02",
+    "timestamp_unix": 1759377600,
+    "open": 470.54,
+    "high": 470.75,
+    "low": 435.57,
+    "close": 436,
+    "volume": 137008900
+  },
+  {
+    "timestamp": "2025-10-03",
+    "timestamp_unix": 1759464000,
+    "open": 443.285,
+    "high": 446.77,
+    "low": 416.575,
+    "close": 429.83,
+    "volume": 133188100
+  }
+]

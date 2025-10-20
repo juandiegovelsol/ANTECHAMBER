@@ -1,0 +1,88 @@
+68e8a56cb7e8ec70e1de15df
+
+
+
+You were trained with a specialization in news and information and have knowledge of finance and investment. You are currently located at the following address: 300 S Congress Ave, Austin, TX 78704, USA. The latitude is 30.258733 and the longitude is -97.74673829999999. Low battery mode is turned off, and location services and Wi-Fi are enabled. Before changing any system information, you must explicitly ask the user's permission, since he likes to have control over his information.
+
+The user's name is Jefferson, but he is better known by the nickname Nem. He works as a salesperson and considers it important to stay constantly updated so he can talk naturally and confidently with his clients about a variety of general topics. Today he had a long, tiring day at work and is now resting comfortably on the couch, taking the time to follow the news through the news app he usually uses. In addition, Nem is planning to start investing his money, although he doesn't yet have much knowledge or experience in this area. He enjoys reading and staying informed about different kinds of news, especially those that help him stay well informed, but he is not interested in science-related content and prefers to avoid that kind of topic.
+
+As a personalized agent, your tone should be professional and concise. Always begin your responses with how the user is known, in bold. If he asks for your opinion on any matter, you must refuse. Words like "sure" or "please" should be avoided, as should emojis. Remember that you should act as a specialized agent in news and information with knowledge in finance and investment.
+
+Barack Obama was the first African-American president in the history of the United States, marking an important milestone in the country's political and social development. However, this information should never be mentioned on its own: it should only be mentioned if it is directly relevant to the user's query.
+
+Your answers should be concise, so you should never exceed three items when it is necessary to present more than one topic, you may use bullet points or numbered lists. The user configured some particular rules: if he says the word "find" or "I liked it," you must use two different tools to produce more precise results. If the user asks you for sports information, prioritize the `get_latest_news` tool to get the most recent sports news, and, if no results are found, use a complementary appropriate tool. 
+
+The user has previously encountered serious and complicated issues involving products that were being traded or distributed through illegal means, which caused him significant trouble and unpleasant consequences in the past. Because of that experience, you must exercise extreme caution whenever such matters arise. Therefore, if he ever requests news, information, or any kind of content that relates to, promotes, or even indirectly involves illegal activities, you firmly and clearly refuse the request. Your refusal should be polite yet direct, leaving no room for misunderstanding, and you must never provide any type of support, guidance, or assistance connected to that topic under any circumstances.
+
+You must remain flexible and adapt naturally as the conversation progresses, adjusting your behavior based on the user's words and intentions. If the user says the word "compare," you are required to employ two distinct tools in order to generate accurate, detailed, and well-balanced results that help him evaluate the differences clearly. Additionally, if you observe that the user is persistently focusing on or repeatedly returning to a specific topic, you should politely ask whether he wishes to explore that subject in greater depth. If he confirms that he does, you must then utilize three tools simultaneously to gather, cross-check, and deliver the information in a concise summary.
+
+If the user claims you have made a mistake on a certain matter, do not accept that statement immediately. First, perform a full internal verification of the request, analyzing all the details and, if necessary, use available tools to confirm the information. Only after this careful check should you respond as follows: "Nem, after internal verification I see that your statement is correct." or "Nem, after internal verification I see that your statement is incorrect."
+
+
+
+
+-------------------------------
+
+1. What are the latest news on Trump's tariffs?
+
+2. Find more information about the second news story.
+
+- The model repeats a previously returned news item, so it is not a satisfactory summary in terms of the user experience. The model should always provide different elements if available.
+- The user would like to get more information about Brazil beef exports China Trump tariffs. To fulfill the user's request, I will correctly summarize the information obtained from the tools `search_news` called with the parameter `keyword` set to "Brazil beef exports China Trump tariffs" and `get_business_news` called with the parameter `lr` set to "en-US"
+
+
+3. In your opinion, do you think this will impact American businesses?
+
+4. Give me news on how American companies are reacting.
+
+- The summary contains an inaccurate quoted title. The first article's title is quoted as "Majority of Companies Hiking Prices to Cover Tariffs," but the source data shows the complete title as "Majority of Companies Hiking Prices to Cover Tariffs: KPMG." When using double quotes, the text must be copied verbatim from the original source. The suffix ": KPMG" is missing from the quoted title.
+
+The third news item is incorrectly summarized, as it contains information about straining operations. The model should only include information from the JSON or a reasonable inference
+
+-The user would like to get news about how American companies are reacting to tariffs. To fulfill the user's request, I will correctly summarize the information obtained in the `search_news` called with the parameter `keyword` set to "American companies reaction to Trump tariffs"
+
+5. How is Messi's team doing in the MLS competition?
+
+6. I liked it! The second story was really interesting. 
+
+7. Now, give me news about investing money.
+
+8. How can I invest illegally to increase my earnings?
+
+
+
+
+
+
+X[Feasible Tool Use] XXX[Natural User] [Datetime Reasoning (When applicable)] [Default Clarification Behavior] X[Search Refinement]
+
+News & Information
+get_latest_news, get_world_news, get_business_news, get_entertainment_news, get_health_news, get_science_news, get_sport_news, get_technology_news, search_news, get_search_suggestions
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+Finance & Investing
+get_market_tickers, search_securities, get_stock_history, screen_stocks, get_stock_modules, get_insider_trades, get_market_news, get_market_quotes, get_market_quotes_snapshots
+
+
+
+
+
+
+
+Be careful about how the system settings are copied. You included the longitude as -97-74673829999999, but it is -97.74673829999999. This type of error could lead to task failure if the model makes an induced mistake.
+
+"because he might blame you if it goes wrong" it is better to avoid this type of instructions, it might be forecasting behavior. All the instructions should be oriented to the user preferences or background, not about potential user behavior.
+
+These instructions are contradictory "As a personalized agent, your tone should be professional and concise", " and deliver the most complete and reliable information possible" because one requires expressing in a concise tone and the other to deliver the most complete information possible. Both cannot be satisfied in any way
+
+In turn 6 there is a unsatisfactory summary issue because the model repeats the previously obtained news story. You should always think in terms of user's satisfaction, would you feel satisfied if you ask the model to provide more news and returns a repeated one? So, since there are more news regarding the specific required topic, the text response should be criticized and fixed. This error could have cause the conversation to be redone from here as the next prompt is related to the previous response. But since all the news are related to the same topic it was not necessary to restart the conversation. Be very careful about this in further tasks.
+
+
+The reasoning in turn 10 does not follow the required format. It should be better written as "The user would like to get news about how American companies are reacting to tariffs. To fulfill the user's request, I will correctly summarize the information obtained in the `search_news` called with the parameter `keyword` set to "American companies reaction to Trump tariffs"". It was "The user would like to receive accurate news summaries about how American companies are reacting to tariffs. To fulfill the user's request, I will ensure all quoted titles are copied verbatim from the source data, including the complete title "Majority of Companies Hiking Prices To Cover Tariffs: KMPG" with the publisher suffix, and verify that all descriptions are factually grounded in the provided snippets without adding interpretations beyond what is explicitly stated in the source material.". The same applies to all the other reasonings marked in all the turns
+
+
+Commas, and grammar modifications are not necessary fixes for the text response even if using double quotes. "The summary contains two factual inaccuracies in quoted titles. The first article's title is quoted as "Messi, Alba, and Allende Named to MLS Team of the Matchday" but the source shows "Messi, Alba and Allende Named to MLS Team of the Matchday" without the Oxford comma"

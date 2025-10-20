@@ -1,0 +1,33 @@
+{
+  "symbol": "ARM",
+  "companyName": "Arm Holdings plc American Depositary Shares",
+  "stockType": "American Depositary Shares",
+  "exchange": "NASDAQ-GS",
+  "primaryData": {
+    "lastSalePrice": "$169.685",
+    "netChange": "+1.525",
+    "percentageChange": "+0.91%",
+    "deltaIndicator": "up",
+    "lastTradeTimestamp": "Oct 15, 2025 10:21 AM ET",
+    "isRealTime": true,
+    "bidPrice": "$169.56",
+    "askPrice": "$169.82",
+    "bidSize": "1",
+    "askSize": "800",
+    "volume": "1,297,293",
+    "currency": null
+  },
+  "secondaryData": null,
+  "marketStatus": "Open",
+  "assetClass": "STOCKS",
+  "keyStats": {
+    "fiftyTwoWeekHighLow": {
+      "label": "52 Week Range:",
+      "value": "80.00 - 182.88"
+    },
+    "dayrange": {
+      "label": "High/Low:",
+      "value": "167.80 - 172.28"
+    }
+  }
+}

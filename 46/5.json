@@ -1,0 +1,194 @@
+[
+  {
+    "timestamp": "1759850102000",
+    "title": "Parents Struggle to Find Covid Vaccines for Their Children Amid Regulatory Confusion",
+    "snippet": "Jill Schwartz has been searching Chicago for Covid shots for her three young children, ages 1, 3 and 5. She tried their pediatrician's office.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTJWMlpWVUZJME9XeHNXR2ROVFJDUUF4allCQ2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNTJWMlpWVUZJME9XeHNXR2ROVFJDUUF4allCQ2dLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759773875000",
+        "title": "The CDC says people must consult a health professional before COVID shot",
+        "snippet": "The Centers for Disease Control and Prevention accepted a controversial recommendation from outside vaccine advisers to tighten guidelines for the COVID...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZSWE5pVDNwc0xUSnhaMFp3VFJDOEF4aXlCU2dLTWdhVmRvd0hNZ1U=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWZSWE5pVDNwc0xUSnhaMFp3VFJDOEF4aXlCU2dLTWdhVmRvd0hNZ1U"
+        },
+        "newsUrl": "https://www.npr.org/2025/10/06/nx-s1-5563869/cdc-covid-vaccine-recommendation",
+        "publisher": "NPR"
+      },
+      {
+        "timestamp": "1759810966000",
+        "title": "CDC recommends coronavirus vaccine with a new caveat. Here’s what to know.",
+        "snippet": "Updated coronavirus vaccines are now recommended after consulting a clinician. In practice, that can mean little difference for a consumer or create...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFlbU53Y1Y5aE56UndRbUowVFJERUF4aW1CU2dLTWdhWmxKQ3NOUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWFlbU53Y1Y5aE56UndRbUowVFJERUF4aW1CU2dLTWdhWmxKQ3NOUWM"
+        },
+        "newsUrl": "https://www.washingtonpost.com/health/2025/10/06/cdc-covid-vaccine-rules-eligibility-availability/",
+        "publisher": "The Washington Post"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.nytimes.com/2025/10/07/well/covid-vaccine-children-parents-issues-rfk-jr.html",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1759844588000",
+    "title": "Taking Too Much Tylenol Has Proven Risks. Trump Didn’t Talk About Those.",
+    "snippet": "President Trump went far beyond the science when, based on an unproven link and inconclusive studies, he warned last month that taking the pain reliever...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBObkpuY0hoSlMxWk5UWE40VFJDUUF4allCQ2dLTWdZbEZJaXNsUW8=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXBObkpuY0hoSlMxWk5UWE40VFJDUUF4allCQ2dLTWdZbEZJaXNsUW8"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/2025/10/07/health/tylenol-acetominophen-liver-damage-kenvue.html",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1759837263000",
+    "title": "Babies take a lesson from soldiers in the war against malaria",
+    "snippet": "Inspired by a military strategy to ward off disease-carrying mosquitoes, researchers see if the technique will help cut malaria infections in little ones.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9jVkpuVEUxMmVGQkRaV2RZVFJERUF4aW1CU2dLTWdhOUU0b3lsUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU9jVkpuVEUxMmVGQkRaV2RZVFJERUF4aW1CU2dLTWdhOUU0b3lsUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.npr.org/sections/goats-and-soda/2025/10/07/g-s1-91950/malaria-babies-bed-net-baby-carrier",
+    "publisher": "NPR"
+  },
+  {
+    "timestamp": "1759819695000",
+    "title": "Scientists finally reveal what’s behind long COVID’s mysterious brain fog",
+    "snippet": "Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging. They discovered widespread increases in...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNSRXRPU1ZWM1JtVjROVmhEVFJDZkF4ampCU2dLTWdZMVU0aHlwUVE=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDNSRXRPU1ZWM1JtVjROVmhEVFJDZkF4ampCU2dLTWdZMVU0aHlwUVE"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759328382000",
+        "title": "Scientists Finally Reveal Biological Basis of Long COVID Brain Fog",
+        "snippet": "Researchers employed a specialized brain imaging technique to identify a potential biomarker and therapeutic target for Long COVID.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUhXazkwUWtaQlF6VmFVVUZCVFJDUUF4ai1CU2dLTWdheFZJNlFxUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUhXazkwUWtaQlF6VmFVVUZCVFJDUUF4ai1CU2dLTWdheFZJNlFxUWM"
+        },
+        "newsUrl": "https://scitechdaily.com/scientists-finally-reveal-biological-basis-of-long-covid-brain-fog/",
+        "publisher": "SciTechDaily"
+      },
+      {
+        "timestamp": "1759591846000",
+        "title": "New research sheds light on why brain fog is a common symptom of long COVID.",
+        "snippet": "Many patients with long COVID experience brain fog, but the reasons are not well understood. A new study links brain fog to a type of neurotransmitter...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1kSHBXWkZOclIwZE5kV0phVFJDZkF4ampCU2dLTWdZdFJaYXVvUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW1kSHBXWkZOclIwZE5kV0phVFJDZkF4ampCU2dLTWdZdFJaYXVvUWc"
+        },
+        "newsUrl": "https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202510/brain-fog-in-long-covid-linked-to-increase-in-ampa-receptors",
+        "publisher": "Psychology Today"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.sciencedaily.com/releases/2025/10/251006051127.htm",
+    "publisher": "ScienceDaily"
+  },
+  {
+    "timestamp": "1759789235000",
+    "title": "Acting CDC director calls to 'break up' the measles, mumps and rubella vaccine into three shots",
+    "snippet": "Acting CDC Director Jim O'Neill called on vaccine manufacturers to develop separate shots for measles, mumps and rubella instead of the current combination...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJaVUpITW5NM05HUXlRVmh2VFJERUF4aW1CU2dLTWdhcE5ZN09tUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDJaVUpITW5NM05HUXlRVmh2VFJERUF4aW1CU2dLTWdhcE5ZN09tUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nbcnews.com/health/health-news/separate-measles-mumps-rubella-vaccine-acting-cdc-director-rcna235971",
+    "publisher": "NBC News"
+  },
+  {
+    "timestamp": "1759835193000",
+    "title": "Both diet and regular sodas are linked to liver disease, new study finds",
+    "snippet": "Both sugar-sweetened beverages and low or non-sugar-sweetened beverages were linked to an increased risk for metabolic dysfunction-associated steatotic...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iNkNnNXpTbEZITFhCc1oxbDBXazB5VFJEbkFoal9CQ2dLTWc0ZEFJSXFsU2MxTVNuVDJEcUhDdw=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iNkNnNXpTbEZITFhCc1oxbDBXazB5VFJEbkFoal9CQ2dLTWc0ZEFJSXFsU2MxTVNuVDJEcUhDdw"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.aol.com/articles/both-diet-regular-sodas-linked-110000307.html",
+    "publisher": "AOL.com"
+  },
+  {
+    "timestamp": "1759683632000",
+    "title": "Their parents never got them vaccinated. As young adults, they faced a choice.",
+    "snippet": "Falling vaccination rates around the country mean more will grow up without protection from debilitating diseases until they are old enough to decide for...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRWMFJqVVdkbVduUkZkV1p6VFJDbUJSakVBeWdLTWdhbG80Nk5OUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDRWMFJqVVdkbVduUkZkV1p6VFJDbUJSakVBeWdLTWdhbG80Nk5OUVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759851920000",
+        "title": "How pediatricians are taking on increasing childhood vaccine hesitancy",
+        "snippet": "A lot happens in Boston every day. To help you keep up, WBUR, Boston's NPR News station, pulled these stories together just for you.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJjVkozZGtGQ2VDMUtSVE10VFJDcUJCaXFCQ2dLTWdZVlk1WnByUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTJjVkozZGtGQ2VDMUtSVE10VFJDcUJCaXFCQ2dLTWdZVlk1WnByUWM"
+        },
+        "newsUrl": "https://www.wbur.org/news/2025/10/07/pediatricians-vaccine-hesitancy-newsletter",
+        "publisher": "WBUR"
+      },
+      {
+        "timestamp": "1759421303000",
+        "title": "New vaccination maps reveal outbreak risks. Is your county protected?",
+        "snippet": "Vaccination coverage is eroding across the United States at the same time measles cases are surging, according to new county-level data compiled from state...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRNVk56YUdNNWEwdGhiVFJJVFJDUUF4aXNBaWdLTWdhWlJKU3RIUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDRNVk56YUdNNWEwdGhiVFJJVFJDUUF4aXNBaWdLTWdhWlJKU3RIUWs"
+        },
+        "newsUrl": "https://www.usatoday.com/story/news/investigations/2025/10/02/vaccination-rates-drop-maps-outbreak-risks/86224099007/",
+        "publisher": "USA Today"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.washingtonpost.com/health/2025/10/05/vaccines-skepticism-childhood-family-impacts/",
+    "publisher": "The Washington Post"
+  },
+  {
+    "timestamp": "1759774950000",
+    "title": "Study suggests new ways to reduce risk of young kids developing peanut allergies",
+    "snippet": "Pediatricians' use of \"easy-to-implement tools\" such as training videos, health record prompts and informational handouts to adhere to updated...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBhemxUU1hkdFNGWlRWMFo2VFJDZkF4ampCU2dLTWdhQlE0eXRxUVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXBhemxUU1hkdFNGWlRWMFo2VFJDZkF4ampCU2dLTWdhQlE0eXRxUVU"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://abcnews.go.com/GMA/Wellness/study-suggests-new-ways-reduce-risk-young-kids/story?id=126246976",
+    "publisher": "ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+    "timestamp": "1759772137000",
+    "title": "Injury suffered by millions of Americans raises risk of dementia by 70%, study finds",
+    "snippet": "It might seem like a minor injury, but suffering a fall could dramatically raise your risk of dementia, a study suggests.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhhMGRpYWtOME55MU5SR3BrVFJDZkF4ampCU2dLTWdheEZJaVBsUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXhhMGRpYWtOME55MU5SR3BrVFJDZkF4ampCU2dLTWdheEZJaVBsUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.dailymail.co.uk/health/article-15166457/dementia-falls-traumatic-brain-injury.html",
+    "publisher": "Daily Mail"
+  },
+  {
+    "timestamp": "1759827626000",
+    "title": "He Was Expected to Get Alzheimer’s 25 Years Ago. Why Hasn’t He?",
+    "snippet": "Scientists are searching for the secret in Doug Whitney's biology that has protected him from dementia, hoping it could lead to ways to treat or prevent...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTJaSFUwYm5Kdk9FOTNkVVpqVFJDZkF4ampCU2dLTWdNaGRoSQ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNTJaSFUwYm5Kdk9FOTNkVVpqVFJDZkF4ampCU2dLTWdNaGRoSQ"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.nytimes.com/2025/10/07/health/alzheimers-gene-mutation.html",
+    "publisher": "The New York Times"
+  }
+]

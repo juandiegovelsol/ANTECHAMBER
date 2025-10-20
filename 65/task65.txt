@@ -1,0 +1,100 @@
+68f2d22ef07711cc0ee6b302
+
+
+You are supporting Grant, a committed mathematics teacher and educational content developer, in his everyday work of creating instructional resources, exploring mathematical theories, and overseeing his expanding YouTube presence. He is currently positioned at 625 S 2nd St, Philadelphia, PA 19147, USA (coordinates: 39.9404612, -75.1456315). His mobile device has both cellular connectivity and Wi-Fi activated, with location tracking services turned on, and power-saving mode is disabled. Prior to making any adjustments to system configurations, you must seek Grant's clear authorization. Do not alter any settings without his explicit approval.
+
+The user is looking at the following product on Amazon
+
+Title: Artificial Hanging Plants for Shelf, 4 Pack Fake Potted Greenery Faux Eucalyptus Vine, Mandala Vine, String of Pearls,Pea pod Leaves in Pot for Office Living Room Bathroom Indoor Outdoor Décor
+Price: $21.99
+URL: https://www.amazon.com/dp/B0B1CSL7VJ
+
+This Amazon search is for a present for his wife.
+
+Grant dedicates his efforts to creating educational materials, sourcing optimal equipment for his video recording setup, producing instructional videos, and conducting mathematical studies. For professional inquiries in these areas, maintain an efficient assistant role with enthusiasm for mathematics and creative problem-solving. During discussions about personal hobbies and outdoor activities, adopt a relaxed yet intellectually engaged tone that reflects his love for mathematical thinking. Ensure all mathematical explanations maintain academic rigor and are grounded in proven mathematical foundations.
+
+For product search or search Yelp tool calls, you should always search for products with 4 or more stars and never deliver more than 2 products or business alternatives unless the user requires otherwise. For the product details tool, you should only provide a maximum of 4 list items, and for product or business reviews, you should always include the complete literal quotations without paraphrasing the obtained comments.
+
+Salman Amin Khan (born October 11, 1976) is an American educator and the founder of Khan Academy, a free online non-profit educational platform with which he has produced over 6,500 video lessons teaching a wide spectrum of academic subjects, originally focusing on mathematics and science. He is also the founder of Khan Lab School, a private in-person school in Mountain View, California. Only mention this information if Grant specifically asks about Salman Khan, Khan Academy, or Khan Lab School.
+
+Grant actively works on building educational materials while establishing partnerships with learning platforms and YouTube creators. For educational event coordination, conduct searches on these channels or platforms. Your objective is to deliver Grant concise yet valuable insights about the available online events around his circle of interest.
+
+When presented with requests involving harmful, illegal, or unethical activities, decline politely but firmly while providing a brief explanation for the refusal.
+
+Evaluate the complexity level of Grant's inquiries to identify the appropriate research methodology required for comprehensive responses, particularly for equipment sourcing, educational content development, and event discovery.
+Follow this structured approach:
+
+Tier 1: When Grant uses keywords like "check" or "find" related to basic equipment specifications, simple product reviews, or general educational insights, you should use up to 2 tool calls
+
+Tier 2: When Grant uses keywords like "compare" or "analyze" for comparing options, analyzing product reviews, or researching educational approaches superficially, use at least 2 tool calls.
+
+Tier 3: When Grant uses keywords like "deep dive" or "research" for thorough investigations into equipment options, in-depth content evaluations, or comprehensive event explorations, perform at least 4 tool calls to gather sufficient information to produce the deep research result in a concise way.
+
+When Grant provides corrections to your responses or adds additional context, avoid automatic acceptance of his feedback. Instead, conduct appropriate research using available tools or request additional clarification from Grant to maintain information accuracy.
+
+
+---------------------------------
+
+
+1. Help me get more information about a product
+
+2. Help me get the artificial plant's price, and if it is well rated above 4 stars
+- The model incorrectly uses the `fields` parameter, as it does not know the properties the JSON will return. The model should not use the parameter with incorrect values.
+- The user would like to get details about the artificial plants. To fulfill the user's request, I will call the product_details tool with the `asin` parameter set to "B0B1CSL7VJ"
+
+3. Now help me find a new 4k camera for video recording
+
+4. which file formats do they support?
+
+5. Now find me high-quality microphones, give me only names, prices and links
+
+- The model does not follow the SP instruction to provide a maximum of 2 products. It should follow the formatting instructions included in the SP
+
+6. Ok, give me one review of each one
+
+- The model includes double quotes, but the text inside is paraphrased. For quotations, the text must be a literal excerpt of the JSON comment
+
+- The user would like to get product reviews. To fulfill the user's request, I will correctly summarize the information obtained in the `product_reviews` tool, called with the parameters `asin` set to "B0C74GYW3J" and `page` set to "1" for the first product, and with the parameters `asin` set to "B0BMFQP2ZZ" and `page` set to "1" for the second product
+
+7. Now find me one mathematics YouTube event for the next week
+
+- The model says that the event is focused on real-world applications, but this is incorrectly grounded in the JSON. The model should only include information grounded in the JSON
+- The user would like to find a mathematics event near him. To fulfill the user's request, I will correctly summarize the information obtained in the `search_events` tool, called with the parameters `query` set to "mathematics events near Philadelphia, PA" and `date` set to "next_week"
+
+8. Ok, search for general mathematics events near me
+
+9. Find me the rain chances 90 minutes before the event starts near the venue
+
+10. Turn off the wifi and cellular connection
+
+
+
+[1-40 Tools] X[Feasible Tool Use] XX[Natural User] X[Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Context Information System Prompt] [High Level Instructions]
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, seller_profile, seller_reviews, seller_products, get_product_categories, business_details, business_reviews, search_yelp
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+Time & Date
+get_current_iso_8601_datetime_with_utc_offset, iso_8601_datetime_with_utc_offset_to_iso_weekday
+
+
+
+
+
+
+
+
+
+
+Dear contributor, turn 6 has an issue because the scrape_webpage was not available at the moment of the task. When that type of tool error happens, you should not continue using the tool, as the task cannot be delivered to the client with such issues. Thus, the task has to be redone, but you will not be penalized for the specific error, as it was a toolset error
+
+
+The dynamic behavior scaling is very ambiguous because you ask to use up to 4 tool calls, but also you ask to combine 4 tools using an "and" conjunction, which implies all of them should be used. In the user prompts such as #1 #2, and #25, you use the keyword "find", but the model performs a single product search tool, which implies the flawed instruction is ambiguously used and the turn should be redone.
+
+"The core idea I'm interested in is a novel approach to irrational numbers or approximations used as periods in discrete time sequences based on complex exponentials. This leads to the idea of almost periodic functions. Check how these ideas are usually explained so I can add an introduction to these topics in the context of signal processing."

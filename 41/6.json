@@ -1,0 +1,92 @@
+[
+  {
+    "shortname": "Tesla, Inc.",
+    "quoteType": "EQUITY",
+    "symbol": "TSLA",
+    "index": "quotes",
+    "score": 29445,
+    "typeDisp": "Equity",
+    "longname": "Tesla, Inc.",
+    "exchDisp": "NASDAQ",
+    "sector": "Consumer Cyclical",
+    "sectorDisp": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "industryDisp": "Auto Manufacturers",
+    "dispSecIndFlag": true
+  },
+  {
+    "shortname": "Tesla Inc.                    R",
+    "quoteType": "EQUITY",
+    "symbol": "TL0.DE",
+    "index": "quotes",
+    "score": 20014,
+    "typeDisp": "Equity",
+    "longname": "Tesla, Inc.",
+    "exchDisp": "XETRA",
+    "sector": "Consumer Cyclical",
+    "sectorDisp": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "industryDisp": "Auto Manufacturers"
+  },
+  {
+    "shortname": "TESLA, INC. CDR (CAD HEDGED)",
+    "quoteType": "EQUITY",
+    "symbol": "TSLA.NE",
+    "index": "quotes",
+    "score": 20008,
+    "typeDisp": "Equity",
+    "longname": "Tesla, Inc.",
+    "exchDisp": "NEO",
+    "sector": "Consumer Cyclical",
+    "sectorDisp": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "industryDisp": "Auto Manufacturers"
+  },
+  {
+    "shortname": "ETF Opportunities Trust T-Rex 2",
+    "quoteType": "ETF",
+    "symbol": "TSLZ",
+    "index": "quotes",
+    "score": 20007,
+    "typeDisp": "ETF",
+    "longname": "T-Rex 2X Inverse Tesla Daily Target ETF",
+    "exchDisp": "BATS Trading"
+  },
+  {
+    "shortname": "Tesla Inc.                    R",
+    "quoteType": "EQUITY",
+    "symbol": "TL0.F",
+    "index": "quotes",
+    "score": 20007,
+    "typeDisp": "Equity",
+    "longname": "Tesla, Inc.",
+    "exchDisp": "Frankfurt",
+    "sector": "Consumer Cyclical",
+    "sectorDisp": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "industryDisp": "Auto Manufacturers"
+  },
+  {
+    "shortname": "TESLA INC TESLA ORD (CDI)",
+    "quoteType": "EQUITY",
+    "symbol": "0R0X.L",
+    "index": "quotes",
+    "score": 20006,
+    "typeDisp": "Equity",
+    "longname": "Tesla, Inc.",
+    "exchDisp": "London",
+    "sector": "Consumer Cyclical",
+    "sectorDisp": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "industryDisp": "Auto Manufacturers"
+  },
+  {
+    "shortname": "HARVEST TESLA ENHANCED HIGH INC",
+    "quoteType": "ETF",
+    "symbol": "TSLY.NE",
+    "index": "quotes",
+    "score": 20003,
+    "typeDisp": "ETF",
+    "exchDisp": "NEO"
+  }
+]

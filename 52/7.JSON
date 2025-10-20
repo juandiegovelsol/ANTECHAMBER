@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "1760095153000",
+    "title": "The Morning After: Our verdict on the Pixel 10 Pro Fold",
+    "snippet": "A little after the launch of the rest of the Pixel 10 family, Google's new foldable is here. The Pixel 10 Pro Fold is a beast — which may not be the first...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlOR2t4V205S1UyRXphVWQ0VFJDdEF4akxCU2dLTWdZQk5vVHJuUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHlOR2t4V205S1UyRXphVWQ0VFJDdEF4akxCU2dLTWdZQk5vVHJuUWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760026109000",
+        "title": "How we built the Pixel 10 Pro Fold's new gearless hinge",
+        "snippet": "Learn more about the design process and implementation of the Pixel 10 Pro Fold's gearless hinge.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iMENnNU5ZMVZTTW01S1RIaFhiVmRRVFJCd0dNZ0JLQW95Q3dFQmdpY1Nha1BQT0xBbA=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMENnNU5ZMVZTTW01S1RIaFhiVmRRVFJCd0dNZ0JLQW95Q3dFQmdpY1Nha1BQT0xBbA"
+        },
+        "newsUrl": "https://blog.google/products/pixel/pixel-10-pro-fold-gearless-hinge-design/",
+        "publisher": "The Keyword"
+      },
+      {
+        "timestamp": "1759942807000",
+        "title": "Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware Changes",
+        "snippet": "After releasing a trio of Pixel 10 smartphones this summer, Alphabet Inc.'s Google is back with the remainder of its 2025 Pixel lineup.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVVM1ZxV21kZlkwUXRVbGhrVFJERUF4aW1CU2dLTWdhZE00WkxyZ2M=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDVVM1ZxV21kZlkwUXRVbGhrVFJERUF4aW1CU2dLTWdhZE00WkxyZ2M"
+        },
+        "newsUrl": "https://www.bloomberg.com/news/features/2025-10-08/google-pixel-10-pro-fold-pixel-watch-4-review-new-ai-tricks-familiar-designs",
+        "publisher": "Bloomberg.com"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111913347.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1760111372000",
+    "title": "Spyware maker NSO Group confirms acquisition by US investors",
+    "snippet": "Israeli spyware maker NSO Group has confirmed to TechCrunch that a U.S. investment group has acquired the company. NSO spokesperson Oded Hershowitz told...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU1SME5vZVdaM2FHaHZXREpFVFJERUF4aW1CU2dLTWdZbFZZcXRxUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU1SME5vZVdaM2FHaHZXREpFVFJERUF4aW1CU2dLTWdZbFZZcXRxUWM"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/",
+    "publisher": "TechCrunch"
+  },
+  {
+    "timestamp": "1760106149000",
+    "title": "Here's our first look at the upcoming Galaxy Buds 4 and its new design",
+    "snippet": "Assets from a leaked One UI 8.5 build reveal the first look at the new Galaxy Buds 4 design, hinting at a change.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDFTRGQ1V1RoV2RHTkRZV2xXVFJDZkF4ampCU2dLTWdZVmM1WktMUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDFTRGQ1V1RoV2RHTkRZV2xXVFJDZkF4ampCU2dLTWdZVmM1WktMUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.androidauthority.com/samsung-galaxy-buds-4-first-look-one-ui-8-5-3606189/",
+    "publisher": "Android Authority"
+  },
+  {
+    "timestamp": "1760089679000",
+    "title": "Copilot on Windows can now create Office documents and connect to Gmail",
+    "snippet": "Microsoft is updating its Copilot app on Windows to let the AI assistant create Office files. Documents can be created from the chat interface.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXVlRXBJYzBoZldFOXdVMk0wVFJERUF4aW1CU2dLTWdZRms1Skt0UVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXVlRXBJYzBoZldFOXdVMk0wVFJERUF4aW1CU2dLTWdZRms1Skt0UVk"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760051700000",
+        "title": "Copilot on Windows: Connectors, and Document Creation begin rolling out to Windows Insiders",
+        "snippet": "Hello Windows Insiders, we are excited to begin rolling out a new update for the Microsoft Copilot app on Windows that introduces the following changes and...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNObTVaY1doaWVHbzJhMGhYVFJDZkF4ampCU2dLTWdhTk1wSU10Z2M=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVNObTVaY1doaWVHbzJhMGhYVFJDZkF4ampCU2dLTWdhTk1wSU10Z2M"
+        },
+        "newsUrl": "https://blogs.windows.com/windows-insider/2025/10/09/copilot-on-windows-connectors-and-document-creation/",
+        "publisher": "Windows Blog"
+      },
+      {
+        "timestamp": "1760006694000",
+        "title": "OneDrive is getting a new Windows app and an AI photo agent",
+        "snippet": "Microsoft is getting ready to release a new OneDrive app on Windows next year that will include a photo gallery, people view, AI-powered slideshows,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNXRlpETXpaRGFsOU5OV0Y0VFJDUUF4al9CU2dLTWdZVllvU09MUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVNXRlpETXpaRGFsOU5OV0Y0VFJDUUF4al9CU2dLTWdZVllvU09MUWM"
+        },
+        "newsUrl": "https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features",
+        "publisher": "The Verge"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1760118300000",
+    "title": "Snapdragon 8 Elite Gen 5 Price Per Unit Estimate Will Definitely Make You Question Your Upcoming Android Flagship Purchase",
+    "snippet": "Qualcomm's Snapdragon 8 Elite Gen 5 is estimated to be more expensive than the Snapdragon 8 Elite, potentially increasing smartphone prices.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNTbUpaYWtob2JsWnJZbnBQVFJDZkF4ampCU2dLTWdZdE5Zek9uUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUNTbUpaYWtob2JsWnJZbnBQVFJDZkF4ampCU2dLTWdZdE5Zek9uUWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759770000000",
+        "title": "Qualcomm Comes Out With ‘Fastest Mobile SoC’ and ‘Fastest Windows CPUs’",
+        "snippet": "Qualcomm recently announced two new flagship processor platforms at its 2025 Snapdragon Summit. With the Snapdragon 8 Elite Gen 5 for mobile devices and the...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9hRTE2T1VodlZESXRkMVpIVFJDZkF4ampCU2dLTWdZQmc0UW9PUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW9hRTE2T1VodlZESXRkMVpIVFJDZkF4ampCU2dLTWdZQmc0UW9PUVk"
+        },
+        "newsUrl": "https://www.allaboutcircuits.com/news/qualcomm-comes-out-with-fastest-mobile-soc-and-fastest-windows-cpus/",
+        "publisher": "All About Circuits"
+      },
+      {
+        "timestamp": "1759388400000",
+        "title": "Has Apple's M4 been toppled by the new Snapdragon X2 Elite Extreme? Early performance results are in.",
+        "snippet": "Qualcomm recently announced its next-gen flagship Snapdragon X2 Elite Extreme SoC, and you might be wondering how it compares to the Apple M4 series.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUhYMjV6YTI4MGRWSmhZemswVFJEdUF4anVBeWdLTWdZaHRZN012UVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUhYMjV6YTI4MGRWSmhZemswVFJEdUF4anVBeWdLTWdZaHRZN012UVU"
+        },
+        "newsUrl": "https://www.windowscentral.com/hardware/qualcomm/snapdragon-x2-elite-extreme-vs-apple-m4-pro-max",
+        "publisher": "Windows Central"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://wccftech.com/snapdragon-8-elite-gen-5-price-per-unit-significantly-higher-than-snapdragon-8-elite/",
+    "publisher": "Wccftech"
+  },
+  {
+    "timestamp": "1760061600000",
+    "title": "The Fascinating Waveguide Technology Inside Meta’s Ray-Ban Display Glasses",
+    "snippet": "Recently the avid teardown folk over at iFixit got their paws on Meta's Ray-Ban Display glasses, for a literal in-depth look at these smart glasses.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNjbWxuVURKS1NIaGZTa05OVFJDcEJCaXFCQ2dLTWdZQkVvTDFNQWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVNjbWxuVURKS1NIaGZTa05OVFJDcEJCaXFCQ2dLTWdZQkVvTDFNQWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760021915000",
+        "title": "Meta Ray-Ban Display: The Best Inventions of 2025",
+        "snippet": "Mark Zuckerberg's September demonstration of Meta's Ray-Ban Display and its accompanying Neural Band didn't go off without some hitches—the tech glitched a...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNWWEYxZFc0dGIzaENXbEpVVFJERUF4aW1CU2dLTWdhSnNZNFR2UVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVNWWEYxZFc0dGIzaENXbEpVVFJERUF4aW1CU2dLTWdhSnNZNFR2UVk"
+        },
+        "newsUrl": "https://time.com/collections/best-inventions-2025/7318319/meta-ray-ban-display/",
+        "publisher": "Time Magazine"
+      },
+      {
+        "timestamp": "1760007491000",
+        "title": "Ray-Ban Maker Essilor Touts Meta Glasses as Next Smartphone Blockbuster",
+        "snippet": "EssilorLuxottica Chief Executive Officer Francesco Milleri says he's positioning the world's biggest eyewear company to be leader in the emerging category...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXFlVlZWUVdOQ2NuRk9NM2xyVFJERUF4aW1CU2dLTWdZeEZaYXVsUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXFlVlZWUVdOQ2NuRk9NM2xyVFJERUF4aW1CU2dLTWdZeEZaYXVsUW8"
+        },
+        "newsUrl": "https://www.bloomberg.com/news/articles/2025-10-09/ray-ban-maker-essilor-touts-meta-glasses-as-smartphone-successor",
+        "publisher": "Bloomberg.com"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://hackaday.com/2025/10/09/the-fascinating-waveguide-technology-inside-metas-ray-ban-display-glasses/",
+    "publisher": "Hackaday"
+  },
+  {
+    "timestamp": "1760117657000",
+    "title": "You can still snag LG’s C4 OLED TV at half the price",
+    "snippet": "Amazon's fall Prime Day is over, but LG's 48-inch C4 OLED TV is still at its best price at multiple retailers. Even the newer C5 is also at its lowest...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVhYMnB4ZFVwak5sUkRSbkpYVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNVhYMnB4ZFVwak5sUkRSbkpYVFJERUF4aW1CU2dLTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1760110205000",
+    "title": "Battlefield 6 Developer Triggers Queue System for Launch as Fans Immediately Face Full Servers",
+    "snippet": "Battlefield 6 is out now, and in the blink of an eye the game's servers became full with hundreds of thousands of players waiting to get in on the action.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWxTR2gwWW5Wd05ETk5iMmx3VFJEZ0F4aUFCU2dLTWdZVkk0NHdtUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWxTR2gwWW5Wd05ETk5iMmx3VFJEZ0F4aUFCU2dLTWdZVkk0NHdtUWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760022095000",
+        "title": "Battlefield 6 Campaign Review",
+        "snippet": "Battlefield 6's campaign is a safe, dull reimagining of what the series once was, rather than a bold reinvention of what it could be.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJTekUzZUd0eFMxbEVkVFF5VFJDZkF4ampCU2dLTWdZQklaQ3dvQWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDJTekUzZUd0eFMxbEVkVFF5VFJDZkF4ampCU2dLTWdZQklaQ3dvQWM"
+        },
+        "newsUrl": "https://www.ign.com/articles/battlefield-6-campaign-review",
+        "publisher": "IGN"
+      },
+      {
+        "timestamp": "1760022384000",
+        "title": "EA locks and loads 'Battlefield 6' to take on 'Call of Duty' before going private",
+        "snippet": "Electronic Arts is betting on the latest \"Battlefield\" title to do what the last one could not - restore the franchise's reputation and loosen the dominance...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVZXRXcxVGxabk5sTktZVFUyVFJERUF4aW1CU2dLTWdZWnBJaXFPUVE=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVZXRXcxVGxabk5sTktZVFUyVFJERUF4aW1CU2dLTWdZWnBJaXFPUVE"
+        },
+        "newsUrl": "https://www.reuters.com/business/media-telecom/ea-locks-loads-battlefield-6-take-call-duty-before-going-private-2025-10-09/",
+        "publisher": "Reuters"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.ign.com/articles/battlefield-6-developer-triggers-queue-system-for-launch-as-fans-immediately-face-full-servers",
+    "publisher": "IGN"
+  },
+  {
+    "timestamp": "1760099408000",
+    "title": "A long-lost Ratchet and Clank mobile game has been found",
+    "snippet": "After years of trying, a dedicated team has managed to download and archive a fully playable version of Ratchet & Clank: Clone Home.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVJhRU56VTJFdFQwbHZRbWxXVFJDOEF4aXlCU2dLTWdtQmdZelZzQ2U1N1FF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNVJhRU56VTJFdFQwbHZRbWxXVFJDOEF4aXlCU2dLTWdtQmdZelZzQ2U1N1FF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.engadget.com/gaming/a-long-lost-ratchet-and-clank-mobile-game-has-been-found-123008739.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1760034792000",
+    "title": "Amazon’s giant ads have ruined the Echo Show",
+    "snippet": "Last week, Amazon launched a major update of its line of Alexa-enabled Echo smart speakers and displays. The redesign — led by former Microsoft design chief...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVpWWEZOVVMxUVMyOWtUM1ZGVFJEQ0F4aXFCU2dLTWdhWmdwQkt2UVU=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVpWWEZOVVMxUVMyOWtUM1ZGVFJEQ0F4aXFCU2dLTWdhWmdwQkt2UVU"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus",
+    "publisher": "The Verge"
+  }
+]

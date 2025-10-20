@@ -1,0 +1,76 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTE5fDUwMjE2NjEzNzcyNTk5Mzg5OTc=",
+    "name": "Browns Vip Tailgate V. Dolphins At Science Center Not A Game Ticket",
+    "link": "https://nationaltoday.com/event/browns-vip-tailgate-v-dolphins-at-science-center-not-a-game-ticket/",
+    "description": "-All-inclusive VIP tailgate experience. All ages welcome -Doors open three hours before kickoff. Tailgate ends at kickoff -Open bar included: Premium beer, wine & liquor -Elevated all-you-desire...",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 19, 1:00 – 2:30 PM",
+    "start_time": "2025-10-19 13:00:00",
+    "start_time_utc": "2025-10-19 13:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-19 14:30:00",
+    "end_time_utc": "2025-10-19 14:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgtd-dHte8S0FA2VE3T05Ays0yD7BUN9vPzi8F3ufFmnK4nJLlKZ1dVolcwQ&s=10",
+    "publisher": "National Today",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nationaltoday.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "nationaltoday.com",
+    "ticket_links": [
+      {
+        "source": "Tixel.com",
+        "link": "https://tixel.com/us/sports-tickets/2025/10/19/cleveland-browns-vs-miami-dolphi",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tixel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tickpick.com",
+        "link": "https://www.tickpick.com/buy-tickets/6977688",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://tickpick.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Koobit.com",
+        "link": "https://www.koobit.com/visit?sem=455513&su=/cleveland-browns-vs-miami-dolphins-e76260",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://koobit.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/cleveland-browns-tickets-huntington-bank-field-3-5-2026--sports-nfl-football/production/5471087",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Seatgeek.com",
+        "link": "https://seatgeek.com/cleveland-browns-tickets/10-19-2025-cleveland-ohio-huntington-bank-field/nfl/17346323?gclsrc=%7BGOOGLE-ADS-CLICK-SOURCE%7D&refob=mta&ref_price=48.32",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seatgeek.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Collisionbendbrewery.com",
+        "link": "https://www.collisionbendbrewery.com/calendar-item/browns-vs-dolphins-pregame-tailgate-at-collision-bend-cle/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x8830f0631df826d3:0x952a8f10e4c6788c",
+      "name": "Collision Bend Brewing Company Cleveland",
+      "phone_number": "+12162737879",
+      "website": "http://www.collisionbendbrewery.com",
+      "review_count": 971,
+      "rating": 4.3,
+      "subtype": "Brewpub",
+      "subtypes": ["Brewpub", "Brewery", "Event venue", "Restaurant"],
+      "full_address": "Collision Bend Brewing Company Cleveland, 1250 Old River Rd, Cleveland, OH 44113",
+      "latitude": 41.4986853,
+      "longitude": -81.7037735,
+      "district": "Downtown",
+      "street_number": "1250",
+      "street": "1250 Old River Rd",
+      "city": "Cleveland",
+      "zipcode": "44113",
+      "state": "Ohio",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11c74b_h1h"
+    }
+  }
+]

@@ -1,0 +1,202 @@
+{
+  "courseProgress": {
+    "courseGrade": {},
+    "referralInfo": {},
+    "_id": "68ed004af2d3b18014e62281",
+    "worker": "666551489082b5376455194b",
+    "course": {
+      "_id": "68e93a078dc4b1921c76acae",
+      "name": "Antechamber Delivery Common Errors Videos",
+      "title": "Antechamber Delivery Common Errors Videos",
+      "description": "This short course includes videos discussing some of the most common errors that we see on the Antechamber Delivery project. We will discuss what they are and how to avoid them.",
+      "archived": false,
+      "disabled": false,
+      "projectIds": [],
+      "courseDuration": 15,
+      "courseType": "native",
+      "sections": [
+        {
+          "id": "c196cf1e-8170-4d99-8a1b-b3ba5c936514",
+          "estimatedTime": 0,
+          "recommendedEstimatedTime": 1,
+          "title": "Introduction",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "f8dbaf8a-b179-4609-9114-06cbe49b77f4",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "This short course will discuss some of the common errors that we see in the Antechamber Delivery project. We will show you video examples of these errors so that you can know how to avoid them in your own tasks. Please pay careful attention and be sure to apply what you learn here in your tasks.\n\n**This course will discuss errors in:**\n\n- System Prompts\n- Ungrounded Information\n- User Satisfaction"
+              },
+              "_id": "68e98b8cbc505d1e8234e9da"
+            }
+          ],
+          "_id": "68e98b8cbc505d1e8234e9d9"
+        },
+        {
+          "id": "a0594c77-f2f9-428a-8b07-05baa0ef6f0d",
+          "estimatedTime": 6,
+          "title": "System Prompt Errors",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "8355f346-e6bc-4f78-8e91-6024972e7608",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "<span style=\"color: rgb(35, 58, 68); font-family: Calibri, sans-serif; font-size: 16px\">The System Prompt serves as the **foundational set of instructions** that governs an AI agent's behavior for an entire task. Think of it as the agent's core programming, defining its personality, awareness of the user's situation, and the specific rules it must follow. To learn more about System Prompts see the </span>[<span style=\"color: rgb(35, 58, 68); font-family: Calibri, sans-serif; font-size: 16px\">Project Instructions</span>](https://app.outlier.ai/en/expert/instruction/683e729ecaf6d16374e6fc5b?componentId=688cf8de2cf496e177de18bc&type=attachment)<span style=\"color: rgb(35, 58, 68); font-family: Calibri, sans-serif; font-size: 16px\"> and these </span>[<span style=\"color: rgb(35, 58, 68); font-family: Calibri, sans-serif; font-size: 16px\">System Prompt slides</span>](https://app.outlier.ai/en/expert/instruction/683e729ecaf6d16374e6fc5b?componentId=68e9459effd89af958ffec3d&type=attachment)<span style=\"color: rgb(35, 58, 68); font-family: Calibri, sans-serif; font-size: 16px\">.</span>\n\n<span style=\"font-size: 16px\">One of the biggest issues that we see in tasks is the System Prompt not being followed in every part of the conversation between the model and the user. Remember that every part of the System Prompt must be followed at every moment.</span>"
+              },
+              "_id": "68e98b8cbc505d1e8234e9dc"
+            },
+            {
+              "id": "a46354c0-e691-4432-a35a-b4d25d3e494c",
+              "weight": 0,
+              "type": "video",
+              "contents": {
+                "singleSelect": true,
+                "videoUrl": "https://static.remotasks.com/uploads/65d91b8d9aaee83f6c8da9d2/System%20Prompt%20Common%20Errors.mp4"
+              },
+              "_id": "68e98b8cbc505d1e8234e9dd"
+            }
+          ],
+          "_id": "68e98b8cbc505d1e8234e9db"
+        },
+        {
+          "id": "a96ba2bf-ba13-47d3-b80b-514eb069a30f",
+          "estimatedTime": 5,
+          "title": "Ungrounded Information",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "53a1e5ca-a23e-4ac6-a81d-8f40bdecb1c7",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "**All information and data that is produced by the model needs to be grounded in the task. The model has access to information from these sources:** \n\n- The System Prompt\n- User Prompts\n- Past turns in the same conversation\n- Current and Past Tool Responses in the same conversation\n\nIf the model uses a parameter value or presents information that is not accessible from the above sources, this is considered Ungrounded Information and needs to be flagged and fixed."
+              },
+              "_id": "68e98b8cbc505d1e8234e9df"
+            },
+            {
+              "id": "d789a63b-2496-4650-9e18-8b38fbb45425",
+              "weight": 0,
+              "type": "video",
+              "contents": {
+                "singleSelect": true,
+                "videoUrl": "https://static.remotasks.com/uploads/65d91b8d9aaee83f6c8da9d2/Ungrounded%20Information.mp4"
+              },
+              "_id": "68e98b8cbc505d1e8234e9e0"
+            }
+          ],
+          "_id": "68e98b8cbc505d1e8234e9de"
+        },
+        {
+          "id": "c0808284-bc21-4d2e-916d-40b2e7dfb36d",
+          "estimatedTime": 3,
+          "title": "User Satisfaction",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "39cc1951-3a9e-487c-a747-0902377a19a8",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "The entire purpose of this project is to test the model’s ability to provide a satisfying experience for the user. When you work on these tasks, you want to identify any part of the conversation that the user would find unsatisfying. This can include things like: \n\n- Using parameters that return unsatisfying results to the user\n- Providing grounded, but misleading information to the user\n- Not fully answering the user’s request\n\nIn these cases, where the model takes a trajectory that provides an unsatisfying experience to the user, flag it and fix it."
+              },
+              "_id": "68e98b8cbc505d1e8234e9e2"
+            },
+            {
+              "id": "42321952-c51e-45d1-80f9-4bf8b7f37ed5",
+              "weight": 0,
+              "type": "video",
+              "contents": {
+                "singleSelect": true,
+                "videoUrl": "https://static.remotasks.com/uploads/65d91b8d9aaee83f6c8da9d2/Satisfying%20User%20Experience.mp4"
+              },
+              "_id": "68e98b8cbc505d1e8234e9e3"
+            }
+          ],
+          "_id": "68e98b8cbc505d1e8234e9e1"
+        },
+        {
+          "id": "9f0a369b-05eb-4763-afa5-9f7e7324bc24",
+          "estimatedTime": 0,
+          "title": "Conclusion",
+          "description": "",
+          "courseSectionItems": [
+            {
+              "id": "21a54b5f-55dd-4076-94cb-1986feb7883a",
+              "weight": 0,
+              "type": "rich_text",
+              "contents": {
+                "singleSelect": true,
+                "body": "Now that you have seen examples of the most common errors on this project, we hope that you are better prepared to produce high quality tasks. This course was not an exhaustive explanation of all possible errors on this project, so remember to follow all project guidelines. Remember to keep an eye out for these and other errors so that you can avoid them in your tasks. Good luck!!"
+              },
+              "_id": "68e98b8cbc505d1e8234e9e5"
+            },
+            {
+              "id": "9d0d9e03-bb5e-4cd5-a2a3-597e2792a8a1",
+              "weight": 100,
+              "type": "multiple_choice",
+              "contents": {
+                "maxAttempts": 1,
+                "singleSelect": true,
+                "skipGrading": false,
+                "question": "**Do you acknowledge that you watched the videos in this course and understand how to avoid the common errors discussed here in your own tasks?**",
+                "choices": [
+                  {
+                    "id": "eed1e035-ce1a-406e-bc19-95579447b66c",
+                    "answer": "Yes"
+                  }
+                ]
+              },
+              "_id": "68e98b8cbc505d1e8234e9e6"
+            },
+            {
+              "id": "2280d86a-da53-43c3-902a-b93276bdf623",
+              "weight": 0,
+              "type": "text_response",
+              "contents": {
+                "singleSelect": true,
+                "question": "Is there any part of completing a task about which you are unsure, or for which you would like additional training?"
+              },
+              "_id": "68e98b8cbc505d1e8234e9e7"
+            }
+          ],
+          "_id": "68e98b8cbc505d1e8234e9e4"
+        }
+      ],
+      "translatedSections": {},
+      "minReviewLevel": "-1",
+      "isTemplate": false,
+      "showFinalGrade": false,
+      "createdBy": "65d91b8d9aaee83f6c8da9d2",
+      "updatedBy": "65d91b8d9aaee83f6c8da9d2",
+      "isTimed": false,
+      "useTipTap": true,
+      "version": 7,
+      "isPublic": false,
+      "createdAt": "2025-10-10T16:53:27.520Z",
+      "updatedAt": "2025-10-10T22:41:16.227Z",
+      "__v": 6
+    },
+    "currentSection": 1,
+    "status": "in_progress",
+    "attemptNumber": 1,
+    "completed": false,
+    "courseAnswer": {},
+    "assigned": false,
+    "passingGrade": 0,
+    "fullstorySessions": [],
+    "remainingTime": 900,
+    "projectId": "683e729ecaf6d16374e6fc5b",
+    "violationsDetected": [],
+    "createdAt": "2025-10-13T13:36:10.869Z",
+    "updatedAt": "2025-10-13T13:36:30.433Z",
+    "__v": 0
+  }
+}

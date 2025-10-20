@@ -1,0 +1,218 @@
+{
+  "message": "200: success",
+  "searched_url": null,
+  "searched_ids": "glDS_7wsDO5AUzR5iJ6Jnw",
+  "business_details": [
+    {
+      "business": {
+        "id": "glDS_7wsDO5AUzR5iJ6Jnw",
+        "name": "Nature's Own",
+        "alias": "natures-own-kansas-city",
+        "address1": "1020 Westport Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Kansas City",
+        "zip": "64111",
+        "country": "US",
+        "hours": [
+          [480, 1260],
+          [1920, 2700],
+          [3360, 4140],
+          [4800, 5580],
+          [6240, 7020],
+          [7680, 8460],
+          [9180, 9840]
+        ],
+        "is_closed": false,
+        "latitude": 39.0503663,
+        "longitude": -94.5993476,
+        "review_count": 14,
+        "state": "MO",
+        "avg_rating": 4.5,
+        "unrounded_avg_rating": 4.7,
+        "neighborhoods": [],
+        "geo_accuracy": 9,
+        "addresses": {
+          "primary_language": {
+            "long_form": "1020 Westport Rd, Kansas City, MO 64111",
+            "short_form": "1020 Westport Rd, Kansas City"
+          }
+        },
+        "price": null,
+        "localized_price": null,
+        "categories": [
+          {
+            "name": "Supermarkets",
+            "category_filter": "grocery",
+            "is_restaurant": false
+          },
+          {
+            "name": "Health Food",
+            "category_filter": "healthmarkets",
+            "is_restaurant": false
+          }
+        ],
+        "is_yelp_guaranteed": false,
+        "platform_partner_ids": [],
+        "fmode": 0,
+        "phone": "8169979420",
+        "localized_phone": "+1-816-997-9420",
+        "dialable_phone": "+18169979420",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/RUHDN5VpXk8cdIPpnUsqVA/ms.jpg",
+        "primary_photo": {
+          "id": "RUHDN5VpXk8cdIPpnUsqVA",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/RUHDN5VpXk8cdIPpnUsqVA/",
+          "url_suffix": ".jpg",
+          "fmode": 1
+        },
+        "photos": [
+          {
+            "id": "RUHDN5VpXk8cdIPpnUsqVA",
+            "type": "business",
+            "time_created": 1752193722,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/RUHDN5VpXk8cdIPpnUsqVA/",
+            "url_suffix": ".jpg",
+            "width": 1125,
+            "height": 2000,
+            "business_id": "glDS_7wsDO5AUzR5iJ6Jnw",
+            "share_url": "https://www.yelp.co.uk/biz_photos/glDS_7wsDO5AUzR5iJ6Jnw?select=RUHDN5VpXk8cdIPpnUsqVA&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "0LvzeET9mXqtnD7ZC_C02w",
+            "type": "business",
+            "time_created": 1752193722,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/0LvzeET9mXqtnD7ZC_C02w/",
+            "url_suffix": ".jpg",
+            "width": 1125,
+            "height": 2000,
+            "business_id": "glDS_7wsDO5AUzR5iJ6Jnw",
+            "share_url": "https://www.yelp.co.uk/biz_photos/glDS_7wsDO5AUzR5iJ6Jnw?select=0LvzeET9mXqtnD7ZC_C02w&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "-e7eQTunJQfrhvNyeeHKHg",
+            "type": "business",
+            "time_created": 1539182023,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/-e7eQTunJQfrhvNyeeHKHg/",
+            "url_suffix": ".jpg",
+            "caption": "Enjoy 10% OFF your whole purchase on First Fridays - includes ALL departments",
+            "width": 1080,
+            "height": 1080,
+            "business_id": "glDS_7wsDO5AUzR5iJ6Jnw",
+            "share_url": "https://www.yelp.co.uk/biz_photos/glDS_7wsDO5AUzR5iJ6Jnw?select=-e7eQTunJQfrhvNyeeHKHg&utm_source=oshare",
+            "fmode": 0
+          },
+          {
+            "id": "JvfRGwaggyvTEqpbyPWzHQ",
+            "type": "business",
+            "time_created": 1539182019,
+            "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/JvfRGwaggyvTEqpbyPWzHQ/",
+            "url_suffix": ".jpg",
+            "caption": "Enjoy 10% OFF your whole purchase on First Fridays - includes ALL departments",
+            "width": 1080,
+            "height": 1080,
+            "business_id": "glDS_7wsDO5AUzR5iJ6Jnw",
+            "share_url": "https://www.yelp.co.uk/biz_photos/glDS_7wsDO5AUzR5iJ6Jnw?select=JvfRGwaggyvTEqpbyPWzHQ&utm_source=oshare",
+            "fmode": 0
+          }
+        ],
+        "photo_count": 22,
+        "has_ad_driven_call_tracking_number": false,
+        "platform_actions": [],
+        "attributions": [],
+        "is_temp_closed": false,
+        "timezone": "America/Chicago",
+        "localized_attributes": [
+          {
+            "label": "Health Score",
+            "value": "99 out of 100"
+          },
+          {
+            "id": "BusinessParking",
+            "label": "Parking",
+            "value": "On-Site Parking"
+          }
+        ],
+        "ios_search_indexing_info": {
+          "webpage_url": "https://www.yelp.com/biz/natures-own-kansas-city",
+          "keywords": ["Supermarkets", "Health Food"],
+          "thumbnail_url": "https://s3-media0.fl.yelpcdn.com/bphoto/RUHDN5VpXk8cdIPpnUsqVA/180s.jpg",
+          "description": "Rating: 4.5 - 14 reviews\nSupermarkets, Health Food",
+          "title": "Nature's Own",
+          "is_eligible_for_prediction": false,
+          "filtered_url": ""
+        },
+        "android_app_annotation": {
+          "annotation_title": "Nature's Own, Kansas City",
+          "deeplink_url": "android-app://com.yelp.android/yelp/annotate/biz/glDS_7wsDO5AUzR5iJ6Jnw?utm_campaign=title_biz_name&utm_source=app_annotation",
+          "http_url": "https://www.yelp.com/biz/natures-own-kansas-city"
+        },
+        "url": "https://m.yelp.com/biz_redir?link_source=yelp_app&s=48d1d815139d8f08b7540544a391b33f5350596c13f18c2be8bca7434d780633&src_bizid=glDS_7wsDO5AUzR5iJ6Jnw&url=http%3A%2F%2Fwww.naturesownhealthmarket.com&website_link_type=website",
+        "distance": null,
+        "locality": "Kansas City, MO 64111",
+        "share_url": "https://www.yelp.co.uk/biz/natures-own-kansas-city?utm_source=ashare",
+        "cross_streets": null,
+        "quicktip_count": 0,
+        "is_slideshow_enabled": false,
+        "is_current_advertiser": true,
+        "is_searchable_nearby": true,
+        "summaries": null,
+        "transit": [],
+        "localized_address": "1020 Westport Rd\nKansas City, MO 64111\nUSA",
+        "review": null,
+        "minute": 6789,
+        "is_chain_business": false,
+        "regular_count": 0,
+        "health_score": "99 out of 100",
+        "health_score_url": "https://m.yelp.co.uk/inspections/natures-own-kansas-city",
+        "health_score_detail": {
+          "health_score": "99",
+          "health_score_formatted": "99 out of 100",
+          "time_of_score": 1745823600,
+          "provider": "Powered by Health Department Intelligence",
+          "violation_list": [
+            "Nonfood-contact surfaces not cleaned at frequency to prevent buildup of residue",
+            "Equipment not in good repair & adjusted per manufacturer's specs"
+          ],
+          "number_of_violations": 2,
+          "has_active_alert": false,
+          "health_score_detail_url": "https://m.yelp.co.uk/inspections/natures-own-kansas-city",
+          "is_estimated_health_score": true,
+          "health_score_title": "Estimated Health Score: 99"
+        },
+        "localized_hours": ["Mon-Sat 8:00 - 21:00", "Sun 9:00 - 20:00"],
+        "is_multiple_reservations_allowed": true,
+        "display_url": "http://www.naturesownhealthmarket.com",
+        "from_this_business": {
+          "specialties": "Local, organic healthfood"
+        }
+      },
+      "annotations": [
+        {
+          "type": "REVIEW",
+          "image_path": "16x16_speech_v2.png",
+          "image_url": "https://s3-media0.fl.yelpcdn.com/assets/srv0/icons/6be2758d302f/android/drawable-xxhdpi/speech_v2_16x16.png",
+          "image_color": null,
+          "image_size": {
+            "width": 16,
+            "height": 16
+          },
+          "title": "Great quality many different varieties of items that I have been looking for all in one place and few new that I&#39;m willing to try this is great place to find heal hy variety of thing you may have searched for elsewhere",
+          "title_color": [43, 39, 60],
+          "title_color_string": null,
+          "show_legal_disclaimer": false,
+          "identifier": "TOP_REVIEW_SNIPPET",
+          "is_highlighted_annotation": false,
+          "action": {
+            "type": "VIEW_REVIEW",
+            "text": "Read more",
+            "display_behavior": "status_quo",
+            "review_id": "JuzP9LFgGzRdJtD6kVTn4w"
+          }
+        }
+      ],
+      "always_show_business_photos": false
+    }
+  ]
+}

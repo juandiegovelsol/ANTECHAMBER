@@ -1,0 +1,238 @@
+[
+  {
+    "timestamp": "1760465460000",
+    "title": "Walmart, IBD Stock Of The Day, Runs Past Buy Point On OpenAI Shopping Partnership",
+    "snippet": "Stock Of The Day: Walmart rallied past a buy point on an OpenAI partnership to let shoppers make purchases directly via ChatGPT. Amazon fell.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNHhPREpEVGsxSGIxSnZibFF5VFJDU0F4ajdCU2dLTWdNQkloWQ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNHhPREpEVGsxSGIxSnZibFF5VFJDU0F4ajdCU2dLTWdNQkloWQ"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760469424000",
+        "title": "Walmart goes after Amazon on AI shopping — plus, 3 bits of great Boeing news",
+        "snippet": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9iMjVzYjFsSVgyYzNOMUZoVFJDc0FoallCQ2dLTWdhdE5JS3VHUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU9iMjVzYjFsSVgyYzNOMUZoVFJDc0FoallCQ2dLTWdhdE5JS3VHUWM"
+        },
+        "newsUrl": "https://www.cnbc.com/2025/10/14/walmart-goes-after-amazon-on-ai-shopping-plus-3-bits-of-great-boeing-news.html",
+        "publisher": "CNBC"
+      },
+      {
+        "timestamp": "1760457868000",
+        "title": "Walmart stock pops on OpenAI partnership to create a ChatGPT shopping experience",
+        "snippet": "Walmart is the latest company to announce a partnership with OpenAI.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDBYelJxZGpCcmVFeFlNbXhFVFJEQ0F4aXBCU2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNDBYelJxZGpCcmVFeFlNbXhFVFJEQ0F4aXBCU2dLTWdB"
+        },
+        "newsUrl": "https://finance.yahoo.com/news/walmart-stock-pops-on-openai-partnership-to-create-a-chatgpt-shopping-experience-160427665.html",
+        "publisher": "Yahoo Finance"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.investors.com/research/ibd-stock-of-the-day/walmart-stock-openai-chatgpt-shopping-amazon/",
+    "publisher": "Investor's Business Daily"
+  },
+  {
+    "timestamp": "1760464980000",
+    "title": "Fed Chair Powell Sees More Job Market Weakness. ‘There Is No Risk-Free Path.’",
+    "snippet": "Federal Reserve Chair Jerome Powell signaled Tuesday that downward pressure on the labor market means there is more room for further interest-rate cuts.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5PWFF6ZDJGaldIWnFNV05OVFJERUF4aW5CU2dLTWdZZFFvcjBuQWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU5PWFF6ZDJGaldIWnFNV05OVFJERUF4aW5CU2dLTWdZZFFvcjBuQWs"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760467080000",
+        "title": "Powell Keeps Fed on Track to Lower Rates Again",
+        "snippet": "The central-bank leader also suggested the Fed could be close to ending a three-year campaign to passively reduce its $6.6 trillion asset holdings.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTJNbTB3Y0V4cU1VOUlaVXRVVFJEZEFoanNCQ2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNTJNbTB3Y0V4cU1VOUlaVXRVVFJEZEFoanNCQ2dLTWdB"
+        },
+        "newsUrl": "https://www.wsj.com/economy/central-banking/powell-keeps-fed-on-track-to-lower-rates-again-a2e9b065",
+        "publisher": "The Wall Street Journal"
+      },
+      {
+        "timestamp": "1760458851000",
+        "title": "With inflation and jobs in ‘tension,’ Powell warns of the Fed’s tightrope on interest rates",
+        "snippet": "The Federal Reserve is doing a difficult balancing act, trying to tamp down inflation while also lifting up the job market, Chair Jerome Powell said...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVdOR2xqV25Oc2NrZFlZMkU0VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNVdOR2xqV25Oc2NrZFlZMkU0VFJERUF4aW1CU2dLTWdB"
+        },
+        "newsUrl": "https://www.cnn.com/2025/10/14/business/powell-fed-inflation-jobs-tension",
+        "publisher": "CNN"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.barrons.com/articles/federal-reserve-powell-speech-inflation-rates-fbc4b91d",
+    "publisher": "Barron's"
+  },
+  {
+    "timestamp": "1760462220000",
+    "title": "JP Morgan boss says more ‘cockroaches’ will emerge after private credit sector failures",
+    "snippet": "Jamie Dimon expects further weak links in 'shadow banking' sector to be revealed after collapse of two US firms.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDJTVEo2VUZjM00weG5VV0ZSVFJEMEFoalJBeWdLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNDJTVEo2VUZjM00weG5VV0ZSVFJEMEFoalJBeWdLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760469402000",
+        "title": "JPMorgan’s Dimon on Tricolor losses: 'It is not our finest moment'",
+        "snippet": "JPMorgan Chase CEO Jamie Dimon offered a warning Tuesday when discussing the losses his bank took from the fall of subprime lender Tricolor Holdings,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBUa3h3VTBONVYweHdORXRyVFJERUF4aW5CU2dLTWdZcFZwVHRKUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDBUa3h3VTBONVYweHdORXRyVFJERUF4aW5CU2dLTWdZcFZwVHRKUWc"
+        },
+        "newsUrl": "https://finance.yahoo.com/news/jpmorgans-dimon-on-tricolor-losses-it-is-not-our-finest-moment-140128213.html",
+        "publisher": "Yahoo Finance"
+      },
+      {
+        "timestamp": "1760449700000",
+        "title": "Jamie Dimon says auto company bankruptcies reveal 'early signs' of excess in corporate lending",
+        "snippet": "JPMorgan Chase CEO Jamie Dimon said Tuesday that bankruptcies in the U.S. auto market are a sign that lending standards grew too lax in the past decade-plus...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXRORWhZUVc1RVdIcEhUSGhPVFJDZkF4ampCU2dLTWdZeFJZcXZwUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXRORWhZUVc1RVdIcEhUSGhPVFJDZkF4ampCU2dLTWdZeFJZcXZwUWc"
+        },
+        "newsUrl": "https://www.cnbc.com/2025/10/14/jamie-dimon-auto-bankruptcies-lending-excess.html",
+        "publisher": "CNBC"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theguardian.com/business/2025/oct/14/jp-morgan-jamie-dimon-losses-private-credit-sector",
+    "publisher": "The Guardian"
+  },
+  {
+    "timestamp": "1760465181000",
+    "title": "Big Banks Credit ‘Resilient’ Economy for Profit Growth",
+    "snippet": "JPMorgan Chase, Goldman Sachs, Citi and Wells Fargo reported strong earnings, mostly topping analyst expectations and showing broad growth.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRia3hVV25oSFUyMU9SVkpXVFJDUUF4allCQ2dLTWdZSkNwakZqZ3M=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVRia3hVV25oSFUyMU9SVkpXVFJDUUF4allCQ2dLTWdZSkNwakZqZ3M"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760461984000",
+        "title": "Bank results live: Goldman Sachs, JPMorgan and Citi CEOs warn on markets reaching bubble territory",
+        "snippet": "Goldman Sachs quarterly profits rose 37 per cent to $4.1bn in a quarter that played to its strengths in investment banking and trading.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBiRlJZTUUxTk9TMTFUbXhYVFJDS0F4aThCU2dLTWdhSllvWm5LZ2c=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXBiRlJZTUUxTk9TMTFUbXhYVFJDS0F4aThCU2dLTWdhSllvWm5LZ2c"
+        },
+        "newsUrl": "https://www.ft.com/content/1cc61e0f-c06e-46ee-9b16-df551a6b1d2e",
+        "publisher": "Financial Times"
+      },
+      {
+        "timestamp": "1760467254000",
+        "title": "US banking giants buoyed by dealmaking, but warn of asset price bubbles",
+        "snippet": "NEW YORK, Oct 14 (Reuters) - Top U.S. bankers predicted business would continue to boom as equity markets surged over the last quarter and the economy and...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNRV2RxWm5CeVVrUktUM2RPVFJERUF4aW1CU2dLTWdZQllJS01UQU0=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUNRV2RxWm5CeVVrUktUM2RPVFJERUF4aW1CU2dLTWdZQllJS01UQU0"
+        },
+        "newsUrl": "https://www.reuters.com/business/finance/us-banking-giants-expect-dealmaking-spree-continue-profits-climb-2025-10-14/",
+        "publisher": "Reuters"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.nytimes.com/2025/10/14/business/banks-earnings-jpmorgan-goldman-sachs-wells-fargo-citi.html",
+    "publisher": "The New York Times"
+  },
+  {
+    "timestamp": "1760468668000",
+    "title": "Goldman Sachs Reports 2025 Third Quarter Earnings Per Common Share of $12.25 and Annualized Return on Common Equity of 14.2%",
+    "snippet": "NEW YORK, October 14, 2025 – The Goldman Sachs Group, Inc. (NYSE: GS) today reported net revenues of $15.18 billion and net earnings of $4.10 billion for...",
+    "subnews": [
+      {
+        "timestamp": "1760460600000",
+        "title": "Goldman Sachs Profit Surges, Fueled by Dealmaking Boom",
+        "snippet": "Despite the gains, the bank told employees that head-count growth will be constrained through the end of the year.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUphVlJtYkhNd1dXNTZTM1Z0VFJDSEF4aVBCaWdLTWdrSm9vQnR1YUdhZHdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUphVlJtYkhNd1dXNTZTM1Z0VFJDSEF4aVBCaWdLTWdrSm9vQnR1YUdhZHdB"
+        },
+        "newsUrl": "https://finance.yahoo.com/news/goldman-sachs-profit-surges-fueled-120700019.html",
+        "publisher": "Yahoo Finance"
+      },
+      {
+        "timestamp": "1760427780000",
+        "title": "Why Goldman and JPMorgan Stocks Are Down",
+        "snippet": "Shares in Goldman Sachs dropped 3% and JPMorgan was off 2% Tuesday, despite both Wall Street firms beating analyst expectations with their [third-quarter...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUVOa05yTTIxRlEyTTFSelEzVFJDSEF4aVBCaWdLTWdrTkFJeHJrS3FDU3dF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUVOa05yTTIxRlEyTTFSelEzVFJDSEF4aVBCaWdLTWdrTkFJeHJrS3FDU3dF"
+        },
+        "newsUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-14-2025/card/why-goldman-and-jpmorgan-stocks-are-down-x0zp5QiZIbTO2hPM8Fl7",
+        "publisher": "The Wall Street Journal"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.goldmansachs.com/pressroom/press-releases/2025/2025-10-14-q3-results",
+    "publisher": "Goldman Sachs"
+  },
+  {
+    "timestamp": "1760438916000",
+    "title": "Auto sector bankruptcies spark fresh scrutiny of Wall Street credit risks",
+    "snippet": "NEW YORK, Oct 14 (Reuters) - The bankruptcies of automotive-related companies First Brands and Tricolor, along with potential losses at banks and investment...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNVekpXTWpjMFVFNUlOMlpvVFJERUF4aW1CU2dLTWdhQmtwUXhzUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTNVekpXTWpjMFVFNUlOMlpvVFJERUF4aW1CU2dLTWdhQmtwUXhzUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.reuters.com/legal/litigation/auto-sector-bankruptcies-spark-fresh-scrutiny-wall-street-credit-risks-2025-10-14/",
+    "publisher": "Reuters"
+  },
+  {
+    "timestamp": "1760458320000",
+    "title": "Steelers' minority owner killed in ATV accident in North Carolina",
+    "snippet": "The CEO of a North Carolina corporation, who bought a minority stake in the Pittsburgh Steelers from a Steel City-bred billionaire, died in an all-terrain...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVkWGMzVXpsa00yMXlPVFZpVFJDckF4aUFCU2dLTWdhZGM1Q3JzUVk=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUVkWGMzVXpsa00yMXlPVFZpVFJDckF4aUFCU2dLTWdhZGM1Q3JzUVk"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://triblive.com/sports/steelers-minority-owner-killed-in-atv-accident-in-north-carolina/",
+    "publisher": "TribLIVE.com"
+  },
+  {
+    "timestamp": "1760458209000",
+    "title": "Goldman Sachs Tells Staff It Plans to Cut More Jobs This Year",
+    "snippet": "Goldman Sachs Group Inc. told staffers to expect an additional round of job cuts this year as the bank seeks further savings across its businesses and takes...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUZTVVY1U1hwNU5HUnBlSEJPVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUZTVVY1U1hwNU5HUnBlSEJPVFJERUF4aW1CU2dLTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.bloomberg.com/news/articles/2025-10-14/goldman-sachs-tells-staff-it-plans-to-cut-more-jobs-this-year",
+    "publisher": "Bloomberg.com"
+  },
+  {
+    "timestamp": "1760451900000",
+    "title": "Andrew Ross Sorkin on the parallels between 1929 and today's stock market frenzy",
+    "snippet": "Walking up to The Plaza Hotel's east side entrance, Andrew Ross Sorkin is in his element. Just seconds after his arrival, he dives into what the storied...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNaRE5tVkdWV0xXcEVWV2t5VFJEX0JCamdBeWdLTWdhaGhKSUxNZ2M=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXNaRE5tVkdWV0xXcEVWV2t5VFJEX0JCamdBeWdLTWdhaGhKSUxNZ2M"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.businessinsider.com/stock-market-bubble-andrew-ross-sorkin-1929-crash-book-ai-2025-10",
+    "publisher": "Business Insider"
+  },
+  {
+    "timestamp": "1760444460000",
+    "title": "GM to take a $1.6 billion hit as tax incentives for EVs are slashed and emission rules ease",
+    "snippet": "General Motors will book a negative impact of $1.6 billion in its next quarter after tax incentives for electric vehicles were slashed by the U.S. and rules...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9NVXBvTlhZdFJuVm5iV2xQVFJEVkFSakFBaWdLTWdhQlFZZ21uUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNW9NVXBvTlhZdFJuVm5iV2xQVFJEVkFSakFBaWdLTWdhQlFZZ21uUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://apnews.com/article/general-motors-gm-ev-emission-tax-2d2e43fd9dc0e12864e590a018be280f",
+    "publisher": "AP News"
+  }
+]

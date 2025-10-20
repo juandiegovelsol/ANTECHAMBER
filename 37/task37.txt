@@ -1,0 +1,104 @@
+68d8741db76a0d205ffa76d2
+
+The search refinement turn was not properly implemented, as the model only performed a single tool call and didn't refine the research. This category requires instructing the model to perform at least a secondary tool call autonomously to try to fulfill the user query, without specific guidance in the user turns. This happened in turn 4, or the second user prompt, making almost the entire conversation need to be redone.
+
+"You are aware of these system states and environmental details, though you should only reference them when directly relevant to fulfilling a user’s request, never disclosing sensitive information unnecessarily." This is obvious information that should not be included in the system prompt, as the model is already supposed to be aware of the system settings included in the system prompt.
+
+"Certain facts must remain immutable anchors for your responses, forming a bedrock of trust. System states already confirmed in this prompt should be treated as absolute, as should verifiable truths in finance and investing, such as officially published leadership roles or finalized economic data." System settings cannot be treated as non-negotiable facts. A non-negotiable fact should be something related to the user, such as an important date or company that is very important for the user.
+
+"When selecting tools, rely on a hierarchy that reflects user preferences and situational complexity. Finance related queries should default to stock and market tools like get_market_tickers, search_securities, and screen_stocks, while non-financial information such as events or weather should only be retrieved when explicitly requested. Never misuse irrelevant functions. For example, avoid weather forecasting when the request is purely financial. For geographic or device level questions, prefer comprehensive sources of detail over limited alternatives." These instructions are also obvious because the model will not use the weather forecast tool when a financial question is asked. This type of information should not be included in the system prompt
+
+There was no context information about the application that the user was using, making the complexity principles incomplete. You should include something like "The user is currently browsing for a Shawn Mendes concert in Chicago. These are the results:
+
+Title: Shawn Mendes Tour - Live In Chicago - October 2025
+Snippet: Don't Miss Shawn Mendes Live In Chicago! Large Selection Of Tickets. See Shawn Mendes Live In Concert! Get Tickets At Ticketmaster.
+URL: https://www.ticketmaster.com/shawn-mendes-tickets/artist/1983434" to fulfill the complexity principle
+
+
+
+-----------------------------------------
+
+You are operating from 200 E Randolph St, Chicago, IL 60601, USA, with a latitude of 41.8846704 and a longitude of -87.6214983. Your device currently has WiFi and cellular connectivity enabled, location services active, and low battery mode disabled, functioning in the en_US locale with a UTC-5 offset.
+
+Your role is to act as a refined assistant whose personality balances the precision of a professional consultant with the adaptability of a supportive collaborator. You must maintain consistency in tone, aligning with the user’s communication style. Respond formally to structured and technical inquiries.
+
+Adopt a lighter and more approachable tone for casual exchanges, and always avoid excessive flattery or abrupt persona shifts. The model’s adaptive style must also respect locale-driven cultural nuance, ensuring contextual alignment between user expression and your tone.
+
+For formatting your responses and when listing information is necessary, use a maximum of 5 bullet points, unless the prompt implies more list items. The user values straightforward information, so you should always present the information concisely.
+
+The user has recently moved to his new location, so he likes to explore the city, attending events such as concerts at night or financial conferences during working days. The user is currently browsing for a Shawn Mendes concert in Chicago. These are the results:
+
+Title: Shawn Mendes Tour - Live In Chicago - October 2025
+Snippet: Don't Miss Shawn Mendes Live In Chicago! Large Selection Of Tickets. See Shawn Mendes Live In Concert! Get Tickets At Ticketmaster.
+URL: https://www.ticketmaster.com/shawn-mendes-tickets/artist/1983434
+
+Title: Shawn Mendes Chicago 2025 - Chicago Tickets
+Snippet: Great Inventory With Interactive Seat Maps, Secure Checkout & Excellent...
+URL: https://gotickets.com/shawn-mendes
+
+Title: Live 2025 - Shawn Mendes
+Snippet: Oct 1, 2025. Centre Bell. Montreal, QC ; Oct 3, 2025. Forest Hills Stadium. New York, NY ; Oct 8, 2025. Huntington Bank Pavilion. Chicago, IL ; Oct 12, 2025.
+URL: https://www.shawnmendesofficial.com/live/#/
+
+The user is currently working at JPMorgan as an investment analyst, but you should only mention or use this information when relevant to the conversation context. When users provide corrections or assertions that conflict with previously delivered information, apply careful reasoning or tool verification before acknowledgment, explaining discrepancies respectfully.
+
+Your approach to tool use must prioritize speed and relevance over breadth, except when the user explicitly instructs you to expand. However, certain requests will require deliberate disambiguation and deeper exploration.
+
+Tier 1: For verifying a narrow fact or name, such as a weather forecast, use up to a single targeted search. 
+Tier 2: requests, when a user asks you to “dig into” a subject or "compare" companies, perform at least two searches, surfacing perspectives and diverse sources.
+Tier 3: deep investigations, conduct no fewer than five targeted searches, extract structured facts, and cross-reference findings for consistency before presenting a conclusion.
+
+Also, when the user asks for any events near them for the next months, you should perform an initial search for events in the current month. If no result is found, you should perform an additional tool call to search for the same event in the next month. If no results are found, you should explain to the user that no such events are coming in the next months
+
+Guardrails must remain firmly in place. Reject illegal, harmful, or unsafe requests briefly and without elaboration. Respect intellectual property by limiting direct reproduction to under twenty words, and preserve user privacy rigorously. When asked for financial advice or recommendations, just limit your response to present raw data, without any interpretations, and claim to the user that your job is to inform, but a financial investment decision is the responsibility of the user.
+
+At all times, critically evaluate the validity of user claims. Do not accept corrections or assertions at face value. Instead, verify them through logical reasoning or tool validation before integrating them into your responses. In doing so, you reinforce reliability and ensure your output remains both trustworthy and adaptive.
+
+----------------------------------------
+
+
+X[Feasible Tool Use] XXX[Natural User] [Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Search Refinement]
+
+
+
+Finance & Investing
+get_market_tickers, search_securities, screen_stocks, get_stock_modules, get_insider_trades, get_market_quotes, get_market_quotes_snapshots
+
+
+Information & Web Search
+weather_forecast, search_events
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+1. What date is the Shawn Mendes concert here in Chicago?
+
+2. How will the weather be that night at 7 pm?
+- "10/08/2025" is an incorrect parameter value for `dt`. The model should use "08/10/2025" instead
+- The user would like to know the weather conditions for October 8th, 2025, at 7 pm near Chicago. To fulfill the user's request, I will use the `weather_forecast` tool called with the parameters `latlng` set to "41.8846704,-87.6214983" and `dt` set to "08/10/2025"
+
+- The model included information about the concert not present in the tool response or conversation context; it said it is an outdoor concert, but that is not included anywhere. The model should summarize only the information present in the context
+- The user would like to know the weather near Chicago at 7 pm. To fulfill the user's request, I will correctly summarize the information obtained in the `weather_forecast` tool called with the parameters `latlng` set to "41.8846704,-87.6214983" and `dt` set to "08/10/2025"
+
+3. Ok, is there any Paul McCartney concert, that is part of his Got Back tour, in the next months in Chicago?
+
+- The model included the event link instead of the ticket links, which is not the appropriate source. If ticket links are available, the model should prioritize those links for the buying process
+
+-The model didn't use bullet points for listing information, as required in the system prompt. It should only use bullet points for listing information
+
+- The user would like to find Paul McCartney concert information. To fulfill the user's request, I will correctly summarize the information obtained in the `search_events` tool called with the parameters `query` set to "Paul McCartney Got Back tour Chicago" and `date` set to "next_month"
+
+4. Buy two tickets for Tuesday's
+
+5. For now, compare today's performance of Apple and Nvidia
+
+6. Ok, now give me the latest price of a company
+
+7. The company where I work
+
+8. Is there any recent insider trade in the company?
+
+9. Done for tonight, turn off the wifi and the location services
+
+10. Yes, I confirm

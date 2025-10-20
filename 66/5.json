@@ -1,0 +1,701 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDY5OTM0MTE3MTgwOTE2MzQ4NzU=",
+    "name": "Corey Holcomb",
+    "link": "https://www.improvftl.com/shows/311320",
+    "description": "Going from hanging in the hood to performing comedy on Jay Leno’s “Tonight Show.” Corey’s comedy genius transcends class and racial divides. If you understand English, Corey’s humor will tickle...",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 7:00 – 8:30 PM",
+    "start_time": "2025-10-25 19:00:00",
+    "start_time_utc": "2025-10-25 19:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 20:30:00",
+    "end_time_utc": "2025-10-25 20:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQqWEi77h4tPDOX7snU23qtEz0Wu3vIk81UBTgL5Y73g&s=10",
+    "publisher": "Ft. Lauderdale Improv",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.improvftl.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.improvftl.com",
+    "ticket_links": [
+      {
+        "source": "Stubhub.com",
+        "link": "https://www.stubhub.com/corey-holcomb-dania-beach-tickets-10-25-2025/event/157830023/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stubhub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Seatgeek.com",
+        "link": "https://seatgeek.com/corey-holcomb-tickets/comedy/2025-10-25-7-pm/17536125?gclsrc=%7BGOOGLE-ADS-CLICK-SOURCE%7D&refob=mta&ref_price=87.37",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seatgeek.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Viagogo.com",
+        "link": "https://www.viagogo.com/_C-50254?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-99885%7Cev-157830023%7Ccy-57255&ps_ev=157830023",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://viagogo.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/corey-holcomb-tickets-dania-beach-dania-improv-comedy-theatre-10-25-2025--theater-comedy/production/5681810",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Miami International Airport Hotel",
+        "link": "https://www.miahotel.com/events/dania-beach/corey-holcomb-at-dania-improv-10439759",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://miahotel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Miahotel.com",
+        "link": "https://www.miahotel.com/events/dania-beach/corey-holcomb-at-dania-improv-10439759"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9ab57ff5c2137:0xccc35f99e92be3c6",
+      "name": "Fort Lauderdale Improv",
+      "phone_number": "+19549815653",
+      "website": "https://www.improvftl.com",
+      "review_count": 1493,
+      "rating": 4.4,
+      "subtype": "Comedy club",
+      "subtypes": ["Comedy club"],
+      "full_address": "Fort Lauderdale Improv, 177 N Pointe Dr, Dania Beach, FL 33004",
+      "latitude": 26.054538599999997,
+      "longitude": -80.1601553,
+      "district": null,
+      "street_number": "177",
+      "street": "177 N Pointe Dr",
+      "city": "Dania Beach",
+      "zipcode": "33004",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11qf_th24c"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDUzMDMwNjgzMjk0NzM4NjE0MTQ=",
+    "name": "Francisco Ramos",
+    "link": "https://www.improvftl.com/shows/326045",
+    "description": "Francisco Ramos has crafted a fan base by leaning into his warm & energetic style of comedy. He’s emerging as one of the up and coming comics of his generation. He can be seen in the recurring...",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 8:30 – 10:00 PM",
+    "start_time": "2025-10-26 20:30:00",
+    "start_time_utc": "2025-10-26 20:30:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 22:00:00",
+    "end_time_utc": "2025-10-26 22:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMjq9dKWrow6xMUbc_zKGHZjm_gO4ok14frBcgtAHRg&s=10",
+    "publisher": "Improvftl.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.improvftl.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.improvftl.com",
+    "ticket_links": [
+      {
+        "source": "Stubhub.com",
+        "link": "https://www.stubhub.com/francisco-ramos-dania-beach-tickets-10-26-2025/event/158960937/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stubhub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/francisco-ramos-tickets-dania-beach-fort-lauderdale-improv-10-26-2025--theater-comedy/production/5887682",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Viagogo.com",
+        "link": "https://www.viagogo.com/_C-80462?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-99885%7Cev-158960937%7Ccy-57255&ps_ev=158960937",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://viagogo.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Ft. Lauderdale Improv",
+        "link": "https://www.improvftl.com/shows/326045",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://improvftl.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Evvnt",
+        "link": "https://evvnt.com/events/?_evDiscoveryPath=/event/107112476n-francisco-ramos-ft-lauderdale-oct-26-eng-",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://evvnt.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Improvftl.com",
+        "link": "https://www.improvftl.com/shows/326045"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9ab57ff5c2137:0xccc35f99e92be3c6",
+      "name": "Fort Lauderdale Improv",
+      "phone_number": "+19549815653",
+      "website": "https://www.improvftl.com",
+      "review_count": 1493,
+      "rating": 4.4,
+      "subtype": "Comedy club",
+      "subtypes": ["Comedy club"],
+      "full_address": "Fort Lauderdale Improv, 177 N Pointe Dr, Dania Beach, FL 33004",
+      "latitude": 26.054538599999997,
+      "longitude": -80.1601553,
+      "district": null,
+      "street_number": "177",
+      "street": "177 N Pointe Dr",
+      "city": "Dania Beach",
+      "zipcode": "33004",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11qf_th24c"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDE2NDc3Njc1NDA2NDU5NDEyOTI1",
+    "name": "Pumpkins & Palm Trees",
+    "link": "https://discoverftlbeach.com/event/pumpkins-palm-trees-2/",
+    "description": "Celebrate fall on Fort Lauderdale Beach at the 5th Annual Pumpkins & Palm Trees Fall Festival! This free, family-friendly tradition blends autumn fun with a tropical backdrop — complete with […]",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 10 AM – 2 PM",
+    "start_time": "2025-10-25 10:00:00",
+    "start_time_utc": "2025-10-25 10:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 14:00:00",
+    "end_time_utc": "2025-10-25 14:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-0p_vmXMQUtRP_ASXeg38rYq2cnf6DMESMy07QfXUGPKqoCt0RhJypdEGA&s=10",
+    "publisher": "Discoverftlbeach.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://discoverftlbeach.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "discoverftlbeach.com",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/5th-annual-pumpkins-palm-trees-tickets-1646688863719",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/fort-lauderdale/5th-annual-pumpkins-and-palm-trees/100001646688863719",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Fort Lauderdale Beach",
+        "link": "https://discoverftlbeach.com/event/pumpkins-palm-trees-2/",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://discoverftlbeach.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "South Florida on the Cheap",
+        "link": "https://miamionthecheap.com/pumpkins-and-palm-trees-fall-fest-in-fort-lauderdale-free/",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://miamionthecheap.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "The Miami Moms",
+        "link": "https://themiamimoms.com/venue/las-olas-oceanside-park/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://themiamimoms.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Discoverftlbeach.com",
+        "link": "https://discoverftlbeach.com/event/pumpkins-palm-trees-2/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d901f4168d9d31:0x66749bcc7909070b",
+      "name": "Las Olas Oceanside Park",
+      "phone_number": "+19548287275",
+      "website": "https://www.parks.fortlauderdale.gov/Home/Components/FacilityDirectory/FacilityDirectory/232/1091",
+      "review_count": 489,
+      "rating": 4.7,
+      "subtype": "Park",
+      "subtypes": ["Park"],
+      "full_address": "Las Olas Oceanside Park, 3000 E Las Olas Blvd, Fort Lauderdale, FL 33316",
+      "latitude": 26.118726799999997,
+      "longitude": -80.1052285,
+      "district": "East Fort Lauderdale",
+      "street_number": "3000",
+      "street": "3000 E Las Olas Blvd",
+      "city": "Fort Lauderdale",
+      "zipcode": "33316",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11j4jtxx50"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDU1MjMyOTAwMDI3ODU1NTc2Mjk=",
+    "name": "Tequila Tasting Fort Lauderdale",
+    "link": "https://www.eventbrite.com/e/tequila-tasting-fort-lauderdale-tickets-1744027957569",
+    "description": "Join us for a night of tasting the finest tequilas in Fort Lauderdale!",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 1 – 4 PM",
+    "start_time": "2025-10-25 13:00:00",
+    "start_time_utc": "2025-10-25 13:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 16:00:00",
+    "end_time_utc": "2025-10-25 16:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJENL3-y0yp2ZK0ekksjxXJ0I5XB_cCD4KKfKaQFuv-A&s=10",
+    "publisher": "Eventbrite.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.eventbrite.com",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/tequila-tasting-fort-lauderdale-tickets-1744027957569",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/tequila-tasting-fort-lauderdale-tickets-1744027957569"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9018b9d06d8cd:0x13537c35050aed72",
+      "name": "The Salty Sombrero",
+      "phone_number": "+19544637209",
+      "website": "https://www.thesaltysombreroflb.com",
+      "review_count": 224,
+      "rating": 4.9,
+      "subtype": "Restaurant",
+      "subtypes": ["Restaurant"],
+      "full_address": "The Salty Sombrero, 201 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316",
+      "latitude": 26.1208287,
+      "longitude": -80.10477569999999,
+      "district": "East Fort Lauderdale",
+      "street_number": "201",
+      "street": "201 S Fort Lauderdale Beach Blvd",
+      "city": "Fort Lauderdale",
+      "zipcode": "33316",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11xvl6qb5y"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDEzOTEwNjYxMTY4OTE5MjUyOTc3",
+    "name": "SPOOKTACULAR 5K / 10K",
+    "link": "https://runsignup.com/Race/115009/PrivacyPolicy",
+    "description": "The SPOOKTACULAR 5K / 10K is on Sunday October 26, 2025. It includes the following events: Spooktacular 5K and Spooktacular 10K.",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 11:30 AM – 1:00 PM",
+    "start_time": "2025-10-26 11:30:00",
+    "start_time_utc": "2025-10-26 11:30:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 13:00:00",
+    "end_time_utc": "2025-10-26 13:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEELiE74iCa_YqWCa8uYdGVsLEDJuzZp_Vu0aELqBFPdtWrhLKosW6nusMg&s=10",
+    "publisher": "RunSignup",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://runsignup.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "runsignup.com",
+    "ticket_links": [
+      {
+        "source": "Runsignup.com",
+        "link": "https://runsignup.com/Race/FL/PompanoBeach/Spooktacular5K10K?aflt_token=lsDDTCWcazIepazYI0FCz9dbRxkCWAcY",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://runsignup.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Finishers",
+        "link": "https://www.finishers.com/en/event/spooktacular-5k-and-10k-pompano-beach",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finishers.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "The Palm Beach Post",
+        "link": "https://www.palmbeachpost.com/things-to-do/events/?_evDiscoveryPath=/event/115009r-spooktacular-5k-10k",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://palmbeachpost.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Evvnt",
+        "link": "https://evvnt.com/events/?_evDiscoveryPath=/event/115009r-spooktacular-5k-10k",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://evvnt.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Florida Catholic",
+        "link": "https://www.thefloridacatholic.org/local-events/?_evDiscoveryPath=/event/115009r-spooktacular-5k-10k",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thefloridacatholic.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Runsignup.com",
+        "link": "https://runsignup.com/Race/115009/RefundPolicy"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d902a17a6f5b0d:0x58c263fc3905a22f",
+      "name": "1103 N Federal Hwy",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "1103 N Federal Hwy, Pompano Beach, FL 33060",
+      "latitude": 26.245774599999997,
+      "longitude": -80.1031605,
+      "district": null,
+      "street": null,
+      "city": null,
+      "zipcode": null,
+      "state": null,
+      "country": null,
+      "timezone": "America/New_York",
+      "google_mid": "/g/11b8z1hp80"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDEzMzUyNzcyNDgyNzk3NjI2OTUx",
+    "name": "Earth Wind and Fire Tribute",
+    "link": "https://www.viagogo.com/au/Theatre-Tickets/Shows-and-Awards/Tribute-to-Earth-Wind-Fire-Tickets/E-158568979",
+    "description": "Ticket listings for Earth Wind and Fire Tribute at The Grill at Dania Beach Casino in Dania Beach, FL on 25/10/2025",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 8:00 – 9:30 PM",
+    "start_time": "2025-10-25 20:00:00",
+    "start_time_utc": "2025-10-25 20:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 21:30:00",
+    "end_time_utc": "2025-10-25 21:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIXnXp1oQ6awOiJl5S8YuNrj2B_joR-QyxDe7ven8cg&s=10",
+    "publisher": "Viagogo",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.viagogo.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.viagogo.com",
+    "ticket_links": [
+      {
+        "source": "Premiumseatsusa.com",
+        "link": "https://www.premiumseatsusa.com/concerts/other/earth-wind-and-fire-tribute-band/7101006",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://premiumseatsusa.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Consequence.net",
+        "link": "https://concerts.consequence.net/earth-wind-fire-tribute-at-stage-954-on-2025-10-25-20-00",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://consequence.net&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/earth-wind-and-fire-tribute-tickets-dania-beach-the-casino-at-dania-beach-stage-954-10-25-2025--concerts-rb/production/5793724",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Expedia",
+        "link": "https://www.expedia.com/event-tickets/earth-wind-and-fire-tribute-band-tickets.p",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://expedia.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "IslanderNews.com",
+        "link": "http://www.islandernews.com/local-events/?_evDiscoveryPath=/event%2F1011013s-earth-wind-and-fire-tribute-18-event-",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=http://islandernews.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Expedia.com",
+        "link": "https://www.expedia.com/event-tickets/earth-wind-and-fire-tribute-band-tickets.p"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9aaf3f63f7e63:0x45de4a63ea418c0f",
+      "name": "Casino @ Dania Beach",
+      "phone_number": "+19549201511",
+      "website": "https://www.casinodaniabeach.com",
+      "review_count": 4794,
+      "rating": 4.1,
+      "subtype": "Casino",
+      "subtypes": ["Casino"],
+      "full_address": "Casino @ Dania Beach, 301 E Dania Beach Blvd, Dania Beach, FL 33004",
+      "latitude": 26.0532893,
+      "longitude": -80.1370951,
+      "district": null,
+      "street_number": "301",
+      "street": "301 E Dania Beach Blvd",
+      "city": "Dania Beach",
+      "zipcode": "33004",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/1262c8xl1"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDI1MjQ5Mjc0NzIwMTE4OTgxMDg=",
+    "name": "Horse & Hound Costume Event 2025",
+    "link": "https://www.pompanobeachfl.gov/events/horse-hound-costume-event",
+    "description": "Saddle up for a spooktacular time at the Horse & Hound Costume Contest hosted by the Sand & Spurs Stables Committee! Come dressed to impress with your furry friend, big or small, by your side. 4-5...",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 4 – 8 PM",
+    "start_time": "2025-10-26 16:00:00",
+    "start_time_utc": "2025-10-26 16:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 20:00:00",
+    "end_time_utc": "2025-10-26 20:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUgisniAX-Ply5l2AVs8SjdM81wPbfR01C9G0jiurv7g&s=10",
+    "publisher": "Pompanobeachfl.gov",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pompanobeachfl.gov&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.pompanobeachfl.gov",
+    "ticket_links": [
+      {
+        "source": "Pompano Beach",
+        "link": "https://www.pompanobeachfl.gov/events/horse-hound-costume-event",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pompanobeachfl.gov&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "South Florida Family Life",
+        "link": "https://southfloridafamilylife.com/events/horse-hound-costume-event-2025/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://southfloridafamilylife.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Florida Today",
+        "link": "https://www.floridatoday.com/things-to-do/events/?_evDiscoveryPath=/event/115192v-horse-hound-costume-event-2025",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://floridatoday.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Evvnt",
+        "link": "https://evvnt.com/events/?_evDiscoveryPath=/event/115192v-horse-hound-costume-event-2025",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://evvnt.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Go! Latino Magazine",
+        "link": "https://golatinos.net/events/?_evDiscoveryPath=/event/115192v-horse-hound-costume-event-2025",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://golatinos.net&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Pompanobeachfl.gov",
+        "link": "https://www.pompanobeachfl.gov/events/horse-hound-costume-event"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9033f7c5cc4b1:0xab96980fdab94dd4",
+      "name": "Pompano Beach Sand and Spurs Equestrian Park",
+      "phone_number": "+19547864507",
+      "website": "https://parks.pompanobeachfl.gov/parks-beach-and-pier/sand-and-spurs-equestrian-park",
+      "review_count": 35,
+      "rating": 4.8,
+      "subtype": "Outdoor equestrian facility",
+      "subtypes": ["Outdoor equestrian facility"],
+      "full_address": "Pompano Beach Sand and Spurs Equestrian Park, 1600 NE 5th Ave, Pompano Beach, FL 33060",
+      "latitude": 26.2508831,
+      "longitude": -80.1194763,
+      "district": null,
+      "street_number": "1600",
+      "street": "1600 NE 5th Ave",
+      "city": "Pompano Beach",
+      "zipcode": "33060",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11fcq_b0gv"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDQzMzM0NDQ1NDE4NjAyNTgwOTQ=",
+    "name": "Fort Lauderdale Halloween Bar Crawl",
+    "link": "https://www.visitlauderdale.com/event/halloween-bar-crawls-2025-ft-lauderdale-fl/44573/",
+    "description": "Dress up. Link up. Drink up. Join us for the 5th Annual Ghouls Gone Wild, Fort Lauderdale’s premier Halloween bar crawl experience. This is not your average crawl - this is a crazy night of...",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 6 – 11 PM",
+    "start_time": "2025-10-25 18:00:00",
+    "start_time_utc": "2025-10-25 18:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 23:00:00",
+    "end_time_utc": "2025-10-25 23:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuikGWRz-kDOl1j-okMGKmoYjxT9tIxLjDLb3w4i7MZA&s",
+    "publisher": "Visitlauderdale.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.visitlauderdale.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.visitlauderdale.com",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/halloween-bar-crawl-1025-fort-lauderdale-tickets-1538308384789",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Fort Lauderdale",
+        "link": "https://www.visitlauderdale.com/event/halloween-bar-crawls-2025-ft-lauderdale-fl/44573/",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://visitlauderdale.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Florida Today",
+        "link": "https://www.floridatoday.com/things-to-do/events/?_evDiscoveryPath=/event/114762v-halloween-bar-crawls-2025-ft-lauderdale-fl",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://floridatoday.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vivenu",
+        "link": "https://vivenu.com/event/downtown-crawlers-template-event-0tmrpn",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vivenu.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "South Florida Business & Wealth",
+        "link": "https://sfbwmag.com/events/halloween-bar-crawls-2025-ft-lauderdale-fl/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://sfbwmag.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Visitlauderdale.com",
+        "link": "https://www.visitlauderdale.com/event/halloween-bar-crawls-2025-ft-lauderdale-fl/44573/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d900f920335a15:0x8f69ddbf71428d14",
+      "name": "Booze Garden",
+      "phone_number": "+17548001441",
+      "website": null,
+      "review_count": 600,
+      "rating": 4.3,
+      "subtype": "Bar",
+      "subtypes": ["Bar", "Beer garden", "Lounge", "Video arcade"],
+      "full_address": "Booze Garden, 111-A SW 2nd Ave, Fort Lauderdale, FL 33301",
+      "latitude": 26.121150399999998,
+      "longitude": -80.1458634,
+      "district": "South Fort Lauderdale",
+      "street_number": "111",
+      "street": "111-A SW 2nd Ave",
+      "city": "Fort Lauderdale",
+      "zipcode": "33301",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11fxvy20_0"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDg2Njk2OTU5MTY0MjIyMTU1Njg=",
+    "name": "Breakfast with Santa at Riva",
+    "link": "https://fortlauderdalemagazine.com/events/category/holiday/day/2025-10-26/",
+    "description": "Celebrating the magic of the season, Fort Lauderdale Marriott Harbor Beach Resort invites families to create lasting memories while delighting in festive flavors and special moments with Santa...",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 8 AM – 12 PM EDT",
+    "start_time": "2025-10-26 08:00:00",
+    "start_time_utc": "2025-10-26 12:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 12:00:00",
+    "end_time_utc": "2025-10-26 16:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pszH-EmnENG85wl05CB5geQYekajPGeWsq-oklqK-9xsa1OrPmx4zsCVrA&s=10",
+    "publisher": "Fortlauderdalemagazine.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortlauderdalemagazine.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "fortlauderdalemagazine.com",
+    "ticket_links": [
+      {
+        "source": "Fort Lauderdale Magazine",
+        "link": "https://fortlauderdalemagazine.com/events/category/holiday/day/2025-10-26/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fortlauderdalemagazine.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Fortlauderdalemagazine.com",
+        "link": "https://fortlauderdalemagazine.com/events/category/holiday/day/2025-10-26/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d90023ba8af91b:0x15f59548feba5dd9",
+      "name": "Fort Lauderdale Marriott Harbor Beach Resort & Spa",
+      "phone_number": "+19545254000",
+      "website": "https://www.marriott.com/en-us/hotels/fllsb-fort-lauderdale-marriott-harbor-beach-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "review_count": 4814,
+      "rating": 4.4,
+      "subtype": "Hotel",
+      "subtypes": ["Hotel", "Meeting planning service", "Wedding venue"],
+      "full_address": "Fort Lauderdale Marriott Harbor Beach Resort & Spa, 3030 Holiday Dr, Fort Lauderdale, FL 33316",
+      "latitude": 26.1068736,
+      "longitude": -80.1057792,
+      "district": "East Fort Lauderdale",
+      "street_number": "3030",
+      "street": "3030 Holiday Dr",
+      "city": "Fort Lauderdale",
+      "zipcode": "33316",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/1tdg3_v8"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDI4MTI0NjgxMzQ0NzgzMDY5NDk=",
+    "name": "Natalia Lafourcade: Cancionera Tour",
+    "link": "https://evvnt.com/events/?_evDiscoveryPath=/event/106659377n-natalia-lafourcade",
+    "description": "Natalia Lafourcade (born Natalia Lafourcade Silva on 26 February 1984 in Mexico City, Mexico) is a Mexican pop singer and songwriter. In 2005 she released Casa, her second CD, but this time as...",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 8 – 11 PM",
+    "start_time": "2025-10-25 20:00:00",
+    "start_time_utc": "2025-10-25 20:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 23:00:00",
+    "end_time_utc": "2025-10-25 23:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBEPGs0nvIao-NKkp6AWzd4MMmcJWTiQ3v__soSlDzA&s=10",
+    "publisher": "Evvnt",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://evvnt.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "evvnt.com",
+    "ticket_links": [
+      {
+        "source": "Axs.com",
+        "link": "https://www.axs.com/au/events/924314/natalia-lafourcade-tickets",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://axs.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Nightout.com",
+        "link": "https://nightout.com/events/a/natalia-lafourcade-ziff-ballet-opera-house-at-adrienne-arsht-pac-miami-sat-oct-25-2025?utm_source=google&utm_medium=event-listing",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://nightout.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Consequence.net",
+        "link": "https://concerts.consequence.net/natalia-lafourcade-at-knight-concert-hall-at-adrienne-arsht-center-for-the-performing-arts-complex-on-2025-10-25-20-00",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://consequence.net&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Arshtcenter.org",
+        "link": "https://www.arshtcenter.org/tickets/2025-2026/live-at-knight/natalia-lafourcade/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arshtcenter.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Miami International Airport Hotel",
+        "link": "https://www.miahotel.com/events/miami-beach/natalia-lafourcade-10457875",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://miahotel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Miahotel.com",
+        "link": "https://www.miahotel.com/events/miami-beach/natalia-lafourcade-10457875"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9b6a716408603:0xdde78e16fb3d879d",
+      "name": "Adrienne Arsht Center for the Performing Arts of Miami-Dade County",
+      "phone_number": "+13059496722",
+      "website": "http://www.arshtcenter.org",
+      "review_count": 4318,
+      "rating": 4.7,
+      "subtype": "Performing arts theater",
+      "subtypes": ["Performing arts theater", "Farmers' market"],
+      "full_address": "Adrienne Arsht Center for the Performing Arts of Miami-Dade County, 1300 Biscayne Blvd, Miami, FL 33132",
+      "latitude": 25.7876284,
+      "longitude": -80.1899025,
+      "district": "Downtown Miami",
+      "street_number": "1300",
+      "street": "1300 Biscayne Blvd",
+      "city": "Miami",
+      "zipcode": "33132",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/m/025z4z2"
+    }
+  }
+]

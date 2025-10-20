@@ -1,0 +1,238 @@
+[
+  {
+    "timestamp": "1759911837000",
+    "title": "The CDC’s most recent updates on COVID-19 vaccinations",
+    "snippet": "The most recent recommendations from the CDC on COVID-19 vaccines call for “vaccination based on shared clinical decision-making.”",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXBWRVpDTkRFeVNYRnlOQzAxVFJERUF4aW1CU2dLTWdPQk1Rdw=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNXBWRVpDTkRFeVNYRnlOQzAxVFJERUF4aW1CU2dLTWdPQk1Rdw"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759786425000",
+        "title": "CDC signs off on RFK Jr. vaccine recommendations",
+        "snippet": "The new schedule drops a broad recommendation that Americans age 65 and older get a COVID-19. vaccine.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVObUV4ZG1Zd2RHcEpVWGx6VFJDZkF4ampCU2dLTWdhQmdJN3d0QVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDVObUV4ZG1Zd2RHcEpVWGx6VFJDZkF4ampCU2dLTWdhQmdJN3d0QVU"
+        },
+        "newsUrl": "https://www.axios.com/2025/10/06/cdc-rfk-jr-vaccine-recommendations-schedule",
+        "publisher": "Axios"
+      },
+      {
+        "timestamp": "1759761335000",
+        "title": "CDC signs off on fall Covid shots. It may not be easy to get one, depending on where you live.",
+        "snippet": "The Centers for Disease Control and Prevention updated its Covid vaccine guidance Monday to recommend Covid shots for people 65 and older and only after...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXdlalpyWlZob1RGaHVUV3RtVFJERUF4aW1CU2dLTWdZbEFveFFnUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXdlalpyWlZob1RGaHVUV3RtVFJERUF4aW1CU2dLTWdZbEFveFFnUWc"
+        },
+        "newsUrl": "https://www.nbcnews.com/health/health-news/cdc-signs-fall-covid-shots-may-not-easy-get-one-depending-live-rcna233418",
+        "publisher": "NBC News"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://wtop.com/local/2025/10/getting-covid-19-shots-what-recent-cdc-updates/",
+    "publisher": "WTOP"
+  },
+  {
+    "timestamp": "1759933227000",
+    "title": "Worried about splitting up the MMR vaccine into three separate shots? You should be, this doctor says",
+    "snippet": "While President Donald Trump is pushing to split the MMR vaccine into three shots, experts say there's no scientific reason for it, and it could lead to...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVNRVmR0YkZKTGF5MTNUVXRPVFJDX0F4aXVCU2dLTWdPQkF3bw=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNVNRVmR0YkZKTGF5MTNUVXRPVFJDX0F4aXVCU2dLTWdPQkF3bw"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759789235000",
+        "title": "Acting CDC director calls to 'break up' the measles, mumps and rubella vaccine into three shots",
+        "snippet": "Acting CDC Director Jim O'Neill called on vaccine manufacturers to develop separate shots for measles, mumps and rubella instead of the current combination...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJaVUpITW5NM05HUXlRVmh2VFJERUF4aW1CU2dLTWdhcE5ZN09tUWc=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDJaVUpITW5NM05HUXlRVmh2VFJERUF4aW1CU2dLTWdhcE5ZN09tUWc"
+        },
+        "newsUrl": "https://www.nbcnews.com/health/health-news/separate-measles-mumps-rubella-vaccine-acting-cdc-director-rcna235971",
+        "publisher": "NBC News"
+      },
+      {
+        "timestamp": "1759860040000",
+        "title": "Experts Pan Call to Break Up the Measles, Mumps, and Rubella Vaccine",
+        "snippet": "The temporary CDC head's call to split apart the measles, mumps, and rubella (MMR) vaccine into three separate shots drew swift rebukes from pediatric and...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNhbFZ0T0haSFRVUnFjekpqVFJDZkF4ampCU2dLTWdZcFZZYXVyUVU=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDNhbFZ0T0haSFRVUnFjekpqVFJDZkF4ampCU2dLTWdZcFZZYXVyUVU"
+        },
+        "newsUrl": "https://www.medpagetoday.com/pediatrics/vaccines/117835",
+        "publisher": "MedPage Today"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.cnn.com/2025/10/08/health/mmr-vaccine-split-wellness",
+    "publisher": "CNN"
+  },
+  {
+    "timestamp": "1759952150000",
+    "title": "State reports season's first flu death out of western North Carolina",
+    "snippet": "The North Carolina Department of Health and Human Services (NCDHHS) has reported the state's first flu-related death of the season.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5jWGsxYWswNVUxaHVPR0pFVFJDZkF4ampCU2dLTWdZaEZJeXZrUXM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU5jWGsxYWswNVUxaHVPR0pFVFJDZkF4ampCU2dLTWdZaEZJeXZrUXM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759955446000",
+        "title": "NCDHHS reports first flu-related death of 2025-2026 season in western NC",
+        "snippet": "On Oct. 8, the North Carolina Department of Health and Human Services announced the first flu-related death of the 2025-2026 flu season, an adult in WNC.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUxha2hMTlRGSFUzaG9XakpWVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUxha2hMTlRGSFUzaG9XakpWVFJDZkF4amlCU2dLTWdB"
+        },
+        "newsUrl": "https://wlos.com/news/local/first-flu-related-death-ncdhhs-adult-reports-2025-2026-season-western-nc-north-carolina-wnc-virus-illness-department-health-human-services-covid-19-rsv",
+        "publisher": "WLOS"
+      },
+      {
+        "timestamp": "1759958400000",
+        "title": "North Carolina reports first flu death of the season",
+        "snippet": "Health officials in North Carolina have confirmed the first flu-related death of the season, urging residents to get vaccinated and take precautions.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDFVamQzWmtONVZFMHhTVXh2VFJDZkF4amlCU2dLTWdtZEVwU0xsYXBVNndF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNDFVamQzWmtONVZFMHhTVXh2VFJDZkF4amlCU2dLTWdtZEVwU0xsYXBVNndF"
+        },
+        "newsUrl": "https://www.wyff4.com/article/flu-season-first-death-north-carolina-2025/68924120",
+        "publisher": "WYFF News 4"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.wral.com/lifestyle/health/flu-deaths-north-carolina-october-2025/",
+    "publisher": "WRAL.com"
+  },
+  {
+    "timestamp": "1759863606000",
+    "title": "Fatty liver disease risk linked to both sugary and diet drinks",
+    "snippet": "Researchers released a study suggesting both sugary drinks and diet sodas are associated with a higher risk of consumers developing fatty liver disease.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBSWEpIWjNGWmNsQjVOM0Y2VFJERUF4aW1CU2dLTWdZTkFKUjBFQWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTBSWEpIWjNGWmNsQjVOM0Y2VFJERUF4aW1CU2dLTWdZTkFKUjBFQWc"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759927066000",
+        "title": "Sorry soda lovers, less than 1 can a day could cause this health problem, new study says",
+        "snippet": "As little as 9 oz of a sugary drink per day, like soda or diet coke, can increase your risk of this health condition. A standard can is 12 oz.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXFjRkZtVVhRM2FIbEdTMGRhVFJEekFoaVVCU2dLTWdtQkFvNFF2U1c1Y1FF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNXFjRkZtVVhRM2FIbEdTMGRhVFJEekFoaVVCU2dLTWdtQkFvNFF2U1c1Y1FF"
+        },
+        "newsUrl": "https://www.usatoday.com/story/life/health-wellness/2025/10/08/soda-diet-liver-disease-study-research/86579096007/",
+        "publisher": "USA Today"
+      },
+      {
+        "timestamp": "1759788111000",
+        "title": "Diet and sugary drinks raise risk of common liver disease by up to 60%, new research finds",
+        "snippet": "Drinking diet and sugary beverages may raise the risk of nonalcoholic fatty liver disease by up to 60%, according to new research.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNHpaRTVZY21oVVVXRTNUREJJVFJERUF4aW5CU2dLTWd1TkFvb3NEZVE4b0l2TndB=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iMkNnNHpaRTVZY21oVVVXRTNUREJJVFJERUF4aW5CU2dLTWd1TkFvb3NEZVE4b0l2TndB"
+        },
+        "newsUrl": "https://www.cnn.com/2025/10/06/health/diet-sugary-soda-fatty-liver-cancer-wellness",
+        "publisher": "CNN"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.upi.com/Health_News/2025/10/07/diet-soda-sugary-drinks-fatty-liver-disease/6641759844090/",
+    "publisher": "upi.com"
+  },
+  {
+    "timestamp": "1759837263000",
+    "title": "Babies take a lesson from soldiers in the war against malaria",
+    "snippet": "Inspired by a military strategy to ward off disease-carrying mosquitoes, researchers see if the technique will help cut malaria infections in little ones.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9jVkpuVEUxMmVGQkRaV2RZVFJERUF4aW1CU2dLTWdhOUU0b3lsUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNU9jVkpuVEUxMmVGQkRaV2RZVFJERUF4aW1CU2dLTWdhOUU0b3lsUWs"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.npr.org/sections/goats-and-soda/2025/10/07/g-s1-91950/malaria-babies-bed-net-baby-carrier",
+    "publisher": "NPR"
+  },
+  {
+    "timestamp": "1759949325000",
+    "title": "Lesser-Known Breast Cancer Surging in US, Report Warns",
+    "snippet": "A lesser-known type of breast cancer is on the rise among women in the U.S.—highlighting the need for us to pay closer attention to it.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTBMVlZtZVdOME5IaENUMjFTVFJERUF4aW5CU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNTBMVlZtZVdOME5IaENUMjFTVFJERUF4aW5CU2dLTWdB"
+    },
+    "subnews": [
+      {
+        "timestamp": "1759936529000",
+        "title": "Researchers warn of rare, dangerous type of breast cancer on the rise",
+        "snippet": "Lobular breast cancer rates are rising three times as fast as all other breast cancers combined, 2.8% per year versus .8% per year, researchers reported.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNU5aRFp1UkhCQk5XSkphSEpaVFJERkF4aWxCU2dLTWdNUm9Rbw=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNU5aRFp1UkhCQk5XSkphSEpaVFJERkF4aWxCU2dLTWdNUm9Rbw"
+        },
+        "newsUrl": "https://www.upi.com/Health_News/2025/10/08/lobular-breast-cancer-on-the-rise-study/2671759931958/",
+        "publisher": "upi.com"
+      },
+      {
+        "timestamp": "1759951538000",
+        "title": "Lobular Breast Cancer Statistics 2025 – American Cancer Society Journals",
+        "snippet": "American Cancer Society Journals shared a post on LinkedIn about a recent article by Angela N. Giaquinto et al., adding:.",
+        "newsUrl": "https://oncodaily.com/voices/american-cancer-society-journals-387231",
+        "publisher": "Oncodaily"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.newsweek.com/lesser-known-breast-cancer-surging-in-us-report-warns-10847301",
+    "publisher": "Newsweek"
+  },
+  {
+    "timestamp": "1759923051000",
+    "title": "Low-income families are still waiting on Covid-19 vaccines for kids, but states say they’re coming",
+    "snippet": "Many low-income families who normally get no-cost Covid-19 vaccines for their kids through the Vaccines for Children program have been told those shots...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iNkNnNHhlV2d4VVd3M1YySm1SMUZVVFJERUF4aW1CU2dLTWc0TkFvUm9TV005Q0VvdTJENEZIUQ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iNkNnNHhlV2d4VVd3M1YySm1SMUZVVFJERUF4aW1CU2dLTWc0TkFvUm9TV005Q0VvdTJENEZIUQ"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.cnn.com/2025/10/08/health/covid-vaccines-for-children-delay",
+    "publisher": "CNN"
+  },
+  {
+    "timestamp": "1759947751000",
+    "title": "New gene linked to Alzheimer's disease is discovered... putting more Americans at high risk of the condition",
+    "snippet": "Researchers have identified a gene that they reported was linked to a 1.5 times-higher likelihood of suffering from Alzheimer's disease. Advertisement.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUNRMGw1V2xocFdIQkpkbkpYVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iI0NnNUNRMGw1V2xocFdIQkpkbkpYVFJDZkF4ampCU2dLTWdB"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.dailymail.co.uk/health/article-15173753/gene-linked-Alzheimers-disease-discovered-Americans-high-risk.html",
+    "publisher": "Daily Mail"
+  },
+  {
+    "timestamp": "1759863235000",
+    "title": "Locally transmitted US malaria cases highlight increased risk, CDC report suggests",
+    "snippet": "A new paper describes the first locally acquired cases of mosquito-transmitted malaria in the United States in 20 years. The paper, published yesterday in...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhWVGxaVDJOQ1MySnZlV1Z6VFJEVEF4aVFCU2dLTWdhbFk1aFBLUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNWhWVGxaVDJOQ1MySnZlV1Z6VFJEVEF4aVFCU2dLTWdhbFk1aFBLUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.cidrap.umn.edu/malaria/locally-transmitted-us-malaria-cases-highlight-increased-risk-cdc-report-suggests",
+    "publisher": "CIDRAP"
+  },
+  {
+    "timestamp": "1759867860000",
+    "title": "Women carry a higher genetic risk of depression, new study says",
+    "snippet": "Researchers in Australia find 16 genetic variants linked to depression in women but only eight in men.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWFSMkp1VXpkaVVESXhhbloxVFJEMEFoalJBeWdLTWdNUlFnbw=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNWFSMkp1VXpkaVVESXhhbloxVFJEMEFoalJBeWdLTWdNUlFnbw"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.theguardian.com/science/2025/oct/07/women-carry-a-higher-genetic-risk-of-depression-new-study-says",
+    "publisher": "The Guardian"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-10-01",
+    "timestamp_unix": 1759291200,
+    "open": 15.08,
+    "high": 15.37,
+    "low": 14.25,
+    "close": 14.59,
+    "volume": 31962200
+  },
+  {
+    "timestamp": "2025-10-02",
+    "timestamp_unix": 1759377600,
+    "open": 14.9557,
+    "high": 15.38,
+    "low": 14.435,
+    "close": 15.14,
+    "volume": 30563900
+  },
+  {
+    "timestamp": "2025-10-03",
+    "timestamp_unix": 1759464000,
+    "open": 15.61,
+    "high": 16.545,
+    "low": 15.43,
+    "close": 15.94,
+    "volume": 39651900
+  },
+  {
+    "timestamp": "2025-10-06",
+    "timestamp_unix": 1759723200,
+    "open": 16.915,
+    "high": 17.02,
+    "low": 16.23,
+    "close": 16.86,
+    "volume": 18901869
+  }
+]

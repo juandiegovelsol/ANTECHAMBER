@@ -1,0 +1,60 @@
+{
+  "business_id": "3MVwBQjwWklIpA5gNdsExQ",
+  "status": "success",
+  "status_code": 200,
+  "data": {
+    "popular_dishes": [
+      {
+        "identifier": "new-england-clam-chowder",
+        "review_count": 4,
+        "photo_count": 1,
+        "display_name": "New England Clam Chowder",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/zRy7ja8FciwdQd-YM6yegA/o.jpg",
+        "description": null,
+        "price": "Price varies",
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "italian-seafood-pasta",
+        "review_count": 3,
+        "photo_count": 2,
+        "display_name": "Italian Seafood Pasta",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/VCRdpzCN8BKuWCX4_-zQMw/o.jpg",
+        "description": "A combination of fresh seafoods: squid, mussels, clams, and shrimp. Tossed with a fresh tomato sauce served over capellini pasta.",
+        "price": "$28.00",
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "lump-crab-cakes",
+        "review_count": 2,
+        "photo_count": 1,
+        "display_name": "Lump Crab Cakes",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Js4OVUVGwHN6x3pPt6hu3Q/o.jpg",
+        "description": "Served with classic tartar sauce.",
+        "price": "$16.00",
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "fish-and-chips",
+        "review_count": 1,
+        "photo_count": 1,
+        "display_name": "Fish & Chips",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/xvyPncbPb9FaTWYPDq_15A/o.jpg",
+        "description": "Battered to order and fried to a golden brown.",
+        "price": "Price varies",
+        "grubhub_menu_item_id": null
+      },
+      {
+        "identifier": "mahi-mahi-or-shrimp-tacos",
+        "review_count": 1,
+        "photo_count": 1,
+        "display_name": "Mahi Mahi or Shrimp Tacos",
+        "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/YRa1muSZ0WSs5uByypLQuQ/o.jpg",
+        "description": "Blackened, grilled, or fried. Garnished with lettuce, tomato, red onion, Sriracha mayo, and lime crema.",
+        "price": "Price varies",
+        "grubhub_menu_item_id": null
+      }
+    ],
+    "type": "menu"
+  }
+}

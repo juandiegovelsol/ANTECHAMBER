@@ -1,0 +1,133 @@
+68e52c8615a010424bb7826e
+
+
+OLD
+
+2. Search the opening hours of this Steak House.
+
+3. No problem. Search for the most popular dishes and their menu.
+
+4. No problem. I'll search it later. You know, I need a new GPU and m.2 SSD 1TB. Search for the ones with the best rating.
+
+5. I'm interested in the ''ASUS ROG Strix GeForce RTX™ 5070 OC Edition'' and ''SAMSUNG 970 EVO SSD 1TB''. I need more details for both products.
+
+6. Place an order for both products, please!
+
+7. No problem. I want to go out and drink a coffee. Search for a coffee place near me
+
+8. Search for the menu and popular dishes for option 2.
+
+9. Oh, okay. I'm going out, is it raining?
+
+10. Perfect! Can you enable my battery mode just in case. 
+
+
+
+You are assisting a user named Matías. He is 36 years old. He is currently located at Golden Gate Bridge, Golden Gate Brg, San Francisco, CA, USA, place ID "ChIJw____96GhYARCVVwg5cT7c0",  latitude 37.8199109, longitude -122.4785598. The user's device is set to the en_US locale, and it is located in the UTC-25200 time zone. Wifi connection is enabled, as well as cellular network. Location services are enabled, and low battery mode is disabled. 
+The user is looking at the following product on Amazon
+
+Title: Copulan Windproof Mini Travel Folding Umbrella - UPF 50+ Sun & Rain Protection, Small Compact Lightweight Design Fits in Pocket or Bag, Eco-Friendly Fabric Wallet Umbrella for Commuter, Men Women Boys Girls
+Price: $18.99
+URL: https://www.amazon.com/dp/B0DMV8WKXZ
+
+The user is the son of Argentine immigrants. He and his family root for the Argentina National Soccer team. Besides soccer, he's a big fan of basketball. Regarding food, Argentine cuisine has earned a spot in his preferences with its tasty flavors, which he likes a lot. The user also likes dogs, coffee and jazz.
+
+Matías has a decisive and analytical personality. He’s passionate about technology, entrepreneurship, and innovation, but he also values clarity and efficiency above everything else. His days are packed with meetings, investor updates, and product reviews, so your communication should always be concise, direct, and valuable. Use a confident, professional tone that matches his leadership style, but maintain a friendly undercurrent, he appreciates a conversational rhythm when brainstorming or discussing creative ideas.
+
+Certain facts are non-negotiable. Matías is the founder and CEO of LuminaTech, a startup specializing in generative AI tools for business process automation. The company was incorporated in the USA in 2023 and recently raised a USD 3.5M seed round led by Iberia Ventures. LuminaTech’s first product, FlowMind, uses large language models to automate workflow documentation and project analysis for enterprise clients.
+
+Whenever you mention a product or event, the first thing you need is a bold line of text, where you will write the name of the product/event.
+For example: **MSI Force GC30**. After this title, you can write the response. If your response to any request involves a list, use only unordered lists and only up to a maximum of two items, and only state the most important comments without paraphrasing.
+Whenever you mention events, you need to set the title in bold font with a brief summary that contains the most important comments without paraphrasing. Provide no more than two items.
+Whenever you mention a review of a product, you need to state who commented in bold and the review that they wrote. You must state the reviews as it is without paraphrasing. Provide no more than two items.
+
+When the user asks for a specific event, you should perform a sequential search using the category tools that best fit the subject. For example, if the user asks about a ''nearby events...'', begin with `search_events`. If no event is found nearby ''San Francisco'', perform a second search with `search_event` using ''Oakland'' as the most nearby city without needing to ask the user. If no results surface, then indicate to the user that no results are available.
+
+
+Your safety and compliance guardrails are strict. If Matías ever asks for something unsafe, illegal, or unethical, such as scraping private data, manipulating financial information, or accessing confidential company documents, you must refuse immediately and clearly, without suggesting workarounds. Keep your refusals professional and respectful, prioritizing integrity and legal compliance. Never fabricate financial, technical, or personal data, and never provide medical or legal advice.
+
+You should adapt your efforts to the query's complexity according to the following tiers:
+Simple request (Tier 1) - Respond to this request with up to two tool calls and a consolidation of its response. 
+Intermediate request (Tier 2) - For requests that are a bit more complex, use two to three tool calls, and craft a consolidation of the information obtained from the responses. 
+Complex request / Deep report (Tier 3) - Only triggered on request by the user, with keywords "analysis" or "deep dive". Involves between four and five tool calls, and a consolidation with headings, bullet points, and key terms of the response must be bolded.
+
+Finally, think critically about Matías’ statements. If he makes an assumption that conflicts with established facts, research standards, or ethical boundaries, correct him politely and explain the rationale. He values precision and constructive pushback more than blind agreement. Your role is to act as an informed, trustworthy advisor who helps him make sharper, data-driven decisions while respecting his time and intellect.
+
+-------------------------------------
+
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, seller_profile, seller_reviews, seller_products, get_product_categories, business_menu, business_popular_dishes, search_yelp
+
+
+Information & Web Search
+weather_forecast, search_events
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+X[Feasible Tool Use] XXX[Natural User] [Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Search Refinement]
+
+----------------------------------------
+
+
+1. Hey! Is there any nearby event regarding Argentine food?
+
+- The model incorrectly summarized the description of the event. The model should only include details grounded in the JSON response.
+
+- The user would like to find a nearby event of Argentine food. To fulfill the user's request, I will correctly summarize the information obtained in the `search_events` tool, called with the parameters `query` set to "Argentine food in Oakland", and `date` set to "any"
+
+2. Find the opening hours of the lodge
+
+3. I heard about a restaurant called Bottega in San Francisco. Give me one of its most popular dishes
+
+4. Order one for me to take out
+
+5. Ok, does the restaurant have a Nutella pizza on its menu?
+
+6. Now help me find a PC article's info
+
+7. The GPU speed of the ASUS ROG Strix GeForce RTX 5070 Ti OC Edition 16GB GDDR7
+
+- The parameter `fields` is incorrectly used because the model does not know how the information is structured for the product. The model should not use that parameter to retrieve general information about the product
+
+- The value "gpu_speed" is incorrectly used. The model should not use that parameter value to retrieve general information about the product
+
+- The user would like to find the GPU speed of the ASUS ROG Strix GeForce RTX 5070 Ti OC Edition 16GB GDDR7. To fulfill the user's request, I will call the `product_details` tool, called with the parameters `asin` set to "B0F8LGTHJD", and `country` set to "US"
+
+8. What is its maximum screen resolution supported?
+
+9. How much is the SAMSUNG 970 EVO SSD 1TB?
+
+10. What is the price of the plus version?
+
+
+
+5. I'm interested in the ''ASUS ROG Strix GeForce RTX™ 5070 OC Edition'' and ''SAMSUNG 970 EVO SSD 1TB''. I need more details for both products.
+
+6. Place an order for both products, please!
+
+7. No problem. I want to go out and drink a coffee. Search for a coffee place near me
+
+8. Search for the menu and popular dishes for option 2.
+
+9. Oh, okay. I'm going out, is it raining?
+
+10. Perfect! Can you enable my battery mode just in case. 
+
+
+"Simple request (Tier 1) - Respond to this request with one tool call and a summary of its response." This tier should be rephrased as "with up to one tool call" to cover the scenario when the simple request can be fulfilled without calling any tool.
+
+The following instructions are partially contradictory "For requests that are a bit more complex, use two to three tool calls, and craft a summary with the information obtained from the responses." "For example: **MSI Force GC30**. After this title, you can write the response. If your response to any request involves a list, use only unordered lists and only up to a maximum of two items, and only state the most important comments without paraphrasing." Because in the first, you are required to craft a summary and in the second, you require to provide comments without paraphrasing, which is the opposite of a summary
+
+This is an infeasible instruction "Whenever you mention a review of a product or dishes, you need to state who commented in bold and the review that they wrote", because such information cannot be retrieved by the model for dishes, it could be retrieved for businesses.
+
+
+The search refinement turn is well achieved as the model starts looking for an event in San Francisco, does not find a result, and modifies the query parameter to search for the same event in Oakland, which is near the user.
+
+In turn 5, the model incorrectly summarized the information "and other specialties from the region." because it is not grounded in the JSON
+
+The turn 6 contains issues because the place is not a steakhouse, and the model uses the incorrect search_term parameter value. The place name is Cavallo Point Lodge, so it should be used as the search_term value. The model also provides incorrect information in the response because any of the restaurants match the user prompt. Thus, the trajectory has to be redone from here.
+

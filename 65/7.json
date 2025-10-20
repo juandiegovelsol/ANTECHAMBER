@@ -1,0 +1,55 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDE1MDYyNDA4NTQ5NDQxMTUwODg2",
+    "name": "MathFest '25: Real World Edition in Malvern, PA",
+    "link": "https://www.eventbrite.com/e/mathfest-25-real-world-edition-in-malvern-pa-tickets-1710630264169",
+    "description": "Come Join our Math Fest Event for Grades 1-8 on Saturday, October 26, 2025 in Malvern, PA",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 1:00 – 4:30 PM EDT",
+    "start_time": "2025-10-26 13:00:00",
+    "start_time_utc": "2025-10-26 17:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 16:30:00",
+    "end_time_utc": "2025-10-26 20:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcejis-qv9Fs3PAu1eU4bfcHmBnBO8ijbY88_SobbktzP3ZwanYvbzwBWIw&s",
+    "publisher": "Eventbrite.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.eventbrite.com",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/mathfest-25-real-world-edition-in-malvern-pa-tickets-1710630264169",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/mathfest-25-real-world-edition-in-malvern-pa-tickets-1710630264169"
+      }
+    ],
+    "venue": {
+      "google_id": "0x89c6f30061ae7b2f:0x84f08f52e71f5600",
+      "name": "GVCO Center",
+      "phone_number": null,
+      "website": "https://www.gvco.org",
+      "review_count": 3,
+      "rating": 5,
+      "subtype": "Sports club",
+      "subtypes": ["Sports club"],
+      "full_address": "GVCO Center, 51 N Bacton Hill Rd, Malvern, PA 19355",
+      "latitude": 40.0467815,
+      "longitude": -75.58034359999999,
+      "district": null,
+      "street": null,
+      "city": null,
+      "zipcode": null,
+      "state": null,
+      "country": null,
+      "timezone": "America/New_York",
+      "google_mid": "/g/11lzl8zpdr"
+    }
+  }
+]

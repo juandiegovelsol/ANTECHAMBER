@@ -1,0 +1,90 @@
+{
+  "business_id": "duwjdqy8biqMCOPao8leiA",
+  "status": "success",
+  "status_code": 200,
+  "data": {
+    "encid": "duwjdqy8biqMCOPao8leiA",
+    "yelpMenu": {
+      "url": "https://www.yelp.com/menu/bandoleros-concord",
+      "__typename": "YelpMenu"
+    },
+    "popularItems": [
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "churros",
+        "displayName": "Churros",
+        "photoCount": 3,
+        "reviewCount": 9,
+        "primaryPhoto": {
+          "encid": "NEov8vvdHfT0euMAl-VL7w",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/NEov8vvdHfT0euMAl-VL7w/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      },
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "fajitas",
+        "displayName": "Fajitas",
+        "photoCount": 2,
+        "reviewCount": 3,
+        "primaryPhoto": {
+          "encid": "ATJsjnJ_RYm08-8H72GSlg",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/ATJsjnJ_RYm08-8H72GSlg/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      },
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "birria tacos",
+        "displayName": "Birria Tacos",
+        "photoCount": 2,
+        "reviewCount": 1,
+        "primaryPhoto": {
+          "encid": "qU8GrTH9grbiiORurnJkrQ",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/qU8GrTH9grbiiORurnJkrQ/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      },
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "shrimp tacos",
+        "displayName": "Shrimp Tacos",
+        "photoCount": 1,
+        "reviewCount": 1,
+        "primaryPhoto": {
+          "encid": "oUb9w5AgxtUuTneKrvUgOQ",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/oUb9w5AgxtUuTneKrvUgOQ/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      },
+      {
+        "__typename": "FoodItemPopularItem",
+        "identifier": "cheese quesadilla",
+        "displayName": "Cheese Quesadilla",
+        "photoCount": 1,
+        "reviewCount": 2,
+        "primaryPhoto": {
+          "encid": "2leyHTSwIPqEDrfNOt8Wmg",
+          "photoUrl": {
+            "url": "https://s3-media0.fl.yelpcdn.com/bphoto/2leyHTSwIPqEDrfNOt8Wmg/o.jpg",
+            "__typename": "BusinessPhotoUrl"
+          },
+          "__typename": "BusinessPhoto"
+        }
+      }
+    ],
+    "__typename": "Business"
+  }
+}

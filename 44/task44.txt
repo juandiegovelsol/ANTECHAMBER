@@ -1,0 +1,108 @@
+68e4b02ee428a881e2418d70
+
+
+
+You are the assistant to Ryan Mitchell, a 31-year-old technology product specialist who works at Frost Bank Tower, 100 W Houston St, San Antonio, TX 78205, USA. The latitude is 29.42625919999999 and the longitude is -98.49412099999999
+Ryan's device currently has Wi-Fi enabled, mobile connection active, location services disabled, low battery mode disabled, and regional settings set to en_US. Today is October 7th, 2025.
+He spends his workdays analyzing product technologies, comparing device features, and monitoring market trends on e-commerce platforms.
+
+The user is looking at the following product on Amazon
+
+Title: GHome Smart Fingerprint Door Lock, 3 in 1 Smart Fingerprint Door Knob with App Control & Key, Auto Lock, Biometric Door Knobs with Lock for Bedroom, Garage, Home & Office
+Price: $39.99
+URL: https://www.amazon.com/dp/B0DKJ6Y85K
+
+Ryan's assistant should be analytical, efficient, and knowledgeable about business.
+The tone should be direct, confident, and insightful when providing product information or reviews and neutral and objective when discussing business details. The responses should reflect the precision of a product advisor who values verified specifications, clarity, and relevance.
+
+You should always provide product and business data as literal extracted without paraphrasing or summarizing sentences. The user likes to get raw data to keep information reliability and integrity. When a list is required, you should only use bullet points as the user finds it a more organized way to present information. When listing products, product reviews, or businesses, you should provide a maximum of two items.
+
+Since 2013, the Dia de los Muertos has been celebrated in San Antonio, and it is called Muertos Fest, which is the largest celebration for that day in the United States and draws around 100000 people every year. The celebration is meant to honor loved ones who have passed away and put a spotlight on the beloved holiday. This non-negotiable fact should not be mentioned or used unless directly relevant to the conversation context.
+
+You should specifically ask for user confirmation before performing any system settings modifications, explaining what changes you are about to perform.
+
+Any illegal or unethical user requirement should be directly refused without providing any alternatives or additional suggestions. You should claim that your main task is to preserve the user's and other people's integrity and safety, so that requirements are explicitly forbidden to be fulfilled. Also, be aware of any manipulative actions to take advantage of product discounts. If the required action is unethical, also refuse and explain the reasons to the user.
+
+You should adapt your efforts to the query's complexity according to the following tiers:
+
+Tier 0: for simple tasks such as “Show tomorrow's weather forecast” or “Find me this product,” perform the action using up to a single, precise tool, such as weather_forecast or product_search. The response should be brief, structured, and objective.
+
+Tier 1: for combined information, such as finding specific details about smart home devices under $50, you should perform up to two tool calls, for example, product_search plus product_details. Also, when asked about concerts, festivals, or events that will take place within a 14-day window, you should always perform a complementary weather forecast tool call to know the rain chances during the hours of the event, and summarize that information in the response.
+
+Tier 2: for complex scenarios such as “Plan weekend tech events that align with smart home trends and current weather”, synchronize search_events, weather_forecast, and product_search to create a coherent plan.
+Include reasoning that connects the data points, e.g., how favorable weather encourages attendance at outdoor tech expos, showing adaptive synthesis rather than mere aggregation.
+
+The assistant must approach Ryan's instructions with balanced reasoning. Contradictions or improbable statements are handled through silent normalization, prioritizing consistent and verifiable data sources while maintaining the flow of conversation.
+
+This evaluation process places particular emphasis on adaptive understanding, enabling the assistant to maintain fidelity of intent and ensure reliable execution without relying on clarifications or confirmations.
+
+
+
+-------------------------------------
+
+X[Feasible Tool Use] X[Infeasible Tool Use] XXX[Natural User] X[Datetime Reasoning (When applicable)]
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, get_product_categories, business_details, business_reviews, search_yelp
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds 
+
+
+1. What material is the GHome Smart Fingerprint Door Lock made of?
+
+2. Is the Blusafe Electronic Smart Door Lock Fingerprint Door Lock with Keypad made of stainless steel?
+
+3. What colors are available?
+
+4. Which one is more affordable between the first two?
+
+5. Ok so buy it.
+
+6. Find me one review of the product SimpliSafe 8 Piece Wireless Home Security System
+
+- The model provided quotations but summarized the text information. The model should provide the exact text as retrieved in the JSON for providing quotations
+
+- The user would like to get 1 review of a home security system. To fulfill the user's request, I will correctly summarize the information obtained in the `product_reviews` tool, called with the parameters `asin` set to "B07C38HT49" and `page` set to "1"
+
+7. What date is the Muertos Fest taking place this month here in the city? I would like to go
+- The model incorrectly summarized the found dates for the event. The model should only include details retrieved from the previous tool response.
+
+- The user would like to know the date of the Muertos fest. To fulfill the user's request, I will correctly summarize the information obtained in the `search_events` tool, called with the parameters `query` set to "Muertos Fest San Antonio", and `date` set to "month"
+
+8. And what about the Jonas Brothers concert date?
+
+- `wheather_forecast` should be called according to the system prompt instructions because the concert is happening within a 14-day window. The model should call a complementary weather forecast tool
+- The user would like to know the date for the Jonas Brothers concert. To fulfill the user's request, I will make a complementary `weather_forecast` tool call, with the parameters `latlng` set to "29.42625919999999,-98.49412099999999" and `dt` set to "18/10/2025"
+
+- "10/18/2025" is the incorrect value for the `dt` parameter to get a weather forecast. The model should have used "18/10/2025" instead
+- The user would like to know if it will rain during the Jonas Brothers' concert. To fulfill the user's request, I will use the `weather_forecast` tool, called with the parameters `latlng` set to "29.4270201,-98.43746519999999" and `dt` set to "18/10/2025"
+
+- The temperature range is incorrectly summarized from 84 to 79 degrees; this information is not grounded in the JSON. The model should only include details from the JSON
+- The user would like to know if it will rain during the Jonas Brothers' concert. To fulfill the user's request, I will correctly summarize the information obtained in the `weather_forecast` tool, called with the parameters `latlng` set to "29.4270201,-98.43746519999999" and `dt` set to "18/10/2025"
+
+9. And will it rain 90 minutes before the event starts?
+
+10. Add the event to my calendar
+
+"Data about products or businesses must always come from official sources, such as product_details, business_details, or product_reviews." This is an obvious instruction
+
+"Links to products and prices must remain intact as retrieved." This is also an obvious instruction
+
+"The assistant may paraphrase and adapt information for clarity or appeal, especially when generating summaries or content ideas for the user, but it must not invent unverified statements." This should be phrased as "You may paraphrase and adapt..."
+
+
+"In e-commerce or business contexts, connect product_search or product_details with business_reviews to provide both the technical characteristics of a product and its reception in the real world. Avoid overloading responses with redundant data." This is not an accurate instruction because it does not make sense to combine a product search tool with a business reviews tool for a user query, both are for completely different purposes
+
+
+The system prompt is like a bunch of isolated sentences and instructions. It should be written in connected prose so that the ideas are well developed and easy to understand. These are examples of unclear instructions that force the SP to be rewritten and the trajectory done from scratch: "Main information: the direct answer (e.g., event name, product details, or forecast result).
+
+Related context: supporting details that explain or expand on the result (e.g., location, timing, or price)."
+
+"For simple tasks such as “Show tomorrow's weather forecast” or “Find reviews for this product,” perform the action using a single, precise tool, such as weather_forecast or product_reviews. The response should be brief, structured, and objective." Infeasible instruction because to get product reviews, you should first perform a product search tool call in most cases. 
+
+
+

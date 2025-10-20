@@ -1,0 +1,623 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTEwfDQ2Nzk5OTU4MjYyNzkyMzc4MDc=",
+    "name": "Michael W. Smith",
+    "link": "https://open.spotify.com/concert/0sF05Lb5vm77fR0xc07X4b",
+    "description": "Find tickets for Michael W. Smith at Capital Region Amphitheater in Jefferson City on 10/10/2025 at 7:30 PM",
+    "language": "en",
+    "date_human_readable": "Fri, Oct 10, 7:30 – 9:00 PM CDT",
+    "start_time": "2025-10-10 19:30:00",
+    "start_time_utc": "2025-10-11 00:30:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-10 21:00:00",
+    "end_time_utc": "2025-10-11 02:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/0sF05Lb5vm77fR0xc07X4b",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Premiumseatsusa.com",
+        "link": "https://www.premiumseatsusa.com/concerts/religious/michael-w-smith/7060356",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://premiumseatsusa.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tix4cause.com",
+        "link": "https://www.tix4cause.com/event/michael-w-smith/7060356",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tix4cause.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Stubhub.com",
+        "link": "https://www.stubhub.com/_C-36189?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-96726%7Cev-157694547%7Ccy-68655&ps_ev=157694547",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stubhub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Viagogo.com",
+        "link": "https://www.viagogo.com/_C-36189?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-96726%7Cev-157694547%7Ccy-68655&ps_ev=157694547",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://viagogo.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/0sF05Lb5vm77fR0xc07X4b"
+      }
+    ],
+    "venue": {
+      "google_id": "0x87db60a09809cdf3:0x32851eba5604f644",
+      "name": "300 Ellis Porter Dr",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "300 Ellis Porter Dr, Jefferson City, MO 65101",
+      "latitude": 38.566532699999996,
+      "longitude": -92.1444659,
+      "district": null,
+      "street_number": "300",
+      "street": "300 Ellis Porter Dr",
+      "city": "Jefferson City",
+      "zipcode": "65101",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11ggsc2kk2"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDQ2NjA5Mjk4NDYyMTg3NjMzMTI=",
+    "name": "The Praise Project Homecoming Gospel Concert",
+    "link": "https://www.eventbrite.com/e/the-praise-project-homecoming-gospel-concert-tickets-1670178281199",
+    "description": "Celebrate Homecoming with an evening of inspiration, unity, and soulful worship at The Praise Project. Open to students, alumni, and the community, the concert is a chance to reflect, rejoice, and...",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 4 – 7 PM CDT",
+    "start_time": "2025-10-26 16:00:00",
+    "start_time_utc": "2025-10-26 21:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 19:00:00",
+    "end_time_utc": "2025-10-27 00:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Eventbrite.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.eventbrite.com",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/the-praise-project-homecoming-gospel-concert-tickets-1670178281199",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/jefferson-city/the-praise-project-homecoming-gospel-concert/100001670178281199",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/the-praise-project-homecoming-gospel-concert-tickets-1670178281199"
+      }
+    ],
+    "venue": {
+      "google_id": "0x87db5e6bea76a525:0x6db649d10026a31f",
+      "name": "Richardson Fine Arts Center",
+      "phone_number": null,
+      "website": null,
+      "review_count": 49,
+      "rating": 4.5,
+      "subtype": "Performing arts theater",
+      "subtypes": ["Performing arts theater"],
+      "full_address": "Richardson Fine Arts Ctr, Dawson Dr, Jefferson City, MO 65101",
+      "latitude": 38.566119,
+      "longitude": -92.16852879999999,
+      "district": null,
+      "street": "Dawson Dr",
+      "city": "Jefferson City",
+      "zipcode": "65101",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11c1x5vn9p"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTA5fDEwODg3ODU4ODc2MTAyMDE1ODU2",
+    "name": "Blair Oaks Band Booster Block Party",
+    "link": "https://943kat.com/events/category/kat-country-cares/day/2025-10-09/",
+    "description": "Come out to the 200 block of East High Street on Thursday, October 9th at 6pm to support the Blair Oaks Marching Band! The Blair Oaks Band Boosters are putting […]\\n",
+    "language": "en",
+    "date_human_readable": "Thu, Oct 9, 11 PM – Fri, Oct 10, 3 AM",
+    "start_time": "2025-10-09 23:00:00",
+    "start_time_utc": "2025-10-09 23:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-10 03:00:00",
+    "end_time_utc": "2025-10-10 03:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "94.3 KAT Country",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://943kat.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "943kat.com",
+    "ticket_links": [
+      {
+        "source": "943kat.com",
+        "link": "https://943kat.com/event/blair-oaks-band-booster-block-party/",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://943kat.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Facebook",
+        "link": "https://www.facebook.com/events/200-block-of-east-high-st-jc-mo/block-party-concert-fundraiser/1512107993132673/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://facebook.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "943kat.com",
+        "link": "https://943kat.com/event/blair-oaks-band-booster-block-party/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x87db5e4471c0d9c3:0xfcf578e62b465f22",
+      "name": "200 E High St",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "200 E High St, Jefferson City, MO 65101",
+      "latitude": 38.5758033,
+      "longitude": -92.1711923,
+      "district": null,
+      "street_number": "200",
+      "street": "200 E High St",
+      "city": "Jefferson City",
+      "zipcode": "65101",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11c1b19r38"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTE3fDM3NDQyNjUzMjY2ODc4MzkwMDA=",
+    "name": "Redemption Rocks Free Concert",
+    "link": "https://allevents.in/jefferson-city/redemption-rocks/200028469638340",
+    "description": "REDEMPTION ROCKS FREE CONCERT! Come out and worship our Lord and Savior Jesus Christ with Disciple, Seventh Day Slumber, and Magdalene Rose. Doors open at 6:00 with the show starting at 7:00. Also...",
+    "language": "en",
+    "date_human_readable": "Fri, Oct 17, 7 – 9 PM CDT",
+    "start_time": "2025-10-17 19:00:00",
+    "start_time_utc": "2025-10-18 00:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-17 21:00:00",
+    "end_time_utc": "2025-10-18 02:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "AllEvents",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "Jefferson City News Tribune",
+        "link": "https://www.newstribune.com/calendar/?_evDiscoveryPath=/event/3275293-redemption-rocks-free-concert",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://newstribune.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Facebook",
+        "link": "https://www.facebook.com/events/1315-fairgrounds-rd-jefferson-city-mo-65109/redemption-rocks/1690050021710223/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://facebook.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Newstribune.com",
+        "link": "https://www.newstribune.com/calendar/?_evDiscoveryPath=/event/3275293-redemption-rocks-free-concert"
+      }
+    ],
+    "venue": {
+      "google_id": "0x87db59fa7a944647:0xbb82efe7728fa979",
+      "name": "Capital West Christian Church Event Center",
+      "phone_number": "+15736348335",
+      "website": "https://capitalwest.church",
+      "review_count": 11,
+      "rating": 4.9,
+      "subtype": "Banquet hall",
+      "subtypes": ["Banquet hall"],
+      "full_address": "Capital West Christian Church Event Center, 1315 Fairgrounds Rd, Jefferson City, MO 65109",
+      "latitude": 38.5654983,
+      "longitude": -92.2731475,
+      "district": null,
+      "street_number": "1315",
+      "street": "1315 Fairgrounds Rd",
+      "city": "Jefferson City",
+      "zipcode": "65109",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11hxrqt1g5"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTA5fDgzNzg1MTAwMzM0MTQ5OTA0OTc=",
+    "name": "Helias Catholic Fall Choir Concert",
+    "link": "https://allevents.in/jefferson-city/helias-catholic-fall-choir-concert/200028960445019",
+    "description": "Miller Performing Arts Center\nDoors Open 6:30 p.m.; Concert Begins 7:00 p.m.",
+    "language": "en",
+    "date_human_readable": "Fri, Oct 10, 12 AM",
+    "start_time": "2025-10-10 00:00:00",
+    "start_time_utc": "2025-10-10 00:00:00",
+    "start_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Allevents.in",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/jefferson-city/helias-catholic-fall-choir-concert/200028960445019",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/jefferson-city/helias-catholic-fall-choir-concert/200028960445019"
+      }
+    ],
+    "venue": {
+      "google_id": "0x87db5e4317eb4fe9:0xfaad6fd9a2ef4fc6",
+      "name": "501 Madison St",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "501 Madison St, Jefferson City, MO 65101",
+      "latitude": 38.5733096,
+      "longitude": -92.17319499999999,
+      "district": null,
+      "street_number": "501",
+      "street": "501 Madison St",
+      "city": "Jefferson City",
+      "zipcode": "65101",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11bw3f81jj"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI4fDYxMjA2NjAwNTg3NzY0MTA2NTA=",
+    "name": "Sunday Blues Jam!!",
+    "link": "https://themissionjc.com/event/sunday-blues-jam/2025-10-28/",
+    "description": "Doors@2pm BLUES JAM 3-7PMLAST Sundays at The Mission we jam! Spread the word, invite folks and kindly consider supporting the blues jam culture. Invite YOUNG players. A successful jam is a...",
+    "language": "en",
+    "date_human_readable": "Tue, Oct 28, 3 – 7 PM CDT",
+    "start_time": "2025-10-28 15:00:00",
+    "start_time_utc": "2025-10-28 20:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-28 19:00:00",
+    "end_time_utc": "2025-10-29 00:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "The Mission",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://themissionjc.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "themissionjc.com",
+    "ticket_links": [
+      {
+        "source": "The Mission",
+        "link": "https://themissionjc.com/event/sunday-blues-jam/2025-10-28/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://themissionjc.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [null],
+    "venue": {
+      "google_id": "0x87db5e1592281203:0x73f51a27bff4768b",
+      "name": "The Mission",
+      "phone_number": "+15732460616",
+      "website": "http://themissionjc.com",
+      "review_count": 78,
+      "rating": 4.7,
+      "subtype": "Live music venue",
+      "subtypes": ["Live music venue"],
+      "full_address": "The Mission, 915 E High St, Jefferson City, MO 65101",
+      "latitude": 38.5693178,
+      "longitude": -92.161338,
+      "district": null,
+      "street_number": "915",
+      "street": "915 E High St",
+      "city": "Jefferson City",
+      "zipcode": "65101",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/1tlkcxv1"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI2fDU1ODA0MTkzNDA0NDkwMDkwNjM=",
+    "name": "Camille Thurman",
+    "link": "https://open.spotify.com/concert/3gBstyI10apmNnGuoLPZh4",
+    "description": "Find tickets for Camille Thurman at Murry's in Columbia on 10/26/2025 at 3:00 PM",
+    "language": "en",
+    "date_human_readable": "Sun, Oct 26, 3 – 7 PM CDT",
+    "start_time": "2025-10-26 15:00:00",
+    "start_time_utc": "2025-10-26 20:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 19:00:00",
+    "end_time_utc": "2025-10-27 00:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Spotify.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://open.spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "open.spotify.com",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/3gBstyI10apmNnGuoLPZh4",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "KOMU 8",
+        "link": "https://www.komu.com/local-events/?_evDiscoveryPath=/event/106892026n-camille-thurman",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://komu.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "COMO Magazine",
+        "link": "https://comomag.com/events-calendar/?_evDiscoveryPath=/event/106892026n-camille-thurman",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://comomag.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "COMO Business Times",
+        "link": "https://comobusinesstimes.com/local-events/?_evDiscoveryPath=/event/106892026n-camille-thurman",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://comobusinesstimes.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "California Democrat",
+        "link": "https://www.californiademocrat.com/eventcalendar/?_evDiscoveryPath=/event/106892026n-camille-thurman",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://californiademocrat.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/3gBstyI10apmNnGuoLPZh4"
+      }
+    ],
+    "venue": {
+      "google_id": "0x87dcb703f6477b5b:0x7787a0a465ae5022",
+      "name": "Murry's",
+      "phone_number": "+15734424969",
+      "website": "http://www.murrysrestaurant.net",
+      "review_count": 2077,
+      "rating": 4.7,
+      "subtype": "American restaurant",
+      "subtypes": ["American restaurant", "Restaurant"],
+      "full_address": "Murry's, 3107 Green Meadows Way, Columbia, MO 65203",
+      "latitude": 38.917157599999996,
+      "longitude": -92.3373403,
+      "district": null,
+      "street_number": "3107",
+      "street": "3107 Green Meadows Way",
+      "city": "Columbia",
+      "zipcode": "65203",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/1tgx2kpj"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTIzfDM1MzQ1NTM2NDg2NjY2ODcwOTA=",
+    "name": "MercyMe",
+    "link": "https://gametime.co/concert/mercy-me-tickets/10-23-2025-columbia-mo-mizzou-arena/events/681665be391975f441cccc3c",
+    "description": "Gametime is offering last-minute concert tickets to MercyMe at Mizzou Arena in Columbia, MO",
+    "language": "en",
+    "date_human_readable": "Thu, Oct 23, 7:00 – 8:30 PM",
+    "start_time": "2025-10-23 19:00:00",
+    "start_time_utc": "2025-10-23 19:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-23 20:30:00",
+    "end_time_utc": "2025-10-23 20:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Gametime.co",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://gametime.co&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "gametime.co",
+    "ticket_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/2DeA3WlUICJ2NyvnFD0e0y",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spotify.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Gametime.co",
+        "link": "https://gametime.co/concert/mercy-me-tickets/10-23-2025-columbia-mo-mizzou-arena/events/681665be391975f441cccc3c",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gametime.co&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Festivaly.eu",
+        "link": "https://festivaly.eu/en/mercyme-live-2025-mizzou-arena-columbia-2025",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://festivaly.eu&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Tix4cause.com",
+        "link": "https://www.tix4cause.com/event/mercyme/7135325",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tix4cause.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Vividseats.com",
+        "link": "https://www.vividseats.com/mercyme-tickets-columbia-mizzou-arena-10-23-2025--concerts-new-age/production/5733178",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://vividseats.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Spotify.com",
+        "link": "https://open.spotify.com/concert/2DeA3WlUICJ2NyvnFD0e0y"
+      }
+    ],
+    "venue": {
+      "google_id": "0x87dcb7afdb32f8bb:0x7e8e0b8eb0d3009f",
+      "name": "Mizzou Arena",
+      "phone_number": "+15738826501",
+      "website": "http://www.mutigers.com",
+      "review_count": 830,
+      "rating": 4.6,
+      "subtype": "Arena",
+      "subtypes": ["Arena"],
+      "full_address": "Mizzou Arena, 1 Champions Dr, Columbia, MO 65203",
+      "latitude": 38.9325054,
+      "longitude": -92.3337961,
+      "district": null,
+      "street_number": "1",
+      "street": "1 Champions Dr",
+      "city": "Columbia",
+      "zipcode": "65203",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/m/04hg41"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTE4fDEwOTg2NDM3Njk1ODQ0NzAzMzYx",
+    "name": "The Life of a Showdog: A Taylor Swift Event",
+    "link": "https://www.komu.com/local-events/?_evDiscoveryPath=/event/3261273-the-life-of-a-showdog-a-taylor-swift-event",
+    "description": "The Life of a Showdog: A Taylor Swift Event Join us Saturday, October 18th at 7:00 - 9:00 PM at Lizzi & Rocco’s South Location (Green Meadows Rd.) for a night of sparkle, songs, and...",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 18, 7 – 9 PM CDT",
+    "start_time": "2025-10-18 19:00:00",
+    "start_time_utc": "2025-10-19 00:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-18 21:00:00",
+    "end_time_utc": "2025-10-19 02:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Komu.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.komu.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.komu.com",
+    "ticket_links": [
+      {
+        "source": "Evvnt.com",
+        "link": "https://go.evvnt.com/3261273-0?pid=8363",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://evvnt.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "KOMU 8",
+        "link": "https://www.komu.com/local-events/?_evDiscoveryPath=/event/3261273-the-life-of-a-showdog-a-taylor-swift-event",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://komu.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Facebook",
+        "link": "https://www.facebook.com/events/lizzi-roccos-natural-pet-market/the-life-of-a-showdog-a-taylor-swift-event/31171947949115578/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://facebook.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/columbia-mo/taylor-swift",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Komu.com",
+        "link": "https://www.komu.com/local-events/?_evDiscoveryPath=/event/3261273-the-life-of-a-showdog-a-taylor-swift-event"
+      }
+    ],
+    "venue": {
+      "google_id": "0x87dcb71aa86bfafd:0xa7187f7e3c05420f",
+      "name": "Lizzi and Rocco's Natural Pet Market",
+      "phone_number": "+15738752288",
+      "website": "http://www.lizziandroccos.com",
+      "review_count": 311,
+      "rating": 4.8,
+      "subtype": "Pet supply store",
+      "subtypes": [
+        "Pet supply store",
+        "Health food store",
+        "Natural goods store",
+        "Pet groomer"
+      ],
+      "full_address": "Lizzi and Rocco's Natural Pet Market, 550 Grn Mdws Rd, Columbia, MO 65201",
+      "latitude": 38.9155157,
+      "longitude": -92.3317539,
+      "district": null,
+      "street_number": "550",
+      "street": "550 Grn Mdws Rd",
+      "city": "Columbia",
+      "zipcode": "65201",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/1tk4rpyt"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTE4fDE3MzkyODQ0NjE0OTYwNzg5ODUz",
+    "name": "The Fabulous Motown Revue | Windstone Event Center",
+    "link": "https://fabulousmotownrevue.com/event/6252157/735087063/the-fabulous-motown-revue-windstone-event-center",
+    "description": "The Fabulous Motown Revue return to Windstone Entertainment banquet hall October 18, 2025, 8-11 pm, door open at 6:30 pm, admission $45.00 in advance, or $50.00 at the door, tickets can be...",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 18, 8 – 11 PM CDT",
+    "start_time": "2025-10-18 20:00:00",
+    "start_time_utc": "2025-10-19 01:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-18 23:00:00",
+    "end_time_utc": "2025-10-19 04:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Fabulous Motown Revue",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fabulousmotownrevue.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "fabulousmotownrevue.com",
+    "ticket_links": [
+      {
+        "source": "Fabulous Motown Revue",
+        "link": "https://fabulousmotownrevue.com/event/6252157/735087063/the-fabulous-motown-revue-windstone-event-center",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fabulousmotownrevue.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [null],
+    "venue": {
+      "google_id": "0x87db5f1457ab239d:0x9a486ff8afb7fb18",
+      "name": "Windstone Entertainment",
+      "phone_number": "+15736362850",
+      "website": "https://windstoneentertainment.com",
+      "review_count": 62,
+      "rating": 4.6,
+      "subtype": "Event venue",
+      "subtypes": ["Event venue"],
+      "full_address": "Windstone Entertainment, 2425 Industrial Dr, Jefferson City, MO 65109",
+      "latitude": 38.591975399999995,
+      "longitude": -92.21558379999999,
+      "district": null,
+      "street_number": "2425",
+      "street": "2425 Industrial Dr",
+      "city": "Jefferson City",
+      "zipcode": "65109",
+      "state": "Missouri",
+      "country": "US",
+      "timezone": "America/Chicago",
+      "google_mid": "/g/11c2jy4sbg"
+    }
+  }
+]

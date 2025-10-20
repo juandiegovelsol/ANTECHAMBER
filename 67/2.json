@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "1760966460000",
+    "title": "Windows 11 update knocks out USB mice, keyboards in recovery mode",
+    "snippet": "Microsoft has confirmed a bug that disables USB mice and keyboards in the Windows Recovery Environment (WinRE) after installing security update KB5066835,...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUJPVTF5YVRoaVZrRmpiblZTVFJDM0FSaVRBaWdCTWdrQklJNGtxV1dwTlFF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNUJPVTF5YVRoaVZrRmpiblZTVFJDM0FSaVRBaWdCTWdrQklJNGtxV1dwTlFF"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760620260000",
+        "title": "Microsoft update breaks localhost in Windows 11",
+        "snippet": "Updated Microsoft's October Windows 11 update has managed the impressive feat of breaking localhost, leaving developers unable to access web applications...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBhRUZ2YWs1aFoxOUxWekZ0VFJDZkFSaS1BaWdCTWdZeE5KQndtUWs=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTBhRUZ2YWs1aFoxOUxWekZ0VFJDZkFSaS1BaWdCTWdZeE5KQndtUWs"
+        },
+        "newsUrl": "https://www.theregister.com/2025/10/16/windows_11_update_localhost/",
+        "publisher": "theregister.com"
+      },
+      {
+        "timestamp": "1760884225000",
+        "title": "Windows 11's October update just broke the Windows Recovery Environment — USB keyboards and mice unusable in Windows RE after latest bug hits",
+        "snippet": "Windows Recovery Environment (RE), as the name suggests, is a built-in set of tools inside Windows that allow you to troubleshoot your computer,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNU1VbDlCUWtSSFJHbzVhRk5SVFJDZkF4ampCU2dLTWdPTlJCQQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNU1VbDlCUWtSSFJHbzVhRk5SVFJDZkF4ampCU2dLTWdPTlJCQQ"
+        },
+        "newsUrl": "https://www.tomshardware.com/software/windows/windows-11s-october-update-just-broke-the-windows-recovery-environment-usb-keyboards-and-mice-unusable-in-windows-re-after-latest-bug-hits",
+        "publisher": "Tom's Hardware"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theregister.com/2025/10/20/microsoft_bug_keyboard_mouse/",
+    "publisher": "theregister.com"
+  },
+  {
+    "timestamp": "1760963771000",
+    "title": "OnePlus reveals OnePlus 15 battery size, and it puts S25 Ultra to shame",
+    "snippet": "OnePlus has revealed the OnePlus 15 battery size, and it's a hefty upgrade over the OnePlus 13 and devices like the Galaxy S25 Ultra.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUhkVFp0YWxGV2JUWmtVbEl3VFJDZkF4ampCU2dLTWdZcFE1WndJUWs=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUhkVFp0YWxGV2JUWmtVbEl3VFJDZkF4ampCU2dLTWdZcFE1WndJUWs"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760801400000",
+        "title": "We now have an official launch date for the OnePlus 15 – and a new color has been shown off",
+        "snippet": "We're gradually getting more and more official information about the OnePlus 15, and we now know when the flagship phone is going to be launched – and...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUdTVXd0V0RGZk5tNTZRWEpHVFJDZkF4ampCU2dLTWdNQklCSQ=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNUdTVXd0V0RGZk5tNTZRWEpHVFJDZkF4ampCU2dLTWdNQklCSQ"
+        },
+        "newsUrl": "https://www.techradar.com/phones/oneplus-phones/we-now-have-an-official-launch-date-for-the-iphone-15-and-a-new-color-has-been-shown-off",
+        "publisher": "TechRadar"
+      },
+      {
+        "timestamp": "1760961474000",
+        "title": "OnePlus 15 battery is officially a beast, and a Geekbench listing shows it’s no slouch, too",
+        "snippet": "OnePlus is back to teasing the OnePlus 15, and this time it's spilling some serious battery and charging details – and wow, they're impressive.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxPWEpwWkV0bk16UmtRMEpUVFJDZkF4ampCU2dLTWdhcFVveFFxUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNUxPWEpwWkV0bk16UmtRMEpUVFJDZkF4ampCU2dLTWdhcFVveFFxUWM"
+        },
+        "newsUrl": "https://www.phonearena.com/news/oneplus-15-battery-is-officially-beast-geekbench-listing-shows-its-no-slouch-too_id175009",
+        "publisher": "PhoneArena"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.androidauthority.com/oneplus-15-battery-size-3608565/",
+    "publisher": "Android Authority"
+  },
+  {
+    "timestamp": "1760971800000",
+    "title": "Galaxy S26 series, including Ultra, reportedly switches to Exynos 2600 that's faster than Snapdragon",
+    "snippet": "According to a new report, Samsung's Galaxy S26 series will go all-in on Exynos chips including on the top-end Ultra model, as Exynos 2600 prepares a...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNZMVUwWWt4VU5WWjRhMkpUVFJDZkF4amlCU2dLTWdZaGM1QnVMUWM=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNTNZMVUwWWt4VU5WWjRhMkpUVFJDZkF4amlCU2dLTWdZaGM1QnVMUWM"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760950930000",
+        "title": "This Galaxy S26 Ultra change might make you want it a bit less",
+        "snippet": "Samsung will reportedly equip the Galaxy S26 Ultra with the Exynos 2600 chipset, and not the previously expected Snapdragon 8 Elite Gen 5. - SamMobile.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBZM1o0ZVhoSVlXWnpkQzFGVFJDZkF4ampCU2dLTWdhbElvYk5HUW8=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDBZM1o0ZVhoSVlXWnpkQzFGVFJDZkF4ampCU2dLTWdhbElvYk5HUW8"
+        },
+        "newsUrl": "https://www.sammobile.com/news/this-galaxy-s26-ultra-change-might-make-you-want-it-a-bit-less/",
+        "publisher": "SamMobile"
+      },
+      {
+        "timestamp": "1760956440000",
+        "title": "Exynos 2600 Wipes The Floor Against The Competition; Samsung’s Internal Testing Shows 6x Higher AI Performance Than A19 Pro, Snapdragon 8 Elite Gen 5 & More",
+        "snippet": "Samsung's reported internal testing results of the Exynos 2600 shows that its GPU and NPU handily beats the Snapdragon 8 Elite Gen 5 and A19 Pro.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBObGQxVTNSdWJFeFdURkZYVFJDZkF4ampCU2dLTWdZbGRaRE5NUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXBObGQxVTNSdWJFeFdURkZYVFJDZkF4ampCU2dLTWdZbGRaRE5NUVk"
+        },
+        "newsUrl": "https://wccftech.com/exynos-2600-performance-results-internal-testing-major-improvements-over-a19-pro-and-snapdragon-8-elite-gen-5/",
+        "publisher": "Wccftech"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://9to5google.com/2025/10/20/galaxy-s26-exynos-2600-rumor/",
+    "publisher": "9to5Google"
+  },
+  {
+    "timestamp": "1760965200000",
+    "title": "Oura redesigns app with expanded stress tracking",
+    "snippet": "Oura is launching a redesigned app with expanded stress-tracking insights as it develops new blood pressure features that could identify signs of...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBVelZZY2twTGEwazFRVWQwVFJERUF4aW1CU2dLTWdZVkk0cUtuZ2s=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNDBVelZZY2twTGEwazFRVWQwVFJERUF4aW1CU2dLTWdZVkk0cUtuZ2s"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760965207000",
+        "title": "Oura Prepares Apple Watch-Like Hypertension Detection for Its Smart Ring",
+        "snippet": "Oura Health Oy, the Finnish smart ring maker, is the latest wearable company seeking to move into blood pressure monitoring.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdVSEZ0TWxCWWJ5MVpWamRVVFJERUF4aW1CU2dLTWdhaFZJenNMUVk=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNHdVSEZ0TWxCWWJ5MVpWamRVVFJERUF4aW1CU2dLTWdhaFZJenNMUVk"
+        },
+        "newsUrl": "https://www.bloomberg.com/news/articles/2025-10-20/oura-ring-blood-pressure-tracking-comparison-to-apple-watch-and-fda-discussions",
+        "publisher": "Bloomberg.com"
+      },
+      {
+        "timestamp": "1760965200000",
+        "title": "Oura launches redesigned app and ‘Cumulative Stress’ feature",
+        "snippet": "Oura announced on Monday that it's launching a new redesigned app experience and a “Cumulative Stress” feature. The company also shared that it's pursuing...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTVVVnA1Vm05VFZHUkxaRXRhVFJDeUF4akRCU2dLTWdrQklJcmpvdVVsaHdF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNTVVVnA1Vm05VFZHUkxaRXRhVFJDeUF4akRCU2dLTWdrQklJcmpvdVVsaHdF"
+        },
+        "newsUrl": "https://techcrunch.com/2025/10/20/oura-launches-redesigned-app-and-cumulative-stress-feature/",
+        "publisher": "TechCrunch"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.theverge.com/news/802527/oura-ring-stress-blood-pressure-test-app-redesign",
+    "publisher": "The Verge"
+  },
+  {
+    "timestamp": "1760962706000",
+    "title": "The new Apple TV and Peacock streaming bundle is officially available",
+    "snippet": "There's yet another streaming bundle in town, and it will be ideal for fans of Ted Lasso and The Office. Apple and Peacock have teamed up to provide both of...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNW9UVjluVVU1M1JsTkxVSGhMVFJDZ0F4amlCU2dLTWdtSk1Jak1sZXBqelFF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNW9UVjluVVU1M1JsTkxVSGhMVFJDZ0F4amlCU2dLTWdtSk1Jak1sZXBqelFF"
+    },
+    "subnews": [
+      {
+        "timestamp": "1760631236000",
+        "title": "Apple and NBCUniversal introduce the Apple TV and Peacock Bundle",
+        "snippet": "One subscription, available October 20, unlocks both services' complementary mix of award-winning originals, marquee live events and sports,...",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVpNWEp4VERaWFRtdDJiVjlCVFJDZkF4ampCU2dLTWdrSk1ZcXRsZWRjelFF=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNVpNWEp4VERaWFRtdDJiVjlCVFJDZkF4ampCU2dLTWdrSk1ZcXRsZWRjelFF"
+        },
+        "newsUrl": "https://www.apple.com/newsroom/2025/10/apple-and-nbcuniversal-introduce-the-apple-tv-and-peacock-bundle/",
+        "publisher": "Apple"
+      },
+      {
+        "timestamp": "1760988611000",
+        "title": "Apple TV and Peacock just launched a new streaming bundle, here's what to know",
+        "snippet": "Get two streaming services for one unbeatable price while the offer lasts! Learn more about the brand new Apple TV and Peacock streaming bundle deal.",
+        "images": {
+          "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURaa0ZmU1ZKVVZYcGthblV6VFJDS0F4aThCU2dLTWdZSk1Zck5sUWM=-w280-h168-p-df-rw",
+          "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNURaa0ZmU1ZKVVZYcGthblV6VFJDS0F4aThCU2dLTWdZSk1Zck5sUWM"
+        },
+        "newsUrl": "https://www.usatoday.com/story/shopping/2025/10/20/apple-tv-peacock-new-streaming-bundle-deal/86802493007/",
+        "publisher": "USA Today"
+      }
+    ],
+    "hasSubnews": true,
+    "newsUrl": "https://www.engadget.com/entertainment/tv-movies/the-new-apple-tv-and-peacock-streaming-bundle-is-officially-available-170403587.html",
+    "publisher": "Engadget"
+  },
+  {
+    "timestamp": "1760902620000",
+    "title": "Apple iPhone 17 Pro: One of the most compact flagship phones is getting heavier and heavier",
+    "snippet": "The iPhone 17 Pro weighs a hefty 7.27 oz, even though it has a relatively small 6.3-inch display. Can we still consider it compact, and was the switch to...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVdWbGxhV0hadlRGSnVkbmhsVFJEZ0F4aUFCU2dLTWdtZEJJcnFpZXA2RWdF=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iL0NnNVdWbGxhV0hadlRGSnVkbmhsVFJEZ0F4aUFCU2dLTWdtZEJJcnFpZXA2RWdF"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.notebookcheck.net/Apple-iPhone-17-Pro-One-of-the-most-compact-flagship-phones-is-getting-heavier-and-heavier.1141020.0.html",
+    "publisher": "Notebookcheck"
+  },
+  {
+    "timestamp": "1760822176000",
+    "title": "Samsung bringing Galaxy S26, S26 Plus and S26 Ultra: Are you excited?",
+    "snippet": "Samsung is gearing up to launch its new Galaxy S26 series, and leaks and rumors are already creating a buzz online. Like previous series, Samsung also plans...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVVVVWxOUWtGNmRWQm1XbmhJVFJDa0F4amFCU2dLTWdPVlFoSQ=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iJ0NnNVVVVWxOUWtGNmRWQm1XbmhJVFJDa0F4amFCU2dLTWdPVlFoSQ"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.sammyfans.com/2025/10/18/samsung-bringing-galaxy-s26-s26-plus-and-s26-ultra-are-you-excited/",
+    "publisher": "Sammy Fans"
+  },
+  {
+    "timestamp": "1760875216000",
+    "title": "Apple’s M5 Product Lineup Offers Its Most Minor Upgrades in Years",
+    "snippet": "Apple's range of M5 products has a new chip — and little else to entice typical shoppers. Also: The company's AI division brain drain continues, and Apple...",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXROak5VYzFGelRHWlBPQzB0VFJERUF4aW1CU2dLTWdhTkFJd25KZ1U=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXROak5VYzFGelRHWlBPQzB0VFJERUF4aW1CU2dLTWdhTkFJd25KZ1U"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.bloomberg.com/news/newsletters/2025-10-19/apple-m5-ipad-pro-vision-pro-macbook-pro-impressions-review-touch-screen-mac-mgxnn1w8",
+    "publisher": "Bloomberg.com"
+  },
+  {
+    "timestamp": "1760962975000",
+    "title": "Next-gen Xbox confirmed in development, following rumours Microsoft would stop making consoles",
+    "snippet": "Xbox president Sarah Bond has confirmed Microsoft is working on \"next-gen hardware\", following rumours it was no longer in console development.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVlWRFJIUjNOaWVraHBhVU5mVFJDZkF4amlCU2dLTWdhdHdJaVhSQVE=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNVlWRFJIUjNOaWVraHBhVU5mVFJDZkF4amlCU2dLTWdhdHdJaVhSQVE"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.eurogamer.net/next-gen-xbox-confirmed-in-development-following-rumours-microsoft-would-stop-making-consoles",
+    "publisher": "Eurogamer"
+  },
+  {
+    "timestamp": "1760879700000",
+    "title": "Walmart is selling a $250 Lenovo laptop for $129 that’s perfect for work or school",
+    "snippet": "The bestselling Lenovo IdeaPad 1i 14-Inch Laptop is 48% off for a limited time at Walmart, saving shoppers $121 on the reliable computer.",
+    "images": {
+      "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhSVEo1V1cxRWR6WnVkVkp3VFJDZkF4ampCU2dLTWdhQmdaZ0lNUWc=-w280-h168-p-df-rw",
+      "thumbnailProxied": "https://img.devisty.store/newsimage/CC8iK0NnNXhSVEo1V1cxRWR6WnVkVkp3VFJDZkF4ampCU2dLTWdhQmdaZ0lNUWc"
+    },
+    "hasSubnews": false,
+    "newsUrl": "https://www.thestreet.com/deals/lenovo-ideapad-1i-14-inch-laptop-walmart-sale",
+    "publisher": "TheStreet"
+  }
+]

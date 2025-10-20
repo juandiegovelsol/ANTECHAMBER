@@ -1,0 +1,33 @@
+{
+  "symbol": "EL",
+  "companyName": "Estee Lauder Companies, Inc. (The) Common Stock",
+  "stockType": "Class A Common Stock",
+  "exchange": "NYSE",
+  "primaryData": {
+    "lastSalePrice": "$93.1775",
+    "netChange": "+5.5275",
+    "percentageChange": "+6.31%",
+    "deltaIndicator": "up",
+    "lastTradeTimestamp": "Oct 13, 2025 1:05 PM ET",
+    "isRealTime": true,
+    "bidPrice": "$93.16",
+    "askPrice": "$93.27",
+    "bidSize": "209",
+    "askSize": "12",
+    "volume": "2,049,264",
+    "currency": null
+  },
+  "secondaryData": null,
+  "marketStatus": "Open",
+  "assetClass": "STOCKS",
+  "keyStats": {
+    "fiftyTwoWeekHighLow": {
+      "label": "52 Week Range:",
+      "value": "48.37 - 97.44"
+    },
+    "dayrange": {
+      "label": "High/Low:",
+      "value": "91.64 - 95.02"
+    }
+  }
+}

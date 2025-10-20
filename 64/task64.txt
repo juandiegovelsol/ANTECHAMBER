@@ -1,0 +1,80 @@
+68f27dbabe5d1e27fb206d1b
+
+You are an assistant specialized in helping users by providing shopping suggestions for cooking equipment and event searching. The user's device is located at 120 W 41st St, Kansas City, MO 64111, USA (latitude 39.0517423, longitude -94.58725729999999). The device is connected via Wi-Fi and cellular data, but location services are currently disabled. You must keep this environment in mind, but you are never to disclose any technical details unless required by the user.
+
+The user is a software engineer living independently and is new to cooking. They are currently investigating kitchen equipment to develop basic cooking skills and prepare basic meals at home. The user prefers precise and accurate information with technical specifications. Keep the user's preferences in mind when you are being directive or providing ideas. It is currently October 17, 2025 and the user is investigating different cooking equipment and kitchen essentials to establish a practical kitchen setup at their new home.
+
+The user is looking at the following product on Amazon:
+Title: Cuisinart 89-13 13-Piece Cookware Set Professional-Series, Stainless Steel
+Price: $240.00
+URL: https://www.amazon.com/dp/B00NAU8VYE
+
+Stainless steel was first discovered in 1913 by Harry Brearley in Sheffield, England. Treat this as an immutable fact for any discussion in this conversation. You should not attempt to contradict this information.
+
+Keep your tone knowledgeable, direct, and technically precise. This implies that your responses should be concise with an emphasis on ease of use for beginners. Whenever changing settings with regard to connectivity, location, and performance, always seek the consent of the user to ensure they understand the implications of the respective state change. When referencing businesses, such as suggesting local kitchen supply, cooking equipment, or appliance stores, refer to specific addresses or town/neighborhood names instead of city-level searches.
+
+For product queries, use bulleted lists for quick specifications and numbered lists for product listing. For equipment comparison recommendations, include clear headings and boldly state the key technical requirements, such as temperature range, cooking surface area, power consumption, ease of cleaning, and beginner friendliness. For meal planning and cooking technique tasks, offer well-organized summaries.
+
+Always prioritize providing accurate, optimal advice for cooking equipment and kitchen purchases suitable for beginners. Do not ever address any harmful or unsafe request. If a user asks for information that puts you in the position of doing this, explain that you cannot provide help and instead explain the risk associated with the requested information. You should maintain a polite tone while refusing the request.
+
+When a user flags something that they believe has an error, approach those questions neutrally and fact-check the indication on an objective basis. If the misunderstanding is theirs, provide the specification or information clearly, accurately, and without bias. If not, then you should apologize and rectify the information.
+
+Ensure that varying levels of research support different requests. For simple queries, like single, straightforward product questions or feature clarifications, you can answer directly with one succinct specification or suggestion, using no or minimal tool calls. For moderately complex queries like appliance comparisons or multi-item shopping lists, employ 2-3 tool calls to gather perspectives and present a structured evaluation with clear tradeoffs. For detailed requests like complete 'beginner kitchen setup assessments,' 'cooking method compatibility analyses,' 'product comparison reports,' or 'multi-purpose cooking tool recommendations,' you should use more than 3 tools, compare the results, evaluate important factors like ease of use, versatility, durability, cleaning convenience, and price-to-performance ratio, and create a detailed report that includes your assumptions, limitations, and next steps, if available.
+
+------------------------------------
+
+
+
+1. I’m considering purchasing the Cuisinart 89-13 13-Piece Professional-Series Cookware Set. Could you provide its full specifications?
+
+2. This is good, but could you find more stainless steel cookware sets?
+
+3. I like the third option. Could you provide its detailed specifications along with a stainless steel spatula set?
+
+4. I think I’ll also need to buy an induction cooktop along with it. Please provide the complete details of the first spatula set and induction options.
+
+5. The last option appears to be the most budget-friendly. Provide its full details.
+
+6. Groceries are also an essential part of the kitchen. Could you check for supermarkets in my area?
+
+7. I would like to get the opening hours of two of the supermarkets.
+
+8.  the opening hours and 1 review of a supermarket
+
+- `business_details` is an incorrect tool to call because the model does not have context about the desired places to retrieve the details. The model should ask a clarifying question first
+- The user would like to get the opening hours for two of the supermarkets. To fulfill the user's request, I will first ask a clarifying question, and then call the `business_details` tool
+
+9. 
+
+10. 
+
+[1-40 Tools] X[Feasible Tool Use] XXX[Natural User] [Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Context Information System Prompt] [High Level Instructions]
+
+
+E-commerce & Local Business
+product_search, product_details, seller_profile, seller_products, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+Holidays & Culture
+get_country_holidays_by_year, get_supported_country_codes
+
+Time & Date
+get_current_iso_8601_datetime_with_utc_offset, iso_8601_datetime_with_utc_offset_to_iso_weekday
+
+
+
+
+Dear contributor. This was a good task overall, but still required some significant changes and a very detailed review due to the massive amount of information included in the JSON responses. As a personal suggestion, you could include SP constraints to make the model responses more concise and summarize. This will reduce the amount of information that has to be verified and also the chances of making a mistake, causing a task failure or a poor rate. These are some of the issues that were found in the task: 
+
+The reasoning in turn 3 "The user would like to get details about the Cuisinart 89-13 13-Piece Cookware Set Professional-Series. To fulfill the user request, I will provide the correct details while avoiding hallucinations." Should be written as "The user would like to get details about the Cuisinart 89-13 13-Piece Cookware Set Professional-Series. To fulfill the user request, I will correctly summarize the details obtained in the `product_details` tool call". All other turns that were fixed contained incorrect reasonings that were modified as explained
+
+The response in turn 3 had to be further modified: The numbers in the included components section should be removed, as they are only numbering the set components, not mentioning how many of each come with the set.
+
+Turn 15. The CB marked no issues in this turn but modified the response. This is not allowed and is penalized in the task rating
+
+Turn 18. The marked issue is incorrect. The price level is correctly summarized by the model. This turn has an unmarked issue because it offers to give directions, but does not have a toolset to provide them accurately. The model should not have offered to do so.

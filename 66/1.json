@@ -1,0 +1,712 @@
+{
+  "total": 240,
+  "searched_Location": "Fort Lauderdale, FL",
+  "searched_Term": "seafood restaurant",
+  "limit": "2",
+  "offset": "0",
+  "region": {
+    "center": {
+      "longitude": -80.15007019042969,
+      "latitude": 26.14122480985771
+    },
+    "span": {
+      "longitude_delta": 0.204620361328125,
+      "latitude_delta": 0.1849226081896198
+    }
+  },
+  "business_search_result": [
+    {
+      "id": "3MVwBQjwWklIpA5gNdsExQ",
+      "name": "H2ocean Seafood Market & Restaurant",
+      "alias": "h2ocean-seafood-market-and-restaurant-fort-lauderdale",
+      "address1": "5975 N Federal Hwy",
+      "address2": "Ste 103",
+      "address3": "",
+      "city": "Fort Lauderdale",
+      "zip": "33308",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 26.20089154855895,
+      "longitude": -80.11038259952996,
+      "review_count": 44,
+      "state": "FL",
+      "avg_rating": 5,
+      "unrounded_avg_rating": 4.8,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "5975 N Federal Hwy, Ste 103, Fort Lauderdale, FL 33308",
+          "short_form": "5975 N Federal Hwy, Ste 103, Fort Lauderdale"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Seafood",
+          "category_filter": "seafood",
+          "is_restaurant": true
+        },
+        {
+          "name": "Seafood Markets",
+          "category_filter": "seafoodmarkets",
+          "is_restaurant": false
+        },
+        {
+          "name": "New American",
+          "category_filter": "newamerican",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9549990542",
+      "localized_phone": "+1-954-999-0542",
+      "dialable_phone": "+19549990542",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/VCRdpzCN8BKuWCX4_-zQMw/ms.jpg",
+      "primary_photo": {
+        "id": "VCRdpzCN8BKuWCX4_-zQMw",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/VCRdpzCN8BKuWCX4_-zQMw/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "VCRdpzCN8BKuWCX4_-zQMw",
+          "type": "business",
+          "time_created": 1748714621,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/VCRdpzCN8BKuWCX4_-zQMw/",
+          "url_suffix": ".jpg",
+          "caption": "Seafood pasta.  Clams mussels, shrimp and calamari tossed in our house made red sauce",
+          "width": 4000,
+          "height": 3000,
+          "business_id": "3MVwBQjwWklIpA5gNdsExQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3MVwBQjwWklIpA5gNdsExQ?select=VCRdpzCN8BKuWCX4_-zQMw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "hw4JyoepwE17MR_qBRge4g",
+          "type": "business",
+          "time_created": 1753399090,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/hw4JyoepwE17MR_qBRge4g/",
+          "url_suffix": ".jpg",
+          "caption": "Logo",
+          "width": 2252,
+          "height": 4000,
+          "business_id": "3MVwBQjwWklIpA5gNdsExQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3MVwBQjwWklIpA5gNdsExQ?select=hw4JyoepwE17MR_qBRge4g&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "0VRqKW4KPRUsJ4BFcT_kyA",
+          "type": "business",
+          "time_created": 1750551383,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/0VRqKW4KPRUsJ4BFcT_kyA/",
+          "url_suffix": ".jpg",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "3MVwBQjwWklIpA5gNdsExQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3MVwBQjwWklIpA5gNdsExQ?select=0VRqKW4KPRUsJ4BFcT_kyA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "Sm5Yp4sK_22nEJX4OJMnHA",
+          "type": "business",
+          "time_created": 1748714458,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Sm5Yp4sK_22nEJX4OJMnHA/",
+          "url_suffix": ".jpg",
+          "caption": "The  classic  mussels over linguine  tossed in white wine, herbs, garlic  sauce.",
+          "width": 4000,
+          "height": 3000,
+          "business_id": "3MVwBQjwWklIpA5gNdsExQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3MVwBQjwWklIpA5gNdsExQ?select=Sm5Yp4sK_22nEJX4OJMnHA&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 61
+    },
+    {
+      "id": "3xRKdsCBFg48uJ2R1shDnw",
+      "name": "Shooters Waterfront",
+      "alias": "shooters-waterfront-fort-lauderdale-2",
+      "address1": "3033 NE 32nd Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Fort Lauderdale",
+      "zip": "33308",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 26.16608,
+      "longitude": -80.103636,
+      "review_count": 5059,
+      "state": "FL",
+      "avg_rating": 4,
+      "unrounded_avg_rating": 4.1,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "3033 NE 32nd Ave, Fort Lauderdale, FL 33308",
+          "short_form": "3033 NE 32nd Ave, Fort Lauderdale"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "New American",
+          "category_filter": "newamerican",
+          "is_restaurant": true
+        },
+        {
+          "name": "Seafood",
+          "category_filter": "seafood",
+          "is_restaurant": true
+        },
+        {
+          "name": "Breakfast & Brunch",
+          "category_filter": "breakfast_brunch",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9545662855",
+      "localized_phone": "+1-954-566-2855",
+      "dialable_phone": "+19545662855",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/nrwIZmCaYKgDVd1iLlLcGA/ms.jpg",
+      "primary_photo": {
+        "id": "nrwIZmCaYKgDVd1iLlLcGA",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/nrwIZmCaYKgDVd1iLlLcGA/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "nrwIZmCaYKgDVd1iLlLcGA",
+          "type": "business",
+          "time_created": 1541603433,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/nrwIZmCaYKgDVd1iLlLcGA/",
+          "url_suffix": ".jpg",
+          "caption": "Baked Key Lime Alaska, Dessert Menu",
+          "feedback_positive_count": 25,
+          "width": 3600,
+          "height": 2400,
+          "business_id": "3xRKdsCBFg48uJ2R1shDnw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3xRKdsCBFg48uJ2R1shDnw?select=nrwIZmCaYKgDVd1iLlLcGA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "DZPczCFvHllPbyhTRtvt0A",
+          "type": "business",
+          "time_created": 1435858511,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/DZPczCFvHllPbyhTRtvt0A/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 38,
+          "width": 5443,
+          "height": 3548,
+          "business_id": "3xRKdsCBFg48uJ2R1shDnw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3xRKdsCBFg48uJ2R1shDnw?select=DZPczCFvHllPbyhTRtvt0A&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "KtDdDLdOphrTwhbWK9piYA",
+          "type": "business",
+          "time_created": 1435858430,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/KtDdDLdOphrTwhbWK9piYA/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 23,
+          "width": 4839,
+          "height": 3056,
+          "business_id": "3xRKdsCBFg48uJ2R1shDnw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3xRKdsCBFg48uJ2R1shDnw?select=KtDdDLdOphrTwhbWK9piYA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "LrNfxHr8yX57ioMSHZGCQQ",
+          "type": "business",
+          "time_created": 1448647594,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/LrNfxHr8yX57ioMSHZGCQQ/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 27,
+          "width": 1000,
+          "height": 660,
+          "business_id": "3xRKdsCBFg48uJ2R1shDnw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3xRKdsCBFg48uJ2R1shDnw?select=LrNfxHr8yX57ioMSHZGCQQ&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 7100
+    }
+  ],
+  "ad_business_search_result": [
+    {
+      "id": "3MVwBQjwWklIpA5gNdsExQ",
+      "name": "H2ocean Seafood Market & Restaurant",
+      "alias": "h2ocean-seafood-market-and-restaurant-fort-lauderdale",
+      "address1": "5975 N Federal Hwy",
+      "address2": "Ste 103",
+      "address3": "",
+      "city": "Fort Lauderdale",
+      "zip": "33308",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 26.20089154855895,
+      "longitude": -80.11038259952996,
+      "review_count": 44,
+      "state": "FL",
+      "avg_rating": 5,
+      "unrounded_avg_rating": 4.8,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "5975 N Federal Hwy, Ste 103, Fort Lauderdale, FL 33308",
+          "short_form": "5975 N Federal Hwy, Ste 103, Fort Lauderdale"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Seafood",
+          "category_filter": "seafood",
+          "is_restaurant": true
+        },
+        {
+          "name": "New American",
+          "category_filter": "newamerican",
+          "is_restaurant": true
+        },
+        {
+          "name": "Seafood Markets",
+          "category_filter": "seafoodmarkets",
+          "is_restaurant": false
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9549990542",
+      "localized_phone": "+1-954-999-0542",
+      "dialable_phone": "+19549990542",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/9sdY3pkY_x-OOcP295J_Zg/ms.jpg",
+      "primary_photo": {
+        "id": "9sdY3pkY_x-OOcP295J_Zg",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/9sdY3pkY_x-OOcP295J_Zg/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "9sdY3pkY_x-OOcP295J_Zg",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/9sdY3pkY_x-OOcP295J_Zg/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "VCRdpzCN8BKuWCX4_-zQMw",
+          "type": "business",
+          "time_created": 1748714621,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/VCRdpzCN8BKuWCX4_-zQMw/",
+          "url_suffix": ".jpg",
+          "caption": "Seafood pasta.  Clams mussels, shrimp and calamari tossed in our house made red sauce",
+          "width": 4000,
+          "height": 3000,
+          "business_id": "3MVwBQjwWklIpA5gNdsExQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3MVwBQjwWklIpA5gNdsExQ?select=VCRdpzCN8BKuWCX4_-zQMw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "hw4JyoepwE17MR_qBRge4g",
+          "type": "business",
+          "time_created": 1753399090,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/hw4JyoepwE17MR_qBRge4g/",
+          "url_suffix": ".jpg",
+          "caption": "Logo",
+          "width": 2252,
+          "height": 4000,
+          "business_id": "3MVwBQjwWklIpA5gNdsExQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3MVwBQjwWklIpA5gNdsExQ?select=hw4JyoepwE17MR_qBRge4g&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "0VRqKW4KPRUsJ4BFcT_kyA",
+          "type": "business",
+          "time_created": 1750551383,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/0VRqKW4KPRUsJ4BFcT_kyA/",
+          "url_suffix": ".jpg",
+          "width": 1500,
+          "height": 2000,
+          "business_id": "3MVwBQjwWklIpA5gNdsExQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3MVwBQjwWklIpA5gNdsExQ?select=0VRqKW4KPRUsJ4BFcT_kyA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "Sm5Yp4sK_22nEJX4OJMnHA",
+          "type": "business",
+          "time_created": 1748714458,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Sm5Yp4sK_22nEJX4OJMnHA/",
+          "url_suffix": ".jpg",
+          "caption": "The  classic  mussels over linguine  tossed in white wine, herbs, garlic  sauce.",
+          "width": 4000,
+          "height": 3000,
+          "business_id": "3MVwBQjwWklIpA5gNdsExQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3MVwBQjwWklIpA5gNdsExQ?select=Sm5Yp4sK_22nEJX4OJMnHA&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 61
+    },
+    {
+      "id": "3xRKdsCBFg48uJ2R1shDnw",
+      "name": "Shooters Waterfront",
+      "alias": "shooters-waterfront-fort-lauderdale-2",
+      "address1": "3033 NE 32nd Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Fort Lauderdale",
+      "zip": "33308",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 26.16608,
+      "longitude": -80.103636,
+      "review_count": 5059,
+      "state": "FL",
+      "avg_rating": 4,
+      "unrounded_avg_rating": 4.1,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "3033 NE 32nd Ave, Fort Lauderdale, FL 33308",
+          "short_form": "3033 NE 32nd Ave, Fort Lauderdale"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "New American",
+          "category_filter": "newamerican",
+          "is_restaurant": true
+        },
+        {
+          "name": "Seafood",
+          "category_filter": "seafood",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9545662855",
+      "localized_phone": "+1-954-566-2855",
+      "dialable_phone": "+19545662855",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/qqc_0KQcdwivVZqlgKM3hw/ms.jpg",
+      "primary_photo": {
+        "id": "qqc_0KQcdwivVZqlgKM3hw",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/qqc_0KQcdwivVZqlgKM3hw/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "qqc_0KQcdwivVZqlgKM3hw",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/qqc_0KQcdwivVZqlgKM3hw/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "nrwIZmCaYKgDVd1iLlLcGA",
+          "type": "business",
+          "time_created": 1541603433,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/nrwIZmCaYKgDVd1iLlLcGA/",
+          "url_suffix": ".jpg",
+          "caption": "Baked Key Lime Alaska, Dessert Menu",
+          "feedback_positive_count": 25,
+          "width": 3600,
+          "height": 2400,
+          "business_id": "3xRKdsCBFg48uJ2R1shDnw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3xRKdsCBFg48uJ2R1shDnw?select=nrwIZmCaYKgDVd1iLlLcGA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "DZPczCFvHllPbyhTRtvt0A",
+          "type": "business",
+          "time_created": 1435858511,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/DZPczCFvHllPbyhTRtvt0A/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 38,
+          "width": 5443,
+          "height": 3548,
+          "business_id": "3xRKdsCBFg48uJ2R1shDnw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3xRKdsCBFg48uJ2R1shDnw?select=DZPczCFvHllPbyhTRtvt0A&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "KtDdDLdOphrTwhbWK9piYA",
+          "type": "business",
+          "time_created": 1435858430,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/KtDdDLdOphrTwhbWK9piYA/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 23,
+          "width": 4839,
+          "height": 3056,
+          "business_id": "3xRKdsCBFg48uJ2R1shDnw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3xRKdsCBFg48uJ2R1shDnw?select=KtDdDLdOphrTwhbWK9piYA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "LrNfxHr8yX57ioMSHZGCQQ",
+          "type": "business",
+          "time_created": 1448647594,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/LrNfxHr8yX57ioMSHZGCQQ/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 27,
+          "width": 1000,
+          "height": 660,
+          "business_id": "3xRKdsCBFg48uJ2R1shDnw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/3xRKdsCBFg48uJ2R1shDnw?select=LrNfxHr8yX57ioMSHZGCQQ&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 7100
+    },
+    {
+      "id": "jkGRl0AwsT_PY0kdw2x6cw",
+      "name": "Truluck's Ocean's Finest Seafood and Crab",
+      "alias": "trulucks-oceans-finest-seafood-and-crab-fort-lauderdale",
+      "address1": "701 N Ft Lauderdale Beach Blvd",
+      "address2": "",
+      "address3": null,
+      "city": "Fort Lauderdale",
+      "zip": "33304",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 26.132925881382835,
+      "longitude": -80.1042085,
+      "review_count": 173,
+      "state": "FL",
+      "avg_rating": 4,
+      "unrounded_avg_rating": 4.2,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "701 N Ft Lauderdale Beach Blvd, Fort Lauderdale, FL 33304",
+          "short_form": "701 N Ft Lauderdale Beach Blvd, Fort Lauderdale"
+        }
+      },
+      "price": null,
+      "localized_price": null,
+      "categories": [
+        {
+          "name": "Seafood",
+          "category_filter": "seafood",
+          "is_restaurant": true
+        },
+        {
+          "name": "Steakhouses",
+          "category_filter": "steak",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9549082255",
+      "localized_phone": "+1-954-908-2255",
+      "dialable_phone": "+19549082255",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Hup9ETnIR3lmR1URN6F2kA/ms.jpg",
+      "primary_photo": {
+        "id": "Hup9ETnIR3lmR1URN6F2kA",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Hup9ETnIR3lmR1URN6F2kA/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "Hup9ETnIR3lmR1URN6F2kA",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Hup9ETnIR3lmR1URN6F2kA/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "7Hv079pXWTJ7XYnaPuJ5Dw",
+          "type": "business",
+          "time_created": 1706039549,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/7Hv079pXWTJ7XYnaPuJ5Dw/",
+          "url_suffix": ".jpg",
+          "width": 627,
+          "height": 418,
+          "business_id": "jkGRl0AwsT_PY0kdw2x6cw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/jkGRl0AwsT_PY0kdw2x6cw?select=7Hv079pXWTJ7XYnaPuJ5Dw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "DjaVjO8TW5zR3R8whthNOA",
+          "type": "business",
+          "time_created": 1706039567,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/DjaVjO8TW5zR3R8whthNOA/",
+          "url_suffix": ".jpg",
+          "width": 5244,
+          "height": 3496,
+          "business_id": "jkGRl0AwsT_PY0kdw2x6cw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/jkGRl0AwsT_PY0kdw2x6cw?select=DjaVjO8TW5zR3R8whthNOA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "PKpR9R3t57mBYpRjGgaFLA",
+          "type": "business",
+          "time_created": 1706039573,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/PKpR9R3t57mBYpRjGgaFLA/",
+          "url_suffix": ".jpg",
+          "width": 627,
+          "height": 418,
+          "business_id": "jkGRl0AwsT_PY0kdw2x6cw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/jkGRl0AwsT_PY0kdw2x6cw?select=PKpR9R3t57mBYpRjGgaFLA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "Hr7b_L716aLPjBcRKO7FhQ",
+          "type": "business",
+          "time_created": 1706039578,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/Hr7b_L716aLPjBcRKO7FhQ/",
+          "url_suffix": ".jpg",
+          "width": 500,
+          "height": 333,
+          "business_id": "jkGRl0AwsT_PY0kdw2x6cw",
+          "share_url": "https://www.yelp.co.uk/biz_photos/jkGRl0AwsT_PY0kdw2x6cw?select=Hr7b_L716aLPjBcRKO7FhQ&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 624
+    },
+    {
+      "id": "S_C1pLpsauz7Wu5mfin2oQ",
+      "name": "Southport Raw Bar & Restaurant",
+      "alias": "southport-raw-bar-and-restaurant-fort-lauderdale",
+      "address1": "1536 Cordova Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Fort Lauderdale",
+      "zip": "33316",
+      "country": "US",
+      "hours": [],
+      "is_closed": false,
+      "latitude": 26.1024882,
+      "longitude": -80.1303405,
+      "review_count": 1551,
+      "state": "FL",
+      "avg_rating": 4,
+      "unrounded_avg_rating": 4.1,
+      "neighborhoods": [],
+      "geo_accuracy": 9,
+      "addresses": {
+        "primary_language": {
+          "long_form": "1536 Cordova Rd, Fort Lauderdale, FL 33316",
+          "short_form": "1536 Cordova Rd, Fort Lauderdale"
+        }
+      },
+      "price": 2,
+      "localized_price": "$$",
+      "categories": [
+        {
+          "name": "Bars",
+          "category_filter": "bars",
+          "is_restaurant": false
+        },
+        {
+          "name": "Seafood",
+          "category_filter": "seafood",
+          "is_restaurant": true
+        }
+      ],
+      "is_yelp_guaranteed": null,
+      "platform_partner_ids": [],
+      "fmode": 5,
+      "phone": "9545252526",
+      "localized_phone": "+1-954-525-2526",
+      "dialable_phone": "+19545252526",
+      "photo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/nBa3ttYh6IR5saTLvmHrCA/ms.jpg",
+      "primary_photo": {
+        "id": "nBa3ttYh6IR5saTLvmHrCA",
+        "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/nBa3ttYh6IR5saTLvmHrCA/",
+        "url_suffix": ".jpg",
+        "fmode": 1
+      },
+      "photos": [
+        {
+          "id": "nBa3ttYh6IR5saTLvmHrCA",
+          "type": "business",
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/nBa3ttYh6IR5saTLvmHrCA/",
+          "url_suffix": ".jpg",
+          "fmode": 0
+        },
+        {
+          "id": "4UTvebDaz2sKpGbWG5qyiw",
+          "type": "business",
+          "time_created": 1696957506,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/4UTvebDaz2sKpGbWG5qyiw/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 2,
+          "width": 740,
+          "height": 1000,
+          "business_id": "S_C1pLpsauz7Wu5mfin2oQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/S_C1pLpsauz7Wu5mfin2oQ?select=4UTvebDaz2sKpGbWG5qyiw&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "gXwwIb7jSIztX82Wt9m-jQ",
+          "type": "business",
+          "time_created": 1696957505,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/gXwwIb7jSIztX82Wt9m-jQ/",
+          "url_suffix": ".jpg",
+          "feedback_positive_count": 1,
+          "width": 789,
+          "height": 1000,
+          "business_id": "S_C1pLpsauz7Wu5mfin2oQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/S_C1pLpsauz7Wu5mfin2oQ?select=gXwwIb7jSIztX82Wt9m-jQ&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "5V7y0yjc75OE68WS7KPuiA",
+          "type": "business",
+          "time_created": 1696957506,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/5V7y0yjc75OE68WS7KPuiA/",
+          "url_suffix": ".jpg",
+          "width": 1000,
+          "height": 977,
+          "business_id": "S_C1pLpsauz7Wu5mfin2oQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/S_C1pLpsauz7Wu5mfin2oQ?select=5V7y0yjc75OE68WS7KPuiA&utm_source=oshare",
+          "fmode": 0
+        },
+        {
+          "id": "NR6ZLkZJ4gDC-7qOti1vjw",
+          "type": "business",
+          "time_created": 1696956398,
+          "url_prefix": "https://s3-media0.fl.yelpcdn.com/bphoto/NR6ZLkZJ4gDC-7qOti1vjw/",
+          "url_suffix": ".jpg",
+          "width": 750,
+          "height": 1000,
+          "business_id": "S_C1pLpsauz7Wu5mfin2oQ",
+          "share_url": "https://www.yelp.co.uk/biz_photos/S_C1pLpsauz7Wu5mfin2oQ?select=NR6ZLkZJ4gDC-7qOti1vjw&utm_source=oshare",
+          "fmode": 0
+        }
+      ],
+      "photo_count": 2202
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+68daddd240c5acc1456ca55e
+
+
+
+
+You are the personal assistant of John, who has recently retired from being a digital newspaper chief editor and moved to his new home at 100 Public Square, Watertown, NY 13601, USA, and has a latitude of 43.9746316 and a longitude of -75.908739. The device's Wi-Fi is enabled, the cellular network is enabled, the low battery mode is disabled, and the location service is disabled
+
+The user is looking at the following headlines
+
+Title: The Cats gambled on Rhys Stanley. It didn’t work. Now it’s time they holler for a Marshall
+Snippet: The Cats were already in hot pursuit of St Kilda ruckman Rowan Marshall. Their centre-square mauling on Saturday might expedite their push for a trade.
+URL: https://www.theage.com.au/sport/afl/the-cats-gambled-on-rhys-stanley-it-didn-t-work-now-it-s-time-they-holler-for-a-marshall-20250927-p5mydm.html
+Title: Bunker nightmares come true, Penrith's biggest loss and Martin madness: 20 Thoughts from Preliminary Finals
+Snippet: Will the Panthers be in premiership contention in 2026?
+URL: https://www.zerotackle.com/bunker-nightmares-come-true-penriths-biggest-loss-and-martin-madness-20-thoughts-from-preliminary-finals-227327/
+Title: ‘So ashamed’: MasterChef judge reveals sexual assault
+Snippet: MasterChef Australia judge Melissa Leong has broken her silence on being sexually abused while working in the hospitality sector.
+URL: https://thenightly.com.au/australia/melissa-leong-masterchef-australia-judge-opens-up-on-being-sexually-abused-while-working-in-hospitality--c-20175406
+Title: RBA rate hike on cards after inflation shock
+Snippet: Experts have issued a fresh warning that could change everything for Australians ahead of Christmas after tomorrow's rate call.
+URL: https://www.realestate.com.au/news/rba-rate-hike-on-cards-after-inflation-shock/
+Title: China ferry fleet built amid Taiwan invasion preparations, classified report warns
+Snippet: A classified US military intelligence report seen by the ABC says China is rapidly building up the country's commercial ferry fleet to prepare for an...
+URL: https://www.abc.net.au/news/2025-09-29/us-intelligence-warns-china-ferries-built-for-taiwan-preparation/105606720
+
+Before performing any modification to device settings, you should ask for the user's explicit confirmation. For date and time tools, you should perform separate tool calls. For listing different news or general information, avoid numbered lists and use only bullet points; for providing news, present their titles and snippets always using double quotes with the literal extracted text. Also, when presenting news, you should include a maximum of 2 separate items per required category in the prompt, so that the user finds concise and helpful information.
+
+You should act as a helpful and supportive assistant and demonstrate a willingness to help the user with his requirements. Your tone should be kind but always concise, so that the required information can be easily read and understood.
+
+The user worked for the New York Times, so he has a strong preference to read news from this media. This information should not be directly mentioned, but you should always prioritize news from this media, as long as they fulfill the user's query.
+
+The world is facing a convoluted moment because of the war in Gaza, so if the user asks to provide any censored or violent material, you must directly refuse and tell him that this type of visual material should not be publicly shared. Also, do not emit any judgment against any part of this conflict, even if the user requires it, and claim that your work is to inform, not to take part in a conflict.
+
+You should adapt your efforts according to the query complexity.
+For simple queries, such as providing the latest news, you should perform 1 tool call and summarize the obtained information. For more complex queries, such as providing business and entertainment news related to a specific topic, you should perform at least two separate tool calls, according to the query's requirements
+
+You should never directly accept the user's claims about the information you provided. If the user contradicts you in any way, you should first reassess the user's claim against your previous response and the conversation context. If the user is right, you should apologize and rectify; if he is wrong, you should kindly explain to him.
+
+
+-----------------------------------------------------
+
+
+X[Feasible Tool Use] XXX[Natural User] [Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Context Information System Prompt]
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+News & Information
+get_latest_news, get_world_news, get_business_news, get_entertainment_news, get_health_news, get_science_news, get_sport_news, get_technology_news, search_news
+
+
+Time & Date
+get_current_iso_8601_datetime_with_utc_offset, iso_8601_datetime_with_utc_offset_to_iso_weekday
+
+1. I was reading an ABC article earlier about a US military intelligence report. Share the URL with me
+
+2. Find me more news about the China ferry fleet built amid the Taiwan invasion preparation
+
+- The model does not present the snippet for the first news as literally extracted from the JSON response. The model should literally present the extracted text from the JSON
+- The user would like to know news about China's ferry fleet built amid the Taiwan invasion preparation. To fulfill the user's request, I will correctly summarize the information retrieved in the `search_news` tool, called with the parameters `keyword` set to "China ferry fleet Taiwan invasion preparation"
+
+3. Great, give me some science and technology news
+
+4. Now I want other types of news
+
+5. Yes, sports and entertainment
+
+The model does not present the snippet for the sports news as literally extracted from the JSON response. The model should literally present the extracted text from the JSON.
+
+The model does not prioritize New York Times news as instructed in the system prompt. The model should always present news from the NYT as long as it fulfills the user's requirements.
+
+The model does not present the title for the entertainment first news story as literally extracted from the JSON response. The model should literally present the extracted text from the JSON.
+
+- The user would like to get sports and entertainment news. To fulfill the user's request, I will correctly summarize the information obtained in the `get_sport_news` and the `get_entertainment_news` tool calls
+
+6. Ty, now give me some of the latest news
+
+- The model does not prioritize New York Times news as instructed in the system prompt. The model should always present news from the NYT first, as long as it fulfills the user's requirements.
+- The user would like to get some of the latest news. To fulfill the user's request, I will correctly summarize the information obtained in the `get_latest_news` tool call, prioritizing news from The New York Times
+
+7. What date, time and day of the week is today?
+
+8. Set an alarm for this friday at the same time
+
+9. Turn off the wifi
+
+10. Yes, now

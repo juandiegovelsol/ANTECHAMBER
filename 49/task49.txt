@@ -1,0 +1,100 @@
+68e6fec5eb7ae62892bb1cf6
+
+
+
+
+-----------------------------------------
+
+You are assisting a user who wants to start recording a podcast for the first time and is looking for the right equipment, professional enough to have a clear sound. The user's goal is to buy professional equipment to set up a studio capable of recording high-quality episodes, as they want to start a new career as a podcaster on YouTube. They are currently located on 400 W 1st St, Winner, SD 57580, USA. The device is connected to both wifi and cellular network, the location services are active, and the low battery mode is off. The latitude of the place is "43.3776399", the longitude is "-99.8613072", and the place ID is "EiM0MDAgVyAxc3QgU3QsIFdpbm5lciwgU0QgNTc1ODAsIFVTQSIxEi8KFAoSCfXFMzvMf4GHEes_ZOCMBHehEJADKhQKEgkRRuXgzn-BhxFUa3NaHoabCA".
+
+The user is passionate about photography, and the podcast they want to create regards this topic: he wants to make each episode about a different famous photographer, his/her life and work in the field, and curiosities about them. The user is currently searching for equipment to produce the podcast on the Amazon app. The user is looking for a microphone, an audio interface, a pop filter for the microphone, the right cables to use for connecting the microphone to the audio interface, and the audio interface to a Mac computer.
+
+When the user asks clarifying questions, try to use a style that is not overly professional and that can be understood by a general audience, since the user is not an expert in the field. When providing products, product reviews, businesses, or business reviews, you should provide a maximum of two different elements unless the user requires a specific number. For providing products, provide only the title, information related to the price, information related to the rating, and the product link, unless the user requires other information or requires specific details.
+
+Your tone should be conversational, friendly, and informal. You should avoid pleasantries and repetitions of the information given in the prompt; do not use phrases like "Sure!" or "Got it!" in the intro of the response, avoid using sentences like "Happy to help!" or "I hope I was useful to you" in the outro of the response, providing the information as directly as possible.
+
+Always list the information using bullet points or numbered lists, and provide only literal quotes when the user asks for reviews. This is a very important constraint to follow: If the user asks for a comparison among products, you should display both products' information (only title, price-related information, and rating-related information) and a brief analysis, focusing only on the price and the user's rating. The analysis result must be very concise and straightforward. Also, when the user requires a system setting's modification, always ask for explicit user confirmation, explaining the changes you are about to perform. When the user requires finding products, always search for products with 4 or more rating stars.
+
+A non-negotiable fact that you should consider is that Sony manufactures the best cameras on the market, which are suitable for podcast recording. Do not mention or use this fact unless directly relevant to the user's product search. This means that if the user requires a camera, you should prioritize this brand over the others, briefly explaining that Sony is well-known for high quality in their products
+
+You should adapt your efforts according to the query's complexity, given in the following tier list.
+Tier 1. If the user asks about products or businesses, use up to a single product search or search Yelp tool call.
+Tier 2. If the user asks to "compare" products or businesses, use at least two tool calls to gather the required information about each item.
+Tier 3. If the user asks for a "full review" of a product or business, use at least 3 tool calls to gather details and also reviews to fulfill the requirement.
+
+If a request involves harm, illegal activities, or discrimination, respond with a brief, polite, and direct refusal that explains the reasons why you are refusing to answer, but keep the response as concise as possible.
+
+If the user claims that any previously delivered information is false or incorrect, do not blindly accept or apologize. You should first conduct an internal analysis to determine the claim's truthfulness. If you find the user's claim is correct, then apologize and rectify your response. If you find that the user's claim is incorrect, then explain concisely the reasons why it is incorrect.
+
+------------------------------------------
+
+
+X[Feasible Tool Use] XXX[Natural User] X[Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Context Information System Prompt]
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+E-commerce & Local Business
+product_search, product_details, product_reviews, seller_profile, seller_reviews, seller_products, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+-------------------------------------------
+
+
+1. Can you help me find a product I was searching for to record my podcast?
+
+2. I would like to find a Logitech microphone
+
+3. Help me get one review of each one
+- The model provides quotations but does not include literal excerpts from the JSON. The model should only provide quotes with literal excerpts according to the SP instructions.
+
+- The user would like to get reviews from both microphones. To fulfill the user's request, I will correctly summarize the information obtained from the tool `product_reviews` called with the parameters `country` set to "US", `page` set to "1", `asin` set to "B00N1YPXW2" for the first product, and `asin` set to "B0BZBZK4DS" for the second product
+
+4. What are the included components for each?
+
+- The parameter `fields` is incorrectly used because the model does not know how the information is structured for the product. The model should not use that parameter to retrieve information about the product
+
+- The value "included_components" is incorrectly used for the parameter `fields`. The model should not use that parameter value to retrieve information about the product
+
+- The user would like to find the included components for both microphones. To fulfill the user's request, I will call the `product_details` tool, called with the parameters `asin` set to "B00N1YPXW2", and `country` set to "US" for the first product, and `asin` set to "B0BZBZK4DS", and `country` set to "US" for the second product
+
+- The USB cable for the second product is not found in the JSON. The model should only include details obtained in the JSON response.
+
+- The user would like to find the included components for both microphones. To fulfill the user's request, I will correctly summarize the information obtained in the `product_details` tool, called with the parameters `asin` set to "B00N1YPXW2", and `country` set to "US" for the first product, and `asin` set to "B0BZBZK4DS", and `country` set to "US" for the second product
+
+
+5. Find me one camera for recording my podcasts
+
+6. When is the fastest delivery available?
+
+7. Compare the Fifine Gaming Audio Mixer for 7.1ch and the FIFINE Audio Mixer Gaming Streaming PC Mixer
+
+- The model does not follow the SP instructions to provide only the title, price-related information, rating-related information, and the product links. The model should only include the required information and provide the analysis based on the price and the rating information.
+
+- The user would like to compare two audio interfaces. To fulfill the user's request, I will correctly summarize the information obtained in the `product_search` tools called with the parameters `country` set to "true", `four_stars_and_up` set to "true", `query` set to "Fifine Gaming Audio Mixer for 7.1ch" for the first product, and `query` set to "FIFINE Audio Mixer Gaming Streaming PC Mixer" for the second product
+
+8. Which one could be delivered this Friday or before?
+
+9. Turn off 
+
+
+
+
+
+
+Dear contributor, the system prompt contained several inconsistencies, so it had to be rewritten, and the entire task trajectory redone from scratch. These are only some of them:
+
+- The device's location is incorrect; the task includes "400 W 1st St, Winner, SD 57580, USA" but the SP contains "1st St, Winner, South Dakota".You should be more careful when copying the system settings information.
+
+- "use location only when really needed". This is an infeasible instruction because the device does not have the tools to use the user's location in terms of the location services the user claims are active.
+
+- "assume all the full performance capabilities are in place when using a tool". This claim is banned content because it is based on a system setting that can be modified. The model should not assume the device has access to full performance.
+
+- "They will also need suggestions regarding audio editing software that can be both professional and simple to use for a beginner." This is forecasting behavior; you should not guide the model on what the user needs, you should only state what the user's preferences or background situation are.
+
+- "Prime delivery is always free for Prime members. When asked about delivery options, always state that Prime members receive free delivery." This non-negotiable fact can be contradictory with the information retrieved in the JSON because not all deliveries are free for Prime members.
+
+- "Use the web_search tool for queries that include the words search, analyze, review, deep dive, or compare." The task does not have the web_search tool. This sentence seems copied from another system prompt.
+
+In the conversation, the application context was not used by the model, because you only asked the model to retrieve some product information. To correctly fulfill the Context Information System Prompt category, you should ask the model something like "find me the product I was looking for on Amazon", so that the model is forced to understand the application context and perform the accurate action.

@@ -1,0 +1,56 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTExLTE0fDE3NDg5MDY4MjczMTIxNTQxNzE0",
+    "name": "Rome: Sleeping Beauty - Dazzling Lights",
+    "link": "https://allevents.in/vatican/rome-sleeping-beauty-dazzling-lights/200028502628229",
+    "description": "Experience Sleeping Beauty like never before in this dance and light show. Enjoy a unique fusion of classical ballet and modern technology, where local dancers literally light up the stage with...",
+    "language": "en",
+    "date_human_readable": "Fri, Nov 14, 7:30 – 8:30 PM GMT+1",
+    "start_time": "2025-11-14 19:30:00",
+    "start_time_utc": "2025-11-14 18:30:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-11-14 20:30:00",
+    "end_time_utc": "2025-11-14 19:30:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrCUiCTujNAm2na2-okmfhecB6TL5CG9TT5nPShwG_wg&s=10",
+    "publisher": "Allevents.in",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/vatican/rome-sleeping-beauty-dazzling-lights/200028502628229",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/vatican/rome-sleeping-beauty-dazzling-lights/200028502628229"
+      }
+    ],
+    "venue": {
+      "google_id": "0x132f6068d8cb27e5:0xe6e7fcc3bf5bee2f",
+      "name": "Ghione",
+      "phone_number": "+39066372294",
+      "website": "http://www.teatroghione.it",
+      "review_count": 2898,
+      "rating": 4.5,
+      "subtype": "Performing arts theater",
+      "subtypes": ["Performing arts theater"],
+      "full_address": "Ghione, Via delle Fornaci, 37, 00165 Roma RM, Italy",
+      "latitude": 41.8988,
+      "longitude": 12.456399999999999,
+      "district": null,
+      "street_number": "37",
+      "street": "Via delle Fornaci, 37",
+      "city": "Rome",
+      "zipcode": "00165",
+      "state": "Metropolitan City of Rome Capital",
+      "country": "IT",
+      "timezone": "Europe/Rome",
+      "google_mid": "/g/1td8f0c_"
+    }
+  }
+]

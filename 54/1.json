@@ -1,0 +1,61 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI0fDE0NTc4ODAyMTgyMzQ3NDA0ODA=",
+    "name": "Friends In Fashion Rome - Fashion Networking Party",
+    "link": "https://www.eventbrite.co.uk/e/friends-in-fashion-rome-fashion-networking-party-tickets-1730354941209",
+    "description": "Style & Sound presents Friends In Fashion, a networking party for creatives who work in fashion",
+    "language": "en",
+    "date_human_readable": "Fri, Oct 24, 7 – 11 PM GMT+2",
+    "start_time": "2025-10-24 19:00:00",
+    "start_time_utc": "2025-10-24 17:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-24 23:00:00",
+    "end_time_utc": "2025-10-24 21:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8vMrntDxm2l7gOfbakSMLe82icmAYq2c78d9ABmPtQ&s=10",
+    "publisher": "Eventbrite.co.uk",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eventbrite.co.uk&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.eventbrite.co.uk",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.co.uk",
+        "link": "https://www.eventbrite.co.uk/e/friends-in-fashion-rome-fashion-networking-party-tickets-1730354941209",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://eventbrite.co.uk&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/roma/friends-in-fashion-rome-fashion-networking-party/100001730354941209",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Eventbrite.co.uk",
+        "link": "https://www.eventbrite.co.uk/e/friends-in-fashion-rome-fashion-networking-party-tickets-1730354941209"
+      }
+    ],
+    "venue": {
+      "google_id": "0x132f617b75a527cd:0x93dd5692ce764c1f",
+      "name": "Sala Posa Roma Boogie Studio",
+      "phone_number": "+393476116177",
+      "website": "http://www.boogiestudio.it",
+      "review_count": 16,
+      "rating": 4.6,
+      "subtype": "Photography studio",
+      "subtypes": ["Photography studio"],
+      "full_address": "Sala Posa Roma Boogie Studio, Piazzale Enrico Dunant, 48, 00152 Roma RM, Italy",
+      "latitude": 41.873140899999996,
+      "longitude": 12.458650599999999,
+      "district": null,
+      "street_number": "48",
+      "street": "Piazzale Enrico Dunant, 48",
+      "city": "Rome",
+      "zipcode": "00152",
+      "state": "Metropolitan City of Rome Capital",
+      "country": "IT",
+      "timezone": "Europe/Rome",
+      "google_mid": "/g/11gxx7jwnp"
+    }
+  }
+]
