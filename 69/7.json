@@ -1,0 +1,581 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTIyfDQwOTQ5OTI3ODQ3ODE3NDY0NjI=",
+    "name": "13th Annual South Beach Seafood Festival",
+    "link": "https://www.miamiandbeaches.com/event/south-beach-seafood-festival/10664",
+    "description": "To celebrate the October kickoff of Greater Miami & Miami Beach’s famed stone crab season, the South Beach Seafood Festival is throwing its 13th annual shindig with four days of fabulous VIP...",
+    "language": "en",
+    "date_human_readable": "Wed, Oct 22 – Sun, Oct 26",
+    "start_time": "2025-10-22 12:00:00",
+    "start_time_utc": "2025-10-22 12:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 12:00:00",
+    "end_time_utc": "2025-10-26 12:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuo_6dRtjfr6kSYuiSYmLtQWnqE6q62fcI0dGAJ0igA&s=10",
+    "publisher": "Greater Miami Convention & Visitors Bureau",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.miamiandbeaches.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.miamiandbeaches.com",
+    "ticket_links": [
+      {
+        "source": "Sobeseafoodfest.com",
+        "link": "https://sobeseafoodfest.com/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://sobeseafoodfest.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/south-beach-seafood-festival-2025-tickets-1257561934599",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "The Boca Raton Observer",
+        "link": "https://bocaratonobserver.com/locations/lummus-park/",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bocaratonobserver.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Miami International Airport Hotel",
+        "link": "https://www.miahotel.com/events/miami-beach/south-beach-seafood-festival-10427374",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://miahotel.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Greater Miami Convention & Visitors Bureau",
+        "link": "https://www.miamiandbeaches.com/event/south-beach-seafood-festival/10664",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://miamiandbeaches.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Bocaratonobserver.com",
+        "link": "https://bocaratonobserver.com/locations/lummus-park/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9b492365be4fb:0x945196b6422b1cb8",
+      "name": "Lummus Park",
+      "phone_number": null,
+      "website": "https://www.miamibeachfl.gov/city-hall/parks-and-recreation/parks-facilities-directory/lummus-park",
+      "review_count": 23397,
+      "rating": 4.7,
+      "subtype": "Park",
+      "subtypes": ["Park", "Tourist attraction"],
+      "full_address": "Lummus Park, 1130 Ocean Dr, Miami Beach, FL 33139",
+      "latitude": 25.7809553,
+      "longitude": -80.12994789999999,
+      "district": "Flamingo / Lummus",
+      "street_number": "1130",
+      "street": "1130 Ocean Dr",
+      "city": "Miami Beach",
+      "zipcode": "33139",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/m/0vp821d"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDcyOTQ3MzcwMDM5ODY1MzcxNzg=",
+    "name": "Miramar Food & Wine Festival",
+    "link": null,
+    "description": null,
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 9 PM – Sun, Oct 26, 3 AM",
+    "start_time": "2025-10-25 21:00:00",
+    "start_time_utc": "2025-10-25 21:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-26 03:00:00",
+    "end_time_utc": "2025-10-26 03:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96HlZoKomJoIGHPv-8c2gWuAjbW7OeR72L97--7GBYg&s=10",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/miramar-food-wine-festival-tickets-1711232786329",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/miramar/miramar-food-and-wine-festival/100001711232786329",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/miramar-food-wine-festival-tickets-1711232786329"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9a5c2d339cd49:0x22f46d8b4d0ac304",
+      "name": "2300 Civic Center Pl",
+      "phone_number": null,
+      "website": null,
+      "review_count": 0,
+      "rating": null,
+      "subtype": "Building",
+      "subtypes": ["Building"],
+      "full_address": "2300 Civic Center Pl, Miramar, FL 33025",
+      "latitude": 25.9870752,
+      "longitude": -80.30085299999999,
+      "district": null,
+      "street": null,
+      "city": null,
+      "zipcode": null,
+      "state": null,
+      "country": null,
+      "timezone": "America/New_York",
+      "google_mid": "/g/11b8v7717z"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDEwOTE5NTkwNDk3NjMyOTcxNzky",
+    "name": "Vegan Creole Festival",
+    "link": "https://www.miamiandbeaches.com/event/vegan-creole-festival/35398",
+    "description": "Creole flavors and plant-based cuisine come together for a day of food, music and family fun in North Miami. The Vegan Creole Festival , presented by the City of North Miami, takes place Saturday...",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 2 – 10 PM",
+    "start_time": "2025-10-25 14:00:00",
+    "start_time_utc": "2025-10-25 14:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 22:00:00",
+    "end_time_utc": "2025-10-25 22:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkv2qWuCX0zgLmKeVJmnxRthPKGOaBGL9sTfxbUgCEw&s=10",
+    "publisher": "Miamiandbeaches.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.miamiandbeaches.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.miamiandbeaches.com",
+    "ticket_links": [
+      {
+        "source": "Eventbrite.com",
+        "link": "https://www.eventbrite.com/e/vegan-creole-festival-tickets-1761945118279",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eventbrite.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Miami Beach",
+        "link": "https://www.miamiandbeaches.com/event/vegan-creole-festival/35398",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://miamiandbeaches.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Miamiandbeaches.com",
+        "link": "https://www.miamiandbeaches.com/event/vegan-creole-festival/35398"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9b1f9b32e27e5:0xb77a7f11117c2419",
+      "name": "Griffing Park",
+      "phone_number": "+13058959840",
+      "website": "https://www.northmiamifl.gov/315/Parks-Recreation",
+      "review_count": 242,
+      "rating": 4.3,
+      "subtype": "Park",
+      "subtypes": ["Park"],
+      "full_address": "Griffing Park, NE 123 Street and, W Dixie Hwy, North Miami, FL 33161",
+      "latitude": 25.887791399999998,
+      "longitude": -80.19057939999999,
+      "district": null,
+      "street_number": "123",
+      "street": "NE 123 Street and, W Dixie Hwy",
+      "city": "North Miami",
+      "zipcode": "33161",
+      "state": "FL",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/1tfmjmbx"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI0fDExMjU5MTIyNTE0MTQ5ODM1MjU0",
+    "name": "Seafood Slam",
+    "link": "https://www.timeout.com/miami/things-to-do/south-beach-seafood-festival",
+    "description": "Like seafood? If you're in South Florida, you don't have much of a choice. And even if your taste buds prefer to stay on land, South Beach Seafood festivities might convert you thanks to four...",
+    "language": "en",
+    "date_human_readable": "Fri, Oct 24, 7 PM – Sat, Oct 25, 1 PM",
+    "start_time": "2025-10-24 19:00:00",
+    "start_time_utc": "2025-10-24 19:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 13:00:00",
+    "end_time_utc": "2025-10-25 13:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-bZazyXIA4lFNWGL9KfR8XkYtZ31rTD26ezNpvYQbA&s=10",
+    "publisher": "Timeout.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timeout.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.timeout.com",
+    "ticket_links": [
+      {
+        "source": "Timeout.com",
+        "link": "https://www.timeout.com/miami/things-to-do/south-beach-seafood-festival",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://timeout.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Thegourmetclub.com",
+        "link": "https://thegourmetclub.com/event/save-20-south-beach-seafood-festival-seafood-slam-saturday-best-of-the-fest/",
+        "fav_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thegourmetclub.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Meetup",
+        "link": "https://www.meetup.com/geammia/events/310786679/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://meetup.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "LocalWineEvents.com",
+        "link": "https://www.localwineevents.com/view/event/save-20-percent-south-beach-seafood-festival-seafood-slam-best-of-the-fest/963212",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://localwineevents.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/miami-beach/south-beach-seafood-festival-seafood-slam-main-event/4400028973779133",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Timeout.com",
+        "link": "https://www.timeout.com/miami/things-to-do/south-beach-seafood-festival"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9b490525f3497:0x537d7bd0655fd806",
+      "name": "14th Street Public Restrooms",
+      "phone_number": null,
+      "website": null,
+      "review_count": 83,
+      "rating": 3.7,
+      "subtype": "Public bathroom",
+      "subtypes": ["Public bathroom"],
+      "full_address": "14th Street Public Restrooms, 1451 Ocean Dr, Miami Beach, FL 33139",
+      "latitude": 25.7851353,
+      "longitude": -80.1295282,
+      "district": null,
+      "street": null,
+      "city": null,
+      "zipcode": null,
+      "state": null,
+      "country": null,
+      "timezone": "America/New_York",
+      "google_mid": "/g/11clgry55l"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDk0MzcwMjUyNDg1MTQ2MjgzOTc=",
+    "name": "Margate Fall Festival",
+    "link": "https://local.aarp.org/dania-beach-fl/fall-festivals/",
+    "description": "The Fall Festival includes contests (Halloween costume, scarecrow building, pre-carved pumpkin contest), family friendly activities (haunted house, pony rides, glow party), and craft and food vendors.",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 6 – 10 PM",
+    "start_time": "2025-10-25 18:00:00",
+    "start_time_utc": "2025-10-25 18:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 22:00:00",
+    "end_time_utc": "2025-10-25 22:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "AARP Local",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://local.aarp.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "local.aarp.org",
+    "ticket_links": [
+      {
+        "source": "AARP Local",
+        "link": "https://local.aarp.org/tamarac-fl/food-festivals/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://aarp.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/margate/fall-festival-2025/200029055321536",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [null],
+    "venue": {
+      "google_id": "0x88d904a2fc8aea13:0xf4f9fa2575b33271",
+      "name": "Margate Sports Complex",
+      "phone_number": "+19549726458",
+      "website": "https://www.margatefl.com/494/Margate-Sports-Complex",
+      "review_count": 266,
+      "rating": 4.7,
+      "subtype": "Sports complex",
+      "subtypes": ["Sports complex", "Park"],
+      "full_address": "Margate Sports Complex, 1695 Banks Rd, Margate, FL 33063",
+      "latitude": 26.251595,
+      "longitude": -80.1961863,
+      "district": null,
+      "street_number": "1695",
+      "street": "1695 Banks Rd",
+      "city": "Margate",
+      "zipcode": "33063",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11b75gtjv_"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDE0NjM3MjEwMDczOTY3NDY0OTY=",
+    "name": "Food Trucks Festival",
+    "link": "https://raceroster.com/events/2025/107049/experience-dragon-boat-racing-miami-2025",
+    "description": "Experience Dragon Boat Racing - Miami 2025 Miami, FL, USA - Miami Experience Dragon Boat Racing with GWN Dragon BoatSo… - October 25, 2025",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 8 AM – 10 PM",
+    "start_time": "2025-10-25 08:00:00",
+    "start_time_utc": "2025-10-25 08:00:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 22:00:00",
+    "end_time_utc": "2025-10-25 22:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzrB9otu_VhVHjZYTTtCfqYO8K6d8LblIwyO6p-8AnQ&s=10",
+    "publisher": "Raceroster.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://raceroster.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "raceroster.com",
+    "ticket_links": [
+      {
+        "source": "Teamsosmiami.org",
+        "link": "https://www.teamsosmiami.org/events/miami-race/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://teamsosmiami.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Race Roster",
+        "link": "https://raceroster.com/events/2025/107049/experience-dragon-boat-racing-miami-2025",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://raceroster.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Nextdoor",
+        "link": "https://nextdoor.com/neighborhood/ameliapark--fernandina-beach--fl/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nextdoor.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Food Trucks Festival - The Miami Moms",
+        "link": "https://themiamimoms.com/event/19513/2025-10-25/",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://themiamimoms.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Facebook",
+        "link": "https://www.facebook.com/events/amelia-earhart-park/food-trucks-saturdays-at-amelia-earhart-park/733390289320254/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://facebook.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Raceroster.com",
+        "link": "https://raceroster.com/events/2025/107049/experience-dragon-boat-racing-miami-2025"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9b0082c241f3b:0x5fd60d3c7189a581",
+      "name": "Amelia Earhart Park",
+      "phone_number": "+13056858389",
+      "website": "http://www.miamidade.gov/parks/amelia-earhart.asp",
+      "review_count": 10582,
+      "rating": 4.6,
+      "subtype": "Park",
+      "subtypes": ["Park", "Tourist attraction"],
+      "full_address": "Amelia Earhart Park, 401 E 65th St, Hialeah, FL 33013",
+      "latitude": 25.8855187,
+      "longitude": -80.27424099999999,
+      "district": null,
+      "street_number": "401",
+      "street": "401 E 65th St",
+      "city": "Hialeah",
+      "zipcode": "33013",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/m/0b86mx"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI0fDE0NjIyMzA4MDY4ODE5MzMyNTA5",
+    "name": "Save 20 percent South Beach Seafood Festival VIP Chef Showdown",
+    "link": "https://www.localwineevents.com/view/event/save-20-percent-south-beach-seafood-festival-vip-chef-showdown/963210",
+    "description": "Join us Friday, Oct. 24 for the South Beach Seafood Festival VIP Chef Showdown at Lummus Park | Ocean Drive, Miami Beach | 7:00 11:00 PM!This is an All-Inclusive Experience: Indulge at 22...",
+    "language": "en",
+    "date_human_readable": "Fri, Oct 24",
+    "start_time": "2025-10-24 12:00:00",
+    "start_time_utc": "2025-10-24 12:00:00",
+    "start_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4d18c0O53j9GfMFSt3k8MVagIfwLD90pFoWzcTP3Pw&s=10",
+    "publisher": "Localwineevents.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.localwineevents.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.localwineevents.com",
+    "ticket_links": [
+      {
+        "source": "LocalWineEvents.com",
+        "link": "https://www.localwineevents.com/view/event/save-20-percent-south-beach-seafood-festival-vip-chef-showdown/963210",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://localwineevents.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Localwineevents.com",
+        "link": "https://www.localwineevents.com/view/event/save-20-percent-south-beach-seafood-festival-vip-chef-showdown/963210"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d9b4929c2087f3:0x38b877d723b6f8fe",
+      "name": "South Beach Seafood Festival",
+      "phone_number": "+13052553500",
+      "website": "http://www.sobeseafoodfest.com",
+      "review_count": 53,
+      "rating": 4.1,
+      "subtype": "Festival",
+      "subtypes": ["Festival"],
+      "full_address": "South Beach Seafood Festival, 1400 Ocean Dr, Miami Beach, FL 33139",
+      "latitude": 25.785318999999998,
+      "longitude": -80.130037,
+      "district": "Flamingo / Lummus",
+      "street_number": "1400",
+      "street": "1400 Ocean Dr",
+      "city": "Miami Beach",
+      "zipcode": "33139",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11csq7zfbb"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDE2ODI1MzgzMjgzNzgwMDU5MTcz",
+    "name": "Hispanic Heritage Festival – Celebrate Our Culture Together!",
+    "link": "https://allevents.in/wilton-manors/hispanic-heritage-festival-celebrate-our-culture-together/100001584024151879",
+    "description": "Join us for a vibrant night honoring the beauty, music, and flavors of Hispanic culture! About this Event This family-friendly celebration will fill the evening with colors, rhythms, and tastes...",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 5:30 – 11:00 PM",
+    "start_time": "2025-10-25 17:30:00",
+    "start_time_utc": "2025-10-25 17:30:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 23:00:00",
+    "end_time_utc": "2025-10-25 23:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotAPdYNxiiNKq_jKWZG8vwFT7mpIRtA2z-s2Xggtfg8A5bY53zCKWKCyE5w&s=10",
+    "publisher": "Allevents.in",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "allevents.in",
+    "ticket_links": [
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/wilton-manors/hispanic-heritage-festival-celebrate-our-culture-together/100001584024151879",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Allevents.in",
+        "link": "https://allevents.in/wilton-manors/hispanic-heritage-festival-celebrate-our-culture-together/100001584024151879"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d90190eac6d3f1:0xef3c0e5603d30510",
+      "name": "La Mexicana Taco Bar",
+      "phone_number": "+17547015977",
+      "website": "https://www.lamexicana.online",
+      "review_count": 3602,
+      "rating": 4.7,
+      "subtype": "Mexican restaurant",
+      "subtypes": [
+        "Mexican restaurant",
+        "Bar",
+        "Restaurant",
+        "Taco restaurant"
+      ],
+      "full_address": "La Mexicana Taco Bar, 2430 NE 13th Ave, Wilton Manors, FL 33305",
+      "latitude": 26.1581154,
+      "longitude": -80.1300431,
+      "district": null,
+      "street_number": "2430",
+      "street": "2430 NE 13th Ave",
+      "city": "Wilton Manors",
+      "zipcode": "33305",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/g/11cnb8yv3c"
+    }
+  },
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTI1fDEwMTgxODU0NjQzNjEzNzEzNzc3",
+    "name": "14th Annual Witches of Delray Bike Ride",
+    "link": "https://delraybeach.com/event-location/old-school-square/",
+    "description": "Witches, mount your brooms—it’s time to ride! Achievement Centers for Children & Families will host its 14th Annual Witches of Delray Beach Bike Ride on Saturday, October 25th. This year’s flight...",
+    "language": "en",
+    "date_human_readable": "Sat, Oct 25, 7:30 – 10:00 AM",
+    "start_time": "2025-10-25 07:30:00",
+    "start_time_utc": "2025-10-25 07:30:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-25 10:00:00",
+    "end_time_utc": "2025-10-25 10:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPSGzR-_Kpt0Qvmv4gInQ6eUmMR7WLcqO2dz2jtzk6_dUHCdtM7JTDoCa_g&s=10",
+    "publisher": "Delraybeach.com",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://delraybeach.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "delraybeach.com",
+    "ticket_links": [
+      {
+        "source": "Delray Beach Chamber of Commerce",
+        "link": "https://delraybeach.com/event-location/old-school-square/",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://delraybeach.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Old School Square",
+        "link": "https://delrayoldschoolsquare.com/events/halloween-kidsfest-at-old-school-square",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://delrayoldschoolsquare.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Mommy Poppins",
+        "link": "https://mommypoppins.com/miami-south-florida-kids/event/events/delray-beach-kidsfest",
+        "fav_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://mommypoppins.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "Facebook",
+        "link": "https://www.facebook.com/events/old-school-square/delray-beach-greenmarket/1435933714135875/",
+        "fav_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://facebook.com&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      },
+      {
+        "source": "AllEvents",
+        "link": "https://allevents.in/delray-beach/delray-beach-greenmarket/200029026292350",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allevents.in&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [
+      {
+        "source": "Delraybeach.com",
+        "link": "https://delraybeach.com/event-location/old-school-square/"
+      }
+    ],
+    "venue": {
+      "google_id": "0x88d8dfc32ea01e4b:0x791b205542ada9ef",
+      "name": "Old School Square",
+      "phone_number": null,
+      "website": "https://downtowndelraybeach.com/oldschoolsquare",
+      "review_count": 91,
+      "rating": 4.7,
+      "subtype": "Performing arts theater",
+      "subtypes": [
+        "Performing arts theater",
+        "Art museum",
+        "Art school",
+        "Live music venue",
+        "Wedding venue"
+      ],
+      "full_address": "Old School Square, 51 N Swinton Ave, Delray Beach, FL 33444",
+      "latitude": 26.4625147,
+      "longitude": -80.07262279999999,
+      "district": null,
+      "street_number": "51",
+      "street": "51 N Swinton Ave",
+      "city": "Delray Beach",
+      "zipcode": "33444",
+      "state": "Florida",
+      "country": "US",
+      "timezone": "America/New_York",
+      "google_mid": "/m/0b_hf2"
+    }
+  }
+]

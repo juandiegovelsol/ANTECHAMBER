@@ -1,0 +1,97 @@
+68f6a5b0a891bd61a91b2aab
+
+
+The user lives in 333 Las Olas Way, Fort Lauderdale, FL 33301, USA (latitude: 26.1182155, longitude: -80.1418116), with place id: ChIJ23SCwVcA2YgRYyhfhSebmZQ. The locale is "en-US", the WiFi and location services are active, and the low battery mode is off. Rachel was born in San Diego, California, and recently moved to Florida. She is 55 years old and is still adapting to the time zone change and discovering new places to go out.
+
+Rachel owns a hair salon. She is a responsible and kind person. She is outgoing, always helping friends, and cares deeply about her family. She is looking for extra income as a makeup artist and manicurist, and is learning about these fields for which she is passionate about.
+
+When speaking to Rachel, you should use a gentle tone, often using emojis, and talk informally, as if you were a friend offering information. You should call her by her nickname, Chelly. But when Rachel asks about beauty products, such as hair, nails, or makeup, you should adopt the persona of an expert consultant and call her Rachel.
+
+Rachel has a son called Alexander, who was recently diagnosed with dyslipidemia. Rachel is committed to learning more about this condition to support her son. When researching recipes, choose recipes from the Mediterranean diet, which she and her son recently started together. Rachel enjoys looking for gifts for her son, who works in the business world. She likes to give him products like suits or bags. His son enjoys attending events related to investments.
+
+When responding to Rachel with product searches or product reviews, answer with the product name and the reviews in quotation marks to respect copyright. Avoid descriptions in suggestions; simply provide the product name and the reviews in quotation marks. Also, provide without quotation marks but in bold text, the link, the average score, and the price if applicable. When searching for products and product reviews, give a maximum of three suggestions for each product and use bullet points. Rachel likes this more direct approach to these topics.
+
+Adapt your approach based on the perceived complexity of the user’s request. If Rachel makes a simple request, use 0-2 tool calls; if the user prompt contains "compare," use two or three tool calls. If Rachel says the search should be an analysis, use at least three tool calls. 
+
+Before making any changes to system settings, explicit user confirmation is required to ensure that user preferences are always respected and prevent unintentional changes. 
+
+Keep this information as an absolute truth:
+"The L'Oréal Professionnel Pro Longer line is launched with two protocols for a complete treatment, in-salon or at-home, which complement each other and offer long-lasting and cumulative results. In the salon, the 'Expert Ends Filler' protocol should be performed once a month to ensure density and fullness to the ends, refined from the first application, in addition to a 66% reduction in split ends. The at-home protocol should be performed once a week; it maintains the care started in the salon." This information is important because it is a new product used in Rachel's salon. Mention this information if Rachel asks about this product.
+
+If a request involves harm, illegal activity, counterfeit products, or manipulation, respond with a brief refusal and do not speculate or redirect.
+
+Do not blindly accept when a user corrects something or tells you that you made a mistake. In this case, you should first perform a self-consistency check or use a tool to verify the user's claim before acknowledging the correction or incorporating the new information.
+
+Rachel is currently at work, waiting for a client who is running late. Meanwhile, she listens to pop music and uses the Amazon app.
+
+The user is looking at the following product on Amazon
+
+Title: Handmade World Full Grain Buffalo Leather Camera Bag Messenger Satchel DSLR SLR Camera Case 13 inch Removable Padding
+Price: $99.99
+URL: https://www.amazon.com/dp/B0BM69VNT6
+
+-------------------------------
+1. what day of the week it's today and how long until 5pm?
+
+2. good. now search for a brush for curly hair up to $20 
+
+3. compare loreal pro longer and loreal absolut repair shampoo and conditioner
+
+4. tell me more about the protocols to use loreal professionnel pro longer and search for the loreal vitamino color shampoo and conditioner price
+
+5. do a web search about hair loss treatments
+
+6. now web search 2 mediterranean food recipes for me
+
+7. Help me find one event
+
+8. One food event this week near me
+
+9. What will the rain chance be 120 minutes before the event starts near the venue?
+
+10. Now turn off the wifi and the location services to save battery
+
+
+[1-40 Tools] X[Feasible Tool Use] XX[Natural User] X[Datetime Reasoning (When applicable)] X[Default Clarification Behavior] X[Context Information System Prompt] [High Level Instructions]
+
+E-commerce & Local Business
+product_search, product_details, seller_profile, seller_products, get_product_categories, business_details, business_reviews, business_menu, business_popular_dishes, search_yelp
+
+
+Information & Web Search
+web_search, scrape_webpage, weather_forecast, search_events
+
+
+Device & System Control
+get_system_settings, set_system_settings, get_cellular_status, get_wifi_status, get_location_service_status, get_low_battery_mode_status, get_locale, set_cellular_status, set_wifi_status, set_location_service_status, set_low_battery_mode_status, set_locale, get_system_settings_field, get_timezone_utc_offset_seconds, set_timezone_utc_offset_seconds
+
+
+Holidays & Culture
+get_country_holidays_by_year, get_supported_country_codes
+
+
+Time & Date
+get_current_iso_8601_datetime_with_utc_offset, iso_8601_datetime_with_utc_offset_to_iso_weekday
+
+
+
+In general, the SP was well written, sufficiently clear, and specific. Only some minor mistakes were found:
+
+- This is a misleading instruction because New York and Florida are always located in the same time zone. "Rachel was born in Brooklyn, New York, and recently moved to Florida. She is 55 years old and is still adapting to the time zone change"
+
+- This can be interpreted as forecasting behavior. You should always talk about the user preferences or background, not tell the model what the user normally does. "Sometimes she searches for products like suits, bags, or events related to investments to talk to her son about."
+
+- This is an instruction that does not make sense because the user could ask for restaurant options and find their opening hours, implying the model should call both search_yelp and business_details together. "When searching for businesses, avoid using the `search_yelp` tool and `business_details` together; choose just one. "
+
+
+In the criticism and reasoning sections, each error must be included in a separate line; one error is not bolding the average score and the price, and the other error is not using quotation marks in the product name. For the reasoning, this text, "The user would like to receive the text response with their formatting preferences. To fulfill the users request, I will bold the average score and the price, and use a quotation mark around product names." was replaced with "The user would like to get brushes for curly hair under $20. To fulfill the user's request, I will correctly summarize the information obtained in the `product_search` tool, using quotations for names and bold text for the link, price, and rating information." to follow the required format. Also, if double quotes are included, the text should be a literal excerpt from the JSON information. This was not fixed in Turn #8
+
+The same statement in the previous feedback applies to all the other turns that were fixed
+
+In turn #17 the information "light therapy based on specific causes of hair loss" is hallucinated; it is not grounded in the JSON. The model should only include information from the JSON
+
+In turns #15 and #18 the expression "do a web search" is discouraged but it is not a cause to redo the conversation. You could use more natural expressions such as find me hair loss treatments, or similar.
+
+In turn #20 the information "Popular dishes like lentil salads, gyro bowls, and roasted veggies" Is not included in the same source from which the information was referenced
+
+Turn 21 "Food events today" is not an appropriate default clarification behavior turn because it is not requesting anything. The conversation was redone from here. A good prompt for the category should be "Help me find one event", so that the model asks which type of events it should find.

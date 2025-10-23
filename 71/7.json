@@ -1,0 +1,51 @@
+[
+  {
+    "event_id": "L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDI1LTEwLTMxfDgwNTM2MjczMjg3NTc2MzM2MTI=",
+    "name": "STEAM+ @ WINS",
+    "link": "https://www.navajocountylibraries.org/event/steam-wins-10/",
+    "description": "--STEAM+ activities Friday afternoons--Come have fun with STEAM activities and learning @ your library in the Library Kid\\'s Room.\\n",
+    "language": "en",
+    "date_human_readable": "Fri, Oct 31, 1:30 – 3:00 PM",
+    "start_time": "2025-10-31 13:30:00",
+    "start_time_utc": "2025-10-31 13:30:00",
+    "start_time_precision_sec": 1,
+    "end_time": "2025-10-31 15:00:00",
+    "end_time_utc": "2025-10-31 15:00:00",
+    "end_time_precision_sec": 1,
+    "is_virtual": false,
+    "thumbnail": null,
+    "publisher": "Events for September 2025 – Navajo County Library District",
+    "publisher_favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.navajocountylibraries.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "publisher_domain": "www.navajocountylibraries.org",
+    "ticket_links": [
+      {
+        "source": "Events for September 2025 – Navajo County Library District",
+        "link": "https://www.navajocountylibraries.org/event/steam-wins-10/",
+        "fav_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navajocountylibraries.org&client=HORIZON&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+      }
+    ],
+    "info_links": [null],
+    "venue": {
+      "google_id": "0x872e4212506cd2f5:0x181e7d8a8b574fd",
+      "name": "Winslow Public Library",
+      "phone_number": "+19282894982",
+      "website": "https://www.winslowaz.gov/page/library",
+      "review_count": 43,
+      "rating": 4.8,
+      "subtype": "Public library",
+      "subtypes": ["Public library", "City government office"],
+      "full_address": "Winslow Public Library, 617 W 2nd St, Winslow, AZ 86047",
+      "latitude": 35.0249218,
+      "longitude": -110.7041833,
+      "district": null,
+      "street_number": "617",
+      "street": "617 W 2nd St",
+      "city": "Winslow",
+      "zipcode": "86047",
+      "state": "Arizona",
+      "country": "US",
+      "timezone": "America/Phoenix",
+      "google_mid": "/m/0j8wbzm"
+    }
+  }
+]
